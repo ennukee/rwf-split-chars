@@ -134,7 +134,7 @@ function App() {
       </div>
       <footer className="border-t border-slate-800/70 px-6 py-4">
         <p className="mx-auto max-w-7xl text-center text-xs text-slate-500">
-          Found a bug or have an idea to suggest? You can reach me on Discord at @ennukee.
+          Found a bug or have an idea to suggest? You can reach me on Discord at @ennukee. Version 1.0.0.
         </p>
       </footer>
     </div>
