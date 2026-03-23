@@ -1,6 +1,11 @@
 name: Fetch Guild Rosters
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'public/data/rosters.json'
   schedule:
     # Run every 2 hours
     - cron: '0 */2 * * *'
