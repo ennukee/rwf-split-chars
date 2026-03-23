@@ -25,6 +25,20 @@ export interface ClassStats {
   dps: number
 }
 
+export interface CraftedClassStats {
+  className: string
+  craftedCount: number
+  nonCraftedCount: number
+  total: number
+  craftedCharacters: string[]
+  nonCraftedCharacters: string[]
+}
+
+export interface CraftedRoleStats {
+  role: CharacterRole
+  classStats: CraftedClassStats[]
+}
+
 export interface RoleStats {
   role: CharacterRole
   count: number
@@ -39,6 +53,7 @@ export interface RoleStats {
 
 export function analyzeRoster(roster: GuildRosterCharacter[]): {
   classByStats: ClassStats[]
+  craftedRoleStats: CraftedRoleStats[]
   roleStats: RoleStats[]
   totalCount: number
   overallAvgIlvl: number
@@ -68,6 +83,40 @@ export function analyzeRoster(roster: GuildRosterCharacter[]): {
 
   const filteredRoster = removeBottomQuartile(roster)
 
+  const craftedWeaponNames = new Set([
+    "Aln'hara Cane",
+    "Blood Knight's Impetus",
+    "Aln'hara Pikestaff",
+    "Aln'hara Sprigshot",
+    "Magister's Valediction",
+    "Blood Knight's Warblade",
+    "Spellbreaker's Warglaive",
+    'P.O.W. x3',
+    'Bloodforged Claw',
+    "Magister's Mana Sword",
+    "Spellbreaker's Blade",
+    "Farstrider's Mercy",
+    "Farstrider's Chopper",
+  ])
+
+  const hasCraftedWeapon = (character: GuildRosterCharacter): boolean => {
+    const equippedItems = character.character.items?.items
+    const mainhandName = equippedItems?.mainhand?.name
+    const offhandName = equippedItems?.offhand?.name
+
+    const isCraftedWeaponName = (itemName: string | undefined): boolean => {
+      if (!itemName) {
+        return false
+      }
+      return craftedWeaponNames.has(itemName) || itemName.startsWith('World Tender')
+    }
+
+    return Boolean(
+      isCraftedWeaponName(mainhandName) ||
+      isCraftedWeaponName(offhandName)
+    )
+  }
+
   const getRoleBucketName = (character: GuildRosterCharacter, role: CharacterRole): string => {
     const className = character.character.class.name
     const specName = character.character.spec.name
@@ -92,6 +141,15 @@ export function analyzeRoster(roster: GuildRosterCharacter[]): {
   }
 
   const classMap = new Map<string, GuildRosterCharacter[]>()
+  const craftedRoleClassMap = new Map<
+    CharacterRole,
+    Map<string, {
+      craftedCount: number
+      nonCraftedCount: number
+      craftedCharacters: string[]
+      nonCraftedCharacters: string[]
+    }>
+  >()
   const roleMap = new Map<CharacterRole, GuildRosterCharacter[]>()
   
   // Group by class, role, and spec
@@ -108,6 +166,27 @@ export function analyzeRoster(roster: GuildRosterCharacter[]): {
       roleMap.set(role, [])
     }
     roleMap.get(role)!.push(character)
+
+    if (!craftedRoleClassMap.has(role)) {
+      craftedRoleClassMap.set(role, new Map())
+    }
+    const roleClassMap = craftedRoleClassMap.get(role)!
+    if (!roleClassMap.has(className)) {
+      roleClassMap.set(className, {
+        craftedCount: 0,
+        nonCraftedCount: 0,
+        craftedCharacters: [],
+        nonCraftedCharacters: [],
+      })
+    }
+    const classCrafted = roleClassMap.get(className)!
+    if (hasCraftedWeapon(character)) {
+      classCrafted.craftedCount += 1
+      classCrafted.craftedCharacters.push(character.character.name)
+    } else {
+      classCrafted.nonCraftedCount += 1
+      classCrafted.nonCraftedCharacters.push(character.character.name)
+    }
     
   }
 
@@ -134,6 +213,43 @@ export function analyzeRoster(roster: GuildRosterCharacter[]): {
 
   // Sort by count (descending)
   classByStats.sort((a, b) => b.count - a.count)
+
+  const craftedRoleStats: CraftedRoleStats[] = []
+  const craftedRoleOrder: CharacterRole[] = ['tank', 'healer', 'dps']
+  for (const role of craftedRoleOrder) {
+    const roleClassMap = craftedRoleClassMap.get(role)
+    const classStats: CraftedClassStats[] = []
+
+    if (roleClassMap) {
+      for (const [className, classCrafted] of roleClassMap.entries()) {
+        const craftedCharacters = [...classCrafted.craftedCharacters].sort((a, b) => a.localeCompare(b))
+        const nonCraftedCharacters = [...classCrafted.nonCraftedCharacters].sort((a, b) => a.localeCompare(b))
+
+        classStats.push({
+          className,
+          craftedCount: classCrafted.craftedCount,
+          nonCraftedCount: classCrafted.nonCraftedCount,
+          total: classCrafted.craftedCount + classCrafted.nonCraftedCount,
+          craftedCharacters,
+          nonCraftedCharacters,
+        })
+      }
+    }
+
+    classStats.sort((a, b) => {
+      const aPct = a.total > 0 ? a.craftedCount / a.total : 0
+      const bPct = b.total > 0 ? b.craftedCount / b.total : 0
+      if (bPct !== aPct) {
+        return bPct - aPct
+      }
+      if (b.craftedCount !== a.craftedCount) {
+        return b.craftedCount - a.craftedCount
+      }
+      return b.total - a.total
+    })
+
+    craftedRoleStats.push({ role, classStats })
+  }
 
   // Calculate role stats with spec breakdown
   const roleStats: RoleStats[] = []
@@ -225,6 +341,7 @@ export function analyzeRoster(roster: GuildRosterCharacter[]): {
 
   return {
     classByStats,
+    craftedRoleStats,
     roleStats,
     totalCount: filteredRoster.length,
     overallAvgIlvl: roundToOneDecimal(allIilvls.reduce((a, b) => a + b, 0) / allIilvls.length),

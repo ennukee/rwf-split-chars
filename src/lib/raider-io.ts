@@ -3,6 +3,16 @@ export type GuildRosterCharacter = {
     name: string;
     level: number;
     itemLevelEquipped: number;
+    items?: {
+      items?: {
+        mainhand?: {
+          name?: string;
+        };
+        offhand?: {
+          name?: string;
+        };
+      };
+    };
     class: {
       name: string;
     };

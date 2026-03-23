@@ -5,6 +5,7 @@ import { type GuildRosterCharacter } from './lib/raider-io'
 import { analyzeRoster } from './lib/analysis'
 import { Tabs, TabsList, TabsTrigger, TabsContent } from './components/ui/tabs'
 import { StatsOverview } from './components/StatsOverview'
+import { CraftedClassTable } from './components/CraftedClassTable'
 import { ClassBreakdownTable } from './components/ClassBreakdownTable'
 
 type RostersData = Record<string, {
@@ -123,6 +124,10 @@ function App() {
                 <StatsOverview
                   roleStats={guildAnalysis.roleStats}
                 />
+
+                <div className="rounded-xl border border-slate-700/50 bg-slate-800/30 backdrop-blur-xl p-8 hover:border-blue-500/30 transition-colors">
+                  <CraftedClassTable roleStats={guildAnalysis.craftedRoleStats} />
+                </div>
 
                 <div className="rounded-xl border border-slate-700/50 bg-slate-800/30 backdrop-blur-xl p-8 hover:border-blue-500/30 transition-colors">
                   <ClassBreakdownTable stats={guildAnalysis.classByStats} />

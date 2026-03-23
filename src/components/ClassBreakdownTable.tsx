@@ -35,7 +35,6 @@ export function ClassBreakdownTable({ stats }: ClassBreakdownTableProps) {
     <div className="space-y-4">
       <div>
         <h3 className="text-lg font-bold text-white">Class Breakdown</h3>
-        <p className="text-xs text-slate-400 mt-1">Detailed statistics for each class</p>
       </div>
       
       <div className="overflow-x-auto rounded-xl border border-slate-700/50">
