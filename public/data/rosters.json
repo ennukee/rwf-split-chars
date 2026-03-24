@@ -6685,7 +6685,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/129/225397889-avatar.jpg",
-          "itemLevelEquipped": 255,
+          "itemLevelEquipped": 256,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -6705,10 +6705,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-24T03:16:24.114Z",
-            "updated_at": "2026-03-24T03:16:24.114Z",
+            "created_at": "2026-03-24T12:28:27.925Z",
+            "updated_at": "2026-03-24T12:28:27.925Z",
             "source": "s3",
-            "item_level_equipped": 255,
+            "item_level_equipped": 256,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -6984,10 +6984,10 @@
                 "bonuses": []
               },
               "wrist": {
-                "item_id": 251200,
-                "item_level": 240,
+                "item_id": 251079,
+                "item_level": 246,
                 "icon": "inv_bracer_mail_dungeonharronir_c_01",
-                "name": "Saptorbane Guards",
+                "name": "Amberfrond Bracers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -7003,12 +7003,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12779,
+                  12785,
                   13439,
                   6652,
                   12667,
-                  12699,
-                  13577
+                  13577,
+                  12699
                 ]
               },
               "hands": {
@@ -7101,6 +7101,7 @@
               "finger1": {
                 "item_id": 193708,
                 "item_level": 250,
+                "enchant": 7965,
                 "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
                 "name": "Platinum Star Band",
                 "item_quality": 4,
@@ -7113,10 +7114,26 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
                 "bonuses": [
                   13439,
                   6652,
@@ -7355,8 +7372,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T08:55:41.367Z",
-            "updated_at": "2026-03-23T08:55:41.367Z",
+            "created_at": "2026-03-24T12:28:29.719Z",
+            "updated_at": "2026-03-24T12:28:29.719Z",
             "source": "s3",
             "item_level_equipped": 258,
             "item_level_total": 0,
@@ -7372,7 +7389,7 @@
               "head": {
                 "item_id": 249317,
                 "item_level": 263,
-                "enchant": 8015,
+                "enchant": 8017,
                 "icon": "inv_helm_mail_raidevokermidnight_d_01",
                 "name": "Frenzy's Rebuke",
                 "item_quality": 4,
@@ -7388,13 +7405,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8015
+                  8017
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244005,
-                    "name": "Enchant Helm - Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -7441,7 +7458,7 @@
               "shoulder": {
                 "item_id": 249995,
                 "item_level": 263,
-                "enchant": 7999,
+                "enchant": 8001,
                 "icon": "inv_shoulder_mail_raidevokermidnight_d_01",
                 "name": "Beacons of the Black Talon",
                 "item_quality": 4,
@@ -7458,13 +7475,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7999
+                  8001
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -7641,7 +7658,7 @@
               "legs": {
                 "item_id": 249996,
                 "item_level": 263,
-                "enchant": 7939,
+                "enchant": 7935,
                 "icon": "inv_pant_mail_raidevokermidnight_d_01",
                 "name": "Greaves of the Black Talon",
                 "item_quality": 4,
@@ -7658,13 +7675,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7939
+                  7935
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240157,
-                    "name": "24 Int",
-                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
                   }
                 ],
                 "bonuses": [
@@ -7678,6 +7695,7 @@
               "feet": {
                 "item_id": 249646,
                 "item_level": 250,
+                "enchant": 7963,
                 "icon": "inv_boot_mail_dungeonharronir_c_01",
                 "name": "Elder Mossclogs",
                 "item_quality": 4,
@@ -7692,8 +7710,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12786,
                   6652,
@@ -7703,7 +7729,7 @@
               "finger1": {
                 "item_id": 193708,
                 "item_level": 263,
-                "enchant": 7995,
+                "enchant": 7997,
                 "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
                 "name": "Platinum Star Band",
                 "item_quality": 4,
@@ -7727,13 +7753,13 @@
                   }
                 ],
                 "enchants": [
-                  7995
+                  7997
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243985,
-                    "name": "Enchant Ring - Nature's Wrath",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -7747,7 +7773,7 @@
               "finger2": {
                 "item_id": 249336,
                 "item_level": 263,
-                "enchant": 7995,
+                "enchant": 7997,
                 "icon": "inv_12_jewelry_devouringhost_ring_silver2",
                 "name": "Signet of the Starved Beast",
                 "item_quality": 4,
@@ -7771,13 +7797,13 @@
                   }
                 ],
                 "enchants": [
-                  7995
+                  7997
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243985,
-                    "name": "Enchant Ring - Nature's Wrath",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -11058,8 +11084,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-24T03:16:25.604Z",
-            "updated_at": "2026-03-24T03:16:25.604Z",
+            "created_at": "2026-03-24T12:28:28.719Z",
+            "updated_at": "2026-03-24T12:28:28.719Z",
             "source": "s3",
             "item_level_equipped": 255,
             "item_level_total": 0,
@@ -11075,6 +11101,7 @@
               "head": {
                 "item_id": 249988,
                 "item_level": 253,
+                "enchant": 7961,
                 "icon": "inv_helm_mail_raidhuntermidnight_d_01",
                 "name": "Primal Sentry's Maw",
                 "item_quality": 4,
@@ -11136,8 +11163,16 @@
                 "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7961
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243951,
+                    "name": "Enchant Helm - Empowered Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12787,
                   13333,
@@ -11183,6 +11218,7 @@
               "shoulder": {
                 "item_id": 193704,
                 "item_level": 250,
+                "enchant": 8031,
                 "icon": "inv_mail_dragondungeon_c_01_shoulder",
                 "name": "Scaled Commencement Spaulders",
                 "item_quality": 4,
@@ -11197,8 +11233,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8031
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244021,
+                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   13439,
                   6652,
@@ -11447,6 +11491,7 @@
               "feet": {
                 "item_id": 249320,
                 "item_level": 259,
+                "enchant": 7993,
                 "icon": "inv_boot_mail_raidevokermidnight_d_01",
                 "name": "Sabatons of Obscurement",
                 "item_quality": 4,
@@ -11461,8 +11506,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13577,
@@ -11719,8 +11772,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T05:45:42.612Z",
-            "updated_at": "2026-03-23T05:45:42.612Z",
+            "created_at": "2026-03-24T12:28:29.000Z",
+            "updated_at": "2026-03-24T12:28:29.000Z",
             "source": "s3",
             "item_level_equipped": 258,
             "item_level_total": 0,
@@ -11803,7 +11856,7 @@
               "shoulder": {
                 "item_id": 249318,
                 "item_level": 266,
-                "enchant": 7999,
+                "enchant": 8001,
                 "icon": "inv_shoulder_mail_raidevokermidnight_d_01",
                 "name": "Nullwalker's Dread Epaulettes",
                 "item_quality": 4,
@@ -11819,13 +11872,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7999
+                  8001
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -20489,14 +20542,14 @@
             "slug": "evoker"
           },
           "spec": {
-            "id": 1467,
-            "name": "Devastation",
-            "slug": "devastation",
+            "id": 1468,
+            "name": "Preservation",
+            "slug": "preservation",
             "class_id": 13,
-            "role": "dps",
+            "role": "healer",
             "is_melee": false,
             "patch": "10.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "talents": "",
           "talentsDetails": [],
@@ -20522,8 +20575,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-24T03:16:28.619Z",
-            "updated_at": "2026-03-24T03:16:28.619Z",
+            "created_at": "2026-03-24T12:28:32.527Z",
+            "updated_at": "2026-03-24T12:28:32.527Z",
             "source": "s3",
             "item_level_equipped": 257,
             "item_level_total": 0,
@@ -20826,10 +20879,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 251079,
-                "item_level": 250,
-                "icon": "inv_bracer_mail_dungeonharronir_c_01",
-                "name": "Amberfrond Bracers",
+                "item_id": 244568,
+                "item_level": 246,
+                "icon": "inv_bracer_mail_questbloodelf_b_01",
+                "name": "Thalassian Competitor's Chain Cuffs",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -20840,17 +20893,27 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
-                  6652,
-                  12667,
-                  12699,
-                  13577,
-                  12782
+                  12245,
+                  13576,
+                  12497,
+                  13571,
+                  13448,
+                  8960,
+                  12384,
+                  8793
                 ]
               },
               "hands": {
@@ -21034,31 +21097,6 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249343,
-                "item_level": 266,
-                "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
-                "name": "Gaze of the Alnseer",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13334,
-                  12795
-                ]
-              },
-              "trinket2": {
                 "item_id": 249809,
                 "item_level": 269,
                 "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
@@ -21081,6 +21119,31 @@
                   6652,
                   13334,
                   12796
+                ]
+              },
+              "trinket2": {
+                "item_id": 249343,
+                "item_level": 266,
+                "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
+                "name": "Gaze of the Alnseer",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12795
                 ]
               },
               "mainhand": {
@@ -23016,6 +23079,631 @@
       },
       {
         "character": {
+          "name": "Meowxz",
+          "level": 90,
+          "race": {
+            "id": 6,
+            "name": "Tauren",
+            "slug": "tauren",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 11,
+            "name": "Druid",
+            "slug": "druid"
+          },
+          "spec": {
+            "id": 104,
+            "name": "Guardian",
+            "slug": "guardian",
+            "class_id": 11,
+            "role": "tank",
+            "is_melee": true,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "male",
+          "thumbnail": "illidan/10/221643786-avatar.jpg",
+          "itemLevelEquipped": 254,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-03-24T12:28:25.709Z",
+            "updated_at": "2026-03-24T12:28:25.709Z",
+            "source": "s3",
+            "item_level_equipped": 254,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250024,
+                "item_level": 253,
+                "enchant": 8015,
+                "icon": "inv_helm_leather_raiddruidmidnight_d_01",
+                "name": "Branches of the Luminous Bloom",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8015
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244005,
+                    "name": "Enchant Helm - Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12787,
+                  13333,
+                  13338,
+                  6652,
+                  12667,
+                  13575
+                ]
+              },
+              "neck": {
+                "item_id": 265739,
+                "item_level": 250,
+                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
+                "name": "Amani Heartstring Pendant",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240914
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240914,
+                    "name": "16 Vers & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_blue"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12786
+                ]
+              },
+              "shoulder": {
+                "item_id": 250022,
+                "item_level": 250,
+                "enchant": 7999,
+                "icon": "inv_shoulder_leather_raiddruidmidnight_d_01",
+                "name": "Seedpods of the Luminous Bloom",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7999
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243989,
+                    "name": "Enchant Shoulders - Nature's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12786,
+                  13333,
+                  13340,
+                  6652,
+                  13574
+                ]
+              },
+              "back": {
+                "item_id": 257175,
+                "item_level": 250,
+                "icon": "inv_cape_plate_outdoorvoidelf_c_01",
+                "name": "Voidbreaker's Wrap",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  12786
+                ]
+              },
+              "chest": {
+                "item_id": 250027,
+                "item_level": 250,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raiddruidmidnight_d_01",
+                "name": "Trunk of the Luminous Bloom",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12786,
+                  13333,
+                  13336,
+                  41,
+                  13575
+                ]
+              },
+              "waist": {
+                "item_id": 249643,
+                "item_level": 250,
+                "icon": "inv_belt_leather_dungeonharronir_c_01",
+                "name": "Osseoclad Waistbone",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12786,
+                  6652,
+                  12667,
+                  13577
+                ]
+              },
+              "wrist": {
+                "item_id": 249644,
+                "item_level": 250,
+                "icon": "inv_bracer_leather_dungeonharronir_c_01",
+                "name": "Osseoclad Ivory Wrist",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12786,
+                  6652,
+                  12667,
+                  13577
+                ]
+              },
+              "hands": {
+                "item_id": 250025,
+                "item_level": 263,
+                "icon": "inv_glove_leather_raiddruidmidnight_d_01",
+                "name": "Arbortenders of the Luminous Bloom",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12794,
+                  13334,
+                  13337,
+                  6652,
+                  13574
+                ]
+              },
+              "legs": {
+                "item_id": 249312,
+                "item_level": 269,
+                "enchant": 8159,
+                "icon": "inv_pant_leather_raidroguemidnight_d_01",
+                "name": "Nightblade's Pantaloons",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13334,
+                  12796
+                ]
+              },
+              "feet": {
+                "item_id": 249382,
+                "item_level": 269,
+                "icon": "inv_boot_leather_raiddruidmidnight_d_01",
+                "name": "Canopy Walker's Footwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13334,
+                  12796
+                ]
+              },
+              "finger1": {
+                "item_id": 240947,
+                "item_level": 246,
+                "enchant": 8021,
+                "icon": "inv_12_profession_jewelcrafting_ring2_gold",
+                "name": "Gleaming Copper Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240894
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240894,
+                    "name": "16 Haste & 7 Vers",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_frost_green"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12249,
+                  12248,
+                  4785,
+                  12497,
+                  13453,
+                  8960,
+                  8792,
+                  13620
+                ]
+              },
+              "finger2": {
+                "item_id": 251148,
+                "item_level": 240,
+                "enchant": 8021,
+                "icon": "inv_12_jewelry_zulaman_troll_ring_green2",
+                "name": "Pilfered Precious Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12779,
+                  13439,
+                  6652,
+                  13668,
+                  12699
+                ]
+              },
+              "trinket1": {
+                "item_id": 251791,
+                "item_level": 250,
+                "icon": "inv_12_trinket_holy_retributors_order",
+                "name": "Holy Retributor's Order",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12786,
+                  6652
+                ]
+              },
+              "trinket2": {
+                "item_id": 249345,
+                "item_level": 256,
+                "icon": "inv_12_trinket_raid_voidspire_agidps_rangercaptainsinsignia",
+                "name": "Ranger-Captain's Iridescent Insignia",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13333,
+                  12788
+                ]
+              },
+              "mainhand": {
+                "item_id": 249302,
+                "item_level": 263,
+                "enchant": 8039,
+                "icon": "inv_polearm_2h_raidmidnight_d_01",
+                "name": "Inescapable Reach",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12794
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 6,
+            "heroic": 7,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 4,
+        "stream": null
+      },
+      {
+        "character": {
           "name": "Yipm",
           "level": 90,
           "race": {
@@ -23674,14 +24362,14 @@
             "slug": "paladin"
           },
           "spec": {
-            "id": 66,
-            "name": "Protection",
-            "slug": "protection",
+            "id": 65,
+            "name": "Holy",
+            "slug": "holy",
             "class_id": 2,
-            "role": "tank",
-            "is_melee": true,
+            "role": "healer",
+            "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
@@ -30625,6 +31313,640 @@
       },
       {
         "character": {
+          "name": "Onskibidi",
+          "level": 90,
+          "race": {
+            "id": 8,
+            "name": "Troll",
+            "slug": "troll",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 11,
+            "name": "Druid",
+            "slug": "druid"
+          },
+          "spec": {
+            "id": 102,
+            "name": "Balance",
+            "slug": "balance",
+            "class_id": 11,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/144/231418768-avatar.jpg",
+          "itemLevelEquipped": 254,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-03-24T12:28:30.373Z",
+            "updated_at": "2026-03-24T12:28:30.373Z",
+            "source": "s3",
+            "item_level_equipped": 254,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250024,
+                "item_level": 266,
+                "enchant": 8015,
+                "icon": "inv_helm_leather_raiddruidmidnight_d_01",
+                "name": "Branches of the Luminous Bloom",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8015
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244005,
+                    "name": "Enchant Helm - Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12795,
+                  13334,
+                  13338,
+                  6652,
+                  12667,
+                  13575
+                ]
+              },
+              "neck": {
+                "item_id": 265740,
+                "item_level": 263,
+                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple1",
+                "name": "Amani Totemstring",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12790
+                ]
+              },
+              "shoulder": {
+                "item_id": 250022,
+                "item_level": 263,
+                "enchant": 7999,
+                "icon": "inv_shoulder_leather_raiddruidmidnight_d_01",
+                "name": "Seedpods of the Luminous Bloom",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7999
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243989,
+                    "name": "Enchant Shoulders - Nature's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13333,
+                  13340,
+                  6652,
+                  13574,
+                  12790
+                ]
+              },
+              "back": {
+                "item_id": 257175,
+                "item_level": 246,
+                "icon": "inv_cape_plate_outdoorvoidelf_c_01",
+                "name": "Voidbreaker's Wrap",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12785,
+                  6652,
+                  13577
+                ]
+              },
+              "chest": {
+                "item_id": 250027,
+                "item_level": 263,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raiddruidmidnight_d_01",
+                "name": "Trunk of the Luminous Bloom",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12794,
+                  13334,
+                  13336,
+                  6652,
+                  13575
+                ]
+              },
+              "waist": {
+                "item_id": 263267,
+                "item_level": 256,
+                "icon": "inv_belt_leather_dungeonharronir_c_01",
+                "name": "Hara'ti Defender's Cord",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13577,
+                  12788
+                ]
+              },
+              "wrist": {
+                "item_id": 251183,
+                "item_level": 240,
+                "icon": "inv_bracer_leather_dungeonharronir_c_01",
+                "name": "Rootwarden Wraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12779,
+                  13439,
+                  6652,
+                  13534,
+                  12699,
+                  13577
+                ]
+              },
+              "hands": {
+                "item_id": 259927,
+                "item_level": 246,
+                "icon": "inv_glove_leather_outdoorvoidelf_c_01",
+                "name": "Preyseeker's Sleek Gauntlets",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  12781
+                ]
+              },
+              "legs": {
+                "item_id": 244594,
+                "item_level": 246,
+                "enchant": 7939,
+                "icon": "inv_pant_leather_questbloodelf_b_01",
+                "name": "Smuggler's Reinforced Pants",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7939
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240157,
+                    "name": "24 Int",
+                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  12247,
+                  12246,
+                  12497,
+                  8960,
+                  12384,
+                  8793,
+                  13620
+                ]
+              },
+              "feet": {
+                "item_id": 251153,
+                "item_level": 250,
+                "icon": "inv_boot_leather_dungeonharronir_c_01",
+                "name": "Arctic Explorer's Legwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  13577,
+                  12782
+                ]
+              },
+              "finger1": {
+                "item_id": 251194,
+                "item_level": 250,
+                "enchant": 7965,
+                "icon": "inv12_jewelrytrinkets_rutaani_ring_yellow",
+                "name": "Lightwarden's Bind",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13668,
+                  12699,
+                  12782
+                ]
+              },
+              "finger2": {
+                "item_id": 251093,
+                "item_level": 250,
+                "enchant": 7965,
+                "icon": "inv_12_trinket_devouring_host_currency1_silver",
+                "name": "Omission of Light",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13668,
+                  12699,
+                  12782
+                ]
+              },
+              "trinket1": {
+                "item_id": 250256,
+                "item_level": 246,
+                "icon": "inv_10_jewelcrafting3_soulcage_air",
+                "name": "Heart of Wind",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  12781
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 245770,
+                "item_level": 259,
+                "enchant": 8039,
+                "icon": "inv_staff_2h_dungeonharronir_c_02",
+                "name": "Aln'hara Cane",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8793
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 6,
+            "heroic": 7,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 4,
+        "stream": null
+      },
+      {
+        "character": {
           "name": "Drenacoxd",
           "level": 90,
           "race": {
@@ -34495,7 +35817,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/223/233281503-avatar.jpg",
-          "itemLevelEquipped": 256,
+          "itemLevelEquipped": 258,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -34515,10 +35837,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T03:12:19.968Z",
-            "updated_at": "2026-03-23T03:12:19.968Z",
+            "created_at": "2026-03-24T12:28:35.304Z",
+            "updated_at": "2026-03-24T12:28:35.304Z",
             "source": "s3",
-            "item_level_equipped": 256,
+            "item_level_equipped": 258,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -34532,6 +35854,7 @@
               "head": {
                 "item_id": 249317,
                 "item_level": 263,
+                "enchant": 8015,
                 "icon": "inv_helm_mail_raidevokermidnight_d_01",
                 "name": "Frenzy's Rebuke",
                 "item_quality": 4,
@@ -34554,8 +35877,16 @@
                     "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
                   }
                 ],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8015
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244005,
+                    "name": "Enchant Helm - Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13534,
@@ -34599,7 +35930,8 @@
               },
               "shoulder": {
                 "item_id": 249995,
-                "item_level": 253,
+                "item_level": 263,
+                "enchant": 7999,
                 "icon": "inv_shoulder_mail_raidevokermidnight_d_01",
                 "name": "Beacons of the Black Talon",
                 "item_quality": 4,
@@ -34615,19 +35947,27 @@
                 "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7999
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243989,
+                    "name": "Enchant Shoulders - Nature's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
                 "bonuses": [
                   13333,
                   13340,
                   6652,
                   13574,
-                  12787
+                  12790
                 ]
               },
               "back": {
                 "item_id": 257174,
-                "item_level": 250,
+                "item_level": 263,
                 "icon": "inv_cape_mail_outdoorvoidelf_c_01",
                 "name": "Voidbreaker's Mantle",
                 "item_quality": 4,
@@ -34647,7 +35987,7 @@
                 "bonuses": [
                   6652,
                   13577,
-                  12786
+                  12790
                 ]
               },
               "chest": {
@@ -34689,35 +36029,9 @@
               },
               "waist": {
                 "item_id": 249651,
-                "item_level": 259,
+                "item_level": 263,
                 "icon": "inv_belt_mail_dungeonharronir_c_01",
                 "name": "Elder Mosscinch",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12793,
-                  6652,
-                  12667,
-                  13577
-                ]
-              },
-              "wrist": {
-                "item_id": 249304,
-                "item_level": 250,
-                "icon": "inv_bracer_mail_raidshamanmidnight_d_01",
-                "name": "Fallen King's Cuffs",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -34736,8 +36050,33 @@
                   6652,
                   12667,
                   13577,
-                  13333,
-                  12786
+                  12794
+                ]
+              },
+              "wrist": {
+                "item_id": 249652,
+                "item_level": 250,
+                "icon": "inv_bracer_mail_dungeonharronir_c_01",
+                "name": "Elder Mossbands",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12786,
+                  6652,
+                  12667,
+                  13577
                 ]
               },
               "hands": {
@@ -34771,7 +36110,8 @@
               },
               "legs": {
                 "item_id": 249996,
-                "item_level": 253,
+                "item_level": 263,
+                "enchant": 7939,
                 "icon": "inv_pant_mail_raidevokermidnight_d_01",
                 "name": "Greaves of the Black Talon",
                 "item_quality": 4,
@@ -34787,14 +36127,22 @@
                 "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7939
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240157,
+                    "name": "24 Int",
+                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                  }
+                ],
                 "bonuses": [
-                  12787,
                   13333,
                   13339,
                   6652,
-                  13575
+                  13575,
+                  12790
                 ]
               },
               "feet": {
@@ -40106,8 +41454,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T08:55:47.127Z",
-            "updated_at": "2026-03-23T08:55:47.127Z",
+            "created_at": "2026-03-24T12:28:36.281Z",
+            "updated_at": "2026-03-24T12:28:36.281Z",
             "source": "s3",
             "item_level_equipped": 255,
             "item_level_total": 0,
@@ -40123,7 +41471,7 @@
               "head": {
                 "item_id": 250015,
                 "item_level": 263,
-                "enchant": 7959,
+                "enchant": 7961,
                 "icon": "inv_helm_leather_raidmonkmidnight_d_01",
                 "name": "Fearsome Visage of Ra-den's Chosen",
                 "item_quality": 4,
@@ -40140,13 +41488,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7959
+                  7961
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243949,
-                    "name": "Enchant Helm - Hex of Leeching",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243951,
+                    "name": "Enchant Helm - Empowered Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -40193,7 +41541,7 @@
               "shoulder": {
                 "item_id": 249333,
                 "item_level": 256,
-                "enchant": 8029,
+                "enchant": 8031,
                 "icon": "inv_shoulder_leather_raiddruidmidnight_d_01",
                 "name": "Blooming Barklight Spaulders",
                 "item_quality": 4,
@@ -40209,13 +41557,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8029
+                  8031
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244019,
-                    "name": "Enchant Shoulders - Thalassian Recovery",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244021,
+                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -40383,7 +41731,7 @@
               "legs": {
                 "item_id": 250014,
                 "item_level": 269,
-                "enchant": 7939,
+                "enchant": 7935,
                 "icon": "inv_pant_leather_raidmonkmidnight_d_01",
                 "name": "Swiftsweepers of Ra-den's Chosen",
                 "item_quality": 4,
@@ -40400,13 +41748,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7939
+                  7935
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240157,
-                    "name": "24 Int",
-                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
                   }
                 ],
                 "bonuses": [
@@ -40418,10 +41766,10 @@
                 ]
               },
               "feet": {
-                "item_id": 251210,
-                "item_level": 250,
+                "item_id": 249638,
+                "item_level": 259,
                 "icon": "inv_boot_leather_dungeonharronir_c_01",
-                "name": "Eclipse Espadrilles",
+                "name": "Osseoclad Bonecrushers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -40437,17 +41785,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
+                  12793,
                   6652,
-                  12699,
-                  13577,
-                  12782
+                  13577
                 ]
               },
               "finger1": {
                 "item_id": 240947,
                 "item_level": 246,
-                "enchant": 8021,
+                "enchant": 8025,
                 "icon": "inv_12_profession_jewelcrafting_ring2_gold",
                 "name": "Gleaming Copper Band",
                 "item_quality": 4,
@@ -40461,23 +41807,23 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240890
+                  240983
                 ],
                 "gems_detail": [
                   {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
                   }
                 ],
                 "enchants": [
-                  8021
+                  8025
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -40586,7 +41932,7 @@
               "mainhand": {
                 "item_id": 245770,
                 "item_level": 259,
-                "enchant": 7983,
+                "enchant": 8039,
                 "icon": "inv_staff_2h_dungeonharronir_c_02",
                 "name": "Aln'hara Cane",
                 "item_quality": 4,
@@ -40602,12 +41948,12 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7983
+                  8039
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243973,
-                    "name": "Enchant Weapon - Berserker's Rage",
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
                   }
                 ],
@@ -40700,8 +42046,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-24T03:16:37.320Z",
-            "updated_at": "2026-03-24T03:16:37.320Z",
+            "created_at": "2026-03-24T12:28:30.676Z",
+            "updated_at": "2026-03-24T12:28:30.676Z",
             "source": "s3",
             "item_level_equipped": 257,
             "item_level_total": 0,
@@ -40717,7 +42063,7 @@
               "head": {
                 "item_id": 249997,
                 "item_level": 253,
-                "enchant": 8015,
+                "enchant": 8017,
                 "icon": "inv_helm_mail_raidevokermidnight_d_01",
                 "name": "Hornhelm of the Black Talon",
                 "item_quality": 4,
@@ -40780,13 +42126,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8015
+                  8017
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244005,
-                    "name": "Enchant Helm - Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -40835,7 +42181,7 @@
               "shoulder": {
                 "item_id": 249995,
                 "item_level": 250,
-                "enchant": 7999,
+                "enchant": 8001,
                 "icon": "inv_shoulder_mail_raidevokermidnight_d_01",
                 "name": "Beacons of the Black Talon",
                 "item_quality": 4,
@@ -40852,13 +42198,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7999
+                  8001
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -41021,7 +42367,7 @@
               "legs": {
                 "item_id": 249996,
                 "item_level": 266,
-                "enchant": 7939,
+                "enchant": 7935,
                 "icon": "inv_pant_mail_raidevokermidnight_d_01",
                 "name": "Greaves of the Black Talon",
                 "item_quality": 4,
@@ -41038,13 +42384,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7939
+                  7935
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240157,
-                    "name": "24 Int",
-                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
                   }
                 ],
                 "bonuses": [
@@ -41058,6 +42404,7 @@
               "feet": {
                 "item_id": 249320,
                 "item_level": 259,
+                "enchant": 7963,
                 "icon": "inv_boot_mail_raidevokermidnight_d_01",
                 "name": "Sabatons of Obscurement",
                 "item_quality": 4,
@@ -41072,8 +42419,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13577,
@@ -41084,7 +42439,7 @@
               "finger1": {
                 "item_id": 251217,
                 "item_level": 250,
-                "enchant": 7995,
+                "enchant": 7997,
                 "icon": "inv_12_trinket_devouring_host_currency1_bronze",
                 "name": "Occlusion of Void",
                 "item_quality": 4,
@@ -41108,13 +42463,13 @@
                   }
                 ],
                 "enchants": [
-                  7995
+                  7997
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243985,
-                    "name": "Enchant Ring - Nature's Wrath",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -41128,7 +42483,7 @@
               "finger2": {
                 "item_id": 251093,
                 "item_level": 250,
-                "enchant": 7995,
+                "enchant": 7997,
                 "icon": "inv_12_trinket_devouring_host_currency1_silver",
                 "name": "Omission of Light",
                 "item_quality": 4,
@@ -41152,13 +42507,13 @@
                   }
                 ],
                 "enchants": [
-                  7995
+                  7997
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243985,
-                    "name": "Enchant Ring - Nature's Wrath",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -44345,8 +45700,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T03:45:39.324Z",
-            "updated_at": "2026-03-23T03:45:39.324Z",
+            "created_at": "2026-03-24T12:28:28.235Z",
+            "updated_at": "2026-03-24T12:28:28.235Z",
             "source": "s3",
             "item_level_equipped": 255,
             "item_level_total": 0,
@@ -44556,10 +45911,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 249304,
-                "item_level": 250,
-                "icon": "inv_bracer_mail_raidshamanmidnight_d_01",
-                "name": "Fallen King's Cuffs",
+                "item_id": 244568,
+                "item_level": 246,
+                "icon": "inv_bracer_mail_questbloodelf_b_01",
+                "name": "Thalassian Competitor's Chain Cuffs",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -44575,11 +45930,14 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  12667,
-                  13577,
-                  13333,
-                  12786
+                  12245,
+                  13554,
+                  12497,
+                  13571,
+                  13448,
+                  8960,
+                  12384,
+                  8791
                 ]
               },
               "hands": {
@@ -44789,10 +46147,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 249809,
+                "item_id": 264507,
                 "item_level": 259,
-                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
-                "name": "Locus-Walker's Ribbon",
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -44808,8 +46166,6 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13333,
                   12789
                 ]
               },
@@ -44928,8 +46284,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T08:55:48.724Z",
-            "updated_at": "2026-03-23T08:55:48.724Z",
+            "created_at": "2026-03-24T12:28:37.890Z",
+            "updated_at": "2026-03-24T12:28:37.890Z",
             "source": "s3",
             "item_level_equipped": 258,
             "item_level_total": 0,
@@ -45184,10 +46540,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 251200,
-                "item_level": 243,
-                "icon": "inv_bracer_mail_dungeonharronir_c_01",
-                "name": "Saptorbane Guards",
+                "item_id": 244568,
+                "item_level": 246,
+                "icon": "inv_bracer_mail_questbloodelf_b_01",
+                "name": "Thalassian Competitor's Chain Cuffs",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -45198,17 +46554,27 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
-                  6652,
-                  12667,
-                  12699,
-                  13577,
-                  12780
+                  12245,
+                  13576,
+                  12497,
+                  13571,
+                  13448,
+                  8960,
+                  12384,
+                  8791
                 ]
               },
               "hands": {
@@ -63337,8 +64703,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T20:59:27.507Z",
-            "updated_at": "2026-03-23T20:59:27.507Z",
+            "created_at": "2026-03-24T12:28:32.213Z",
+            "updated_at": "2026-03-24T12:28:32.213Z",
             "source": "s3",
             "item_level_equipped": 256,
             "item_level_total": 0,
@@ -63354,7 +64720,7 @@
               "head": {
                 "item_id": 250042,
                 "item_level": 266,
-                "enchant": 8015,
+                "enchant": 8017,
                 "icon": "inv_helm_cloth_raidwarlockmidnight_d_01",
                 "name": "Abyssal Immolator's Smoldering Flames",
                 "item_quality": 4,
@@ -63417,13 +64783,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8015
+                  8017
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244005,
-                    "name": "Enchant Helm - Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -63471,7 +64837,7 @@
               "shoulder": {
                 "item_id": 250040,
                 "item_level": 250,
-                "enchant": 7999,
+                "enchant": 8001,
                 "icon": "inv_shoulder_cloth_raidwarlockmidnight_d_01",
                 "name": "Abyssal Immolator's Fury",
                 "item_quality": 4,
@@ -63488,13 +64854,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7999
+                  8001
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -63649,7 +65015,7 @@
               "legs": {
                 "item_id": 249323,
                 "item_level": 259,
-                "enchant": 7939,
+                "enchant": 7935,
                 "icon": "inv_pant_cloth_raidmagemidnight_d_01",
                 "name": "Leggings of the Devouring Advance",
                 "item_quality": 4,
@@ -63665,13 +65031,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7939
+                  7935
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240157,
-                    "name": "24 Int",
-                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
                   }
                 ],
                 "bonuses": [
@@ -63684,6 +65050,7 @@
               "feet": {
                 "item_id": 249305,
                 "item_level": 266,
+                "enchant": 7963,
                 "icon": "inv_boot_cloth_raidwarlockmidnight_d_01",
                 "name": "Slippers of the Midnight Flame",
                 "item_quality": 4,
@@ -63698,8 +65065,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13577,
@@ -63710,7 +65085,7 @@
               "finger1": {
                 "item_id": 251093,
                 "item_level": 250,
-                "enchant": 8021,
+                "enchant": 7997,
                 "icon": "inv_12_trinket_devouring_host_currency1_silver",
                 "name": "Omission of Light",
                 "item_quality": 4,
@@ -63734,13 +65109,13 @@
                   }
                 ],
                 "enchants": [
-                  8021
+                  7997
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -63754,7 +65129,7 @@
               "finger2": {
                 "item_id": 251136,
                 "item_level": 250,
-                "enchant": 8021,
+                "enchant": 7997,
                 "icon": "inv_12_jewelry_voidelf_ring_teal",
                 "name": "Signet of Snarling Servitude",
                 "item_quality": 4,
@@ -63778,13 +65153,13 @@
                   }
                 ],
                 "enchants": [
-                  8021
+                  7997
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -72264,14 +73639,14 @@
             "slug": "demon-hunter"
           },
           "spec": {
-            "id": 577,
-            "name": "Havoc",
-            "slug": "havoc",
+            "id": 1480,
+            "name": "Devourer",
+            "slug": "devourer",
             "class_id": 12,
             "role": "dps",
-            "is_melee": true,
-            "patch": "7.0.0",
-            "ordinal": 0
+            "is_melee": false,
+            "patch": "12.0.0",
+            "ordinal": 2
           },
           "talents": "",
           "talentsDetails": [],
@@ -72297,8 +73672,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-24T00:06:37.681Z",
-            "updated_at": "2026-03-24T00:06:37.681Z",
+            "created_at": "2026-03-24T12:28:45.037Z",
+            "updated_at": "2026-03-24T12:28:45.037Z",
             "source": "s3",
             "item_level_equipped": 258,
             "item_level_total": 0,
@@ -72314,7 +73689,7 @@
               "head": {
                 "item_id": 249640,
                 "item_level": 259,
-                "enchant": 7959,
+                "enchant": 8017,
                 "icon": "inv_helm_leather_dungeonharronir_c_01",
                 "name": "Osseoclad Saberteeth",
                 "item_quality": 4,
@@ -72338,13 +73713,13 @@
                   }
                 ],
                 "enchants": [
-                  7959
+                  8017
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243949,
-                    "name": "Enchant Helm - Hex of Leeching",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -72391,7 +73766,7 @@
               "shoulder": {
                 "item_id": 250031,
                 "item_level": 266,
-                "enchant": 7999,
+                "enchant": 8001,
                 "icon": "inv_shoulder_leather_raiddemonhuntermidnight_d_01",
                 "name": "Devouring Reaver's Exhaustplates",
                 "item_quality": 4,
@@ -72408,13 +73783,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7999
+                  8001
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -72573,7 +73948,7 @@
               "legs": {
                 "item_id": 250032,
                 "item_level": 266,
-                "enchant": 7939,
+                "enchant": 7935,
                 "icon": "inv_pant_leather_raiddemonhuntermidnight_d_01",
                 "name": "Devouring Reaver's Pistons",
                 "item_quality": 4,
@@ -72590,13 +73965,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7939
+                  7935
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240157,
-                    "name": "24 Int",
-                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
                   }
                 ],
                 "bonuses": [
@@ -72610,6 +73985,7 @@
               "feet": {
                 "item_id": 249382,
                 "item_level": 259,
+                "enchant": 7963,
                 "icon": "inv_boot_leather_raiddruidmidnight_d_01",
                 "name": "Canopy Walker's Footwraps",
                 "item_quality": 4,
@@ -72624,8 +74000,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13577,
@@ -72634,55 +74018,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 193708,
-                "item_level": 250,
-                "enchant": 7995,
-                "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
-                "name": "Platinum Star Band",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240908
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
-                  }
-                ],
-                "enchants": [
-                  7995
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243985,
-                    "name": "Enchant Ring - Nature's Wrath",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  13439,
-                  6652,
-                  13668,
-                  12699,
-                  12786
-                ]
-              },
-              "finger2": {
-                "item_id": 251136,
+                "item_id": 251093,
                 "item_level": 250,
                 "enchant": 7965,
-                "icon": "inv_12_jewelry_voidelf_ring_teal",
-                "name": "Signet of Snarling Servitude",
+                "icon": "inv_12_trinket_devouring_host_currency1_silver",
+                "name": "Omission of Light",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -72718,14 +74058,58 @@
                   6652,
                   13668,
                   12699,
-                  12782
+                  12786
+                ]
+              },
+              "finger2": {
+                "item_id": 251115,
+                "item_level": 250,
+                "enchant": 7965,
+                "icon": "inv_12_trinket_devouring_host_currency2_void",
+                "name": "Bifurcation Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13668,
+                  12699,
+                  12786
                 ]
               },
               "trinket1": {
-                "item_id": 193701,
-                "item_level": 263,
-                "icon": "inv_misc_enggizmos_18",
-                "name": "Algeth'ar Puzzle Box",
+                "item_id": 249346,
+                "item_level": 266,
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -72741,10 +74125,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
                   6652,
-                  12699,
-                  12790
+                  13334,
+                  12795
                 ]
               },
               "trinket2": {
@@ -72773,11 +74156,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 260423,
-                "item_level": 269,
-                "enchant": 8039,
+                "item_id": 249294,
+                "item_level": 266,
+                "enchant": 8041,
                 "icon": "inv_sword_1h_raidmidnight_d_01",
-                "name": "Arator's Swift Remembrance",
+                "name": "Blade of the Blind Verdict",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -72791,19 +74174,19 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8039
+                  8041
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244029,
-                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "id": 244031,
+                    "name": "Enchant Weapon - Arcane Mast",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
                   }
                 ],
                 "bonuses": [
-                  40,
+                  6652,
                   13334,
-                  12796
+                  12795
                 ]
               },
               "offhand": {
@@ -73537,8 +74920,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-24T03:16:47.401Z",
-            "updated_at": "2026-03-24T03:16:47.401Z",
+            "created_at": "2026-03-24T12:28:41.980Z",
+            "updated_at": "2026-03-24T12:28:41.980Z",
             "source": "s3",
             "item_level_equipped": 255,
             "item_level_total": 0,
@@ -73978,11 +75361,11 @@
               },
               "finger2": {
                 "item_id": 256985,
-                "item_level": 240,
+                "item_level": 237,
                 "enchant": 8021,
                 "icon": "inv_ring_revendreth_01_silver",
                 "name": "Forest Hunter's Hoop",
-                "item_quality": 4,
+                "item_quality": 3,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -74015,14 +75398,14 @@
                 "bonuses": [
                   6652,
                   13668,
-                  12779
+                  12774
                 ]
               },
               "trinket1": {
-                "item_id": 250215,
-                "item_level": 250,
-                "icon": "inv_alchemy_90_flask_red",
-                "name": "Freightrunner's Flask",
+                "item_id": 249339,
+                "item_level": 253,
+                "icon": "inv_12_trinket_raid_voidspire_tank1_smolderinggloomscale",
+                "name": "Gloom-Spattered Dreadscale",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -74038,10 +75421,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
                   6652,
-                  12699,
-                  12782
+                  13333,
+                  12787
                 ]
               },
               "trinket2": {
@@ -74151,14 +75533,14 @@
             "slug": "druid"
           },
           "spec": {
-            "id": 104,
-            "name": "Guardian",
-            "slug": "guardian",
+            "id": 103,
+            "name": "Feral",
+            "slug": "feral",
             "class_id": 11,
-            "role": "tank",
+            "role": "dps",
             "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 1
           },
           "talents": "",
           "talentsDetails": [],
@@ -74782,7 +76164,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/91/233981531-avatar.jpg",
-          "itemLevelEquipped": 256,
+          "itemLevelEquipped": 261,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -74802,10 +76184,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-20T22:20:31.162Z",
-            "updated_at": "2026-03-20T22:20:31.162Z",
+            "created_at": "2026-03-24T12:28:36.143Z",
+            "updated_at": "2026-03-24T12:28:36.143Z",
             "source": "s3",
-            "item_level_equipped": 256,
+            "item_level_equipped": 261,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -74901,10 +76283,10 @@
                 ]
               },
               "neck": {
-                "item_id": 251173,
-                "item_level": 250,
-                "icon": "inv_12_jewelry_zulaman_troll_necklace_green1",
-                "name": "Yoke of the Charging Bear",
+                "item_id": 265739,
+                "item_level": 263,
+                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
+                "name": "Amani Heartstring Pendant",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -74928,11 +76310,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
                   6652,
                   13668,
-                  12699,
-                  12782
+                  12790
                 ]
               },
               "shoulder": {
@@ -74974,7 +76354,7 @@
               },
               "back": {
                 "item_id": 257175,
-                "item_level": 250,
+                "item_level": 263,
                 "icon": "inv_cape_plate_outdoorvoidelf_c_01",
                 "name": "Voidbreaker's Wrap",
                 "item_quality": 4,
@@ -74994,7 +76374,7 @@
                 "bonuses": [
                   6652,
                   13577,
-                  12786
+                  12790
                 ]
               },
               "chest": {
@@ -75082,10 +76462,10 @@
                 ]
               },
               "waist": {
-                "item_id": 251102,
-                "item_level": 250,
+                "item_id": 263265,
+                "item_level": 263,
                 "icon": "inv_belt_cloth_dungeonharronir_c_01",
-                "name": "Clasp of Compliance",
+                "name": "Hara'ti Defender's Sash",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -75101,12 +76481,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
-                  43,
-                  12667,
-                  12699,
                   13577,
-                  12782
+                  12790
                 ]
               },
               "wrist": {
@@ -75228,7 +76604,7 @@
               },
               "finger1": {
                 "item_id": 251217,
-                "item_level": 250,
+                "item_level": 263,
                 "enchant": 7965,
                 "icon": "inv_12_trinket_devouring_host_currency1_bronze",
                 "name": "Occlusion of Void",
@@ -75267,12 +76643,12 @@
                   6652,
                   13668,
                   12699,
-                  12786
+                  12790
                 ]
               },
               "finger2": {
                 "item_id": 251093,
-                "item_level": 250,
+                "item_level": 263,
                 "enchant": 7965,
                 "icon": "inv_12_trinket_devouring_host_currency1_silver",
                 "name": "Omission of Light",
@@ -75311,12 +76687,12 @@
                   6652,
                   13668,
                   12699,
-                  12786
+                  12790
                 ]
               },
               "trinket1": {
                 "item_id": 249346,
-                "item_level": 253,
+                "item_level": 263,
                 "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
                 "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
@@ -75336,14 +76712,14 @@
                 "bonuses": [
                   6652,
                   13333,
-                  12787
+                  12790
                 ]
               },
               "trinket2": {
-                "item_id": 248583,
-                "item_level": 259,
-                "icon": "inv_archaeology_70_tauren_drum",
-                "name": "Drum of Renewed Bonds",
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -75359,9 +76735,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13183,
-                  6652,
-                  12793
+                  12790
                 ]
               },
               "mainhand": {
@@ -76108,8 +77482,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T03:12:25.898Z",
-            "updated_at": "2026-03-23T03:12:25.898Z",
+            "created_at": "2026-03-24T12:28:40.755Z",
+            "updated_at": "2026-03-24T12:28:40.755Z",
             "source": "s3",
             "item_level_equipped": 258,
             "item_level_total": 0,
@@ -76364,7 +77738,7 @@
               },
               "wrist": {
                 "item_id": 251079,
-                "item_level": 240,
+                "item_level": 250,
                 "icon": "inv_bracer_mail_dungeonharronir_c_01",
                 "name": "Amberfrond Bracers",
                 "item_quality": 4,
@@ -76382,12 +77756,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12779,
                   13439,
                   6652,
                   12667,
                   12699,
-                  13577
+                  13577,
+                  12782
                 ]
               },
               "hands": {
@@ -78028,8 +79402,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-23T08:55:48.495Z",
-            "updated_at": "2026-03-23T08:55:48.495Z",
+            "created_at": "2026-03-24T12:28:38.414Z",
+            "updated_at": "2026-03-24T12:28:38.414Z",
             "source": "s3",
             "item_level_equipped": 255,
             "item_level_total": 0,
@@ -78324,10 +79698,10 @@
                 ]
               },
               "feet": {
-                "item_id": 251145,
+                "item_id": 249646,
                 "item_level": 250,
                 "icon": "inv_boot_mail_dungeonharronir_c_01",
-                "name": "Forgotten Tribe Footguards",
+                "name": "Elder Mossclogs",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -78343,11 +79717,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
+                  12786,
                   6652,
-                  12699,
-                  13577,
-                  12782
+                  13577
                 ]
               },
               "finger1": {
@@ -84322,569 +85694,6 @@
       },
       {
         "character": {
-          "name": "Smackedzap",
-          "level": 90,
-          "race": {
-            "id": 36,
-            "name": "Mag'har Orc",
-            "slug": "maghar-orc",
-            "faction": "horde"
-          },
-          "class": {
-            "id": 10,
-            "name": "Monk",
-            "slug": "monk"
-          },
-          "spec": {
-            "id": 270,
-            "name": "Mistweaver",
-            "slug": "mistweaver",
-            "class_id": 10,
-            "role": "healer",
-            "is_melee": false,
-            "patch": "5.0.0",
-            "ordinal": 1
-          },
-          "talents": "",
-          "talentsDetails": [],
-          "gender": "female",
-          "thumbnail": "illidan/240/236974576-avatar.jpg",
-          "itemLevelEquipped": 259,
-          "realm": {
-            "id": 369,
-            "connectedRealmId": 207,
-            "wowRealmId": 57,
-            "wowConnectedRealmId": 57,
-            "name": "Illidan",
-            "altName": null,
-            "slug": "illidan",
-            "altSlug": "illidan",
-            "locale": "en_US",
-            "isConnected": false,
-            "realmType": "live"
-          },
-          "region": {
-            "name": "United States & Oceania",
-            "slug": "us",
-            "short_name": "US"
-          },
-          "items": {
-            "created_at": "2026-03-23T20:06:39.311Z",
-            "updated_at": "2026-03-23T20:06:39.311Z",
-            "source": "s3",
-            "item_level_equipped": 259,
-            "item_level_total": 0,
-            "artifact_traits": 0,
-            "corruption": {
-              "added": 0,
-              "resisted": 0,
-              "total": 0,
-              "cloakRank": 0,
-              "spells": []
-            },
-            "items": {
-              "head": {
-                "item_id": 266430,
-                "item_level": 263,
-                "enchant": 7959,
-                "icon": "inv_helm_leather_questbloodelf_b_01",
-                "name": "Silvermoon Sunguard",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7959
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243949,
-                    "name": "Enchant Helm - Hex of Leeching",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  13577,
-                  12790
-                ]
-              },
-              "neck": {
-                "item_id": 265739,
-                "item_level": 263,
-                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
-                "name": "Amani Heartstring Pendant",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240983
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
-                  }
-                ],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13668,
-                  12790
-                ]
-              },
-              "shoulder": {
-                "item_id": 249333,
-                "item_level": 266,
-                "enchant": 7999,
-                "icon": "inv_shoulder_leather_raiddruidmidnight_d_01",
-                "name": "Blooming Barklight Spaulders",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7999
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  6652,
-                  13577,
-                  13334,
-                  12795
-                ]
-              },
-              "back": {
-                "item_id": 257174,
-                "item_level": 250,
-                "icon": "inv_cape_mail_outdoorvoidelf_c_01",
-                "name": "Voidbreaker's Mantle",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13577,
-                  12786
-                ]
-              },
-              "chest": {
-                "item_id": 250018,
-                "item_level": 263,
-                "enchant": 7987,
-                "icon": "inv_chest_leather_raidmonkmidnight_d_01",
-                "name": "Battle Garb of Ra-den's Chosen",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "35",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  12794,
-                  13334,
-                  13336,
-                  6652,
-                  13575
-                ]
-              },
-              "waist": {
-                "item_id": 249314,
-                "item_level": 263,
-                "icon": "inv_belt_leather_raiddemonhuntermidnight_d_01",
-                "name": "Twisted Twilight Sash",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  12667,
-                  13577,
-                  13334,
-                  12794
-                ]
-              },
-              "wrist": {
-                "item_id": 249327,
-                "item_level": 263,
-                "icon": "inv_bracer_leather_raidroguemidnight_d_01",
-                "name": "Void-Skinned Bracers",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  12667,
-                  13577,
-                  13334,
-                  12794
-                ]
-              },
-              "hands": {
-                "item_id": 249321,
-                "item_level": 266,
-                "icon": "inv_glove_leather_raiddruidmidnight_d_01",
-                "name": "Vaelgor's Fearsome Grasp",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13577,
-                  13334,
-                  12795
-                ]
-              },
-              "legs": {
-                "item_id": 249312,
-                "item_level": 269,
-                "icon": "inv_pant_leather_raidroguemidnight_d_01",
-                "name": "Nightblade's Pantaloons",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  42,
-                  13577,
-                  13334,
-                  12796
-                ]
-              },
-              "feet": {
-                "item_id": 251121,
-                "item_level": 250,
-                "icon": "inv_boot_leather_dungeonharronir_c_01",
-                "name": "Domanaar's Dire Treads",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13439,
-                  6652,
-                  12699,
-                  13577,
-                  12782
-                ]
-              },
-              "finger1": {
-                "item_id": 251136,
-                "item_level": 250,
-                "enchant": 8021,
-                "icon": "inv_12_jewelry_voidelf_ring_teal",
-                "name": "Signet of Snarling Servitude",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240890
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  }
-                ],
-                "enchants": [
-                  8021
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  13439,
-                  6652,
-                  13668,
-                  12699,
-                  12782
-                ]
-              },
-              "finger2": {
-                "item_id": 249623,
-                "item_level": 259,
-                "enchant": 8021,
-                "icon": "inv12_jewelrytrinkets_rutaani_ring_blue",
-                "name": "Blooming Leafcoil",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240890
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  }
-                ],
-                "enchants": [
-                  8021
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  12793,
-                  42,
-                  13668
-                ]
-              },
-              "trinket1": {
-                "item_id": 249346,
-                "item_level": 253,
-                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
-                "name": "Vaelgor's Final Stare",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13333,
-                  12787
-                ]
-              },
-              "trinket2": {
-                "item_id": 249343,
-                "item_level": 253,
-                "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
-                "name": "Gaze of the Alnseer",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  41,
-                  13333,
-                  12787
-                ]
-              },
-              "mainhand": {
-                "item_id": 245770,
-                "item_level": 259,
-                "enchant": 8039,
-                "icon": "inv_staff_2h_dungeonharronir_c_02",
-                "name": "Aln'hara Cane",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8039
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244029,
-                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
-                "bonuses": [
-                  12214,
-                  12497,
-                  12066,
-                  12693,
-                  8960,
-                  8790
-                ]
-              }
-            }
-          },
-          "expansionData": null,
-          "patronLevel": null
-        },
-        "raidProgress": {
-          "raid": {
-            "type": "raid",
-            "id": 16340,
-            "difficulty": "heroic",
-            "name": "MN Tier 1 (VS / DR / MQD)",
-            "short_name": "VS/DR/MQD",
-            "wowInstanceId": 2912,
-            "slug": "tier-mn-1",
-            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
-            "expansion_id": 11
-          },
-          "totalBosses": 9,
-          "progress": {
-            "normal": 6,
-            "heroic": 7,
-            "mythic": 0
-          }
-        },
-        "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
-        },
-        "rank": 4,
-        "stream": null
-      },
-      {
-        "character": {
           "name": "Pintdrinker",
           "level": 90,
           "race": {
@@ -85545,6 +86354,91 @@
       },
       {
         "character": {
+          "name": "Greatbritain",
+          "level": 90,
+          "race": {
+            "id": 2,
+            "name": "Orc",
+            "slug": "orc",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 11,
+            "name": "Druid",
+            "slug": "druid"
+          },
+          "spec": {
+            "id": 104,
+            "name": "Guardian",
+            "slug": "guardian",
+            "class_id": 11,
+            "role": "tank",
+            "is_melee": true,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "male",
+          "thumbnail": "",
+          "itemLevelEquipped": 262.938,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "item_level_equipped": 0,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "items": {},
+            "created_at": "1970-01-01T00:00:00.000Z",
+            "updated_at": "1970-01-01T00:00:00.000Z"
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 0,
+            "heroic": 1,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 3,
+        "stream": null
+      },
+      {
+        "character": {
           "name": "Ashinedyot",
           "level": 90,
           "race": {
@@ -86121,7 +87015,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-03-24T12:22:39.579Z"
+    "fetchedAt": "2026-03-24T14:31:36.312Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -87253,20 +88147,20 @@
             "slug": "monk"
           },
           "spec": {
-            "id": 268,
-            "name": "Brewmaster",
-            "slug": "brewmaster",
+            "id": 270,
+            "name": "Mistweaver",
+            "slug": "mistweaver",
             "class_id": 10,
-            "role": "tank",
-            "is_melee": true,
+            "role": "healer",
+            "is_melee": false,
             "patch": "5.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/252/174236668-avatar.jpg",
-          "itemLevelEquipped": 262,
+          "itemLevelEquipped": 261,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -87286,10 +88180,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-23T20:53:35.078Z",
-            "updated_at": "2026-03-23T20:53:35.078Z",
+            "created_at": "2026-03-24T12:55:33.080Z",
+            "updated_at": "2026-03-24T12:55:33.080Z",
             "source": "s3",
-            "item_level_equipped": 262,
+            "item_level_equipped": 261,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -87303,7 +88197,7 @@
               "head": {
                 "item_id": 250015,
                 "item_level": 263,
-                "enchant": 7959,
+                "enchant": 7961,
                 "icon": "inv_helm_leather_raidmonkmidnight_d_01",
                 "name": "Fearsome Visage of Ra-den's Chosen",
                 "item_quality": 4,
@@ -87366,13 +88260,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7959
+                  7961
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243949,
-                    "name": "Enchant Helm - Hex of Leeching",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243951,
+                    "name": "Enchant Helm - Empowered Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -87400,13 +88294,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240857
+                  240890
                 ],
                 "gems_detail": [
                   {
-                    "id": 240857,
-                    "name": "11 Haste & 4 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_fire_green"
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
                   }
                 ],
                 "enchants": [],
@@ -87420,7 +88314,7 @@
               "shoulder": {
                 "item_id": 250013,
                 "item_level": 263,
-                "enchant": 8029,
+                "enchant": 8031,
                 "icon": "inv_shoulder_leather_raidmonkmidnight_d_01",
                 "name": "Aurastones of Ra-den's Chosen",
                 "item_quality": 4,
@@ -87437,13 +88331,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8029
+                  8031
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244019,
-                    "name": "Enchant Shoulders - Thalassian Recovery",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244021,
+                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -87634,11 +88528,11 @@
                 ]
               },
               "feet": {
-                "item_id": 249334,
-                "item_level": 263,
-                "enchant": 7963,
-                "icon": "inv_boot_leather_raiddemonhuntermidnight_d_01",
-                "name": "Void-Claimed Shinkickers",
+                "item_id": 260372,
+                "item_level": 266,
+                "enchant": 7993,
+                "icon": "inv_boot_leather_raidroguemidnight_d_01",
+                "name": "Nullstrider's Boots",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -87652,28 +88546,72 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7963
+                  7993
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243953,
-                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  6652,
+                  41,
                   13577,
                   13334,
-                  12794
+                  12795,
+                  10844
                 ]
               },
               "finger1": {
                 "item_id": 249336,
                 "item_level": 263,
-                "enchant": 7995,
+                "enchant": 8025,
                 "icon": "inv_12_jewelry_devouringhost_ring_silver2",
                 "name": "Signet of the Starved Beast",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8025
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  12794
+                ]
+              },
+              "finger2": {
+                "item_id": 240947,
+                "item_level": 246,
+                "enchant": 8025,
+                "icon": "inv_12_profession_jewelcrafting_ring2_gold",
+                "name": "Gleaming Copper Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -87695,69 +88633,31 @@
                   }
                 ],
                 "enchants": [
-                  7995
+                  8025
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243985,
-                    "name": "Enchant Ring - Nature's Wrath",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13668,
-                  13334,
-                  12794
-                ]
-              },
-              "finger2": {
-                "item_id": 259913,
-                "item_level": 250,
-                "enchant": 7995,
-                "icon": "inv_misc_primitive_ring32",
-                "name": "Preyseeker's Ring",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240873
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240873,
-                    "name": "11 Crit & 4 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_nature_red"
-                  }
-                ],
-                "enchants": [
-                  7995
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243985,
-                    "name": "Enchant Ring - Nature's Wrath",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  6652,
-                  13668,
-                  12782
+                  12249,
+                  12248,
+                  4785,
+                  12497,
+                  12686,
+                  8960,
+                  8790,
+                  13620
                 ]
               },
               "trinket1": {
-                "item_id": 249345,
-                "item_level": 269,
-                "icon": "inv_12_trinket_raid_voidspire_agidps_rangercaptainsinsignia",
-                "name": "Ranger-Captain's Iridescent Insignia",
+                "item_id": 249808,
+                "item_level": 266,
+                "icon": "inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath",
+                "name": "Litany of Lightblind Wrath",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -87775,7 +88675,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12796
+                  12795
                 ]
               },
               "trinket2": {
@@ -87802,11 +88702,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 249278,
-                "item_level": 263,
-                "enchant": 8039,
-                "icon": "inv_staff_2h_raidmidnight_d_01",
-                "name": "Alnscorned Spire",
+                "item_id": 245770,
+                "item_level": 259,
+                "enchant": 7981,
+                "icon": "inv_staff_2h_dungeonharronir_c_02",
+                "name": "Aln'hara Cane",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -87820,19 +88720,22 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8039
+                  7981
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244029,
-                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "id": 243971,
+                    "name": "Enchant Weapon - Jan'alai's Precision",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13334,
-                  12794
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8790
                 ]
               }
             }
@@ -203813,6 +204716,669 @@
       },
       {
         "character": {
+          "name": "Verbten",
+          "level": 90,
+          "race": {
+            "id": 29,
+            "name": "Void Elf",
+            "slug": "void-elf",
+            "faction": "alliance"
+          },
+          "class": {
+            "id": 12,
+            "name": "Demon Hunter",
+            "slug": "demon-hunter"
+          },
+          "spec": {
+            "id": 581,
+            "name": "Vengeance",
+            "slug": "vengeance",
+            "class_id": 12,
+            "role": "tank",
+            "is_melee": true,
+            "patch": "7.0.0",
+            "ordinal": 1
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "tarren-mill/182/189962166-avatar.jpg",
+          "itemLevelEquipped": 264,
+          "realm": {
+            "id": 719,
+            "connectedRealmId": 300,
+            "wowRealmId": 1306,
+            "wowConnectedRealmId": 1084,
+            "name": "Tarren Mill",
+            "altName": null,
+            "slug": "tarren-mill",
+            "altSlug": "tarren-mill",
+            "locale": "en_GB",
+            "isConnected": true,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+          },
+          "items": {
+            "created_at": "2026-03-24T06:01:37.336Z",
+            "updated_at": "2026-03-24T06:01:37.336Z",
+            "source": "s3",
+            "item_level_equipped": 264,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250033,
+                "item_level": 266,
+                "enchant": 7959,
+                "icon": "inv_helm_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Intake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7959
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243949,
+                    "name": "Enchant Helm - Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12795,
+                  13334,
+                  13338,
+                  6652,
+                  12667,
+                  13575
+                ]
+              },
+              "neck": {
+                "item_id": 249337,
+                "item_level": 263,
+                "icon": "inv_12_jewelry_devouringhost_necklace_bronze",
+                "name": "Ribbon of Coiled Malice",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  12794
+                ]
+              },
+              "shoulder": {
+                "item_id": 250031,
+                "item_level": 263,
+                "enchant": 8029,
+                "icon": "inv_shoulder_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Exhaustplates",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8029
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244019,
+                    "name": "Enchant Shoulders - Thalassian Recovery",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12794,
+                  13334,
+                  13340,
+                  6652,
+                  13574
+                ]
+              },
+              "back": {
+                "item_id": 249370,
+                "item_level": 266,
+                "icon": "inv_cape_plate_raidpaladinmidnight_d_01",
+                "name": "Draconic Nullcape",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13334,
+                  12795
+                ]
+              },
+              "chest": {
+                "item_id": 250036,
+                "item_level": 263,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Engine",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13333,
+                  13336,
+                  6652,
+                  13575,
+                  12790
+                ]
+              },
+              "waist": {
+                "item_id": 263267,
+                "item_level": 263,
+                "icon": "inv_belt_leather_dungeonharronir_c_01",
+                "name": "Hara'ti Defender's Cord",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13577,
+                  12790
+                ]
+              },
+              "wrist": {
+                "item_id": 249327,
+                "item_level": 263,
+                "icon": "inv_bracer_leather_raidroguemidnight_d_01",
+                "name": "Void-Skinned Bracers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13577,
+                  13334,
+                  12794
+                ]
+              },
+              "hands": {
+                "item_id": 250034,
+                "item_level": 263,
+                "icon": "inv_glove_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Essence Grips",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12794,
+                  13334,
+                  13337,
+                  6652,
+                  13574
+                ]
+              },
+              "legs": {
+                "item_id": 249312,
+                "item_level": 269,
+                "enchant": 7934,
+                "icon": "inv_pant_leather_raidroguemidnight_d_01",
+                "name": "Nightblade's Pantaloons",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7934
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240094,
+                    "name": "32 Int & 70 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13334,
+                  12796
+                ]
+              },
+              "feet": {
+                "item_id": 249382,
+                "item_level": 263,
+                "enchant": 7963,
+                "icon": "inv_boot_leather_raiddruidmidnight_d_01",
+                "name": "Canopy Walker's Footwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13333,
+                  12790
+                ]
+              },
+              "finger1": {
+                "item_id": 249336,
+                "item_level": 263,
+                "enchant": 7965,
+                "icon": "inv_12_jewelry_devouringhost_ring_silver2",
+                "name": "Signet of the Starved Beast",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240867
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240867,
+                    "name": "11 Mast & 4 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13333,
+                  12790
+                ]
+              },
+              "finger2": {
+                "item_id": 249369,
+                "item_level": 266,
+                "enchant": 7965,
+                "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
+                "name": "Bond of Light",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240867
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240867,
+                    "name": "11 Mast & 4 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  12795
+                ]
+              },
+              "trinket1": {
+                "item_id": 249345,
+                "item_level": 263,
+                "icon": "inv_12_trinket_raid_voidspire_agidps_rangercaptainsinsignia",
+                "name": "Ranger-Captain's Iridescent Insignia",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13333,
+                  12790
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 249280,
+                "item_level": 266,
+                "enchant": 8039,
+                "icon": "inv_glaive_1h_raidmidnight_d_01",
+                "name": "Emblazoned Sunglaive",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12795
+                ]
+              },
+              "offhand": {
+                "item_id": 260423,
+                "item_level": 263,
+                "enchant": 8039,
+                "icon": "inv_sword_1h_raidmidnight_d_01",
+                "name": "Arator's Swift Remembrance",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13333,
+                  12790
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 6,
+            "heroic": 7,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 4,
+        "stream": null
+      },
+      {
+        "character": {
           "name": "Spenwarlockk",
           "level": 90,
           "race": {
@@ -205765,20 +207331,20 @@
             "slug": "warlock"
           },
           "spec": {
-            "id": 266,
-            "name": "Demonology",
-            "slug": "demonology",
+            "id": 267,
+            "name": "Destruction",
+            "slug": "destruction",
             "class_id": 9,
             "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 2
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/156/189965468-avatar.jpg",
-          "itemLevelEquipped": 263,
+          "itemLevelEquipped": 264,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -205798,10 +207364,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-24T11:29:42.433Z",
-            "updated_at": "2026-03-24T11:29:42.433Z",
+            "created_at": "2026-03-24T12:55:34.722Z",
+            "updated_at": "2026-03-24T12:55:34.722Z",
             "source": "s3",
-            "item_level_equipped": 263,
+            "item_level_equipped": 264,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -206267,10 +207833,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249346,
-                "item_level": 263,
-                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
-                "name": "Vaelgor's Final Stare",
+                "item_id": 249809,
+                "item_level": 269,
+                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
+                "name": "Locus-Walker's Ribbon",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -206287,8 +207853,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13333,
-                  12790
+                  13334,
+                  12796
                 ]
               },
               "trinket2": {
@@ -208924,7 +210490,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-03-24T12:22:44.274Z"
+    "fetchedAt": "2026-03-24T14:31:36.419Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -247625,8 +249191,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-23T21:02:36.588Z",
-            "updated_at": "2026-03-23T21:02:36.588Z",
+            "created_at": "2026-03-24T12:26:28.135Z",
+            "updated_at": "2026-03-24T12:26:28.135Z",
             "source": "s3",
             "item_level_equipped": 256,
             "item_level_total": 0,
@@ -247748,11 +249314,11 @@
                 ]
               },
               "shoulder": {
-                "item_id": 249650,
-                "item_level": 237,
-                "icon": "inv_shoulder_mail_dungeonharronir_c_01",
-                "name": "Elder Mossvein Greatleaves",
-                "item_quality": 3,
+                "item_id": 193704,
+                "item_level": 246,
+                "icon": "inv_mail_dragondungeon_c_01_shoulder",
+                "name": "Scaled Commencement Spaulders",
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -247767,9 +249333,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13578,
-                  12774
+                  12785,
+                  13439,
+                  42,
+                  13577,
+                  12699
                 ]
               },
               "back": {
@@ -255233,8 +256801,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-23T21:01:30.063Z",
-            "updated_at": "2026-03-23T21:01:30.063Z",
+            "created_at": "2026-03-24T13:13:27.522Z",
+            "updated_at": "2026-03-24T13:13:27.522Z",
             "source": "s3",
             "item_level_equipped": 258,
             "item_level_total": 0,
@@ -255490,10 +257058,10 @@
                 ]
               },
               "shirt": {
-                "item_id": 138385,
+                "item_id": 268274,
                 "item_level": 1,
-                "icon": "inv_shirt_02",
-                "name": "Lucky Shirt",
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Blinky's Collar",
                 "item_quality": 2,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -340901,20 +342469,20 @@
             "slug": "demon-hunter"
           },
           "spec": {
-            "id": 577,
-            "name": "Havoc",
-            "slug": "havoc",
+            "id": 1480,
+            "name": "Devourer",
+            "slug": "devourer",
             "class_id": 12,
             "role": "dps",
-            "is_melee": true,
-            "patch": "7.0.0",
-            "ordinal": 0
+            "is_melee": false,
+            "patch": "12.0.0",
+            "ordinal": 2
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/57/195538233-avatar.jpg",
-          "itemLevelEquipped": 254,
+          "itemLevelEquipped": 263,
           "realm": {
             "id": 739,
             "connectedRealmId": 362,
@@ -340934,10 +342502,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-23T17:54:30.992Z",
-            "updated_at": "2026-03-23T17:54:30.992Z",
+            "created_at": "2026-03-24T12:26:25.934Z",
+            "updated_at": "2026-03-24T12:26:25.934Z",
             "source": "s3",
-            "item_level_equipped": 254,
+            "item_level_equipped": 263,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -341350,11 +342918,11 @@
                 ]
               },
               "trinket1": {
-                "item_id": 245752,
-                "item_level": 188,
-                "icon": "inv_misc_token_argentdawn3",
-                "name": "Thalassian Competitor's Insignia of Alacrity",
-                "item_quality": 2,
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -341369,43 +342937,14 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12245,
-                  12497,
-                  13563,
-                  13451
+                  12790
                 ]
               },
               "trinket2": {
-                "item_id": 245751,
-                "item_level": 188,
-                "icon": "ability_pvp_gladiatormedallion",
-                "name": "Thalassian Competitor's Medallion",
-                "item_quality": 2,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12245,
-                  12497,
-                  13563,
-                  13451
-                ]
-              },
-              "mainhand": {
-                "item_id": 260423,
-                "item_level": 269,
-                "icon": "inv_sword_1h_raidmidnight_d_01",
-                "name": "Arator's Swift Remembrance",
+                "item_id": 249346,
+                "item_level": 266,
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -341423,7 +342962,40 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12796
+                  12795
+                ]
+              },
+              "mainhand": {
+                "item_id": 259959,
+                "item_level": 263,
+                "enchant": 8038,
+                "icon": "inv_glaive_1h_outdoorvoidelf_c_01",
+                "name": "Preyseeker's Warglaive",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8038
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244028,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12790
                 ]
               },
               "offhand": {
@@ -349175,8 +350747,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-22T21:14:42.085Z",
-            "updated_at": "2026-03-22T21:14:42.085Z",
+            "created_at": "2026-03-24T13:14:37.690Z",
+            "updated_at": "2026-03-24T13:14:37.690Z",
             "source": "s3",
             "item_level_equipped": 254,
             "item_level_total": 0,
@@ -349754,8 +351326,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-23T21:02:36.294Z",
-            "updated_at": "2026-03-23T21:02:36.294Z",
+            "created_at": "2026-03-24T13:14:37.648Z",
+            "updated_at": "2026-03-24T13:14:37.648Z",
             "source": "s3",
             "item_level_equipped": 258,
             "item_level_total": 0,
@@ -350367,6 +351939,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-03-24T12:22:52.894Z"
+    "fetchedAt": "2026-03-24T14:31:43.599Z"
   }
 }
