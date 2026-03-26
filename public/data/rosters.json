@@ -637,7 +637,7 @@
         },
         "keystoneScores": {
           "allScore": 2260.9,
-          "allScoreColor": "#7e54e7"
+          "allScoreColor": "#7957e7"
         },
         "rank": 7,
         "stream": null
@@ -1567,7 +1567,7 @@
         },
         "keystoneScores": {
           "allScore": 2676.3,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c443c5"
         },
         "rank": 8,
         "stream": null
@@ -2286,7 +2286,7 @@
         },
         "keystoneScores": {
           "allScore": 1712.8,
-          "allScoreColor": "#4687c5"
+          "allScoreColor": "#4a8ac2"
         },
         "rank": 7,
         "stream": null
@@ -3121,9 +3121,938 @@
         },
         "keystoneScores": {
           "allScore": 1615.2,
-          "allScoreColor": "#5292b9"
+          "allScoreColor": "#5495b6"
         },
         "rank": 6,
+        "stream": null
+      },
+      {
+        "character": {
+          "name": "Kamsmage",
+          "level": 90,
+          "race": {
+            "id": 10,
+            "name": "Blood Elf",
+            "slug": "blood-elf",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 8,
+            "name": "Mage",
+            "slug": "mage"
+          },
+          "spec": {
+            "id": 64,
+            "name": "Frost",
+            "slug": "frost",
+            "class_id": 8,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/255/188987647-avatar.jpg",
+          "itemLevelEquipped": 254,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-03-26T21:33:48.311Z",
+            "updated_at": "2026-03-26T21:33:48.311Z",
+            "source": "s3",
+            "item_level_equipped": 254,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250060,
+                "item_level": 250,
+                "icon": "inv_helm_cloth_raidmagemidnight_d_01",
+                "name": "Voidbreaker's Veil",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13332,
+                  13338,
+                  6652,
+                  12667,
+                  13575,
+                  12782
+                ]
+              },
+              "neck": {
+                "item_id": 265739,
+                "item_level": 246,
+                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
+                "name": "Amani Heartstring Pendant",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240867
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240867,
+                    "name": "11 Mast & 4 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12785,
+                  6652,
+                  13668
+                ]
+              },
+              "shoulder": {
+                "item_id": 250058,
+                "item_level": 276,
+                "icon": "inv_shoulder_cloth_raidmagemidnight_d_01",
+                "name": "Voidbreaker's Leyline Nexi",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13340,
+                  41,
+                  13574,
+                  12798
+                ]
+              },
+              "back": {
+                "item_id": 257175,
+                "item_level": 246,
+                "icon": "inv_cape_plate_outdoorvoidelf_c_01",
+                "name": "Voidbreaker's Wrap",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12785,
+                  6652,
+                  13577
+                ]
+              },
+              "chest": {
+                "item_id": 250063,
+                "item_level": 250,
+                "icon": "inv_chest_cloth_raidmagemidnight_d_01",
+                "name": "Voidbreaker's Robe",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13332,
+                  13336,
+                  6652,
+                  13575,
+                  12782
+                ]
+              },
+              "waist": {
+                "item_id": 263265,
+                "item_level": 246,
+                "icon": "inv_belt_cloth_dungeonharronir_c_01",
+                "name": "Hara'ti Defender's Sash",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13577,
+                  12785
+                ]
+              },
+              "shirt": {
+                "item_id": 98543,
+                "item_level": 1,
+                "icon": "inv_chest_leather_20",
+                "name": "Wraps of the Blood-Soaked Brawler",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": []
+              },
+              "wrist": {
+                "item_id": 249315,
+                "item_level": 250,
+                "icon": "inv_bracer_cloth_raidpriestmidnight_d_01",
+                "name": "Voracious Wristwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13577,
+                  13333,
+                  12786
+                ]
+              },
+              "hands": {
+                "item_id": 250061,
+                "item_level": 263,
+                "icon": "inv_glove_cloth_raidmagemidnight_d_01",
+                "name": "Voidbreaker's Gloves",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13439,
+                  13337,
+                  13574,
+                  12790
+                ]
+              },
+              "legs": {
+                "item_id": 251205,
+                "item_level": 250,
+                "enchant": 7939,
+                "icon": "inv_pant_cloth_dungeonharronir_c_01",
+                "name": "Leyline Leggings",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7939
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240157,
+                    "name": "24 Int",
+                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  13577,
+                  12782
+                ]
+              },
+              "feet": {
+                "item_id": 249305,
+                "item_level": 253,
+                "icon": "inv_boot_cloth_raidwarlockmidnight_d_01",
+                "name": "Slippers of the Midnight Flame",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13333,
+                  12787
+                ]
+              },
+              "finger1": {
+                "item_id": 151308,
+                "item_level": 259,
+                "enchant": 8021,
+                "icon": "inv_70_dungeon_ring3c",
+                "name": "Eredath Seal of Nobility",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240857
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240857,
+                    "name": "11 Haste & 4 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12793,
+                  13440,
+                  6652,
+                  13668,
+                  12699
+                ]
+              },
+              "finger2": {
+                "item_id": 249623,
+                "item_level": 250,
+                "enchant": 7965,
+                "icon": "inv12_jewelrytrinkets_rutaani_ring_blue",
+                "name": "Blooming Leafcoil",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240867
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240867,
+                    "name": "11 Mast & 4 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12786,
+                  6652,
+                  13668
+                ]
+              },
+              "trinket1": {
+                "item_id": 250258,
+                "item_level": 263,
+                "icon": "inv_misc_food_162_fish_90blue",
+                "name": "Vessel of Tortured Souls",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  12790
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 253,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12787
+                ]
+              },
+              "mainhand": {
+                "item_id": 245770,
+                "item_level": 259,
+                "enchant": 8039,
+                "icon": "inv_staff_2h_dungeonharronir_c_02",
+                "name": "Aln'hara Cane",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8793
+                ]
+              }
+            }
+          },
+          "expansionData": {
+            "expansionId": 8,
+            "covenant": {
+              "id": 2,
+              "name": "Venthyr",
+              "slug": "venthyr",
+              "icon": "ui_sigil_venthyr"
+            },
+            "renownLevel": 80,
+            "activeSoulbindIndex": 1,
+            "soulbinds": [
+              {
+                "id": 3,
+                "name": "General Draven",
+                "slug": "general-draven",
+                "traits": [],
+                "conduits": []
+              },
+              {
+                "id": 8,
+                "name": "Nadjia the Mistblade",
+                "slug": "nadjia-the-mistblade",
+                "traits": [
+                  {
+                    "id": 1406,
+                    "spell": {
+                      "id": 331586,
+                      "name": "Thrill Seeker",
+                      "icon": "ability_rogue_bloodsplatter",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1393,
+                    "spell": {
+                      "id": 331576,
+                      "name": "Agent of Chaos",
+                      "icon": "spell_shadow_deathsembrace",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1398,
+                    "spell": {
+                      "id": 331579,
+                      "name": "Friends in Low Places",
+                      "icon": "ability_rogue_dirtydeeds",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1403,
+                    "spell": {
+                      "id": 331582,
+                      "name": "Familiar Predicaments",
+                      "icon": "sha_ability_rogue_bloodyeye_nightmare",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1868,
+                    "spell": {
+                      "id": 352366,
+                      "name": "Nimble Steps",
+                      "icon": "ability_rogue_sprint_blue",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1871,
+                    "spell": {
+                      "id": 352373,
+                      "name": "Fatal Flaw",
+                      "icon": "ability_rogue_shadowstrike",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 17,
+                    "spell": {
+                      "id": 336460,
+                      "name": "Unrelenting Cold",
+                      "icon": "spell_fire_blueflamering",
+                      "school": 16,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 29,
+                    "spell": {
+                      "id": 336777,
+                      "name": "Grounding Surge",
+                      "icon": "ability_priest_surgeofdarkness",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 45,
+                    "spell": {
+                      "id": 337123,
+                      "name": "Cryo-Freeze",
+                      "icon": "spell_frost_icefloes",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 20,
+                    "spell": {
+                      "id": 336522,
+                      "name": "Icy Propulsion",
+                      "icon": "spell_frost_coldhearted",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 21,
+                    "spell": {
+                      "id": 336569,
+                      "name": "Ice Bite",
+                      "icon": "spell_frost_frostblast",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 61,
+                    "spell": {
+                      "id": 337293,
+                      "name": "Tempest Barrier",
+                      "icon": "inv_shield_1h_artifactstormfist_d_04",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  }
+                ]
+              },
+              {
+                "id": 9,
+                "name": "Theotar the Mad Duke",
+                "slug": "theotar-the-mad-duke",
+                "traits": [
+                  {
+                    "id": 1551,
+                    "spell": {
+                      "id": 336239,
+                      "name": "Soothing Shade",
+                      "icon": "archaeology_5_0_umbrellaofchiji",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1546,
+                    "spell": {
+                      "id": 336147,
+                      "name": "Leisurely Gait",
+                      "icon": "spell_lifegivingspeed",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1557,
+                    "spell": {
+                      "id": 336247,
+                      "name": "Life of the Party",
+                      "icon": "achievement_halloween_smiley_01",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1552,
+                    "spell": {
+                      "id": 336245,
+                      "name": "Token of Appreciation",
+                      "icon": "inv_misc_coin_01",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1873,
+                    "spell": {
+                      "id": 351747,
+                      "name": "It's Always Tea Time",
+                      "icon": "archaeology_5_0_pandarenteaset",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1877,
+                    "spell": {
+                      "id": 351750,
+                      "name": "Party Favors",
+                      "icon": "inv_misc_food_vendor_roastedbarlytea",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 29,
+                    "spell": {
+                      "id": 336777,
+                      "name": "Grounding Surge",
+                      "icon": "ability_priest_surgeofdarkness",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 30,
+                    "spell": {
+                      "id": 336821,
+                      "name": "Infernal Cascade",
+                      "icon": "ability_rhyolith_immolation",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 61,
+                    "spell": {
+                      "id": 337293,
+                      "name": "Tempest Barrier",
+                      "icon": "inv_shield_1h_artifactstormfist_d_04",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 249,
+                    "spell": {
+                      "id": 341325,
+                      "name": "Controlled Destruction",
+                      "icon": "inv_misc_volatilefire",
+                      "school": 4,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 43,
+                    "spell": {
+                      "id": 337087,
+                      "name": "Siphoned Malice",
+                      "icon": "inv_artifact_stolenpower",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 26,
+                    "spell": {
+                      "id": 336636,
+                      "name": "Flow of Time",
+                      "icon": "spell_arcane_blink",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  }
+                ]
+              }
+            ]
+          },
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 7,
+            "heroic": 2,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 1043.4,
+          "allScoreColor": "#54dd60"
+        },
+        "rank": 7,
         "stream": null
       },
       {
@@ -4142,7 +5071,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Day 3",
           "community_ids": [],
-          "viewer_count": 688,
+          "viewer_count": 751,
           "started_at": "2026-03-26T16:51:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -5196,7 +6125,7 @@
         },
         "keystoneScores": {
           "allScore": 2701,
-          "allScoreColor": "#cb47bb"
+          "allScoreColor": "#c845bf"
         },
         "rank": 7,
         "stream": null
@@ -7018,8 +7947,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1231.7,
-          "allScoreColor": "#5fc284"
+          "allScore": 1579.5,
+          "allScoreColor": "#589baf"
         },
         "rank": 7,
         "stream": null
@@ -7846,7 +8775,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF DAY 3 Alleria Waiting Room",
           "community_ids": [],
-          "viewer_count": 65,
+          "viewer_count": 42,
           "started_at": "2026-03-26T17:03:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -8491,7 +9420,7 @@
         },
         "keystoneScores": {
           "allScore": 335,
-          "allScoreColor": "#dfffd2"
+          "allScoreColor": "#e0ffd4"
         },
         "rank": 1,
         "stream": {
@@ -8504,7 +9433,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Day 3",
           "community_ids": [],
-          "viewer_count": 688,
+          "viewer_count": 751,
           "started_at": "2026-03-26T16:51:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -9571,7 +10500,7 @@
         },
         "keystoneScores": {
           "allScore": 349.1,
-          "allScoreColor": "#dfffd2"
+          "allScoreColor": "#e0ffd4"
         },
         "rank": 4,
         "stream": {
@@ -9584,7 +10513,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -10782,7 +11711,7 @@
           "type": "live",
           "title": "RWF Day 3 paladins and stuff",
           "community_ids": [],
-          "viewer_count": 642,
+          "viewer_count": 718,
           "started_at": "2026-03-26T17:00:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -11857,7 +12786,7 @@
         },
         "keystoneScores": {
           "allScore": 2068.6,
-          "allScoreColor": "#4569e0"
+          "allScoreColor": "#3b6bdf"
         },
         "rank": 4,
         "stream": null
@@ -12512,15 +13441,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 481372,
-          "id": "316816678758",
+          "id": "316753563877",
           "name": "impec_",
           "user_id": "47449848",
           "game_id": "18122",
           "type": "live",
           "title": "<Liquid> RWF game time",
           "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-03-26T17:02:36Z",
+          "viewer_count": 166,
+          "started_at": "2026-03-26T20:40:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
         }
@@ -13754,7 +14683,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 3",
           "community_ids": [],
-          "viewer_count": 287,
+          "viewer_count": 238,
           "started_at": "2026-03-26T17:12:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -14423,7 +15352,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -15059,15 +15988,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 481372,
-          "id": "316816678758",
+          "id": "316753563877",
           "name": "impec_",
           "user_id": "47449848",
           "game_id": "18122",
           "type": "live",
           "title": "<Liquid> RWF game time",
           "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-03-26T17:02:36Z",
+          "viewer_count": 166,
+          "started_at": "2026-03-26T20:40:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
         }
@@ -15658,7 +16587,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -16950,7 +17879,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 3",
           "community_ids": [],
-          "viewer_count": 287,
+          "viewer_count": 238,
           "started_at": "2026-03-26T17:12:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -17592,7 +18521,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 3",
           "community_ids": [],
-          "viewer_count": 287,
+          "viewer_count": 238,
           "started_at": "2026-03-26T17:12:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -18263,7 +19192,7 @@
         },
         "keystoneScores": {
           "allScore": 2733.1,
-          "allScoreColor": "#ce49b5"
+          "allScoreColor": "#cc47b9"
         },
         "rank": 4,
         "stream": {
@@ -18276,7 +19205,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 3",
           "community_ids": [],
-          "viewer_count": 287,
+          "viewer_count": 238,
           "started_at": "2026-03-26T17:12:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -20737,7 +21666,7 @@
         },
         "keystoneScores": {
           "allScore": 1348.8,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb98f"
         },
         "rank": 4,
         "stream": {
@@ -20750,7 +21679,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -22030,7 +22959,7 @@
         },
         "keystoneScores": {
           "allScore": 335,
-          "allScoreColor": "#dfffd2"
+          "allScoreColor": "#e0ffd4"
         },
         "rank": 1,
         "stream": null
@@ -22694,7 +23623,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -23344,7 +24273,7 @@
         },
         "keystoneScores": {
           "allScore": 2016.1,
-          "allScoreColor": "#306ddf"
+          "allScoreColor": "#206ede"
         },
         "rank": 4,
         "stream": null
@@ -23921,7 +24850,7 @@
         },
         "keystoneScores": {
           "allScore": 1005,
-          "allScoreColor": "#51e05b"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": {
@@ -23934,7 +24863,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF DAY 3 Alleria Waiting Room",
           "community_ids": [],
-          "viewer_count": 65,
+          "viewer_count": 42,
           "started_at": "2026-03-26T17:03:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -24625,7 +25554,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -25225,7 +26154,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -25893,7 +26822,7 @@
         },
         "keystoneScores": {
           "allScore": 2979.9,
-          "allScoreColor": "#e85f7c"
+          "allScoreColor": "#e75e7f"
         },
         "rank": 7,
         "stream": null
@@ -26496,7 +27425,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -27144,7 +28073,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#abff91"
+          "allScoreColor": "#afff96"
         },
         "rank": 4,
         "stream": {
@@ -27157,7 +28086,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF DAY 3 Alleria Waiting Room",
           "community_ids": [],
-          "viewer_count": 65,
+          "viewer_count": 42,
           "started_at": "2026-03-26T17:03:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -27791,7 +28720,7 @@
         },
         "keystoneScores": {
           "allScore": 1687.2,
-          "allScoreColor": "#4a8ac2"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": {
@@ -27804,7 +28733,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -28478,7 +29407,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -29128,7 +30057,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -29731,7 +30660,7 @@
           "type": "live",
           "title": "!DROPS + GIFT <Liquid> RWF DAY 10 MYTHIC !ui",
           "community_ids": [],
-          "viewer_count": 989,
+          "viewer_count": 1594,
           "started_at": "2026-03-26T17:04:06Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -30385,7 +31314,7 @@
           "type": "live",
           "title": "!DROPS + GIFT <Liquid> RWF DAY 10 MYTHIC !ui",
           "community_ids": [],
-          "viewer_count": 989,
+          "viewer_count": 1594,
           "started_at": "2026-03-26T17:04:06Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -31041,15 +31970,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 481372,
-          "id": "316816678758",
+          "id": "316753563877",
           "name": "impec_",
           "user_id": "47449848",
           "game_id": "18122",
           "type": "live",
           "title": "<Liquid> RWF game time",
           "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-03-26T17:02:36Z",
+          "viewer_count": 166,
+          "started_at": "2026-03-26T20:40:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
         }
@@ -31680,7 +32609,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -33705,7 +34634,7 @@
           "type": "live",
           "title": "<Liquid> RWF day 3",
           "community_ids": [],
-          "viewer_count": 373,
+          "viewer_count": 434,
           "started_at": "2026-03-26T16:57:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -34363,7 +35292,7 @@
         },
         "keystoneScores": {
           "allScore": 2019.6,
-          "allScoreColor": "#306ddf"
+          "allScoreColor": "#206ede"
         },
         "rank": 1,
         "stream": {
@@ -34376,7 +35305,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Day 3",
           "community_ids": [],
-          "viewer_count": 688,
+          "viewer_count": 751,
           "started_at": "2026-03-26T16:51:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -35041,7 +35970,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -35694,7 +36623,7 @@
           "type": "live",
           "title": "<Liquid> mythic",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 59,
           "started_at": "2026-03-26T17:09:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -36332,7 +37261,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -36971,7 +37900,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -37640,7 +38569,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -38306,7 +39235,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -38971,7 +39900,7 @@
           "type": "live",
           "title": "<Liquid> RWF day 3",
           "community_ids": [],
-          "viewer_count": 373,
+          "viewer_count": 434,
           "started_at": "2026-03-26T16:57:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -39585,7 +40514,7 @@
         },
         "keystoneScores": {
           "allScore": 2023.6,
-          "allScoreColor": "#3b6bdf"
+          "allScoreColor": "#306ddf"
         },
         "rank": 4,
         "stream": {
@@ -39598,7 +40527,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -40801,7 +41730,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -41406,7 +42335,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -42674,7 +43603,7 @@
           "type": "live",
           "title": "<Liquid> RWF day 3",
           "community_ids": [],
-          "viewer_count": 373,
+          "viewer_count": 434,
           "started_at": "2026-03-26T16:57:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -43862,7 +44791,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.8,
-          "allScoreColor": "#3b6bdf"
+          "allScoreColor": "#306ddf"
         },
         "rank": 4,
         "stream": {
@@ -43875,7 +44804,7 @@
           "type": "live",
           "title": "hot dog dawg",
           "community_ids": [],
-          "viewer_count": 123,
+          "viewer_count": 147,
           "started_at": "2026-03-26T17:10:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -44554,7 +45483,7 @@
         },
         "keystoneScores": {
           "allScore": 670,
-          "allScoreColor": "#6fff53"
+          "allScoreColor": "#78ff5c"
         },
         "rank": 4,
         "stream": null
@@ -45157,7 +46086,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -46414,7 +47343,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#3b6bdf"
+          "allScoreColor": "#306ddf"
         },
         "rank": 1,
         "stream": null
@@ -47074,7 +48003,7 @@
           "type": "live",
           "title": "<Liquid> mythic",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 59,
           "started_at": "2026-03-26T17:09:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -47743,7 +48672,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/169/219976361-avatar.jpg",
-          "itemLevelEquipped": 269,
+          "itemLevelEquipped": 273,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -47763,10 +48692,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-26T07:37:15.733Z",
-            "updated_at": "2026-03-26T07:37:15.733Z",
+            "created_at": "2026-03-26T21:33:49.678Z",
+            "updated_at": "2026-03-26T21:33:49.678Z",
             "source": "s3",
-            "item_level_equipped": 269,
+            "item_level_equipped": 273,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -47779,7 +48708,7 @@
             "items": {
               "head": {
                 "item_id": 250042,
-                "item_level": 269,
+                "item_level": 276,
                 "enchant": 8017,
                 "icon": "inv_helm_cloth_raidwarlockmidnight_d_01",
                 "name": "Abyssal Immolator's Smoldering Flames",
@@ -47866,7 +48795,7 @@
                   13534,
                   13338,
                   13575,
-                  12796
+                  12798
                 ]
               },
               "neck": {
@@ -47905,7 +48834,7 @@
               },
               "shoulder": {
                 "item_id": 258578,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 8001,
                 "icon": "inv_cloth_draenordungeon_c_01shoulder",
                 "name": "Lightbinder Shoulderguards",
@@ -47932,11 +48861,11 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13577,
-                  12699
+                  12699,
+                  12798
                 ]
               },
               "back": {
@@ -48005,7 +48934,7 @@
               },
               "waist": {
                 "item_id": 260371,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_belt_cloth_raidwarlockmidnight_d_01",
                 "name": "Infernal Greatlock Girdle",
                 "item_quality": 4,
@@ -48035,8 +48964,8 @@
                   13534,
                   13577,
                   13334,
-                  12795,
-                  10844
+                  10844,
+                  12798
                 ]
               },
               "shirt": {
@@ -48128,7 +49057,7 @@
               },
               "legs": {
                 "item_id": 250041,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 7935,
                 "icon": "inv_pant_cloth_raidwarlockmidnight_d_01",
                 "name": "Abyssal Immolator's Pillars",
@@ -48156,16 +49085,16 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13334,
                   13339,
                   6652,
-                  13575
+                  13575,
+                  12798
                 ]
               },
               "feet": {
                 "item_id": 249305,
-                "item_level": 279,
+                "item_level": 289,
                 "enchant": 7963,
                 "icon": "inv_boot_cloth_raidwarlockmidnight_d_01",
                 "name": "Slippers of the Midnight Flame",
@@ -48195,12 +49124,12 @@
                   6652,
                   13577,
                   13335,
-                  12803
+                  12806
                 ]
               },
               "finger1": {
                 "item_id": 251217,
-                "item_level": 266,
+                "item_level": 272,
                 "enchant": 7967,
                 "icon": "inv_12_trinket_devouring_host_currency1_bronze",
                 "name": "Occlusion of Void",
@@ -48235,16 +49164,16 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12797
                 ]
               },
               "finger2": {
                 "item_id": 251093,
-                "item_level": 266,
+                "item_level": 272,
                 "enchant": 7967,
                 "icon": "inv_12_trinket_devouring_host_currency1_silver",
                 "name": "Omission of Light",
@@ -48279,11 +49208,11 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12797
                 ]
               },
               "trinket1": {
@@ -48399,7 +49328,7 @@
         },
         "keystoneScores": {
           "allScore": 1698.7,
-          "allScoreColor": "#4a8ac2"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": {
@@ -48412,7 +49341,7 @@
           "type": "live",
           "title": "<Liquid> mythic",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 59,
           "started_at": "2026-03-26T17:09:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -52240,20 +53169,20 @@
             "slug": "priest"
           },
           "spec": {
-            "id": 258,
-            "name": "Shadow",
-            "slug": "shadow",
+            "id": 256,
+            "name": "Discipline",
+            "slug": "discipline",
             "class_id": 5,
-            "role": "dps",
+            "role": "healer",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/166/233275814-avatar.jpg",
-          "itemLevelEquipped": 266,
+          "itemLevelEquipped": 267,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -52273,10 +53202,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-26T07:37:31.970Z",
-            "updated_at": "2026-03-26T07:37:31.970Z",
+            "created_at": "2026-03-26T20:41:03.518Z",
+            "updated_at": "2026-03-26T20:41:03.518Z",
             "source": "s3",
-            "item_level_equipped": 266,
+            "item_level_equipped": 267,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -52791,10 +53720,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 249346,
-                "item_level": 263,
-                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
-                "name": "Vaelgor's Final Stare",
+                "item_id": 249809,
+                "item_level": 269,
+                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
+                "name": "Locus-Walker's Ribbon",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -52810,9 +53739,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13333,
-                  12790
+                  42,
+                  13334,
+                  12796
                 ]
               },
               "mainhand": {
@@ -52880,7 +53809,7 @@
         },
         "keystoneScores": {
           "allScore": 2362.7,
-          "allScoreColor": "#9247eb"
+          "allScoreColor": "#8d4bea"
         },
         "rank": 4,
         "stream": null
@@ -53525,7 +54454,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 10 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 24,
+          "viewer_count": 22,
           "started_at": "2026-03-26T17:04:40Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -54116,7 +55045,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF DAY 3 Alleria Waiting Room",
           "community_ids": [],
-          "viewer_count": 65,
+          "viewer_count": 42,
           "started_at": "2026-03-26T17:03:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -55411,7 +56340,7 @@
         },
         "keystoneScores": {
           "allScore": 377.5,
-          "allScoreColor": "#d1ffbf"
+          "allScoreColor": "#d3ffc2"
         },
         "rank": 4,
         "stream": null
@@ -56619,7 +57548,7 @@
         },
         "keystoneScores": {
           "allScore": 335,
-          "allScoreColor": "#dfffd2"
+          "allScoreColor": "#e0ffd4"
         },
         "rank": 4,
         "stream": null
@@ -57262,7 +58191,7 @@
         },
         "keystoneScores": {
           "allScore": 1688.6,
-          "allScoreColor": "#4a8ac2"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -57908,7 +58837,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -59123,7 +60052,7 @@
         },
         "keystoneScores": {
           "allScore": 1005,
-          "allScoreColor": "#51e05b"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": {
@@ -59136,7 +60065,7 @@
           "type": "live",
           "title": "<Liquid> RWF day 3",
           "community_ids": [],
-          "viewer_count": 373,
+          "viewer_count": 434,
           "started_at": "2026-03-26T16:57:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -59793,7 +60722,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -60445,7 +61374,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -62332,7 +63261,7 @@
           "type": "live",
           "title": "!DROPS + GIFT <Liquid> RWF DAY 10 MYTHIC !ui",
           "community_ids": [],
-          "viewer_count": 989,
+          "viewer_count": 1594,
           "started_at": "2026-03-26T17:04:06Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -62955,7 +63884,7 @@
           "type": "live",
           "title": "!DROPS + GIFT <Liquid> RWF DAY 10 MYTHIC !ui",
           "community_ids": [],
-          "viewer_count": 989,
+          "viewer_count": 1594,
           "started_at": "2026-03-26T17:04:06Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -63603,7 +64532,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 3",
           "community_ids": [],
-          "viewer_count": 287,
+          "viewer_count": 238,
           "started_at": "2026-03-26T17:12:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -64247,7 +65176,7 @@
           "type": "live",
           "title": "RWF Day 3 paladins and stuff",
           "community_ids": [],
-          "viewer_count": 642,
+          "viewer_count": 718,
           "started_at": "2026-03-26T17:00:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -65528,7 +66457,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 56,
           "started_at": "2026-03-26T17:09:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -66179,7 +67108,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 56,
           "started_at": "2026-03-26T17:09:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -67498,14 +68427,14 @@
             "slug": "shaman"
           },
           "spec": {
-            "id": 262,
-            "name": "Elemental",
-            "slug": "elemental",
+            "id": 263,
+            "name": "Enhancement",
+            "slug": "enhancement",
             "class_id": 7,
             "role": "dps",
-            "is_melee": false,
+            "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "talents": "",
           "talentsDetails": [],
@@ -67531,8 +68460,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-26T07:37:24.039Z",
-            "updated_at": "2026-03-26T07:37:24.039Z",
+            "created_at": "2026-03-26T20:41:00.634Z",
+            "updated_at": "2026-03-26T20:41:00.634Z",
             "source": "s3",
             "item_level_equipped": 266,
             "item_level_total": 0,
@@ -67582,10 +68511,10 @@
                 ]
               },
               "neck": {
-                "item_id": 265739,
-                "item_level": 263,
-                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
-                "name": "Amani Heartstring Pendant",
+                "item_id": 249368,
+                "item_level": 276,
+                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
+                "name": "Eternal Voidsong Chain",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -67611,7 +68540,8 @@
                 "bonuses": [
                   6652,
                   13668,
-                  12790
+                  13334,
+                  12798
                 ]
               },
               "shoulder": {
@@ -67808,11 +68738,11 @@
                 ]
               },
               "legs": {
-                "item_id": 249978,
+                "item_id": 249649,
                 "item_level": 263,
-                "enchant": 7935,
-                "icon": "inv_pant_mail_raidshamanmidnight_d_01",
-                "name": "Leggings of the Primal Core",
+                "enchant": 8159,
+                "icon": "inv_pant_mail_dungeonharronir_c_01",
+                "name": "Elder Mossvein Breeches",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -67823,25 +68753,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7935
+                  8159
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240133,
-                    "name": "41 Int & 115 Sta",
-                    "icon": "inv_tailoring_spellthread_orange_spellthread"
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
                   }
                 ],
                 "bonuses": [
-                  13333,
-                  13339,
                   6652,
-                  13575,
-                  12790
+                  13577,
+                  12794
                 ]
               },
               "feet": {
@@ -67896,13 +68823,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240908
+                  240900
                 ],
                 "gems_detail": [
                   {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
                   }
                 ],
                 "enchants": [
@@ -67940,13 +68867,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240908
+                  240900
                 ],
                 "gems_detail": [
                   {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
                   }
                 ],
                 "enchants": [
@@ -67968,10 +68895,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249346,
+                "item_id": 193701,
                 "item_level": 269,
-                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
-                "name": "Vaelgor's Final Stare",
+                "icon": "inv_misc_enggizmos_18",
+                "name": "Algeth'ar Puzzle Box",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -67987,16 +68914,17 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  13440,
                   6652,
-                  13334,
+                  12699,
                   12796
                 ]
               },
               "trinket2": {
-                "item_id": 249809,
-                "item_level": 269,
-                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
-                "name": "Locus-Walker's Ribbon",
+                "item_id": 249343,
+                "item_level": 263,
+                "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
+                "name": "Gaze of the Alnseer",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -68013,16 +68941,16 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13334,
-                  12796
+                  13333,
+                  12790
                 ]
               },
               "mainhand": {
-                "item_id": 245770,
+                "item_id": 249287,
                 "item_level": 285,
                 "enchant": 8039,
-                "icon": "inv_staff_2h_dungeonharronir_c_02",
-                "name": "Aln'hara Cane",
+                "icon": "inv_mace_1h_raidmidnight_d_01",
+                "name": "Clutchmates' Caress",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -68046,14 +68974,43 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  12497,
-                  12066,
-                  12693,
-                  8960,
-                  8791,
-                  13622,
-                  13667
+                  6652,
+                  13335,
+                  12805
+                ]
+              },
+              "offhand": {
+                "item_id": 249287,
+                "item_level": 276,
+                "enchant": 8039,
+                "icon": "inv_mace_1h_raidmidnight_d_01",
+                "name": "Clutchmates' Caress",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12798
                 ]
               }
             }
@@ -68082,7 +69039,7 @@
         },
         "keystoneScores": {
           "allScore": 2023.6,
-          "allScoreColor": "#3b6bdf"
+          "allScoreColor": "#306ddf"
         },
         "rank": 4,
         "stream": null
@@ -68789,7 +69746,7 @@
         },
         "keystoneScores": {
           "allScore": 2018.8,
-          "allScoreColor": "#306ddf"
+          "allScoreColor": "#206ede"
         },
         "rank": 4,
         "stream": {
@@ -68802,7 +69759,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 10 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 24,
+          "viewer_count": 22,
           "started_at": "2026-03-26T17:04:40Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -68837,7 +69794,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "zuljin/111/265149551-avatar.jpg",
-          "itemLevelEquipped": 263,
+          "itemLevelEquipped": 264,
           "realm": {
             "id": 491,
             "connectedRealmId": 240,
@@ -68857,10 +69814,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-26T06:48:16.195Z",
-            "updated_at": "2026-03-26T06:48:16.195Z",
+            "created_at": "2026-03-26T21:33:51.684Z",
+            "updated_at": "2026-03-26T21:33:51.684Z",
             "source": "s3",
-            "item_level_equipped": 263,
+            "item_level_equipped": 264,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -69111,10 +70068,10 @@
                 ]
               },
               "feet": {
-                "item_id": 151330,
-                "item_level": 250,
-                "icon": "inv_boot_plate_legiondungeon_c_03",
-                "name": "Trap Jammers",
+                "item_id": 251107,
+                "item_level": 266,
+                "icon": "inv_boot_plate_dungeonharronir_c_01",
+                "name": "Oathsworn Stompers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -69130,11 +70087,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
+                  12795,
+                  13440,
                   6652,
                   13577,
-                  12699,
-                  12786
+                  12699
                 ]
               },
               "finger1": {
@@ -69295,8 +70252,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2652.2,
-          "allScoreColor": "#c442c6"
+          "allScore": 2656.2,
+          "allScoreColor": "#c141cb"
         },
         "rank": 8,
         "stream": {
@@ -70556,7 +71513,7 @@
         },
         "keystoneScores": {
           "allScore": 2351.1,
-          "allScoreColor": "#8d4bea"
+          "allScoreColor": "#884ee9"
         },
         "rank": 4,
         "stream": null
@@ -71225,7 +72182,7 @@
           "type": "live",
           "title": "!DROPS + GIFT <Liquid> RWF DAY 10 MYTHIC !ui",
           "community_ids": [],
-          "viewer_count": 989,
+          "viewer_count": 1594,
           "started_at": "2026-03-26T17:04:06Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -72503,7 +73460,7 @@
         },
         "keystoneScores": {
           "allScore": 1681.1,
-          "allScoreColor": "#4d8dbf"
+          "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
         "stream": {
@@ -72516,7 +73473,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -73090,7 +74047,7 @@
           "type": "live",
           "title": "<Liquid> Race to World First Day 3!",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 105,
           "started_at": "2026-03-26T16:56:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
@@ -73762,7 +74719,7 @@
           "type": "live",
           "title": "RWF Day 3 paladins and stuff",
           "community_ids": [],
-          "viewer_count": 642,
+          "viewer_count": 718,
           "started_at": "2026-03-26T17:00:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -74521,8 +75478,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2423,
-          "allScoreColor": "#9a3fec"
+          "allScore": 2768.7,
+          "allScoreColor": "#d24cad"
         },
         "rank": 4,
         "stream": null
@@ -75164,7 +76121,7 @@
           "type": "live",
           "title": "RWF Day 3 paladins and stuff",
           "community_ids": [],
-          "viewer_count": 642,
+          "viewer_count": 718,
           "started_at": "2026-03-26T17:00:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -75867,7 +76824,7 @@
           "type": "live",
           "title": "!DROPS + GIFT <Liquid> RWF DAY 10 MYTHIC !ui",
           "community_ids": [],
-          "viewer_count": 989,
+          "viewer_count": 1594,
           "started_at": "2026-03-26T17:04:06Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -75902,7 +76859,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/143/236155535-avatar.jpg",
-          "itemLevelEquipped": 270,
+          "itemLevelEquipped": 272,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -75922,10 +76879,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-26T07:37:33.070Z",
-            "updated_at": "2026-03-26T07:37:33.070Z",
+            "created_at": "2026-03-26T21:54:36.885Z",
+            "updated_at": "2026-03-26T21:54:36.885Z",
             "source": "s3",
-            "item_level_equipped": 270,
+            "item_level_equipped": 272,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -76375,7 +77332,7 @@
               },
               "finger2": {
                 "item_id": 249369,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 7997,
                 "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
                 "name": "Bond of Light",
@@ -76413,12 +77370,12 @@
                   6652,
                   13668,
                   13334,
-                  12795
+                  12798
                 ]
               },
               "trinket1": {
                 "item_id": 249343,
-                "item_level": 276,
+                "item_level": 289,
                 "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
                 "name": "Gaze of the Alnseer",
                 "item_quality": 4,
@@ -76438,12 +77395,12 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12802
+                  12806
                 ]
               },
               "trinket2": {
                 "item_id": 249346,
-                "item_level": 269,
+                "item_level": 276,
                 "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
                 "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
@@ -76463,7 +77420,7 @@
                 "bonuses": [
                   41,
                   13334,
-                  12796
+                  12798
                 ]
               },
               "mainhand": {
@@ -76531,7 +77488,7 @@
         },
         "keystoneScores": {
           "allScore": 1699.6,
-          "allScoreColor": "#4a8ac2"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": {
@@ -76544,7 +77501,7 @@
           "type": "live",
           "title": "!DROPS + GIFT <Liquid> RWF DAY 10 MYTHIC !ui",
           "community_ids": [],
-          "viewer_count": 989,
+          "viewer_count": 1594,
           "started_at": "2026-03-26T17:04:06Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -77812,7 +78769,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -78461,7 +79418,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -79108,7 +80065,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 56,
           "started_at": "2026-03-26T17:09:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -79754,7 +80711,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 56,
           "started_at": "2026-03-26T17:09:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -80349,7 +81306,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 56,
           "started_at": "2026-03-26T17:09:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -81703,7 +82660,7 @@
         },
         "keystoneScores": {
           "allScore": 335,
-          "allScoreColor": "#dfffd2"
+          "allScoreColor": "#e0ffd4"
         },
         "rank": 4,
         "stream": null
@@ -82939,8 +83896,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1689,
-          "allScoreColor": "#4a8ac2"
+          "allScore": 2023.5,
+          "allScoreColor": "#306ddf"
         },
         "rank": 4,
         "stream": null
@@ -86131,7 +87088,7 @@
         },
         "keystoneScores": {
           "allScore": 2048.2,
-          "allScoreColor": "#4569e0"
+          "allScoreColor": "#3b6bdf"
         },
         "rank": 4,
         "stream": null
@@ -88688,7 +89645,7 @@
         },
         "keystoneScores": {
           "allScore": 1698.7,
-          "allScoreColor": "#4a8ac2"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 1,
         "stream": null
@@ -89921,7 +90878,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 10 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 24,
+          "viewer_count": 22,
           "started_at": "2026-03-26T17:04:40Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -93128,7 +94085,7 @@
         },
         "keystoneScores": {
           "allScore": 1683.7,
-          "allScoreColor": "#4d8dbf"
+          "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
         "stream": null
@@ -94415,7 +95372,7 @@
         },
         "keystoneScores": {
           "allScore": 685,
-          "allScoreColor": "#61ff46"
+          "allScoreColor": "#6dff51"
         },
         "rank": 4,
         "stream": null
@@ -97078,7 +98035,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -97744,7 +98701,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK! DAY 3",
           "community_ids": [],
-          "viewer_count": 143,
+          "viewer_count": 126,
           "started_at": "2026-03-26T17:16:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -99632,7 +100589,7 @@
         },
         "keystoneScores": {
           "allScore": 2060.2,
-          "allScoreColor": "#4569e0"
+          "allScoreColor": "#3b6bdf"
         },
         "rank": 4,
         "stream": null
@@ -100266,7 +101223,7 @@
         },
         "keystoneScores": {
           "allScore": 335,
-          "allScoreColor": "#dfffd2"
+          "allScoreColor": "#e0ffd4"
         },
         "rank": 4,
         "stream": null
@@ -100901,7 +101858,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 10 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 24,
+          "viewer_count": 22,
           "started_at": "2026-03-26T17:04:40Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -101643,7 +102600,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 10 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 24,
+          "viewer_count": 22,
           "started_at": "2026-03-26T17:04:40Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -102286,7 +103243,7 @@
         },
         "keystoneScores": {
           "allScore": 1733.6,
-          "allScoreColor": "#4687c5"
+          "allScoreColor": "#4a8ac2"
         },
         "rank": 4,
         "stream": null
@@ -103521,7 +104478,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 3",
           "community_ids": [],
-          "viewer_count": 43,
+          "viewer_count": 23,
           "started_at": "2026-03-26T16:56:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -109881,7 +110838,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 10 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 24,
+          "viewer_count": 22,
           "started_at": "2026-03-26T17:04:40Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -110527,7 +111484,7 @@
         },
         "keystoneScores": {
           "allScore": 1005,
-          "allScoreColor": "#51e05b"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": null
@@ -113749,7 +114706,7 @@
         },
         "keystoneScores": {
           "allScore": 331.1,
-          "allScoreColor": "#dfffd2"
+          "allScoreColor": "#e0ffd4"
         },
         "rank": 4,
         "stream": null
@@ -115668,7 +116625,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/196/228388548-avatar.jpg",
-          "itemLevelEquipped": 265,
+          "itemLevelEquipped": 266,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -115688,10 +116645,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-26T13:00:04.238Z",
-            "updated_at": "2026-03-26T13:00:04.238Z",
+            "created_at": "2026-03-26T21:47:47.668Z",
+            "updated_at": "2026-03-26T21:47:47.668Z",
             "source": "s3",
-            "item_level_equipped": 265,
+            "item_level_equipped": 266,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -115821,11 +116778,11 @@
                 ]
               },
               "shoulder": {
-                "item_id": 249968,
+                "item_id": 249658,
                 "item_level": 266,
                 "enchant": 8001,
-                "icon": "inv_plate_raiddeathknightmidnight_d_01_shoulder",
-                "name": "Relentless Rider's Dreadthorns",
+                "icon": "inv_shoulder_plate_dungeonharronir_c_01",
+                "name": "Rampant Thornmantles",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -115836,7 +116793,6 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -115850,18 +116806,16 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
                   6652,
-                  13340,
-                  13574,
+                  13577,
                   12795
                 ]
               },
               "back": {
-                "item_id": 257175,
-                "item_level": 263,
-                "icon": "inv_cape_plate_outdoorvoidelf_c_01",
-                "name": "Voidbreaker's Wrap",
+                "item_id": 193712,
+                "item_level": 266,
+                "icon": "inv_leather_dragondungeon_c_01_cape",
+                "name": "Potion-Stained Cloak",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -115877,9 +116831,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12795,
+                  13440,
                   6652,
                   13577,
-                  12790
+                  12699
                 ]
               },
               "chest": {
@@ -115920,10 +116876,10 @@
                 ]
               },
               "waist": {
-                "item_id": 249380,
-                "item_level": 263,
+                "item_id": 249967,
+                "item_level": 266,
                 "icon": "inv_plate_raiddeathknightmidnight_d_01_belt",
-                "name": "Hate-Tied Waistchain",
+                "name": "Relentless Rider's Chain",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -115934,16 +116890,24 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240898
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12667,
-                  13577,
-                  13333,
-                  12790
+                  12795,
+                  13534,
+                  13440,
+                  3151
                 ]
               },
               "shirt": {
@@ -116108,7 +117072,7 @@
               },
               "finger1": {
                 "item_id": 249336,
-                "item_level": 263,
+                "item_level": 266,
                 "enchant": 7997,
                 "icon": "inv_12_jewelry_devouringhost_ring_silver2",
                 "name": "Signet of the Starved Beast",
@@ -116146,12 +117110,12 @@
                   6652,
                   13668,
                   13334,
-                  12794
+                  12795
                 ]
               },
               "finger2": {
                 "item_id": 193708,
-                "item_level": 263,
+                "item_level": 266,
                 "enchant": 7969,
                 "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
                 "name": "Platinum Star Band",
@@ -116186,11 +117150,11 @@
                   }
                 ],
                 "bonuses": [
-                  13439,
+                  12795,
+                  13440,
                   6652,
                   13668,
-                  12699,
-                  12790
+                  12699
                 ]
               },
               "trinket1": {
@@ -116296,7 +117260,7 @@
         },
         "keystoneScores": {
           "allScore": 1698.7,
-          "allScoreColor": "#4a8ac2"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -116901,7 +117865,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#3b6bdf"
+          "allScoreColor": "#306ddf"
         },
         "rank": 4,
         "stream": null
@@ -117535,7 +118499,7 @@
         },
         "keystoneScores": {
           "allScore": 2019.6,
-          "allScoreColor": "#306ddf"
+          "allScoreColor": "#206ede"
         },
         "rank": 4,
         "stream": null
@@ -118132,7 +119096,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.5,
-          "allScoreColor": "#3b6bdf"
+          "allScoreColor": "#306ddf"
         },
         "rank": 3,
         "stream": null
@@ -118781,7 +119745,7 @@
         },
         "keystoneScores": {
           "allScore": 2068.4,
-          "allScoreColor": "#4569e0"
+          "allScoreColor": "#3b6bdf"
         },
         "rank": 4,
         "stream": null
@@ -119442,7 +120406,7 @@
         },
         "keystoneScores": {
           "allScore": 1683.8,
-          "allScoreColor": "#4d8dbf"
+          "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
         "stream": null
@@ -121512,7 +122476,7 @@
         },
         "keystoneScores": {
           "allScore": 1690,
-          "allScoreColor": "#4a8ac2"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -122183,583 +123147,7 @@
         },
         "keystoneScores": {
           "allScore": 2075.4,
-          "allScoreColor": "#4d67e1"
-        },
-        "rank": 4,
-        "stream": null
-      },
-      {
-        "character": {
-          "name": "Thdlocki-303856913",
-          "level": 90,
-          "race": {
-            "id": 2,
-            "name": "Orc",
-            "slug": "orc",
-            "faction": "horde"
-          },
-          "class": {
-            "id": 9,
-            "name": "Warlock",
-            "slug": "warlock"
-          },
-          "spec": {
-            "id": 267,
-            "name": "Destruction",
-            "slug": "destruction",
-            "class_id": 9,
-            "role": "dps",
-            "is_melee": false,
-            "patch": "1.0.0",
-            "ordinal": 2
-          },
-          "talents": "",
-          "talentsDetails": [],
-          "gender": "female",
-          "thumbnail": "illidan/176/231395504-avatar.jpg",
-          "itemLevelEquipped": 254,
-          "realm": {
-            "id": 369,
-            "connectedRealmId": 207,
-            "wowRealmId": 57,
-            "wowConnectedRealmId": 57,
-            "name": "Illidan",
-            "altName": null,
-            "slug": "illidan",
-            "altSlug": "illidan",
-            "locale": "en_US",
-            "isConnected": false,
-            "realmType": "live"
-          },
-          "region": {
-            "name": "United States & Oceania",
-            "slug": "us",
-            "short_name": "US"
-          },
-          "items": {
-            "created_at": "2026-03-25T03:22:09.670Z",
-            "updated_at": "2026-03-25T03:22:09.670Z",
-            "source": "s3",
-            "item_level_equipped": 254,
-            "item_level_total": 0,
-            "artifact_traits": 0,
-            "corruption": {
-              "added": 0,
-              "resisted": 0,
-              "total": 0,
-              "cloakRank": 0,
-              "spells": []
-            },
-            "items": {
-              "head": {
-                "item_id": 266429,
-                "item_level": 246,
-                "enchant": 8015,
-                "icon": "inv_helm_cloth_questbloodelf_b_01",
-                "name": "Silvermoon Sunspire",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8015
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244005,
-                    "name": "Enchant Helm - Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  13577,
-                  12785
-                ]
-              },
-              "neck": {
-                "item_id": 265739,
-                "item_level": 263,
-                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
-                "name": "Amani Heartstring Pendant",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240983
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
-                  }
-                ],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13668,
-                  12790
-                ]
-              },
-              "shoulder": {
-                "item_id": 250040,
-                "item_level": 263,
-                "enchant": 7999,
-                "icon": "inv_shoulder_cloth_raidwarlockmidnight_d_01",
-                "name": "Abyssal Immolator's Fury",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "35",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7999
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  13333,
-                  13340,
-                  6652,
-                  13574,
-                  12790
-                ]
-              },
-              "back": {
-                "item_id": 260312,
-                "item_level": 250,
-                "icon": "inv_cape_plate_dungeonharronir_c_01",
-                "name": "Defiant Defender's Drape",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13439,
-                  6652,
-                  12699,
-                  13577,
-                  12782
-                ]
-              },
-              "chest": {
-                "item_id": 251139,
-                "item_level": 250,
-                "enchant": 7987,
-                "icon": "inv_chest_cloth_dungeonharronir_c_01",
-                "name": "Summoner's Searing Shirt",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  13439,
-                  6652,
-                  12699,
-                  13577,
-                  12782
-                ]
-              },
-              "waist": {
-                "item_id": 263265,
-                "item_level": 250,
-                "icon": "inv_belt_cloth_dungeonharronir_c_01",
-                "name": "Hara'ti Defender's Sash",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13577,
-                  12786
-                ]
-              },
-              "wrist": {
-                "item_id": 249315,
-                "item_level": 250,
-                "icon": "inv_bracer_cloth_raidpriestmidnight_d_01",
-                "name": "Voracious Wristwraps",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  41,
-                  12667,
-                  13577,
-                  13333,
-                  12786
-                ]
-              },
-              "hands": {
-                "item_id": 249330,
-                "item_level": 259,
-                "icon": "inv_glove_cloth_raidwarlockmidnight_d_01",
-                "name": "War Chaplain's Grips",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13577,
-                  13333,
-                  12789
-                ]
-              },
-              "legs": {
-                "item_id": 251090,
-                "item_level": 250,
-                "enchant": 7939,
-                "icon": "inv_pant_cloth_dungeonharronir_c_01",
-                "name": "Commander's Faded Breeches",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7939
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 240157,
-                    "name": "24 Int",
-                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
-                  }
-                ],
-                "bonuses": [
-                  13439,
-                  6652,
-                  12699,
-                  13577,
-                  12782
-                ]
-              },
-              "feet": {
-                "item_id": 251167,
-                "item_level": 243,
-                "icon": "inv_boot_cloth_dungeonharronir_c_01",
-                "name": "Nightprey Stalkers",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13439,
-                  6652,
-                  12699,
-                  13577,
-                  12780
-                ]
-              },
-              "finger1": {
-                "item_id": 240947,
-                "item_level": 246,
-                "enchant": 8021,
-                "icon": "inv_12_profession_jewelcrafting_ring2_gold",
-                "name": "Gleaming Copper Band",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240890
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  }
-                ],
-                "enchants": [
-                  8021
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  12249,
-                  12248,
-                  4785,
-                  12497,
-                  13453,
-                  8960,
-                  8790,
-                  13620
-                ]
-              },
-              "finger2": {
-                "item_id": 251148,
-                "item_level": 250,
-                "enchant": 8021,
-                "icon": "inv_12_jewelry_zulaman_troll_ring_green2",
-                "name": "Pilfered Precious Band",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240890
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  }
-                ],
-                "enchants": [
-                  8021
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
-                  }
-                ],
-                "bonuses": [
-                  13439,
-                  6652,
-                  13668,
-                  12699,
-                  12782
-                ]
-              },
-              "trinket1": {
-                "item_id": 249340,
-                "item_level": 269,
-                "icon": "inv_12_trinket_raid_voidspire_intdps1_wrapsofcosmicmadness",
-                "name": "Wraps of Cosmic Madness",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13334,
-                  12796
-                ]
-              },
-              "trinket2": {
-                "item_id": 264507,
-                "item_level": 263,
-                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
-                "name": "Crucible of Erratic Energies",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12790
-                ]
-              },
-              "mainhand": {
-                "item_id": 245770,
-                "item_level": 259,
-                "enchant": 8039,
-                "icon": "inv_staff_2h_dungeonharronir_c_02",
-                "name": "Aln'hara Cane",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8039
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244029,
-                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
-                "bonuses": [
-                  12214,
-                  12497,
-                  12066,
-                  12693,
-                  8960,
-                  8790
-                ]
-              }
-            }
-          },
-          "expansionData": null,
-          "patronLevel": null
-        },
-        "raidProgress": {
-          "raid": {
-            "type": "raid",
-            "id": 16340,
-            "difficulty": "heroic",
-            "name": "MN Tier 1 (VS / DR / MQD)",
-            "short_name": "VS/DR/MQD",
-            "wowInstanceId": 2912,
-            "slug": "tier-mn-1",
-            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
-            "expansion_id": 11
-          },
-          "totalBosses": 9,
-          "progress": {
-            "normal": 6,
-            "heroic": 7,
-            "mythic": 0
-          }
-        },
-        "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScoreColor": "#4569e0"
         },
         "rank": 4,
         "stream": null
@@ -123400,9 +123788,585 @@
         },
         "rank": 4,
         "stream": null
+      },
+      {
+        "character": {
+          "name": "Thdlocki",
+          "level": 90,
+          "race": {
+            "id": 2,
+            "name": "Orc",
+            "slug": "orc",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 9,
+            "name": "Warlock",
+            "slug": "warlock"
+          },
+          "spec": {
+            "id": 267,
+            "name": "Destruction",
+            "slug": "destruction",
+            "class_id": 9,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/176/231395504-avatar.jpg",
+          "itemLevelEquipped": 254,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-03-26T20:45:45.460Z",
+            "updated_at": "2026-03-26T20:45:45.460Z",
+            "source": "s3",
+            "item_level_equipped": 254,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 266429,
+                "item_level": 246,
+                "enchant": 8015,
+                "icon": "inv_helm_cloth_questbloodelf_b_01",
+                "name": "Silvermoon Sunspire",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8015
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244005,
+                    "name": "Enchant Helm - Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13577,
+                  12785
+                ]
+              },
+              "neck": {
+                "item_id": 265739,
+                "item_level": 263,
+                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
+                "name": "Amani Heartstring Pendant",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12790
+                ]
+              },
+              "shoulder": {
+                "item_id": 250040,
+                "item_level": 263,
+                "enchant": 7999,
+                "icon": "inv_shoulder_cloth_raidwarlockmidnight_d_01",
+                "name": "Abyssal Immolator's Fury",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7999
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243989,
+                    "name": "Enchant Shoulders - Nature's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13333,
+                  13340,
+                  6652,
+                  13574,
+                  12790
+                ]
+              },
+              "back": {
+                "item_id": 260312,
+                "item_level": 250,
+                "icon": "inv_cape_plate_dungeonharronir_c_01",
+                "name": "Defiant Defender's Drape",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  13577,
+                  12782
+                ]
+              },
+              "chest": {
+                "item_id": 251139,
+                "item_level": 250,
+                "enchant": 7987,
+                "icon": "inv_chest_cloth_dungeonharronir_c_01",
+                "name": "Summoner's Searing Shirt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  13577,
+                  12782
+                ]
+              },
+              "waist": {
+                "item_id": 263265,
+                "item_level": 250,
+                "icon": "inv_belt_cloth_dungeonharronir_c_01",
+                "name": "Hara'ti Defender's Sash",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13577,
+                  12786
+                ]
+              },
+              "wrist": {
+                "item_id": 249315,
+                "item_level": 250,
+                "icon": "inv_bracer_cloth_raidpriestmidnight_d_01",
+                "name": "Voracious Wristwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  41,
+                  12667,
+                  13577,
+                  13333,
+                  12786
+                ]
+              },
+              "hands": {
+                "item_id": 249330,
+                "item_level": 259,
+                "icon": "inv_glove_cloth_raidwarlockmidnight_d_01",
+                "name": "War Chaplain's Grips",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13333,
+                  12789
+                ]
+              },
+              "legs": {
+                "item_id": 251090,
+                "item_level": 250,
+                "enchant": 7939,
+                "icon": "inv_pant_cloth_dungeonharronir_c_01",
+                "name": "Commander's Faded Breeches",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7939
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240157,
+                    "name": "24 Int",
+                    "icon": "inv_12_tailoring_spellthread_blue_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  13577,
+                  12782
+                ]
+              },
+              "feet": {
+                "item_id": 251167,
+                "item_level": 243,
+                "icon": "inv_boot_cloth_dungeonharronir_c_01",
+                "name": "Nightprey Stalkers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12699,
+                  13577,
+                  12780
+                ]
+              },
+              "finger1": {
+                "item_id": 240947,
+                "item_level": 246,
+                "enchant": 8021,
+                "icon": "inv_12_profession_jewelcrafting_ring2_gold",
+                "name": "Gleaming Copper Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12249,
+                  12248,
+                  4785,
+                  12497,
+                  13453,
+                  8960,
+                  8790,
+                  13620
+                ]
+              },
+              "finger2": {
+                "item_id": 251148,
+                "item_level": 250,
+                "enchant": 8021,
+                "icon": "inv_12_jewelry_zulaman_troll_ring_green2",
+                "name": "Pilfered Precious Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13668,
+                  12699,
+                  12782
+                ]
+              },
+              "trinket1": {
+                "item_id": 249340,
+                "item_level": 269,
+                "icon": "inv_12_trinket_raid_voidspire_intdps1_wrapsofcosmicmadness",
+                "name": "Wraps of Cosmic Madness",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12796
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 245770,
+                "item_level": 259,
+                "enchant": 8039,
+                "icon": "inv_staff_2h_dungeonharronir_c_02",
+                "name": "Aln'hara Cane",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8790
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 6,
+            "heroic": 7,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 4,
+        "stream": null
       }
     ],
-    "fetchedAt": "2026-03-26T20:13:22.655Z"
+    "fetchedAt": "2026-03-26T22:09:16.440Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -133657,21 +134621,7 @@
           "allScoreColor": "#5fb395"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479906,
-          "id": "316591032807",
-          "name": "gingitv",
-          "user_id": "28241419",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<ECHO> RACE TO WORLD FIRST DAY 2 !restedxp !summer",
-          "community_ids": [],
-          "viewer_count": 4998,
-          "started_at": "2026-03-26T06:07:54Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -141907,21 +142857,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479906,
-          "id": "316591032807",
-          "name": "gingitv",
-          "user_id": "28241419",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<ECHO> RACE TO WORLD FIRST DAY 2 !restedxp !summer",
-          "community_ids": [],
-          "viewer_count": 4998,
-          "started_at": "2026-03-26T06:07:54Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -143909,21 +144845,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479906,
-          "id": "316591032807",
-          "name": "gingitv",
-          "user_id": "28241419",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<ECHO> RACE TO WORLD FIRST DAY 2 !restedxp !summer",
-          "community_ids": [],
-          "viewer_count": 4998,
-          "started_at": "2026-03-26T06:07:54Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -150874,21 +151796,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479906,
-          "id": "316591032807",
-          "name": "gingitv",
-          "user_id": "28241419",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<ECHO> RACE TO WORLD FIRST DAY 2 !restedxp !summer",
-          "community_ids": [],
-          "viewer_count": 4998,
-          "started_at": "2026-03-26T06:07:54Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -151523,21 +152431,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -152813,21 +153707,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479906,
-          "id": "316591032807",
-          "name": "gingitv",
-          "user_id": "28241419",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<ECHO> RACE TO WORLD FIRST DAY 2 !restedxp !summer",
-          "community_ids": [],
-          "viewer_count": 4998,
-          "started_at": "2026-03-26T06:07:54Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -153513,21 +154393,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479906,
-          "id": "316591032807",
-          "name": "gingitv",
-          "user_id": "28241419",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<ECHO> RACE TO WORLD FIRST DAY 2 !restedxp !summer",
-          "community_ids": [],
-          "viewer_count": 4998,
-          "started_at": "2026-03-26T06:07:54Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -177123,21 +177989,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479906,
-          "id": "316591032807",
-          "name": "gingitv",
-          "user_id": "28241419",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<ECHO> RACE TO WORLD FIRST DAY 2 !restedxp !summer",
-          "community_ids": [],
-          "viewer_count": 4998,
-          "started_at": "2026-03-26T06:07:54Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -188259,21 +189111,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479922,
-          "id": "315674986709",
-          "name": "norskenwow",
-          "user_id": "464162627",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> RWF Myth week day2 | !splits | !restedxp | !ui",
-          "community_ids": [],
-          "viewer_count": 29,
-          "started_at": "2026-03-26T06:18:01Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_norskenwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -188825,21 +189663,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479922,
-          "id": "315674986709",
-          "name": "norskenwow",
-          "user_id": "464162627",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> RWF Myth week day2 | !splits | !restedxp | !ui",
-          "community_ids": [],
-          "viewer_count": 29,
-          "started_at": "2026-03-26T06:18:01Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_norskenwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -194021,21 +194845,7 @@
           "allScoreColor": "#5fb692"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479922,
-          "id": "315674986709",
-          "name": "norskenwow",
-          "user_id": "464162627",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> RWF Myth week day2 | !splits | !restedxp | !ui",
-          "community_ids": [],
-          "viewer_count": 29,
-          "started_at": "2026-03-26T06:18:01Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_norskenwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -194665,21 +195475,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479922,
-          "id": "315674986709",
-          "name": "norskenwow",
-          "user_id": "464162627",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> RWF Myth week day2 | !splits | !restedxp | !ui",
-          "community_ids": [],
-          "viewer_count": 29,
-          "started_at": "2026-03-26T06:18:01Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_norskenwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -195314,7 +196110,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/201/189191881-avatar.jpg",
-          "itemLevelEquipped": 265,
+          "itemLevelEquipped": 270,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -195334,10 +196130,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-26T06:23:30.676Z",
-            "updated_at": "2026-03-26T06:23:30.676Z",
+            "created_at": "2026-03-26T21:43:57.492Z",
+            "updated_at": "2026-03-26T21:43:57.492Z",
             "source": "s3",
-            "item_level_equipped": 265,
+            "item_level_equipped": 270,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -195468,7 +196264,7 @@
               },
               "shoulder": {
                 "item_id": 260374,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 7999,
                 "icon": "inv_shoulder_mail_raidshamanmidnight_d_01",
                 "name": "Primal Spark Pauldrons",
@@ -195498,8 +196294,8 @@
                   40,
                   13577,
                   13334,
-                  12795,
-                  10844
+                  10844,
+                  12798
                 ]
               },
               "back": {
@@ -195530,7 +196326,7 @@
               },
               "chest": {
                 "item_id": 249991,
-                "item_level": 263,
+                "item_level": 289,
                 "enchant": 7987,
                 "icon": "inv_chest_mail_raidhuntermidnight_d_01",
                 "name": "Primal Sentry's Scaleplate",
@@ -195558,11 +196354,11 @@
                   }
                 ],
                 "bonuses": [
-                  12794,
-                  13334,
+                  13335,
                   13336,
                   6652,
-                  13575
+                  13575,
+                  12806
                 ]
               },
               "waist": {
@@ -195602,10 +196398,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 249304,
-                "item_level": 263,
-                "icon": "inv_bracer_mail_raidshamanmidnight_d_01",
-                "name": "Fallen King's Cuffs",
+                "item_id": 244568,
+                "item_level": 246,
+                "icon": "inv_bracer_mail_questbloodelf_b_01",
+                "name": "Thalassian Competitor's Chain Cuffs",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -195616,16 +196412,27 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240918
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240918,
+                    "name": "16 Vers & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_blue"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  43,
-                  12667,
-                  13577,
-                  13334,
-                  12794
+                  12245,
+                  13576,
+                  12497,
+                  13571,
+                  13448,
+                  8960,
+                  12384,
+                  8791
                 ]
               },
               "hands": {
@@ -195659,7 +196466,7 @@
               },
               "legs": {
                 "item_id": 249987,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 8159,
                 "icon": "inv_pant_mail_raidhuntermidnight_d_01",
                 "name": "Primal Sentry's Legguards",
@@ -195687,19 +196494,19 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13334,
                   13339,
                   6652,
-                  13575
+                  13575,
+                  12798
                 ]
               },
               "feet": {
-                "item_id": 251084,
-                "item_level": 263,
-                "enchant": 7963,
-                "icon": "inv_boot_mail_dungeonharronir_c_01",
-                "name": "Whipcoil Sabatons",
+                "item_id": 249990,
+                "item_level": 266,
+                "enchant": 7993,
+                "icon": "inv_boot_mail_raidhuntermidnight_d_01",
+                "name": "Primal Sentry's Swiftsteps",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -195713,21 +196520,20 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7963
+                  7993
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243953,
-                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  13439,
-                  43,
-                  13577,
-                  12699,
-                  12790
+                  6652,
+                  12795,
+                  13440,
+                  3151
                 ]
               },
               "finger1": {
@@ -195819,7 +196625,7 @@
               },
               "trinket1": {
                 "item_id": 249343,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
                 "name": "Gaze of the Alnseer",
                 "item_quality": 4,
@@ -195839,7 +196645,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12795
+                  12798
                 ]
               },
               "trinket2": {
@@ -195869,11 +196675,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 249288,
-                "item_level": 269,
+                "item_id": 265337,
+                "item_level": 285,
                 "enchant": 8039,
-                "icon": "inv_bow_1h_raidmidnight_d_01",
-                "name": "Ranger-Captain's Lethal Recurve",
+                "icon": "inv_bow_1h_dungeonharronir_c_01",
+                "name": "Aln'hara Sprigshot",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -195897,9 +196703,14 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13334,
-                  12796
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8791,
+                  13622,
+                  13667
                 ]
               }
             }
@@ -197211,21 +198022,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479922,
-          "id": "315674986709",
-          "name": "norskenwow",
-          "user_id": "464162627",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> RWF Myth week day2 | !splits | !restedxp | !ui",
-          "community_ids": [],
-          "viewer_count": 29,
-          "started_at": "2026-03-26T06:18:01Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_norskenwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -202846,7 +203643,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/145/187205521-avatar.jpg",
-          "itemLevelEquipped": 267,
+          "itemLevelEquipped": 272,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -202866,10 +203663,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-26T11:19:33.882Z",
-            "updated_at": "2026-03-26T11:19:33.882Z",
+            "created_at": "2026-03-26T21:36:47.480Z",
+            "updated_at": "2026-03-26T21:36:47.480Z",
             "source": "s3",
-            "item_level_equipped": 267,
+            "item_level_equipped": 272,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -202943,13 +203740,13 @@
                 "domination_shards": [],
                 "tier": "35",
                 "gems": [
-                  240898
+                  240983
                 ],
                 "gems_detail": [
                   {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
                   }
                 ],
                 "enchants": [],
@@ -202999,7 +203796,8 @@
               },
               "shoulder": {
                 "item_id": 249959,
-                "item_level": 263,
+                "item_level": 289,
+                "enchant": 8001,
                 "icon": "inv_shoulder_plate_raidpaladinmidnight_d_01",
                 "name": "Luminant Verdict's Providence Watch",
                 "item_quality": 4,
@@ -203015,14 +203813,22 @@
                 "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12794,
-                  13334,
+                  13335,
                   13340,
-                  40,
-                  13574
+                  6652,
+                  13574,
+                  12806
                 ]
               },
               "back": {
@@ -203164,10 +203970,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 237908,
-                "item_level": 246,
-                "icon": "inv_plate_questbloodelf_b_01_bracer",
-                "name": "Thalassian Competitor's Plate Armguards",
+                "item_id": 259948,
+                "item_level": 263,
+                "icon": "inv_bracer_plate_outdoorvoidelf_c_01",
+                "name": "Preyseeker's Polished Vambraces",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -203178,27 +203984,15 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240898
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12245,
-                  13576,
-                  12497,
-                  13571,
-                  13448,
-                  8960,
-                  12384,
-                  8791
+                  6652,
+                  12667,
+                  13577,
+                  12790
                 ]
               },
               "hands": {
@@ -203303,50 +204097,6 @@
                 ]
               },
               "finger1": {
-                "item_id": 193708,
-                "item_level": 263,
-                "enchant": 7969,
-                "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
-                "name": "Platinum Star Band",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240983
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
-                  }
-                ],
-                "enchants": [
-                  7969
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243959,
-                    "name": "Enchant Ring - Zul'jin's Mast",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  13439,
-                  6652,
-                  13668,
-                  12699,
-                  12790
-                ]
-              },
-              "finger2": {
                 "item_id": 49812,
                 "item_level": 266,
                 "enchant": 7969,
@@ -203390,9 +204140,52 @@
                   12699
                 ]
               },
+              "finger2": {
+                "item_id": 249336,
+                "item_level": 276,
+                "enchant": 7969,
+                "icon": "inv_12_jewelry_devouringhost_ring_silver2",
+                "name": "Signet of the Starved Beast",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240898
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                  }
+                ],
+                "enchants": [
+                  7969
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243959,
+                    "name": "Enchant Ring - Zul'jin's Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13335,
+                  12802
+                ]
+              },
               "trinket1": {
                 "item_id": 193701,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_misc_enggizmos_18",
                 "name": "Algeth'ar Puzzle Box",
                 "item_quality": 4,
@@ -203410,15 +204203,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
-                  12699
+                  12699,
+                  12798
                 ]
               },
               "trinket2": {
                 "item_id": 249342,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_12_trinket_raid_voidspire_strdps_hearthofancienthunger",
                 "name": "Heart of Ancient Hunger",
                 "item_quality": 4,
@@ -203438,7 +204231,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12795
+                  12798
                 ]
               },
               "mainhand": {
@@ -214790,21 +215583,7 @@
           "allScoreColor": "#51e05b"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -216084,21 +216863,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -218633,21 +219398,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -219337,7 +220088,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/92/189200476-avatar.jpg",
-          "itemLevelEquipped": 264,
+          "itemLevelEquipped": 266,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -219357,10 +220108,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-26T16:40:42.443Z",
-            "updated_at": "2026-03-26T16:40:42.443Z",
+            "created_at": "2026-03-26T21:13:44.553Z",
+            "updated_at": "2026-03-26T21:13:44.553Z",
             "source": "s3",
-            "item_level_equipped": 264,
+            "item_level_equipped": 266,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -219456,10 +220207,10 @@
                 ]
               },
               "neck": {
-                "item_id": 249368,
-                "item_level": 263,
-                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
-                "name": "Eternal Voidsong Chain",
+                "item_id": 50228,
+                "item_level": 266,
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Barbed Ymirheim Choker",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -219471,22 +220222,23 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240983
+                  240906
                 ],
                 "gems_detail": [
                   {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
                   }
                 ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12795,
+                  13440,
                   6652,
                   13668,
-                  13333,
-                  12790
+                  12699
                 ]
               },
               "shoulder": {
@@ -219898,7 +220650,7 @@
               },
               "mainhand": {
                 "item_id": 251885,
-                "item_level": 250,
+                "item_level": 263,
                 "enchant": 8051,
                 "icon": "inv_sword_1h_draenorcrafted_d_01_c_alliance",
                 "name": "Radiant Foil",
@@ -219919,13 +220671,13 @@
                 ],
                 "enchants_detail": [],
                 "bonuses": [
-                  12786,
-                  6652
+                  6652,
+                  12790
                 ]
               },
               "offhand": {
                 "item_id": 251202,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_12al_armyoflight_defense_shield01",
                 "name": "Reflux Reflector",
                 "item_quality": 4,
@@ -219943,10 +220695,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
-                  12699
+                  12699,
+                  12798
                 ]
               }
             }
@@ -245439,25 +246191,11 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1330.1,
-          "allScoreColor": "#5fb692"
+          "allScore": 1660.5,
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479922,
-          "id": "315674986709",
-          "name": "norskenwow",
-          "user_id": "464162627",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> RWF Myth week day2 | !splits | !restedxp | !ui",
-          "community_ids": [],
-          "viewer_count": 29,
-          "started_at": "2026-03-26T06:18:01Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_norskenwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -250438,21 +251176,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479922,
-          "id": "315674986709",
-          "name": "norskenwow",
-          "user_id": "464162627",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> RWF Myth week day2 | !splits | !restedxp | !ui",
-          "community_ids": [],
-          "viewer_count": 29,
-          "started_at": "2026-03-26T06:18:01Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_norskenwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -253061,21 +253785,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -253709,21 +254419,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -254394,21 +255090,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -255052,21 +255734,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -280704,20 +281372,20 @@
             "slug": "shaman"
           },
           "spec": {
-            "id": 262,
-            "name": "Elemental",
-            "slug": "elemental",
+            "id": 264,
+            "name": "Restoration",
+            "slug": "restoration",
             "class_id": 7,
-            "role": "dps",
+            "role": "healer",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 2
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/80/189962320-avatar.jpg",
-          "itemLevelEquipped": 266,
+          "itemLevelEquipped": 269,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -280737,10 +281405,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-25T22:19:07.798Z",
-            "updated_at": "2026-03-25T22:19:07.798Z",
+            "created_at": "2026-03-26T21:43:56.998Z",
+            "updated_at": "2026-03-26T21:43:56.998Z",
             "source": "s3",
-            "item_level_equipped": 266,
+            "item_level_equipped": 269,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -280754,7 +281422,7 @@
               "head": {
                 "item_id": 249979,
                 "item_level": 266,
-                "enchant": 8015,
+                "enchant": 8017,
                 "icon": "inv_helm_mail_raidshamanmidnight_d_01",
                 "name": "Locus of the Primal Core",
                 "item_quality": 4,
@@ -280817,13 +281485,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8015
+                  8017
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244005,
-                    "name": "Enchant Helm - Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -280851,13 +281519,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240865
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240865,
-                    "name": "11 Mast & 4 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_fire_purple"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [],
@@ -280872,7 +281540,7 @@
               "shoulder": {
                 "item_id": 260374,
                 "item_level": 266,
-                "enchant": 7999,
+                "enchant": 8001,
                 "icon": "inv_shoulder_mail_raidshamanmidnight_d_01",
                 "name": "Primal Spark Pauldrons",
                 "item_quality": 4,
@@ -280888,13 +281556,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7999
+                  8001
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243989,
-                    "name": "Enchant Shoulders - Nature's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -280984,13 +281652,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240865
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240865,
-                    "name": "11 Mast & 4 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_fire_purple"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [],
@@ -281019,13 +281687,21 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12245,
-                  13554,
+                  13576,
                   12497,
                   13571,
                   13448,
@@ -281036,7 +281712,7 @@
               },
               "hands": {
                 "item_id": 249980,
-                "item_level": 269,
+                "item_level": 276,
                 "icon": "inv_glove_mail_raidshamanmidnight_d_01",
                 "name": "Earthgrips of the Primal Core",
                 "item_quality": 4,
@@ -281055,17 +281731,17 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13334,
+                  12802,
+                  13335,
                   13337,
                   6652,
-                  13574,
-                  12796
+                  13574
                 ]
               },
               "legs": {
                 "item_id": 249978,
-                "item_level": 266,
-                "enchant": 7934,
+                "item_level": 276,
+                "enchant": 7935,
                 "icon": "inv_pant_mail_raidshamanmidnight_d_01",
                 "name": "Leggings of the Primal Core",
                 "item_quality": 4,
@@ -281082,29 +281758,29 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7934
+                  7935
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240094,
-                    "name": "32 Int & 70 Sta",
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
                     "icon": "inv_tailoring_spellthread_orange_spellthread"
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13334,
                   13339,
                   6652,
-                  13575
+                  13575,
+                  12798
                 ]
               },
               "feet": {
-                "item_id": 249320,
-                "item_level": 259,
+                "item_id": 193715,
+                "item_level": 276,
                 "enchant": 7963,
-                "icon": "inv_boot_mail_raidevokermidnight_d_01",
-                "name": "Sabatons of Obscurement",
+                "icon": "inv_mail_dragondungeon_c_01_boot",
+                "name": "Boots of Explosive Growth",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -281128,16 +281804,17 @@
                   }
                 ],
                 "bonuses": [
+                  13440,
                   6652,
                   13577,
-                  13334,
-                  12793
+                  12699,
+                  12798
                 ]
               },
               "finger1": {
                 "item_id": 249369,
                 "item_level": 266,
-                "enchant": 7965,
+                "enchant": 7967,
                 "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
                 "name": "Bond of Light",
                 "item_quality": 4,
@@ -281161,13 +281838,13 @@
                   }
                 ],
                 "enchants": [
-                  7965
+                  7967
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243955,
-                    "name": "Enchant Ring - Amani Mast",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -281180,7 +281857,7 @@
               "finger2": {
                 "item_id": 259912,
                 "item_level": 263,
-                "enchant": 7965,
+                "enchant": 7967,
                 "icon": "inv_jewelcrafting_90_lvlupring_red",
                 "name": "Preyseeker's Signet",
                 "item_quality": 4,
@@ -281194,23 +281871,23 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240875
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240875,
-                    "name": "11 Crit & 4 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_void_red"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [
-                  7965
+                  7967
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243955,
-                    "name": "Enchant Ring - Amani Mast",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
@@ -281335,21 +282012,7 @@
           "allScoreColor": "#51e05b"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 479905,
-          "id": "316812174566",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> MYTHIC WEEK SLAM !ui !amd !rxptracker",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-03-26T06:04:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -284015,8 +284678,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-26T06:23:31.170Z",
-            "updated_at": "2026-03-26T06:23:31.170Z",
+            "created_at": "2026-03-26T21:36:53.874Z",
+            "updated_at": "2026-03-26T21:36:53.874Z",
             "source": "s3",
             "item_level_equipped": 266,
             "item_level_total": 0,
@@ -284197,10 +284860,10 @@
                 ]
               },
               "waist": {
-                "item_id": 263265,
-                "item_level": 263,
-                "icon": "inv_belt_cloth_dungeonharronir_c_01",
-                "name": "Hara'ti Defender's Sash",
+                "item_id": 260371,
+                "item_level": 266,
+                "icon": "inv_belt_cloth_raidwarlockmidnight_d_01",
+                "name": "Infernal Greatlock Girdle",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -284211,13 +284874,25 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240898
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  6652,
+                  13534,
                   13577,
-                  12790
+                  13334,
+                  12795,
+                  10844
                 ]
               },
               "wrist": {
@@ -284559,8 +285234,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1189.3,
-          "allScoreColor": "#5ec87d"
+          "allScore": 1523.2,
+          "allScoreColor": "#599eac"
         },
         "rank": 4,
         "stream": null
@@ -288466,7 +289141,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-03-26T20:13:22.753Z"
+    "fetchedAt": "2026-03-26T22:09:16.575Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -472779,6 +473454,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-03-26T20:13:22.880Z"
+    "fetchedAt": "2026-03-26T22:09:16.718Z"
   }
 }
