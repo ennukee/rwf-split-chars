@@ -2594,7 +2594,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2290.4,
+          "allScore": 2292.3,
           "allScoreColor": "#4b8bc1"
         },
         "rank": 7,
@@ -2629,7 +2629,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "sargeras/10/186997514-avatar.jpg",
-          "itemLevelEquipped": 270,
+          "itemLevelEquipped": 271,
           "realm": {
             "id": 428,
             "connectedRealmId": 231,
@@ -2649,10 +2649,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-02T07:07:04.874Z",
-            "updated_at": "2026-04-02T07:07:04.874Z",
+            "created_at": "2026-04-02T22:47:35.594Z",
+            "updated_at": "2026-04-02T22:47:35.594Z",
             "source": "s3",
-            "item_level_equipped": 270,
+            "item_level_equipped": 271,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -2784,7 +2784,7 @@
               },
               "shoulder": {
                 "item_id": 250049,
-                "item_level": 272,
+                "item_level": 276,
                 "enchant": 7998,
                 "icon": "inv_shoulder_cloth_raidpriestmidnight_d_01",
                 "name": "Blind Oath's Seraphguards",
@@ -2816,7 +2816,7 @@
                   13440,
                   13340,
                   13574,
-                  12797
+                  12798
                 ]
               },
               "back": {
@@ -3062,7 +3062,7 @@
               },
               "feet": {
                 "item_id": 49805,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_boots_cloth_26",
                 "name": "Ice-Steeped Sandals",
                 "item_quality": 4,
@@ -3080,11 +3080,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13577,
-                  12699
+                  12699,
+                  12798
                 ]
               },
               "finger1": {
@@ -3524,7 +3524,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3182.4,
+          "allScore": 3198.3,
           "allScoreColor": "#e3598b"
         },
         "rank": 8,
@@ -7891,7 +7891,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 836,
+          "viewer_count": 783,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -7913,20 +7913,20 @@
             "slug": "monk"
           },
           "spec": {
-            "id": 269,
-            "name": "Windwalker",
-            "slug": "windwalker",
+            "id": 268,
+            "name": "Brewmaster",
+            "slug": "brewmaster",
             "class_id": 10,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "5.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/48/220561200-avatar.jpg",
-          "itemLevelEquipped": 269,
+          "itemLevelEquipped": 270,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -7946,10 +7946,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-31T22:38:36.010Z",
-            "updated_at": "2026-03-31T22:38:36.010Z",
+            "created_at": "2026-04-03T00:33:28.800Z",
+            "updated_at": "2026-04-03T00:33:28.800Z",
             "source": "s3",
-            "item_level_equipped": 269,
+            "item_level_equipped": 270,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -8065,7 +8065,7 @@
               },
               "back": {
                 "item_id": 249624,
-                "item_level": 259,
+                "item_level": 266,
                 "icon": "inv_cape_leather_dungeonharronir_c_01",
                 "name": "Osseoclad Paledrape",
                 "item_quality": 4,
@@ -8083,9 +8083,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12793,
                   41,
-                  13577
+                  13577,
+                  12795
                 ]
               },
               "chest": {
@@ -8126,10 +8126,10 @@
                 ]
               },
               "waist": {
-                "item_id": 249643,
-                "item_level": 250,
-                "icon": "inv_belt_leather_dungeonharronir_c_01",
-                "name": "Osseoclad Waistbone",
+                "item_id": 49806,
+                "item_level": 266,
+                "icon": "inv_belt_65",
+                "name": "Flayer's Black Belt",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -8145,10 +8145,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12786,
+                  12795,
+                  13440,
                   6652,
                   12667,
-                  13577
+                  13577,
+                  12699
                 ]
               },
               "shirt": {
@@ -8899,8 +8901,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2719.3,
-          "allScoreColor": "#9643ec"
+          "allScore": 2912.3,
+          "allScoreColor": "#c241c9"
         },
         "rank": 7,
         "stream": null
@@ -12435,7 +12437,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 179,
+          "viewer_count": 193,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -13109,7 +13111,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 836,
+          "viewer_count": 783,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -14816,7 +14818,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -15471,7 +15473,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -17238,7 +17240,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 1018,
+          "viewer_count": 908,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -18904,7 +18906,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 146,
+          "viewer_count": 154,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -19507,7 +19509,7 @@
           "type": "live",
           "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
           "community_ids": [],
-          "viewer_count": 39,
+          "viewer_count": 83,
           "started_at": "2026-04-02T21:34:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -20164,7 +20166,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 512207,
+          "id": "316284359031",
+          "name": "hopefulx",
+          "user_id": "123889650",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF DAY 10 !ui",
+          "community_ids": [],
+          "viewer_count": 406,
+          "started_at": "2026-04-02T22:25:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -21484,7 +21500,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 146,
+          "viewer_count": 154,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -22145,7 +22161,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 146,
+          "viewer_count": 154,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -24064,7 +24080,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 512207,
+          "id": "316284359031",
+          "name": "hopefulx",
+          "user_id": "123889650",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF DAY 10 !ui",
+          "community_ids": [],
+          "viewer_count": 406,
+          "started_at": "2026-04-02T22:25:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -24701,7 +24731,21 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 512207,
+          "id": "316284359031",
+          "name": "hopefulx",
+          "user_id": "123889650",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF DAY 10 !ui",
+          "community_ids": [],
+          "viewer_count": 406,
+          "started_at": "2026-04-02T22:25:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -25344,7 +25388,21 @@
           "allScoreColor": "#a335ee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 512207,
+          "id": "316284359031",
+          "name": "hopefulx",
+          "user_id": "123889650",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF DAY 10 !ui",
+          "community_ids": [],
+          "viewer_count": 406,
+          "started_at": "2026-04-02T22:25:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -29874,7 +29932,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -31187,7 +31245,7 @@
           "type": "live",
           "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
           "community_ids": [],
-          "viewer_count": 39,
+          "viewer_count": 83,
           "started_at": "2026-04-02T21:34:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -32425,7 +32483,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -33780,7 +33838,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 179,
+          "viewer_count": 193,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -36369,7 +36427,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -38303,7 +38361,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 179,
+          "viewer_count": 193,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -38956,7 +39014,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -41454,7 +41512,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -42125,7 +42183,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -42829,7 +42887,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 146,
+          "viewer_count": 154,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -43432,7 +43490,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -44085,7 +44143,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -44747,7 +44805,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 146,
+          "viewer_count": 154,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -45380,7 +45438,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -46670,7 +46728,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 836,
+          "viewer_count": 783,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -47886,7 +47944,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 836,
+          "viewer_count": 783,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -49836,7 +49894,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 836,
+          "viewer_count": 783,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -56349,7 +56407,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -57620,7 +57678,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -58888,7 +58946,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 836,
+          "viewer_count": 783,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -59558,7 +59616,7 @@
           "type": "live",
           "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
           "community_ids": [],
-          "viewer_count": 39,
+          "viewer_count": 83,
           "started_at": "2026-04-02T21:34:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -64504,7 +64562,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -65831,7 +65889,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -70960,8 +71018,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 170,
-          "allScoreColor": "#ffffff"
+          "allScore": 445,
+          "allScoreColor": "#e5ffda"
         },
         "rank": 4,
         "stream": null
@@ -72154,21 +72212,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -76179,7 +76223,7 @@
           "type": "live",
           "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
           "community_ids": [],
-          "viewer_count": 39,
+          "viewer_count": 83,
           "started_at": "2026-04-02T21:34:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -79961,21 +80005,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -81831,7 +81861,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 179,
+          "viewer_count": 193,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -86324,7 +86354,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -89591,7 +89621,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -90293,7 +90323,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -93522,7 +93552,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -94148,7 +94178,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -95385,7 +95415,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 512207,
+          "id": "316284359031",
+          "name": "hopefulx",
+          "user_id": "123889650",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF DAY 10 !ui",
+          "community_ids": [],
+          "viewer_count": 406,
+          "started_at": "2026-04-02T22:25:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -96663,7 +96707,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 1018,
+          "viewer_count": 908,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -105092,21 +105136,7 @@
           "allScoreColor": "#5fb099"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -107714,7 +107744,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -111485,7 +111515,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 1018,
+          "viewer_count": 908,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -112835,7 +112865,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 1018,
+          "viewer_count": 908,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -115660,7 +115690,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 1018,
+          "viewer_count": 908,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -116329,7 +116359,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -117019,7 +117049,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -118248,7 +118278,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -118928,7 +118958,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -130162,7 +130192,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 1018,
+          "viewer_count": 908,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -134547,21 +134577,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -135230,21 +135246,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -143933,7 +143935,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -144552,7 +144554,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 535,
+          "viewer_count": 674,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -147766,21 +147768,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -149044,21 +149032,7 @@
           "allScoreColor": "#4fff35"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -150390,7 +150364,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
           "community_ids": [],
-          "viewer_count": 1469,
+          "viewer_count": 1342,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -151693,7 +151667,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 41,
+          "viewer_count": 46,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -159371,21 +159345,7 @@
           "allScoreColor": "#4485c7"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 511374,
-          "id": "315787692116",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF Day 17 | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 24,
-          "started_at": "2026-04-02T17:04:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -182603,7 +182563,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-02T22:13:50.966Z"
+    "fetchedAt": "2026-04-03T00:37:48.207Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -405424,7 +405384,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-02T22:13:51.139Z"
+    "fetchedAt": "2026-04-03T00:37:53.315Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -630772,6 +630732,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-02T22:13:51.334Z"
+    "fetchedAt": "2026-04-03T00:37:56.558Z"
   }
 }
