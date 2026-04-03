@@ -3524,8 +3524,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3198.3,
-          "allScoreColor": "#e3598b"
+          "allScore": 3214.7,
+          "allScoreColor": "#e55b85"
         },
         "rank": 8,
         "stream": null
@@ -6864,7 +6864,7 @@
           "totalBosses": 9,
           "progress": {
             "normal": 9,
-            "heroic": 3,
+            "heroic": 4,
             "mythic": 0
           }
         },
@@ -7891,7 +7891,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 783,
+          "viewer_count": 608,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -8901,8 +8901,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2912.3,
-          "allScoreColor": "#c241c9"
+          "allScore": 2942.3,
+          "allScoreColor": "#c845bf"
         },
         "rank": 7,
         "stream": null
@@ -8956,8 +8956,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-02T17:28:55.911Z",
-            "updated_at": "2026-04-02T17:28:55.911Z",
+            "created_at": "2026-04-03T01:09:22.601Z",
+            "updated_at": "2026-04-03T01:09:22.601Z",
             "source": "s3",
             "item_level_equipped": 262,
             "item_level_total": 0,
@@ -9135,6 +9135,7 @@
               "chest": {
                 "item_id": 250063,
                 "item_level": 259,
+                "enchant": 7987,
                 "icon": "inv_chest_cloth_raidmagemidnight_d_01",
                 "name": "Voidbreaker's Robe",
                 "item_quality": 4,
@@ -9150,8 +9151,16 @@
                 "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   13336,
                   6652,
@@ -9196,10 +9205,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 49809,
-                "item_level": 263,
-                "icon": "inv_bracer_32a",
-                "name": "Wristguards of Subterranean Moss",
+                "item_id": 251108,
+                "item_level": 266,
+                "icon": "inv_bracer_cloth_dungeonharronir_c_01",
+                "name": "Wraps of Watchful Wrath",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -9215,7 +9224,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12794,
+                  12795,
                   13440,
                   6652,
                   12667,
@@ -9255,6 +9264,7 @@
               "legs": {
                 "item_id": 250059,
                 "item_level": 263,
+                "enchant": 7934,
                 "icon": "inv_pant_cloth_raidmagemidnight_d_01",
                 "name": "Voidbreaker's Britches",
                 "item_quality": 4,
@@ -9270,8 +9280,16 @@
                 "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7934
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240094,
+                    "name": "32 Int & 70 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
+                  }
+                ],
                 "bonuses": [
                   12794,
                   6652,
@@ -9323,8 +9341,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240891
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240891,
+                    "name": "14 Haste & 6 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -9717,8 +9743,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2367.3,
-          "allScoreColor": "#3f82ca"
+          "allScore": 2419.4,
+          "allScoreColor": "#347cd0"
         },
         "rank": 8,
         "stream": null
@@ -12437,7 +12463,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 193,
+          "viewer_count": 123,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -13093,7 +13119,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -13111,7 +13137,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 783,
+          "viewer_count": 608,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -14818,7 +14844,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -15473,7 +15499,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -17240,7 +17266,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 908,
+          "viewer_count": 732,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -18248,7 +18274,21 @@
           "allScoreColor": "#3a7fcd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513378,
+          "id": "316797529432",
+          "name": "imexile",
+          "user_id": "216161144",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> rwf mythic day3 xdd",
+          "community_ids": [],
+          "viewer_count": 267,
+          "started_at": "2026-04-03T02:46:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -18906,7 +18946,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 154,
+          "viewer_count": 104,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -19499,21 +19539,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512101,
-          "id": "316284037367",
-          "name": "goop",
-          "user_id": "24997777",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
-          "community_ids": [],
-          "viewer_count": 83,
-          "started_at": "2026-04-02T21:34:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -20166,21 +20192,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512207,
-          "id": "316284359031",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF DAY 10 !ui",
-          "community_ids": [],
-          "viewer_count": 406,
-          "started_at": "2026-04-02T22:25:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -21500,7 +21512,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 154,
+          "viewer_count": 104,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -22161,7 +22173,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 154,
+          "viewer_count": 104,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -24080,21 +24092,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512207,
-          "id": "316284359031",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF DAY 10 !ui",
-          "community_ids": [],
-          "viewer_count": 406,
-          "started_at": "2026-04-02T22:25:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -24731,21 +24729,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512207,
-          "id": "316284359031",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF DAY 10 !ui",
-          "community_ids": [],
-          "viewer_count": 406,
-          "started_at": "2026-04-02T22:25:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -25380,7 +25364,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -25388,21 +25372,7 @@
           "allScoreColor": "#a335ee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512207,
-          "id": "316284359031",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF DAY 10 !ui",
-          "community_ids": [],
-          "viewer_count": 406,
-          "started_at": "2026-04-02T22:25:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -27293,7 +27263,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -29932,7 +29902,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -31227,7 +31197,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -31235,21 +31205,7 @@
           "allScoreColor": "#884ee9"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512101,
-          "id": "316284037367",
-          "name": "goop",
-          "user_id": "24997777",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
-          "community_ids": [],
-          "viewer_count": 83,
-          "started_at": "2026-04-02T21:34:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -32483,7 +32439,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -33149,7 +33105,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -33820,7 +33776,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -33838,7 +33794,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 193,
+          "viewer_count": 123,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -35832,8 +35788,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3109.9,
-          "allScoreColor": "#d9519f"
+          "allScore": 3183.7,
+          "allScoreColor": "#e3598b"
         },
         "rank": 7,
         "stream": null
@@ -36425,9 +36381,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -38361,7 +38317,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 193,
+          "viewer_count": 123,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -38996,7 +38952,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -39014,7 +38970,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -41512,7 +41468,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -42181,9 +42137,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -42887,7 +42843,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 154,
+          "viewer_count": 104,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -43488,9 +43444,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -44141,9 +44097,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -44805,7 +44761,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 lock in",
           "community_ids": [],
-          "viewer_count": 154,
+          "viewer_count": 104,
           "started_at": "2026-04-02T17:26:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -45438,7 +45394,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -46728,7 +46684,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 783,
+          "viewer_count": 608,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -47944,7 +47900,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 783,
+          "viewer_count": 608,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -49894,7 +49850,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 783,
+          "viewer_count": 608,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -56389,7 +56345,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -56407,7 +56363,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -57678,7 +57634,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -58946,7 +58902,7 @@
           "type": "live",
           "title": "<Liquid> RWF Fighting The Boss Today",
           "community_ids": [],
-          "viewer_count": 783,
+          "viewer_count": 608,
           "started_at": "2026-04-02T16:48:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -59606,21 +59562,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512101,
-          "id": "316284037367",
-          "name": "goop",
-          "user_id": "24997777",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
-          "community_ids": [],
-          "viewer_count": 83,
-          "started_at": "2026-04-02T21:34:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -60865,7 +60807,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513378,
+          "id": "316797529432",
+          "name": "imexile",
+          "user_id": "216161144",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> rwf mythic day3 xdd",
+          "community_ids": [],
+          "viewer_count": 267,
+          "started_at": "2026-04-03T02:46:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -63914,7 +63870,7 @@
           "progress": {
             "normal": 6,
             "heroic": 8,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -64560,9 +64516,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -65237,7 +65193,21 @@
           "allScoreColor": "#884ee9"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513378,
+          "id": "316797529432",
+          "name": "imexile",
+          "user_id": "216161144",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> rwf mythic day3 xdd",
+          "community_ids": [],
+          "viewer_count": 267,
+          "started_at": "2026-04-03T02:46:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -65889,7 +65859,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -76213,21 +76183,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512101,
-          "id": "316284037367",
-          "name": "goop",
-          "user_id": "24997777",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid>RWF Mythic March on Quel'Danas Day 3 ebon might activate",
-          "community_ids": [],
-          "viewer_count": 83,
-          "started_at": "2026-04-02T21:34:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -77514,7 +77470,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -81861,7 +81817,7 @@
           "type": "live",
           "title": "Atlas <Liquid> - RWF Day 3 bird go down :)",
           "community_ids": [],
-          "viewer_count": 193,
+          "viewer_count": 123,
           "started_at": "2026-04-02T17:08:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_atlasxo-{width}x{height}.jpg"
@@ -85043,7 +84999,7 @@
           "progress": {
             "normal": 6,
             "heroic": 8,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -86354,7 +86310,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -89621,7 +89577,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -90323,7 +90279,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -93550,9 +93506,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -94176,9 +94132,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -95415,21 +95371,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 512207,
-          "id": "316284359031",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> RWF DAY 10 !ui",
-          "community_ids": [],
-          "viewer_count": 406,
-          "started_at": "2026-04-02T22:25:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -96707,7 +96649,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 908,
+          "viewer_count": 732,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -99997,8 +99939,8 @@
           },
           "totalBosses": 9,
           "progress": {
-            "normal": 7,
-            "heroic": 3,
+            "normal": 9,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -100642,7 +100584,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513376,
+          "id": "316358851426",
+          "name": "wallife1",
+          "user_id": "136340574",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF Mythic Week 2",
+          "community_ids": [],
+          "viewer_count": 18,
+          "started_at": "2026-04-03T02:46:29Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -104461,7 +104417,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -107742,9 +107698,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -111515,7 +111471,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 908,
+          "viewer_count": 732,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -112197,7 +112153,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513376,
+          "id": "316358851426",
+          "name": "wallife1",
+          "user_id": "136340574",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF Mythic Week 2",
+          "community_ids": [],
+          "viewer_count": 18,
+          "started_at": "2026-04-03T02:46:29Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -112865,7 +112835,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 908,
+          "viewer_count": 732,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -115690,7 +115660,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 908,
+          "viewer_count": 732,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -116357,9 +116327,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -117031,7 +117001,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -117047,9 +117017,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -118278,7 +118248,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -118958,7 +118928,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -119625,7 +119595,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513376,
+          "id": "316358851426",
+          "name": "wallife1",
+          "user_id": "136340574",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF Mythic Week 2",
+          "community_ids": [],
+          "viewer_count": 18,
+          "started_at": "2026-04-03T02:46:29Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -120242,7 +120226,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513376,
+          "id": "316358851426",
+          "name": "wallife1",
+          "user_id": "136340574",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF Mythic Week 2",
+          "community_ids": [],
+          "viewer_count": 18,
+          "started_at": "2026-04-03T02:46:29Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -120911,7 +120909,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513376,
+          "id": "316358851426",
+          "name": "wallife1",
+          "user_id": "136340574",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF Mythic Week 2",
+          "community_ids": [],
+          "viewer_count": 18,
+          "started_at": "2026-04-03T02:46:29Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -121545,7 +121557,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513376,
+          "id": "316358851426",
+          "name": "wallife1",
+          "user_id": "136340574",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF Mythic Week 2",
+          "community_ids": [],
+          "viewer_count": 18,
+          "started_at": "2026-04-03T02:46:29Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -122136,7 +122162,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 513376,
+          "id": "316358851426",
+          "name": "wallife1",
+          "user_id": "136340574",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Liquid> RWF Mythic Week 2",
+          "community_ids": [],
+          "viewer_count": 18,
+          "started_at": "2026-04-03T02:46:29Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -130192,7 +130232,7 @@
           "type": "live",
           "title": "RWF Day 10 Egg Die",
           "community_ids": [],
-          "viewer_count": 908,
+          "viewer_count": 732,
           "started_at": "2026-04-02T16:59:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -143935,7 +143975,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -144554,7 +144594,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF MYTHIC WEEK 2! DAY 3",
           "community_ids": [],
-          "viewer_count": 674,
+          "viewer_count": 305,
           "started_at": "2026-04-02T17:08:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -149701,7 +149741,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -150362,9 +150402,9 @@
           "user_id": "44923106",
           "game_id": "18122",
           "type": "live",
-          "title": "<Liquid> RWF DAY 17 BIRD GO BOOM !ui",
+          "title": "<Liquid> RWF DAY 17 L'URA TIME BIRD DOWN !ui",
           "community_ids": [],
-          "viewer_count": 1342,
+          "viewer_count": 824,
           "started_at": "2026-04-02T17:08:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -151667,7 +151707,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 10",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-02T17:01:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -171187,7 +171227,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -173181,7 +173221,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -174488,7 +174528,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 7
+            "mythic": 8
           }
         },
         "keystoneScores": {
@@ -179237,7 +179277,7 @@
           "progress": {
             "normal": 6,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -182561,9 +182601,664 @@
         },
         "rank": 4,
         "stream": null
+      },
+      {
+        "character": {
+          "name": "Splatbuemand",
+          "level": 90,
+          "race": {
+            "id": 2,
+            "name": "Orc",
+            "slug": "orc",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 3,
+            "name": "Hunter",
+            "slug": "hunter"
+          },
+          "spec": {
+            "id": 254,
+            "name": "Marksmanship",
+            "slug": "marksmanship",
+            "class_id": 3,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 1
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "male",
+          "thumbnail": "illidan/155/237073051-avatar.jpg",
+          "itemLevelEquipped": 276,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-04-02T18:00:51.175Z",
+            "updated_at": "2026-04-02T18:00:51.175Z",
+            "source": "s3",
+            "item_level_equipped": 276,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 249988,
+                "item_level": 276,
+                "enchant": 8017,
+                "icon": "inv_helm_mail_raidhuntermidnight_d_01",
+                "name": "Primal Sentry's Maw",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [
+                  240967
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240967,
+                    "name": "23 Primary / +0.15% critical strike effectiveness per unique Midnight gem color",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_orange"
+                  }
+                ],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13334,
+                  6652,
+                  13534,
+                  13338,
+                  13575,
+                  12798
+                ]
+              },
+              "neck": {
+                "item_id": 265739,
+                "item_level": 263,
+                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
+                "name": "Amani Heartstring Pendant",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12790
+                ]
+              },
+              "shoulder": {
+                "item_id": 193704,
+                "item_level": 276,
+                "enchant": 8001,
+                "icon": "inv_mail_dragondungeon_c_01_shoulder",
+                "name": "Scaled Commencement Spaulders",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  42,
+                  13577,
+                  12699,
+                  12798
+                ]
+              },
+              "back": {
+                "item_id": 249335,
+                "item_level": 276,
+                "icon": "inv_plate_raiddeathknightmidnight_d_01_cape",
+                "name": "Imperator's Banner",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  41,
+                  13577,
+                  13334,
+                  12798
+                ]
+              },
+              "chest": {
+                "item_id": 249991,
+                "item_level": 276,
+                "enchant": 7987,
+                "icon": "inv_chest_mail_raidhuntermidnight_d_01",
+                "name": "Primal Sentry's Scaleplate",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13334,
+                  13336,
+                  6652,
+                  13575,
+                  12798
+                ]
+              },
+              "waist": {
+                "item_id": 249985,
+                "item_level": 276,
+                "icon": "inv_belt_mail_raidhuntermidnight_d_01",
+                "name": "Primal Sentry's Cinch",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  6652,
+                  13534,
+                  12798
+                ]
+              },
+              "wrist": {
+                "item_id": 249652,
+                "item_level": 259,
+                "icon": "inv_bracer_mail_dungeonharronir_c_01",
+                "name": "Elder Mossbands",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12793,
+                  6652,
+                  12667,
+                  13577
+                ]
+              },
+              "hands": {
+                "item_id": 249989,
+                "item_level": 276,
+                "icon": "inv_glove_mail_raidhuntermidnight_d_01",
+                "name": "Primal Sentry's Talonguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  13337,
+                  6652,
+                  13574,
+                  12798
+                ]
+              },
+              "legs": {
+                "item_id": 249987,
+                "item_level": 289,
+                "enchant": 8159,
+                "icon": "inv_pant_mail_raidhuntermidnight_d_01",
+                "name": "Primal Sentry's Legguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
+                "bonuses": [
+                  13335,
+                  13339,
+                  6652,
+                  13575,
+                  12806
+                ]
+              },
+              "feet": {
+                "item_id": 249320,
+                "item_level": 276,
+                "enchant": 7963,
+                "icon": "inv_boot_mail_raidevokermidnight_d_01",
+                "name": "Sabatons of Obscurement",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13334,
+                  12798
+                ]
+              },
+              "finger1": {
+                "item_id": 251513,
+                "item_level": 285,
+                "enchant": 7967,
+                "icon": "inv_12_profession_jewelcrafting_ring3_silver",
+                "name": "Loa Worshiper's Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  8960,
+                  12497,
+                  12066,
+                  13622,
+                  13667
+                ]
+              },
+              "finger2": {
+                "item_id": 193708,
+                "item_level": 276,
+                "enchant": 7967,
+                "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
+                "name": "Platinum Star Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240914
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240914,
+                    "name": "16 Vers & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_blue"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13668,
+                  12699,
+                  12798
+                ]
+              },
+              "trinket1": {
+                "item_id": 193701,
+                "item_level": 289,
+                "icon": "inv_misc_enggizmos_18",
+                "name": "Algeth'ar Puzzle Box",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13440,
+                  6652,
+                  12699,
+                  12806
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 265337,
+                "item_level": 285,
+                "enchant": 8039,
+                "icon": "inv_bow_1h_dungeonharronir_c_01",
+                "name": "Aln'hara Sprigshot",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8791,
+                  13622,
+                  13667
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 6,
+            "heroic": 9,
+            "mythic": 6
+          }
+        },
+        "keystoneScores": {
+          "allScore": 1687.9,
+          "allScoreColor": "#57d867"
+        },
+        "rank": 99,
+        "stream": null
       }
     ],
-    "fetchedAt": "2026-04-03T00:37:48.207Z"
+    "fetchedAt": "2026-04-03T03:09:03.529Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -183244,7 +183939,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2657.4,
+          "allScore": 2661.6,
           "allScoreColor": "#7957e7"
         },
         "rank": 5,
@@ -290891,9 +291586,9 @@
           "name": "Narcolight",
           "level": 90,
           "race": {
-            "id": 3,
-            "name": "Dwarf",
-            "slug": "dwarf",
+            "id": 34,
+            "name": "Dark Iron Dwarf",
+            "slug": "dark-iron-dwarf",
             "faction": "alliance"
           },
           "class": {
@@ -405384,7 +406079,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-03T00:37:53.315Z"
+    "fetchedAt": "2026-04-03T03:09:06.506Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -474107,8 +474802,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3235.2,
-          "allScoreColor": "#e75d80"
+          "allScore": 3280.1,
+          "allScoreColor": "#ea6175"
         },
         "rank": 4,
         "stream": null
@@ -568026,8 +568721,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1355,
-          "allScoreColor": "#3cff23"
+          "allScore": 1689.3,
+          "allScoreColor": "#57d867"
         },
         "rank": 4,
         "stream": null
@@ -630732,6 +631427,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-03T00:37:56.558Z"
+    "fetchedAt": "2026-04-03T03:09:11.777Z"
   }
 }
