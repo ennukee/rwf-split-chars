@@ -3686,7 +3686,7 @@
         },
         "keystoneScores": {
           "allScore": 971.8,
-          "allScoreColor": "#a5ff8a"
+          "allScoreColor": "#a7ff8d"
         },
         "rank": 4,
         "stream": null
@@ -8004,7 +8004,7 @@
         },
         "keystoneScores": {
           "allScore": 2403.6,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 7,
         "stream": null
@@ -13582,7 +13582,7 @@
         },
         "keystoneScores": {
           "allScore": 2319.7,
-          "allScoreColor": "#4f8fbc"
+          "allScoreColor": "#5090bb"
         },
         "rank": 4,
         "stream": null
@@ -14242,7 +14242,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 1,
         "stream": null
@@ -19372,7 +19372,7 @@
         },
         "keystoneScores": {
           "allScore": 2403.6,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -25771,7 +25771,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -28313,7 +28313,7 @@
         },
         "keystoneScores": {
           "allScore": 2315,
-          "allScoreColor": "#4f8fbc"
+          "allScoreColor": "#5090bb"
         },
         "rank": 4,
         "stream": null
@@ -30934,7 +30934,7 @@
         },
         "keystoneScores": {
           "allScore": 1623.8,
-          "allScoreColor": "#43ee42"
+          "allScoreColor": "#3ff13c"
         },
         "rank": 4,
         "stream": null
@@ -34127,7 +34127,7 @@
         },
         "keystoneScores": {
           "allScore": 2351.1,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -34829,7 +34829,7 @@
         },
         "keystoneScores": {
           "allScore": 680.9,
-          "allScoreColor": "#caffb6"
+          "allScoreColor": "#cbffb7"
         },
         "rank": 4,
         "stream": null
@@ -38593,7 +38593,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -39235,7 +39235,7 @@
         },
         "keystoneScores": {
           "allScore": 2021.7,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -46235,8 +46235,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T10:19:38.710Z",
-            "updated_at": "2026-04-03T10:19:38.710Z",
+            "created_at": "2026-04-04T13:07:32.083Z",
+            "updated_at": "2026-04-04T13:07:32.083Z",
             "source": "s3",
             "item_level_equipped": 279,
             "item_level_total": 0,
@@ -46485,16 +46485,24 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   41,
-                  12667,
                   13577,
                   13334,
-                  12798
+                  12798,
+                  13534
                 ]
               },
               "wrist": {
@@ -46840,7 +46848,7 @@
         },
         "keystoneScores": {
           "allScore": 1029.6,
-          "allScoreColor": "#99ff7e"
+          "allScoreColor": "#9cff81"
         },
         "rank": 1,
         "stream": null
@@ -47451,7 +47459,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -49978,7 +49986,7 @@
         },
         "keystoneScores": {
           "allScore": 2019.6,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 1,
         "stream": null
@@ -51315,8 +51323,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T10:19:37.645Z",
-            "updated_at": "2026-04-03T10:19:37.645Z",
+            "created_at": "2026-04-04T13:07:32.688Z",
+            "updated_at": "2026-04-04T13:07:32.688Z",
             "source": "s3",
             "item_level_equipped": 280,
             "item_level_total": 0,
@@ -51814,10 +51822,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 250144,
+                "item_id": 249346,
                 "item_level": 276,
-                "icon": "inv_icon_feather06a",
-                "name": "Emberwing Feather",
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -51833,9 +51841,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
-                  12699,
+                  13334,
                   12798
                 ]
               },
@@ -51929,7 +51936,7 @@
         },
         "keystoneScores": {
           "allScore": 2009.2,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -63419,7 +63426,7 @@
         },
         "keystoneScores": {
           "allScore": 685,
-          "allScoreColor": "#caffb6"
+          "allScoreColor": "#cbffb7"
         },
         "rank": 4,
         "stream": null
@@ -64037,7 +64044,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.8,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -67303,7 +67310,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 1,
         "stream": null
@@ -69236,7 +69243,7 @@
         },
         "keystoneScores": {
           "allScore": 1966.1,
-          "allScoreColor": "#5fc087"
+          "allScoreColor": "#5fc284"
         },
         "rank": 4,
         "stream": null
@@ -70463,7 +70470,7 @@
         },
         "keystoneScores": {
           "allScore": 2038.5,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -73038,7 +73045,7 @@
         },
         "keystoneScores": {
           "allScore": 1698.7,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -77598,7 +77605,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 1,
         "stream": null
@@ -79448,7 +79455,7 @@
         },
         "keystoneScores": {
           "allScore": 2365.6,
-          "allScoreColor": "#4989c3"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -82561,7 +82568,7 @@
         },
         "keystoneScores": {
           "allScore": 1036.9,
-          "allScoreColor": "#99ff7e"
+          "allScoreColor": "#9cff81"
         },
         "rank": 4,
         "stream": null
@@ -84458,7 +84465,7 @@
         },
         "keystoneScores": {
           "allScore": 1674,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -89700,7 +89707,7 @@
         },
         "keystoneScores": {
           "allScore": 1353.8,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -96027,7 +96034,7 @@
         },
         "keystoneScores": {
           "allScore": 1014.7,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 4,
         "stream": null
@@ -96669,7 +96676,7 @@
         },
         "keystoneScores": {
           "allScore": 1003.3,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 4,
         "stream": null
@@ -101242,7 +101249,7 @@
         },
         "keystoneScores": {
           "allScore": 1355,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -102485,7 +102492,7 @@
         },
         "keystoneScores": {
           "allScore": 1022.2,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 4,
         "stream": null
@@ -103823,7 +103830,7 @@
         },
         "keystoneScores": {
           "allScore": 2018.8,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -105765,7 +105772,7 @@
         },
         "keystoneScores": {
           "allScore": 2351.1,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -108342,7 +108349,7 @@
         },
         "keystoneScores": {
           "allScore": 1681.1,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -115660,7 +115667,7 @@
         },
         "keystoneScores": {
           "allScore": 2369.6,
-          "allScoreColor": "#4989c3"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -117541,7 +117548,7 @@
         },
         "keystoneScores": {
           "allScore": 1690,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -121944,7 +121951,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 1,
         "stream": null
@@ -123812,7 +123819,7 @@
         },
         "keystoneScores": {
           "allScore": 2360.6,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -126999,7 +127006,7 @@
         },
         "keystoneScores": {
           "allScore": 2050,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -130673,7 +130680,7 @@
         },
         "keystoneScores": {
           "allScore": 1698.7,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 1,
         "stream": null
@@ -133134,7 +133141,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -138462,7 +138469,7 @@
         },
         "keystoneScores": {
           "allScore": 1689,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -141811,7 +141818,7 @@
         },
         "keystoneScores": {
           "allScore": 2193.2,
-          "allScoreColor": "#5ba2a7"
+          "allScoreColor": "#5ca4a6"
         },
         "rank": 4,
         "stream": null
@@ -144279,7 +144286,7 @@
         },
         "keystoneScores": {
           "allScore": 2063.1,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -146890,7 +146897,7 @@
         },
         "keystoneScores": {
           "allScore": 1309.3,
-          "allScoreColor": "#67ff4b"
+          "allScoreColor": "#6bff4f"
         },
         "rank": 4,
         "stream": null
@@ -152759,7 +152766,7 @@
         },
         "keystoneScores": {
           "allScore": 2010,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -154671,7 +154678,7 @@
         },
         "keystoneScores": {
           "allScore": 503.3,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -157222,7 +157229,7 @@
         },
         "keystoneScores": {
           "allScore": 2350.6,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -159144,7 +159151,7 @@
         },
         "keystoneScores": {
           "allScore": 1348.4,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -161052,7 +161059,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.6,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -165322,14 +165329,14 @@
             "slug": "priest"
           },
           "spec": {
-            "id": 258,
-            "name": "Shadow",
-            "slug": "shadow",
+            "id": 256,
+            "name": "Discipline",
+            "slug": "discipline",
             "class_id": 5,
-            "role": "dps",
+            "role": "healer",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
@@ -165953,7 +165960,7 @@
         },
         "keystoneScores": {
           "allScore": 2053.5,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -166579,8 +166586,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-04T02:02:24.426Z",
-            "updated_at": "2026-04-04T02:02:24.426Z",
+            "created_at": "2026-04-04T13:08:18.183Z",
+            "updated_at": "2026-04-04T13:08:18.183Z",
             "source": "s3",
             "item_level_equipped": 279,
             "item_level_total": 0,
@@ -166686,10 +166693,10 @@
                 ]
               },
               "neck": {
-                "item_id": 249337,
+                "item_id": 50228,
                 "item_level": 276,
-                "icon": "inv_12_jewelry_devouringhost_necklace_bronze",
-                "name": "Ribbon of Coiled Malice",
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Barbed Ymirheim Choker",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -166713,9 +166720,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  13440,
+                  41,
                   13668,
-                  13334,
+                  12699,
                   12798
                 ]
               },
@@ -167074,10 +167082,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249341,
+                "item_id": 249343,
                 "item_level": 276,
-                "icon": "inv_12_trinket_raid_voidspire_healer1_volatilevoidsuffuser",
-                "name": "Volatile Void Suffuser",
+                "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
+                "name": "Gaze of the Alnseer",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -167093,16 +167101,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13334,
-                  12798
+                  42,
+                  13335,
+                  12802
                 ]
               },
               "trinket2": {
-                "item_id": 249811,
+                "item_id": 250256,
                 "item_level": 276,
-                "icon": "inv_12_trinket_raid_darkwelle_healer3_cosmiccrescendo",
-                "name": "Light of the Cosmic Crescendo",
+                "icon": "inv_10_jewelcrafting3_soulcage_air",
+                "name": "Heart of Wind",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -167118,8 +167126,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  13440,
                   6652,
-                  13334,
+                  12699,
                   12798
                 ]
               },
@@ -167188,7 +167197,7 @@
         },
         "keystoneScores": {
           "allScore": 1785,
-          "allScoreColor": "#58d769"
+          "allScoreColor": "#54dd61"
         },
         "rank": 1,
         "stream": null
@@ -168469,7 +168478,7 @@
         },
         "keystoneScores": {
           "allScore": 1613.6,
-          "allScoreColor": "#3ef13b"
+          "allScoreColor": "#39f533"
         },
         "rank": 4,
         "stream": null
@@ -169118,7 +169127,7 @@
         },
         "keystoneScores": {
           "allScore": 1698.7,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -170462,7 +170471,7 @@
         },
         "keystoneScores": {
           "allScore": 2019.6,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -171069,7 +171078,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.5,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 3,
         "stream": null
@@ -171103,7 +171112,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/240/236974576-avatar.jpg",
-          "itemLevelEquipped": 278,
+          "itemLevelEquipped": 277,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -171123,10 +171132,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T09:35:17.602Z",
-            "updated_at": "2026-04-03T09:35:17.602Z",
+            "created_at": "2026-04-04T13:10:13.373Z",
+            "updated_at": "2026-04-04T13:10:13.373Z",
             "source": "s3",
-            "item_level_equipped": 278,
+            "item_level_equipped": 277,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -171657,10 +171666,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249341,
-                "item_level": 276,
-                "icon": "inv_12_trinket_raid_voidspire_healer1_volatilevoidsuffuser",
-                "name": "Volatile Void Suffuser",
+                "item_id": 249808,
+                "item_level": 266,
+                "icon": "inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath",
+                "name": "Litany of Lightblind Wrath",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -171677,8 +171686,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13335,
-                  12802
+                  13334,
+                  12795
                 ]
               },
               "trinket2": {
@@ -172438,7 +172447,7 @@
         },
         "keystoneScores": {
           "allScore": 1688.2,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -175763,7 +175772,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -176465,7 +176474,7 @@
         },
         "keystoneScores": {
           "allScore": 1703.5,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 1,
         "stream": null
@@ -177118,7 +177127,7 @@
         },
         "keystoneScores": {
           "allScore": 2008.9,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -177819,7 +177828,7 @@
         },
         "keystoneScores": {
           "allScore": 2371.3,
-          "allScoreColor": "#4989c3"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -179112,14 +179121,14 @@
             "slug": "paladin"
           },
           "spec": {
-            "id": 66,
-            "name": "Protection",
-            "slug": "protection",
+            "id": 65,
+            "name": "Holy",
+            "slug": "holy",
             "class_id": 2,
-            "role": "tank",
-            "is_melee": true,
+            "role": "healer",
+            "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
@@ -179145,8 +179154,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T10:20:16.783Z",
-            "updated_at": "2026-04-03T10:20:16.783Z",
+            "created_at": "2026-04-04T13:11:17.115Z",
+            "updated_at": "2026-04-04T13:11:17.115Z",
             "source": "s3",
             "item_level_equipped": 277,
             "item_level_total": 0,
@@ -179646,10 +179655,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249339,
-                "item_level": 279,
-                "icon": "inv_12_trinket_raid_voidspire_tank1_smolderinggloomscale",
-                "name": "Gloom-Spattered Dreadscale",
+                "item_id": 249809,
+                "item_level": 276,
+                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
+                "name": "Locus-Walker's Ribbon",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -179665,9 +179674,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  40,
-                  13335,
-                  12803
+                  6652,
+                  13334,
+                  12798
                 ]
               },
               "trinket2": {
@@ -179696,11 +179705,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 249295,
+                "item_id": 249294,
                 "item_level": 276,
                 "enchant": 8039,
-                "icon": "inv_mace_1h_raidmidnight_d_01",
-                "name": "Turalyon's False Echo",
+                "icon": "inv_sword_1h_raidmidnight_d_01",
+                "name": "Blade of the Blind Verdict",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -179780,7 +179789,7 @@
         },
         "keystoneScores": {
           "allScore": 2085.5,
-          "allScoreColor": "#5faf99"
+          "allScoreColor": "#5fb198"
         },
         "rank": 4,
         "stream": null
@@ -181189,7 +181198,7 @@
         },
         "keystoneScores": {
           "allScore": 1687.9,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -181860,13 +181869,13 @@
         },
         "keystoneScores": {
           "allScore": 2031.2,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-04T12:15:21.098Z"
+    "fetchedAt": "2026-04-04T14:14:30.554Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -184761,7 +184770,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -185746,7 +185755,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -186616,7 +186625,7 @@
           "type": "live",
           "title": "<Echo>  Nicememes RWF DAY 69 BIG MYTHIC TODAY FOR SURELY 100% | FINALLY DAMAGING TODAY?!?! | MASSIVE OILED UP ARMS AND FEET",
           "community_ids": [],
-          "viewer_count": 195,
+          "viewer_count": 224,
           "started_at": "2026-04-04T05:39:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ognicememes-{width}x{height}.jpg"
@@ -187268,7 +187277,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -188186,7 +188195,7 @@
           "type": "live",
           "title": "<Echo>  Nicememes RWF DAY 69 BIG MYTHIC TODAY FOR SURELY 100% | FINALLY DAMAGING TODAY?!?! | MASSIVE OILED UP ARMS AND FEET",
           "community_ids": [],
-          "viewer_count": 195,
+          "viewer_count": 224,
           "started_at": "2026-04-04T05:39:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ognicememes-{width}x{height}.jpg"
@@ -188875,7 +188884,7 @@
         },
         "keystoneScores": {
           "allScore": 1677.5,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 3,
         "stream": {
@@ -188888,7 +188897,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -191582,7 +191591,7 @@
         },
         "keystoneScores": {
           "allScore": 1347.3,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 1,
         "stream": null
@@ -192166,7 +192175,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -192802,7 +192811,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -193526,7 +193535,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -194841,7 +194850,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF - Mythic Day 11 - Evoker - ADVANCED BY !AMD",
           "community_ids": [],
-          "viewer_count": 39,
+          "viewer_count": 43,
           "started_at": "2026-04-04T05:43:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -196213,7 +196222,7 @@
         },
         "keystoneScores": {
           "allScore": 2022.6,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 3,
         "stream": {
@@ -196226,7 +196235,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -196891,7 +196900,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF - Mythic Day 11 - Evoker - ADVANCED BY !AMD",
           "community_ids": [],
-          "viewer_count": 39,
+          "viewer_count": 43,
           "started_at": "2026-04-04T05:43:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -197546,7 +197555,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -198869,7 +198878,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -199536,7 +199545,7 @@
         },
         "keystoneScores": {
           "allScore": 2033.8,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -201987,7 +201996,7 @@
         },
         "keystoneScores": {
           "allScore": 2480.8,
-          "allScoreColor": "#367cd0"
+          "allScoreColor": "#367dd0"
         },
         "rank": 4,
         "stream": null
@@ -203245,7 +203254,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -204611,7 +204620,7 @@
         },
         "keystoneScores": {
           "allScore": 2389.6,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -205816,7 +205825,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -207822,7 +207831,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -209018,7 +209027,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -209673,7 +209682,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -210320,7 +210329,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -210983,7 +210992,7 @@
         },
         "keystoneScores": {
           "allScore": 2353.5,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": {
@@ -210996,7 +211005,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -211699,7 +211708,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -212363,7 +212372,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -214834,7 +214843,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -217406,7 +217415,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -220013,7 +220022,7 @@
         },
         "keystoneScores": {
           "allScore": 2016.5,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -220026,7 +220035,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -220715,7 +220724,7 @@
         },
         "keystoneScores": {
           "allScore": 668.1,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 4,
         "stream": {
@@ -220728,7 +220737,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -221371,7 +221380,7 @@
         },
         "keystoneScores": {
           "allScore": 988,
-          "allScoreColor": "#a1ff86"
+          "allScoreColor": "#a3ff89"
         },
         "rank": 4,
         "stream": {
@@ -221384,7 +221393,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 147,
+          "viewer_count": 181,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -225250,7 +225259,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.8,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -227148,7 +227157,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -228462,7 +228471,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -229110,7 +229119,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -231004,7 +231013,7 @@
         },
         "keystoneScores": {
           "allScore": 2343.9,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -236615,7 +236624,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -237300,7 +237309,7 @@
         },
         "keystoneScores": {
           "allScore": 2354.9,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -240527,7 +240536,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -246221,7 +246230,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -247401,7 +247410,7 @@
         },
         "keystoneScores": {
           "allScore": 2017.3,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -254196,7 +254205,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -254833,7 +254842,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -255429,7 +255438,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -256762,7 +256771,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -258112,7 +258121,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -262693,7 +262702,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -263350,7 +263359,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -263951,7 +263960,7 @@
           "totalBosses": 9,
           "progress": {
             "normal": 8,
-            "heroic": 1,
+            "heroic": 2,
             "mythic": 0
           }
         },
@@ -264626,7 +264635,7 @@
         },
         "keystoneScores": {
           "allScore": 1515.4,
-          "allScoreColor": "#1eff00"
+          "allScoreColor": "#2eff15"
         },
         "rank": 5,
         "stream": null
@@ -268509,7 +268518,7 @@
         },
         "keystoneScores": {
           "allScore": 864.2,
-          "allScoreColor": "#b3ff9b"
+          "allScoreColor": "#b5ff9c"
         },
         "rank": 4,
         "stream": null
@@ -271121,7 +271130,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -271737,7 +271746,7 @@
         },
         "keystoneScores": {
           "allScore": 504.5,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -273069,7 +273078,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -274339,7 +274348,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -275036,7 +275045,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -275684,7 +275693,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -276348,7 +276357,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -276940,7 +276949,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -277595,7 +277604,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -278246,7 +278255,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -278857,7 +278866,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -280845,7 +280854,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -281519,7 +281528,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -282127,7 +282136,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -283387,7 +283396,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -284099,7 +284108,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -285327,7 +285336,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -286593,7 +286602,7 @@
         },
         "keystoneScores": {
           "allScore": 503.8,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -288429,7 +288438,7 @@
         },
         "keystoneScores": {
           "allScore": 1676.3,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -290301,7 +290310,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -290950,7 +290959,7 @@
         },
         "keystoneScores": {
           "allScore": 670,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 4,
         "stream": {
@@ -290963,7 +290972,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -291626,7 +291635,7 @@
         },
         "keystoneScores": {
           "allScore": 2371.2,
-          "allScoreColor": "#4989c3"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -294101,7 +294110,7 @@
         },
         "keystoneScores": {
           "allScore": 2393.2,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -297885,7 +297894,7 @@
         },
         "keystoneScores": {
           "allScore": 2033.7,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -300301,7 +300310,7 @@
         },
         "keystoneScores": {
           "allScore": 2358.1,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -302130,7 +302139,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": null
@@ -302772,7 +302781,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -303372,7 +303381,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -303981,7 +303990,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -305947,7 +305956,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 260,
+          "viewer_count": 252,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -308035,7 +308044,7 @@
         },
         "keystoneScores": {
           "allScore": 1687.1,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -309332,7 +309341,7 @@
         },
         "keystoneScores": {
           "allScore": 2035.6,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -309959,7 +309968,7 @@
         },
         "keystoneScores": {
           "allScore": 1005.2,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 1,
         "stream": {
@@ -309972,7 +309981,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -311248,7 +311257,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -314459,7 +314468,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -317076,7 +317085,7 @@
         },
         "keystoneScores": {
           "allScore": 1704.6,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -317741,7 +317750,7 @@
         },
         "keystoneScores": {
           "allScore": 2360,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -321638,7 +321647,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -322308,7 +322317,7 @@
         },
         "keystoneScores": {
           "allScore": 2033.3,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": {
@@ -322321,7 +322330,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -322995,7 +323004,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -327415,7 +327424,7 @@
         },
         "keystoneScores": {
           "allScore": 1729.9,
-          "allScoreColor": "#51e15a"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": {
@@ -327428,7 +327437,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -328051,7 +328060,7 @@
         },
         "keystoneScores": {
           "allScore": 2353.8,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -331268,7 +331277,7 @@
         },
         "keystoneScores": {
           "allScore": 1668.6,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#44ee43"
         },
         "rank": 1,
         "stream": null
@@ -333868,7 +333877,7 @@
         },
         "keystoneScores": {
           "allScore": 2337.9,
-          "allScoreColor": "#4f8fbc"
+          "allScoreColor": "#5090bb"
         },
         "rank": 4,
         "stream": {
@@ -333881,7 +333890,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -334495,7 +334504,7 @@
         },
         "keystoneScores": {
           "allScore": 324.2,
-          "allScoreColor": "#f4fff0"
+          "allScoreColor": "#f5fff0"
         },
         "rank": 7,
         "stream": null
@@ -335200,7 +335209,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -335871,7 +335880,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -336517,7 +336526,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -337264,7 +337273,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -344123,7 +344132,7 @@
         },
         "keystoneScores": {
           "allScore": 1675,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -347947,7 +347956,7 @@
         },
         "keystoneScores": {
           "allScore": 2342.8,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 3,
         "stream": {
@@ -347960,7 +347969,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 842,
+          "viewer_count": 737,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -353051,7 +353060,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -358079,7 +358088,7 @@
         },
         "keystoneScores": {
           "allScore": 1675,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": {
@@ -358092,7 +358101,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -359391,7 +359400,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -360666,7 +360675,7 @@
         },
         "keystoneScores": {
           "allScore": 2010,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 1,
         "stream": {
@@ -360679,7 +360688,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -366481,7 +366490,7 @@
         },
         "keystoneScores": {
           "allScore": 840,
-          "allScoreColor": "#b6ff9e"
+          "allScoreColor": "#b8ffa0"
         },
         "rank": 4,
         "stream": null
@@ -367758,7 +367767,7 @@
         },
         "keystoneScores": {
           "allScore": 1391.7,
-          "allScoreColor": "#54ff39"
+          "allScoreColor": "#5aff3f"
         },
         "rank": 1,
         "stream": null
@@ -369067,7 +369076,7 @@
         },
         "keystoneScores": {
           "allScore": 1686,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -371000,7 +371009,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -371707,7 +371716,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -372344,7 +372353,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -373054,7 +373063,7 @@
         },
         "keystoneScores": {
           "allScore": 2031.5,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": {
@@ -373067,7 +373076,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -374902,7 +374911,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 10,
+          "viewer_count": 12,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -376154,7 +376163,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -376753,7 +376762,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -377362,7 +377371,7 @@
         },
         "keystoneScores": {
           "allScore": 670,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 3,
         "stream": {
@@ -377375,7 +377384,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -377989,7 +377998,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -378591,7 +378600,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -379219,7 +379228,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 42,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -379822,7 +379831,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -380480,7 +380489,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -381151,7 +381160,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -381833,7 +381842,7 @@
         },
         "keystoneScores": {
           "allScore": 1046.3,
-          "allScoreColor": "#99ff7e"
+          "allScoreColor": "#9cff81"
         },
         "rank": 1,
         "stream": {
@@ -381846,7 +381855,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -382511,7 +382520,7 @@
         },
         "keystoneScores": {
           "allScore": 2035.5,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 1,
         "stream": {
@@ -382524,7 +382533,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -383175,7 +383184,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -383774,7 +383783,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -385155,7 +385164,7 @@
         },
         "keystoneScores": {
           "allScore": 904.3,
-          "allScoreColor": "#acff93"
+          "allScoreColor": "#aeff95"
         },
         "rank": 4,
         "stream": {
@@ -385168,7 +385177,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -385853,7 +385862,7 @@
         },
         "keystoneScores": {
           "allScore": 2355.8,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": {
@@ -385866,7 +385875,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -386522,7 +386531,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -387821,7 +387830,7 @@
         },
         "keystoneScores": {
           "allScore": 1674.5,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": {
@@ -387834,7 +387843,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -388502,7 +388511,7 @@
         },
         "keystoneScores": {
           "allScore": 1729.1,
-          "allScoreColor": "#51e15a"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": {
@@ -388515,7 +388524,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -389196,7 +389205,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 17,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -389866,7 +389875,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.3,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 3,
         "stream": null
@@ -390525,7 +390534,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 4,
         "stream": {
@@ -390538,7 +390547,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4523,
+          "viewer_count": 5349,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -391223,7 +391232,7 @@
         },
         "keystoneScores": {
           "allScore": 1354.3,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": {
@@ -391236,7 +391245,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 46,
+          "viewer_count": 41,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -392569,7 +392578,7 @@
         },
         "keystoneScores": {
           "allScore": 2358.7,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -393286,7 +393295,7 @@
         },
         "keystoneScores": {
           "allScore": 1355.8,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -393970,7 +393979,7 @@
         },
         "keystoneScores": {
           "allScore": 2008.7,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -394632,7 +394641,7 @@
         },
         "keystoneScores": {
           "allScore": 2407,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 2,
         "stream": null
@@ -396014,7 +396023,7 @@
         },
         "keystoneScores": {
           "allScore": 2399.9,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -396624,7 +396633,7 @@
         },
         "keystoneScores": {
           "allScore": 2062.4,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -397915,7 +397924,7 @@
         },
         "keystoneScores": {
           "allScore": 2313.9,
-          "allScoreColor": "#5292b9"
+          "allScoreColor": "#5293b8"
         },
         "rank": 4,
         "stream": null
@@ -398592,7 +398601,7 @@
         },
         "keystoneScores": {
           "allScore": 1354.6,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 3,
         "stream": null
@@ -399275,7 +399284,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 3,
         "stream": null
@@ -400605,7 +400614,7 @@
         },
         "keystoneScores": {
           "allScore": 1972.6,
-          "allScoreColor": "#5fc087"
+          "allScoreColor": "#5fc284"
         },
         "rank": 7,
         "stream": null
@@ -401253,7 +401262,7 @@
         },
         "keystoneScores": {
           "allScore": 2194.3,
-          "allScoreColor": "#5ba2a7"
+          "allScoreColor": "#5ca4a6"
         },
         "rank": 4,
         "stream": null
@@ -401996,7 +402005,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -402635,7 +402644,7 @@
         },
         "keystoneScores": {
           "allScore": 2001.7,
-          "allScoreColor": "#5fbc8a"
+          "allScoreColor": "#5fbe88"
         },
         "rank": 4,
         "stream": null
@@ -403975,7 +403984,7 @@
         },
         "keystoneScores": {
           "allScore": 1347.4,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 2,
         "stream": {
@@ -403988,7 +403997,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1360,
+          "viewer_count": 1398,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -404695,7 +404704,7 @@
         },
         "keystoneScores": {
           "allScore": 894.9,
-          "allScoreColor": "#afff97"
+          "allScoreColor": "#b1ff99"
         },
         "rank": 3,
         "stream": null
@@ -405339,7 +405348,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 1,
         "stream": null
@@ -406048,7 +406057,7 @@
         },
         "keystoneScores": {
           "allScore": 505,
-          "allScoreColor": "#deffd1"
+          "allScoreColor": "#dfffd2"
         },
         "rank": 2,
         "stream": null
@@ -406700,13 +406709,13 @@
         },
         "keystoneScores": {
           "allScore": 1305.7,
-          "allScoreColor": "#67ff4b"
+          "allScoreColor": "#6bff4f"
         },
         "rank": 4,
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-04T12:15:24.272Z"
+    "fetchedAt": "2026-04-04T14:14:37.905Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -409674,7 +409683,7 @@
         },
         "keystoneScores": {
           "allScore": 667.7,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 2,
         "stream": null
@@ -410363,7 +410372,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -411179,7 +411188,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 45,
+          "viewer_count": 42,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -411934,7 +411943,7 @@
         },
         "keystoneScores": {
           "allScore": 2147.4,
-          "allScoreColor": "#5ca6a4"
+          "allScoreColor": "#5eaa9f"
         },
         "rank": 2,
         "stream": null
@@ -412844,7 +412853,7 @@
         },
         "keystoneScores": {
           "allScore": 2349.8,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -413830,7 +413839,7 @@
         },
         "keystoneScores": {
           "allScore": 2109.1,
-          "allScoreColor": "#5eac9d"
+          "allScoreColor": "#5ead9b"
         },
         "rank": 8,
         "stream": null
@@ -414885,7 +414894,7 @@
         },
         "keystoneScores": {
           "allScore": 1351.7,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -415921,7 +415930,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -417101,7 +417110,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 45,
+          "viewer_count": 42,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -418955,7 +418964,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -419916,7 +419925,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -421878,7 +421887,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -421891,7 +421900,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 45,
+          "viewer_count": 42,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -422732,7 +422741,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 45,
+          "viewer_count": 42,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -423528,7 +423537,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -424499,7 +424508,7 @@
         },
         "keystoneScores": {
           "allScore": 2062.7,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -425235,7 +425244,7 @@
         },
         "keystoneScores": {
           "allScore": 1730.9,
-          "allScoreColor": "#51e15a"
+          "allScoreColor": "#4fe356"
         },
         "rank": 2,
         "stream": null
@@ -425865,7 +425874,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -427059,7 +427068,7 @@
         },
         "keystoneScores": {
           "allScore": 1012.8,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 6,
         "stream": null
@@ -427734,7 +427743,7 @@
         },
         "keystoneScores": {
           "allScore": 1701.8,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -429681,7 +429690,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -430930,7 +430939,7 @@
         },
         "keystoneScores": {
           "allScore": 2398.3,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 2,
         "stream": null
@@ -431563,7 +431572,7 @@
         },
         "keystoneScores": {
           "allScore": 1019.8,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 4,
         "stream": null
@@ -432106,7 +432115,7 @@
         },
         "keystoneScores": {
           "allScore": 2184.3,
-          "allScoreColor": "#5ba2a7"
+          "allScoreColor": "#5ca4a6"
         },
         "rank": 6,
         "stream": null
@@ -432694,7 +432703,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -433931,7 +433940,7 @@
         },
         "keystoneScores": {
           "allScore": 1015.9,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 4,
         "stream": null
@@ -436514,7 +436523,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 51,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -437141,7 +437150,7 @@
         },
         "keystoneScores": {
           "allScore": 1376.6,
-          "allScoreColor": "#54ff39"
+          "allScoreColor": "#5aff3f"
         },
         "rank": 4,
         "stream": {
@@ -437154,7 +437163,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 51,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -440265,7 +440274,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -441546,7 +441555,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 45,
+          "viewer_count": 42,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -442173,7 +442182,7 @@
         },
         "keystoneScores": {
           "allScore": 2010,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -442186,7 +442195,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 549,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -442854,7 +442863,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -443519,7 +443528,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 5,
           "started_at": "2026-04-04T06:02:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -444220,7 +444229,7 @@
         },
         "keystoneScores": {
           "allScore": 2046.4,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -444848,7 +444857,7 @@
         },
         "keystoneScores": {
           "allScore": 667.3,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 4,
         "stream": {
@@ -444861,7 +444870,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 45,
+          "viewer_count": 42,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -446148,7 +446157,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -446834,7 +446843,7 @@
         },
         "keystoneScores": {
           "allScore": 1721.3,
-          "allScoreColor": "#51e15a"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": null
@@ -448691,7 +448700,7 @@
         },
         "keystoneScores": {
           "allScore": 1707.5,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": {
@@ -448704,7 +448713,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -449321,7 +449330,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -451284,7 +451293,7 @@
         },
         "keystoneScores": {
           "allScore": 695.1,
-          "allScoreColor": "#caffb6"
+          "allScoreColor": "#cbffb7"
         },
         "rank": 4,
         "stream": {
@@ -451297,7 +451306,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -451985,7 +451994,7 @@
         },
         "keystoneScores": {
           "allScore": 1352.1,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": {
@@ -451998,7 +452007,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -452678,7 +452687,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 5,
           "started_at": "2026-04-04T06:02:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -453352,7 +453361,7 @@
         },
         "keystoneScores": {
           "allScore": 2037.9,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": {
@@ -453365,7 +453374,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 5,
           "started_at": "2026-04-04T06:02:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -454074,7 +454083,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 45,
+          "viewer_count": 42,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -455954,7 +455963,7 @@
         },
         "keystoneScores": {
           "allScore": 2049.5,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 2,
         "stream": null
@@ -456632,7 +456641,7 @@
         },
         "keystoneScores": {
           "allScore": 2404.3,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -457776,7 +457785,7 @@
         },
         "keystoneScores": {
           "allScore": 667.3,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 4,
         "stream": null
@@ -460287,7 +460296,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -460911,7 +460920,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -461608,7 +461617,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -462940,7 +462949,7 @@
         },
         "keystoneScores": {
           "allScore": 2385.3,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -464202,7 +464211,7 @@
         },
         "keystoneScores": {
           "allScore": 376.6,
-          "allScoreColor": "#ecffe4"
+          "allScoreColor": "#edffe5"
         },
         "rank": 4,
         "stream": {
@@ -464215,7 +464224,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 51,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -464866,7 +464875,7 @@
         },
         "keystoneScores": {
           "allScore": 2394.1,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": {
@@ -464879,7 +464888,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 51,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -465473,7 +465482,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 5,
           "started_at": "2026-04-04T06:02:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -466222,7 +466231,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 5,
           "started_at": "2026-04-04T06:02:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -466906,7 +466915,7 @@
         },
         "keystoneScores": {
           "allScore": 2044.1,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": {
@@ -466919,7 +466928,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 5,
           "started_at": "2026-04-04T06:02:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -467607,7 +467616,7 @@
         },
         "keystoneScores": {
           "allScore": 1698.3,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": {
@@ -467620,7 +467629,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -468315,7 +468324,7 @@
         },
         "keystoneScores": {
           "allScore": 1702.1,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": {
@@ -468328,7 +468337,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 549,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -468999,7 +469008,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -469609,7 +469618,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -470244,7 +470253,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 549,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -470870,7 +470879,7 @@
         },
         "keystoneScores": {
           "allScore": 1704.7,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": {
@@ -470883,7 +470892,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -471549,7 +471558,7 @@
         },
         "keystoneScores": {
           "allScore": 1039,
-          "allScoreColor": "#99ff7e"
+          "allScoreColor": "#9cff81"
         },
         "rank": 4,
         "stream": null
@@ -472241,7 +472250,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -472254,7 +472263,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 549,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -472852,7 +472861,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -473499,7 +473508,7 @@
         },
         "keystoneScores": {
           "allScore": 2443.7,
-          "allScoreColor": "#3b7fcd"
+          "allScoreColor": "#3c80cc"
         },
         "rank": 4,
         "stream": {
@@ -473512,7 +473521,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -474162,7 +474171,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -474175,7 +474184,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -474809,7 +474818,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -476113,7 +476122,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -477994,7 +478003,7 @@
         },
         "keystoneScores": {
           "allScore": 1347.1,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -478667,7 +478676,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -480007,7 +480016,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -480705,7 +480714,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -482638,7 +482647,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -484522,7 +484531,7 @@
         },
         "keystoneScores": {
           "allScore": 1727.3,
-          "allScoreColor": "#51e15a"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": {
@@ -484535,7 +484544,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 51,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -485122,7 +485131,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 549,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -485798,7 +485807,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 51,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -487161,7 +487170,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -489618,7 +489627,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -490236,7 +490245,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -493347,7 +493356,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 549,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -494770,7 +494779,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 5,
           "started_at": "2026-04-04T06:02:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -496055,7 +496064,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -496717,7 +496726,7 @@
         },
         "keystoneScores": {
           "allScore": 1016.5,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 4,
         "stream": null
@@ -497336,7 +497345,7 @@
         },
         "keystoneScores": {
           "allScore": 1351.7,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -497974,7 +497983,7 @@
         },
         "keystoneScores": {
           "allScore": 1672.9,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -499214,7 +499223,7 @@
         },
         "keystoneScores": {
           "allScore": 682.9,
-          "allScoreColor": "#caffb6"
+          "allScoreColor": "#cbffb7"
         },
         "rank": 4,
         "stream": null
@@ -501050,7 +501059,7 @@
         },
         "keystoneScores": {
           "allScore": 1690,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -502349,7 +502358,7 @@
         },
         "keystoneScores": {
           "allScore": 2391,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -503633,7 +503642,7 @@
         },
         "keystoneScores": {
           "allScore": 1702.9,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": {
@@ -503646,7 +503655,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 51,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -504272,7 +504281,7 @@
         },
         "keystoneScores": {
           "allScore": 376,
-          "allScoreColor": "#ecffe4"
+          "allScoreColor": "#edffe5"
         },
         "rank": 2,
         "stream": null
@@ -504941,7 +504950,7 @@
         },
         "keystoneScores": {
           "allScore": 2022.4,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -505559,7 +505568,7 @@
         },
         "keystoneScores": {
           "allScore": 670,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 4,
         "stream": {
@@ -505572,7 +505581,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -506312,7 +506321,7 @@
         },
         "keystoneScores": {
           "allScore": 2386.7,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -507574,7 +507583,7 @@
         },
         "keystoneScores": {
           "allScore": 670,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 4,
         "stream": null
@@ -508223,7 +508232,7 @@
         },
         "keystoneScores": {
           "allScore": 2374.7,
-          "allScoreColor": "#4989c3"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -510804,7 +510813,7 @@
         },
         "keystoneScores": {
           "allScore": 2356.2,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -511394,7 +511403,7 @@
         },
         "keystoneScores": {
           "allScore": 2010,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -512613,7 +512622,7 @@
         },
         "keystoneScores": {
           "allScore": 2062.9,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": {
@@ -512626,7 +512635,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -513896,7 +513905,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -515110,7 +515119,7 @@
         },
         "keystoneScores": {
           "allScore": 1689.9,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": {
@@ -515123,7 +515132,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -516429,7 +516438,7 @@
         },
         "keystoneScores": {
           "allScore": 2390,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -517054,7 +517063,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -517707,7 +517716,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -518330,7 +518339,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -518343,7 +518352,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -521884,7 +521893,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -522566,7 +522575,7 @@
         },
         "keystoneScores": {
           "allScore": 2040,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": {
@@ -522579,7 +522588,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -523236,7 +523245,7 @@
         },
         "keystoneScores": {
           "allScore": 1714.7,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 2,
         "stream": null
@@ -525232,7 +525241,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 668,
+          "viewer_count": 680,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -525876,7 +525885,7 @@
         },
         "keystoneScores": {
           "allScore": 2403.5,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 2,
         "stream": null
@@ -529039,7 +529048,7 @@
         },
         "keystoneScores": {
           "allScore": 2051.7,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -529694,7 +529703,7 @@
         },
         "keystoneScores": {
           "allScore": 654.4,
-          "allScoreColor": "#cdffba"
+          "allScoreColor": "#ceffbb"
         },
         "rank": 3,
         "stream": null
@@ -530334,7 +530343,7 @@
         },
         "keystoneScores": {
           "allScore": 2010,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -532958,7 +532967,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -534300,7 +534309,7 @@
         },
         "keystoneScores": {
           "allScore": 1013,
-          "allScoreColor": "#9dff82"
+          "allScoreColor": "#a0ff85"
         },
         "rank": 6,
         "stream": null
@@ -534947,7 +534956,7 @@
         },
         "keystoneScores": {
           "allScore": 1378.9,
-          "allScoreColor": "#54ff39"
+          "allScoreColor": "#5aff3f"
         },
         "rank": 4,
         "stream": {
@@ -534960,7 +534969,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -536188,7 +536197,7 @@
         },
         "keystoneScores": {
           "allScore": 1369.7,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -538048,7 +538057,7 @@
         },
         "keystoneScores": {
           "allScore": 1370,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -538665,7 +538674,7 @@
         },
         "keystoneScores": {
           "allScore": 2006.9,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -541746,7 +541755,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -544960,7 +544969,7 @@
         },
         "keystoneScores": {
           "allScore": 675.9,
-          "allScoreColor": "#caffb6"
+          "allScoreColor": "#cbffb7"
         },
         "rank": 6,
         "stream": null
@@ -545593,7 +545602,7 @@
         },
         "keystoneScores": {
           "allScore": 1685.2,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": {
@@ -545606,7 +545615,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -546256,7 +546265,7 @@
         },
         "keystoneScores": {
           "allScore": 2048.9,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -548691,7 +548700,7 @@
         },
         "keystoneScores": {
           "allScore": 1703.2,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 3,
         "stream": null
@@ -549362,7 +549371,7 @@
         },
         "keystoneScores": {
           "allScore": 975,
-          "allScoreColor": "#a1ff86"
+          "allScoreColor": "#a3ff89"
         },
         "rank": 4,
         "stream": null
@@ -549994,7 +550003,7 @@
         },
         "keystoneScores": {
           "allScore": 2046.6,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 2,
         "stream": null
@@ -551234,7 +551243,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -551903,7 +551912,7 @@
         },
         "keystoneScores": {
           "allScore": 2061.8,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -553143,7 +553152,7 @@
         },
         "keystoneScores": {
           "allScore": 1420.5,
-          "allScoreColor": "#4cff32"
+          "allScoreColor": "#53ff39"
         },
         "rank": 4,
         "stream": null
@@ -553788,7 +553797,7 @@
         },
         "keystoneScores": {
           "allScore": 2066.3,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -554448,7 +554457,7 @@
         },
         "keystoneScores": {
           "allScore": 1675,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": {
@@ -554461,7 +554470,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -555145,7 +555154,7 @@
         },
         "keystoneScores": {
           "allScore": 2053.1,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": {
@@ -555158,7 +555167,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 15,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -556424,7 +556433,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -557674,7 +557683,7 @@
         },
         "keystoneScores": {
           "allScore": 1351.9,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -558956,7 +558965,7 @@
         },
         "keystoneScores": {
           "allScore": 2054.3,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": null
@@ -559622,7 +559631,7 @@
         },
         "keystoneScores": {
           "allScore": 1675,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -560288,7 +560297,7 @@
         },
         "keystoneScores": {
           "allScore": 377,
-          "allScoreColor": "#ecffe4"
+          "allScoreColor": "#edffe5"
         },
         "rank": 4,
         "stream": null
@@ -560954,7 +560963,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -561544,7 +561553,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -563991,7 +564000,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -565306,7 +565315,7 @@
         },
         "keystoneScores": {
           "allScore": 1748.2,
-          "allScoreColor": "#53dd5f"
+          "allScoreColor": "#52e05b"
         },
         "rank": 4,
         "stream": null
@@ -565995,7 +566004,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 15,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -566704,7 +566713,7 @@
         },
         "keystoneScores": {
           "allScore": 1689.8,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -567359,7 +567368,7 @@
         },
         "keystoneScores": {
           "allScore": 2035,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": {
@@ -567372,7 +567381,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -569263,7 +569272,7 @@
         },
         "keystoneScores": {
           "allScore": 2356.7,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": {
@@ -569276,7 +569285,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -569969,7 +569978,7 @@
         },
         "keystoneScores": {
           "allScore": 1689.3,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -571272,7 +571281,7 @@
         },
         "keystoneScores": {
           "allScore": 682.5,
-          "allScoreColor": "#caffb6"
+          "allScoreColor": "#cbffb7"
         },
         "rank": 4,
         "stream": null
@@ -572560,7 +572569,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -573752,7 +573761,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.7,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -575075,7 +575084,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -575088,7 +575097,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -575669,7 +575678,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -577496,7 +577505,7 @@
         },
         "keystoneScores": {
           "allScore": 2401.7,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": {
@@ -577509,7 +577518,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -578136,7 +578145,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -582533,7 +582542,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -583841,7 +583850,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -584515,7 +584524,7 @@
         },
         "keystoneScores": {
           "allScore": 1700.2,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": {
@@ -584528,7 +584537,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 15,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -585151,7 +585160,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -587709,7 +587718,7 @@
         },
         "keystoneScores": {
           "allScore": 1746.3,
-          "allScoreColor": "#53dd5f"
+          "allScoreColor": "#52e05b"
         },
         "rank": 4,
         "stream": null
@@ -589025,7 +589034,7 @@
         },
         "keystoneScores": {
           "allScore": 1675,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -589708,7 +589717,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 3,
         "stream": null
@@ -591078,7 +591087,7 @@
         },
         "keystoneScores": {
           "allScore": 1355,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -592929,7 +592938,7 @@
         },
         "keystoneScores": {
           "allScore": 1686.4,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -593663,7 +593672,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 141,
+          "viewer_count": 138,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -595070,7 +595079,7 @@
         },
         "keystoneScores": {
           "allScore": 2049.3,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -598139,7 +598148,7 @@
         },
         "keystoneScores": {
           "allScore": 1736.1,
-          "allScoreColor": "#51e15a"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": null
@@ -599441,7 +599450,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -600709,7 +600718,7 @@
         },
         "keystoneScores": {
           "allScore": 2483.8,
-          "allScoreColor": "#367cd0"
+          "allScoreColor": "#367dd0"
         },
         "rank": 4,
         "stream": null
@@ -601447,7 +601456,7 @@
         },
         "keystoneScores": {
           "allScore": 1355,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": {
@@ -601460,7 +601469,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -602094,7 +602103,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -603357,7 +603366,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -604008,7 +604017,7 @@
         },
         "keystoneScores": {
           "allScore": 2371.6,
-          "allScoreColor": "#4989c3"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": null
@@ -605318,7 +605327,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -606010,7 +606019,7 @@
         },
         "keystoneScores": {
           "allScore": 2400.2,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -607275,7 +607284,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -608562,7 +608571,7 @@
         },
         "keystoneScores": {
           "allScore": 1731.3,
-          "allScoreColor": "#51e15a"
+          "allScoreColor": "#4fe356"
         },
         "rank": 4,
         "stream": null
@@ -609168,7 +609177,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -609784,7 +609793,7 @@
         },
         "keystoneScores": {
           "allScore": 2024.4,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": null
@@ -610375,7 +610384,7 @@
           "type": "live",
           "title": "<Method>RWF Mythic Day 11 | !ui",
           "community_ids": [],
-          "viewer_count": 2,
+          "viewer_count": 3,
           "started_at": "2026-04-04T05:58:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
@@ -611005,7 +611014,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -611662,7 +611671,7 @@
         },
         "keystoneScores": {
           "allScore": 1341.8,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -612315,7 +612324,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -612970,7 +612979,7 @@
           "type": "live",
           "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
           "community_ids": [],
-          "viewer_count": 59,
+          "viewer_count": 58,
           "started_at": "2026-04-04T10:49:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
@@ -613695,7 +613704,7 @@
         },
         "keystoneScores": {
           "allScore": 2025,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 4,
         "stream": {
@@ -613708,7 +613717,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -615590,7 +615599,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 15,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -619432,7 +619441,7 @@
         },
         "keystoneScores": {
           "allScore": 2374,
-          "allScoreColor": "#4989c3"
+          "allScoreColor": "#4989c2"
         },
         "rank": 4,
         "stream": {
@@ -619445,7 +619454,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -620680,7 +620689,7 @@
         },
         "keystoneScores": {
           "allScore": 1699.9,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -621320,7 +621329,7 @@
         },
         "keystoneScores": {
           "allScore": 1354.8,
-          "allScoreColor": "#5aff40"
+          "allScoreColor": "#60ff45"
         },
         "rank": 4,
         "stream": null
@@ -621985,7 +621994,7 @@
         },
         "keystoneScores": {
           "allScore": 2399.4,
-          "allScoreColor": "#4586c6"
+          "allScoreColor": "#4686c5"
         },
         "rank": 4,
         "stream": null
@@ -623260,7 +623269,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 8,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -623860,7 +623869,7 @@
         },
         "keystoneScores": {
           "allScore": 1392.7,
-          "allScoreColor": "#54ff39"
+          "allScoreColor": "#5aff3f"
         },
         "rank": 4,
         "stream": null
@@ -624497,7 +624506,7 @@
         },
         "keystoneScores": {
           "allScore": 681.7,
-          "allScoreColor": "#caffb6"
+          "allScoreColor": "#cbffb7"
         },
         "rank": 4,
         "stream": null
@@ -625161,7 +625170,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -627152,7 +627161,7 @@
         },
         "keystoneScores": {
           "allScore": 1684.1,
-          "allScoreColor": "#4be74f"
+          "allScoreColor": "#48ea4a"
         },
         "rank": 4,
         "stream": null
@@ -628485,7 +628494,7 @@
         },
         "keystoneScores": {
           "allScore": 2058.9,
-          "allScoreColor": "#5fb396"
+          "allScoreColor": "#5fb494"
         },
         "rank": 4,
         "stream": {
@@ -628498,7 +628507,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 362,
+          "viewer_count": 305,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -630374,7 +630383,7 @@
         },
         "keystoneScores": {
           "allScore": 1340,
-          "allScoreColor": "#61ff45"
+          "allScoreColor": "#66ff4a"
         },
         "rank": 4,
         "stream": null
@@ -631091,7 +631100,7 @@
         },
         "keystoneScores": {
           "allScore": 2035.1,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -631745,7 +631754,7 @@
         },
         "keystoneScores": {
           "allScore": 1704.5,
-          "allScoreColor": "#4ee455"
+          "allScoreColor": "#4be750"
         },
         "rank": 4,
         "stream": null
@@ -632468,7 +632477,7 @@
         },
         "keystoneScores": {
           "allScore": 2352.3,
-          "allScoreColor": "#4c8cbf"
+          "allScoreColor": "#4d8dbf"
         },
         "rank": 4,
         "stream": null
@@ -633124,7 +633133,7 @@
         },
         "keystoneScores": {
           "allScore": 2037.2,
-          "allScoreColor": "#5fb692"
+          "allScoreColor": "#5fb790"
         },
         "rank": 4,
         "stream": null
@@ -633757,12 +633766,12 @@
         },
         "keystoneScores": {
           "allScore": 2005.2,
-          "allScoreColor": "#5fb98e"
+          "allScoreColor": "#5fbb8c"
         },
         "rank": 99,
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-04T12:15:31.763Z"
+    "fetchedAt": "2026-04-04T14:14:38.055Z"
   }
 }
