@@ -2657,6 +2657,1042 @@
       },
       {
         "character": {
+          "name": "Goopdh",
+          "level": 90,
+          "race": {
+            "id": 10,
+            "name": "Blood Elf",
+            "slug": "blood-elf",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 12,
+            "name": "Demon Hunter",
+            "slug": "demon-hunter"
+          },
+          "spec": {
+            "id": 577,
+            "name": "Havoc",
+            "slug": "havoc",
+            "class_id": 12,
+            "role": "dps",
+            "is_melee": true,
+            "patch": "7.0.0",
+            "ordinal": 0
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "male",
+          "thumbnail": "illidan/242/199668466-avatar.jpg",
+          "itemLevelEquipped": 262,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-04-04T11:52:29.375Z",
+            "updated_at": "2026-04-04T11:52:29.375Z",
+            "source": "s3",
+            "item_level_equipped": 262,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250033,
+                "item_level": 263,
+                "enchant": 8017,
+                "icon": "inv_helm_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Intake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13333,
+                  13338,
+                  6652,
+                  12667,
+                  13575,
+                  12790
+                ]
+              },
+              "neck": {
+                "item_id": 251142,
+                "item_level": 250,
+                "icon": "inv_12_jewelry_silvermoonelf_necklace_green",
+                "name": "Pendant of Malefic Fury",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240892
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13668,
+                  12699,
+                  12782
+                ]
+              },
+              "shoulder": {
+                "item_id": 250031,
+                "item_level": 276,
+                "enchant": 8001,
+                "icon": "inv_shoulder_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Exhaustplates",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13334,
+                  13340,
+                  43,
+                  13574,
+                  12798
+                ]
+              },
+              "back": {
+                "item_id": 257175,
+                "item_level": 263,
+                "icon": "inv_cape_plate_outdoorvoidelf_c_01",
+                "name": "Voidbreaker's Wrap",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  12790
+                ]
+              },
+              "chest": {
+                "item_id": 250036,
+                "item_level": 250,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Engine",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13439,
+                  12782,
+                  13336,
+                  13575,
+                  3135
+                ]
+              },
+              "waist": {
+                "item_id": 249374,
+                "item_level": 263,
+                "icon": "inv_belt_leather_raidmonkmidnight_d_01",
+                "name": "Scorn-Scarred Shul'ka's Belt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13577,
+                  13333,
+                  12790
+                ]
+              },
+              "wrist": {
+                "item_id": 249644,
+                "item_level": 263,
+                "icon": "inv_bracer_leather_dungeonharronir_c_01",
+                "name": "Osseoclad Ivory Wrist",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13577,
+                  12790
+                ]
+              },
+              "hands": {
+                "item_id": 250034,
+                "item_level": 250,
+                "icon": "inv_glove_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Essence Grips",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13439,
+                  12782,
+                  13337,
+                  13574,
+                  3135
+                ]
+              },
+              "legs": {
+                "item_id": 249312,
+                "item_level": 276,
+                "enchant": 7935,
+                "icon": "inv_pant_leather_raidroguemidnight_d_01",
+                "name": "Nightblade's Pantaloons",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7935
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13577,
+                  13334,
+                  12798
+                ]
+              },
+              "feet": {
+                "item_id": 258577,
+                "item_level": 276,
+                "enchant": 7963,
+                "icon": "inv_leather_draenordungeon_c_01boot",
+                "name": "Boots of Burning Focus",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13577,
+                  12699,
+                  12798
+                ]
+              },
+              "finger1": {
+                "item_id": 240947,
+                "item_level": 246,
+                "enchant": 8021,
+                "icon": "inv_12_profession_jewelcrafting_ring2_gold",
+                "name": "Gleaming Copper Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12249,
+                  12248,
+                  4785,
+                  12497,
+                  8793,
+                  13620
+                ]
+              },
+              "finger2": {
+                "item_id": 249369,
+                "item_level": 263,
+                "enchant": 7969,
+                "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
+                "name": "Bond of Light",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7969
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243959,
+                    "name": "Enchant Ring - Zul'jin's Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13333,
+                  12790
+                ]
+              },
+              "trinket1": {
+                "item_id": 251787,
+                "item_level": 250,
+                "icon": "inv_112_raidtrinkets_etherealenergystorageurn_gold",
+                "name": "Sealed Chaos Urn",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12786,
+                  6652
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 237840,
+                "item_level": 285,
+                "enchant": 7983,
+                "icon": "inv_glaive_1h_questbloodelf_b_01",
+                "name": "Spellbreaker's Warglaive",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7983
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243973,
+                    "name": "Enchant Weapon - Berserker's Rage",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12685,
+                  8960,
+                  8793,
+                  13622,
+                  13667
+                ]
+              },
+              "offhand": {
+                "item_id": 237840,
+                "item_level": 259,
+                "enchant": 7983,
+                "icon": "inv_glaive_1h_questbloodelf_b_01",
+                "name": "Spellbreaker's Warglaive",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7983
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243973,
+                    "name": "Enchant Weapon - Berserker's Rage",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8793
+                ]
+              }
+            }
+          },
+          "expansionData": {
+            "expansionId": 8,
+            "covenant": {
+              "id": 3,
+              "name": "Night Fae",
+              "slug": "night-fae",
+              "icon": "ui_sigil_nightfae"
+            },
+            "renownLevel": 80,
+            "activeSoulbindIndex": 0,
+            "soulbinds": [
+              {
+                "id": 1,
+                "name": "Niya",
+                "slug": "niya",
+                "traits": [
+                  {
+                    "id": 864,
+                    "spell": {
+                      "id": 322721,
+                      "name": "Grove Invigoration",
+                      "icon": "ability_druid_manatree",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 863,
+                    "spell": {
+                      "id": 342270,
+                      "name": "Run Without Tiring",
+                      "icon": "ability_racial_runningwild",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 866,
+                    "spell": {
+                      "id": 320687,
+                      "name": "Swift Patrol",
+                      "icon": "ability_druid_supriseattack",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 858,
+                    "spell": {
+                      "id": 320659,
+                      "name": "Niya's Tools: Burrs",
+                      "icon": "ability_rogue_trip",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1838,
+                    "spell": {
+                      "id": 352501,
+                      "name": "Called Shot",
+                      "icon": "ability_hunter_runningshot",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1842,
+                    "spell": {
+                      "id": 352503,
+                      "name": "Bonded Hearts",
+                      "icon": "spell_animaardenweald_buff",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 153,
+                    "spell": {
+                      "id": 339231,
+                      "name": "Growing Inferno",
+                      "icon": "spell_fel_incinerate",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  },
+                  {
+                    "id": 134,
+                    "spell": {
+                      "id": 338799,
+                      "name": "Felfire Haste",
+                      "icon": "inv_boots_cloth_35v4",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 8
+                  },
+                  {
+                    "id": 283,
+                    "spell": {
+                      "id": 357888,
+                      "name": "Condensed Anima Sphere",
+                      "icon": "spell_animarevendreth_orb",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 6
+                  },
+                  {
+                    "id": 131,
+                    "spell": {
+                      "id": 338682,
+                      "name": "Viscous Ink",
+                      "icon": "inv_archaeology_orcclans_tattooknife",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 6
+                  },
+                  {
+                    "id": 150,
+                    "spell": {
+                      "id": 339151,
+                      "name": "Relentless Onslaught",
+                      "icon": "ability_demonhunter_soulcleave2",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  },
+                  {
+                    "id": 132,
+                    "spell": {
+                      "id": 338793,
+                      "name": "Shattered Restoration",
+                      "icon": "ability_warlock_soulsiphon",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "name": "Dreamweaver",
+                "slug": "dreamweaver",
+                "traits": [],
+                "conduits": []
+              },
+              {
+                "id": 6,
+                "name": "Korayn",
+                "slug": "korayn",
+                "traits": [
+                  {
+                    "id": 1203,
+                    "spell": {
+                      "id": 325066,
+                      "name": "Wild Hunt Tactics",
+                      "icon": "ability_blackhand_marked4death",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1204,
+                    "spell": {
+                      "id": 325067,
+                      "name": "Horn of the Wild Hunt",
+                      "icon": "inv_misc_monsterhorn_05",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1216,
+                    "spell": {
+                      "id": 325073,
+                      "name": "Get In Formation",
+                      "icon": "inv_misc_foot_centaur",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1206,
+                    "spell": {
+                      "id": 325069,
+                      "name": "First Strike",
+                      "icon": "ability_rogue_surpriseattack",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1851,
+                    "spell": {
+                      "id": 352806,
+                      "name": "Hunt's Exhilaration",
+                      "icon": "spell_animaardenweald_debuff",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1854,
+                    "spell": {
+                      "id": 352805,
+                      "name": "Wild Hunt Strategem",
+                      "icon": "spell_animaardenweald_beam",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 153,
+                    "spell": {
+                      "id": 339231,
+                      "name": "Growing Inferno",
+                      "icon": "spell_fel_incinerate",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  },
+                  {
+                    "id": 134,
+                    "spell": {
+                      "id": 338799,
+                      "name": "Felfire Haste",
+                      "icon": "inv_boots_cloth_35v4",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 8
+                  },
+                  {
+                    "id": 131,
+                    "spell": {
+                      "id": 338682,
+                      "name": "Viscous Ink",
+                      "icon": "inv_archaeology_orcclans_tattooknife",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 6
+                  },
+                  {
+                    "id": 283,
+                    "spell": {
+                      "id": 357888,
+                      "name": "Condensed Anima Sphere",
+                      "icon": "spell_animarevendreth_orb",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 6
+                  },
+                  {
+                    "id": 281,
+                    "spell": {
+                      "id": 344358,
+                      "name": "Unnatural Malice",
+                      "icon": "spell_animaardenweald_missile",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 6
+                  },
+                  {
+                    "id": 135,
+                    "spell": {
+                      "id": 338835,
+                      "name": "Ravenous Consumption",
+                      "icon": "inv_lightforgedmatrixability_shroudofarchaneechoes",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  }
+                ]
+              }
+            ]
+          },
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 6,
+            "heroic": 7,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 971.8,
+          "allScoreColor": "#a5ff8a"
+        },
+        "rank": 4,
+        "stream": null
+      },
+      {
+        "character": {
           "name": "Fayleena",
           "level": 90,
           "race": {
@@ -2704,8 +3740,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T04:50:11.590Z",
-            "updated_at": "2026-04-03T04:50:11.590Z",
+            "created_at": "2026-04-04T11:54:35.968Z",
+            "updated_at": "2026-04-04T11:54:35.968Z",
             "source": "s3",
             "item_level_equipped": 271,
             "item_level_total": 0,
@@ -2803,10 +3839,10 @@
                 ]
               },
               "neck": {
-                "item_id": 251096,
+                "item_id": 50228,
                 "item_level": 266,
-                "icon": "inv_12_jewelry_silvermoonelf_necklace_white",
-                "name": "Pendant of Aching Grief",
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Barbed Ymirheim Choker",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -3579,8 +4615,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3232,
-          "allScoreColor": "#e2588d"
+          "allScore": 3283.2,
+          "allScoreColor": "#e65c82"
         },
         "rank": 8,
         "stream": null
@@ -9049,8 +10085,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T01:09:22.601Z",
-            "updated_at": "2026-04-03T01:09:22.601Z",
+            "created_at": "2026-04-04T11:22:16.211Z",
+            "updated_at": "2026-04-04T11:22:16.211Z",
             "source": "s3",
             "item_level_equipped": 262,
             "item_level_total": 0,
@@ -9139,10 +10175,10 @@
                 ]
               },
               "neck": {
-                "item_id": 251096,
+                "item_id": 266314,
                 "item_level": 263,
-                "icon": "inv_12_jewelry_silvermoonelf_necklace_white",
-                "name": "Pendant of Aching Grief",
+                "icon": "inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_terra",
+                "name": "Novice Combatant's Necklace",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -9166,11 +10202,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
-                  6652,
-                  13668,
-                  12699,
-                  12790
+                  13447,
+                  12794
                 ]
               },
               "shoulder": {
@@ -9836,8 +10869,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2464.5,
-          "allScoreColor": "#367cd0"
+          "allScore": 2497.3,
+          "allScoreColor": "#2f79d3"
         },
         "rank": 8,
         "stream": null
@@ -11751,7 +12784,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/111/188985455-avatar.jpg",
-          "itemLevelEquipped": 263,
+          "itemLevelEquipped": 265,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -11771,10 +12804,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-03-31T22:38:27.658Z",
-            "updated_at": "2026-03-31T22:38:27.658Z",
+            "created_at": "2026-04-04T11:14:15.759Z",
+            "updated_at": "2026-04-04T11:14:15.759Z",
             "source": "s3",
-            "item_level_equipped": 263,
+            "item_level_equipped": 265,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -11786,11 +12819,11 @@
             },
             "items": {
               "head": {
-                "item_id": 266430,
-                "item_level": 263,
-                "enchant": 8015,
-                "icon": "inv_helm_leather_questbloodelf_b_01",
-                "name": "Silvermoon Sunguard",
+                "item_id": 250033,
+                "item_level": 276,
+                "enchant": 8017,
+                "icon": "inv_helm_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Intake",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -11801,21 +12834,25 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8015
+                  8017
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244005,
-                    "name": "Enchant Helm - Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  13577,
-                  12790
+                  6652,
+                  12667,
+                  13338,
+                  13575,
+                  12798
                 ]
               },
               "neck": {
@@ -11953,11 +12990,11 @@
                 ]
               },
               "chest": {
-                "item_id": 258586,
-                "item_level": 266,
+                "item_id": 250036,
+                "item_level": 276,
                 "enchant": 7987,
-                "icon": "inv_leather_draenordungeon_c_01chest",
-                "name": "Bloodfeather Chestguard",
+                "icon": "inv_chest_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Engine",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -11968,6 +13005,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -11981,11 +13019,11 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
-                  13440,
                   6652,
-                  13577,
-                  12699
+                  13440,
+                  13336,
+                  13575,
+                  12798
                 ]
               },
               "waist": {
@@ -12039,10 +13077,10 @@
                 ]
               },
               "hands": {
-                "item_id": 251204,
-                "item_level": 266,
-                "icon": "inv_glove_leather_dungeonharronir_c_01",
-                "name": "Corewright's Zappers",
+                "item_id": 250034,
+                "item_level": 276,
+                "icon": "inv_glove_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Essence Grips",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -12053,16 +13091,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
-                  13440,
                   6652,
-                  13577,
-                  12699
+                  13440,
+                  13337,
+                  13574,
+                  12798
                 ]
               },
               "legs": {
@@ -12247,7 +13286,7 @@
               },
               "trinket2": {
                 "item_id": 249809,
-                "item_level": 269,
+                "item_level": 276,
                 "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
                 "name": "Locus-Walker's Ribbon",
                 "item_quality": 4,
@@ -12267,7 +13306,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12796
+                  12798
                 ]
               },
               "mainhand": {
@@ -12542,8 +13581,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1507.5,
-          "allScoreColor": "#1eff00"
+          "allScore": 2319.7,
+          "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
         "stream": null
@@ -15571,7 +16610,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/48/224743984-avatar.jpg",
-          "itemLevelEquipped": 262,
+          "itemLevelEquipped": 265,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -15591,10 +16630,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T10:54:27.154Z",
-            "updated_at": "2026-04-03T10:54:27.154Z",
+            "created_at": "2026-04-04T11:52:27.362Z",
+            "updated_at": "2026-04-04T11:52:27.362Z",
             "source": "s3",
-            "item_level_equipped": 262,
+            "item_level_equipped": 265,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -15606,15 +16645,25 @@
             },
             "items": {
               "head": {
-                "item_id": 250060,
-                "item_level": 263,
-                "icon": "inv_helm_cloth_raidmagemidnight_d_01",
-                "name": "Voidbreaker's Veil",
+                "item_id": 251080,
+                "item_level": 266,
+                "icon": "inv_helm_cloth_dungeonharronir_c_01",
+                "name": "Brambledawn Halo",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
                   {
                     "id": 580,
                     "spell": {
@@ -15656,24 +16705,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12794,
+                  12795,
+                  13440,
                   6652,
                   12667,
-                  13440,
-                  13338,
-                  13575,
-                  3148
+                  13577,
+                  12699
                 ]
               },
               "neck": {
                 "item_id": 50228,
-                "item_level": 250,
+                "item_level": 263,
                 "icon": "inv_jewelry_necklace_22",
                 "name": "Barbed Ymirheim Choker",
                 "item_quality": 4,
@@ -15703,7 +16750,7 @@
                   41,
                   13668,
                   12699,
-                  12786
+                  12790
                 ]
               },
               "shoulder": {
@@ -15763,7 +16810,7 @@
               },
               "chest": {
                 "item_id": 250063,
-                "item_level": 250,
+                "item_level": 263,
                 "icon": "inv_chest_cloth_raidmagemidnight_d_01",
                 "name": "Voidbreaker's Robe",
                 "item_quality": 4,
@@ -15782,11 +16829,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12786,
                   13333,
                   13336,
                   6652,
-                  13575
+                  13575,
+                  12790
                 ]
               },
               "waist": {
@@ -15843,7 +16890,7 @@
               },
               "hands": {
                 "item_id": 250061,
-                "item_level": 256,
+                "item_level": 263,
                 "icon": "inv_glove_cloth_raidmagemidnight_d_01",
                 "name": "Voidbreaker's Gloves",
                 "item_quality": 4,
@@ -15863,10 +16910,10 @@
                 "enchants_detail": [],
                 "bonuses": [
                   13337,
-                  12788,
                   13439,
                   6652,
-                  13574
+                  13574,
+                  12790
                 ]
               },
               "legs": {
@@ -15908,7 +16955,7 @@
               },
               "feet": {
                 "item_id": 249373,
-                "item_level": 250,
+                "item_level": 263,
                 "icon": "inv_boot_cloth_raidmagemidnight_d_01",
                 "name": "Dream-Scorched Striders",
                 "item_quality": 4,
@@ -15929,12 +16976,13 @@
                   6652,
                   13577,
                   13333,
-                  12786
+                  12790
                 ]
               },
               "finger1": {
                 "item_id": 251217,
                 "item_level": 266,
+                "enchant": 7965,
                 "icon": "inv_12_trinket_devouring_host_currency1_bronze",
                 "name": "Occlusion of Void",
                 "item_quality": 4,
@@ -15957,8 +17005,16 @@
                     "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
                 "bonuses": [
                   12795,
                   13440,
@@ -15970,6 +17026,7 @@
               "finger2": {
                 "item_id": 49812,
                 "item_level": 266,
+                "enchant": 7965,
                 "icon": "inv_jewelry_ring_42",
                 "name": "Purloined Wedding Ring",
                 "item_quality": 4,
@@ -15992,8 +17049,16 @@
                     "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_void_red"
                   }
                 ],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
                 "bonuses": [
                   12795,
                   13440,
@@ -16114,8 +17179,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2310.7,
-          "allScoreColor": "#5292b9"
+          "allScore": 2651.1,
+          "allScoreColor": "#4f67e1"
         },
         "rank": 8,
         "stream": null
@@ -34406,7 +35471,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/83/229051731-avatar.jpg",
-          "itemLevelEquipped": 271,
+          "itemLevelEquipped": 273,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -34426,10 +35491,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T03:14:14.423Z",
-            "updated_at": "2026-04-03T03:14:14.423Z",
+            "created_at": "2026-04-04T10:28:19.570Z",
+            "updated_at": "2026-04-04T10:28:19.570Z",
             "source": "s3",
-            "item_level_equipped": 271,
+            "item_level_equipped": 273,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -34511,60 +35576,14 @@
               },
               "shoulder": {
                 "item_id": 250031,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 8001,
                 "icon": "inv_shoulder_leather_raiddemonhuntermidnight_d_01",
                 "name": "Devouring Reaver's Exhaustplates",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -34586,11 +35605,10 @@
                 ],
                 "bonuses": [
                   6652,
-                  12795,
                   13440,
                   13340,
                   13574,
-                  3151
+                  12798
                 ]
               },
               "back": {
@@ -34623,7 +35641,7 @@
               },
               "chest": {
                 "item_id": 250036,
-                "item_level": 276,
+                "item_level": 289,
                 "enchant": 7987,
                 "icon": "inv_chest_leather_raiddemonhuntermidnight_d_01",
                 "name": "Devouring Reaver's Engine",
@@ -34651,11 +35669,11 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
                   13336,
+                  13440,
                   6652,
                   13575,
-                  12798
+                  12806
                 ]
               },
               "waist": {
@@ -100855,7 +101873,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/200/230185672-avatar.jpg",
-          "itemLevelEquipped": 257,
+          "itemLevelEquipped": 264,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -100875,10 +101893,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T10:54:27.955Z",
-            "updated_at": "2026-04-03T10:54:27.955Z",
+            "created_at": "2026-04-04T10:27:16.663Z",
+            "updated_at": "2026-04-04T10:27:16.663Z",
             "source": "s3",
-            "item_level_equipped": 257,
+            "item_level_equipped": 264,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -101040,10 +102058,10 @@
                 ]
               },
               "back": {
-                "item_id": 249370,
-                "item_level": 259,
-                "icon": "inv_cape_plate_raidpaladinmidnight_d_01",
-                "name": "Draconic Nullcape",
+                "item_id": 258575,
+                "item_level": 276,
+                "icon": "inv_cape_draenordungeon_c_02_plate",
+                "name": "Rigid Scale Greatcloak",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -101059,10 +102077,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  13440,
                   6652,
                   13577,
-                  13333,
-                  12789
+                  12699,
+                  12798
                 ]
               },
               "chest": {
@@ -101139,11 +102158,11 @@
                 ]
               },
               "wrist": {
-                "item_id": 256968,
-                "item_level": 237,
-                "icon": "inv_bracer_cloth_dungeonharronir_c_01",
-                "name": "Deepvine Bracers",
-                "item_quality": 3,
+                "item_id": 250038,
+                "item_level": 276,
+                "icon": "inv_bracer_cloth_raidwarlockmidnight_d_01",
+                "name": "Abyssal Immolator's Shackles",
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -101154,13 +102173,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240894
+                  240890
                 ],
                 "gems_detail": [
                   {
-                    "id": 240894,
-                    "name": "16 Haste & 7 Vers",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_frost_green"
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
                   }
                 ],
                 "enchants": [],
@@ -101168,8 +102187,8 @@
                 "bonuses": [
                   6652,
                   13534,
-                  13578,
-                  12774
+                  12798,
+                  3161
                 ]
               },
               "hands": {
@@ -101403,7 +102422,7 @@
               },
               "mainhand": {
                 "item_id": 245770,
-                "item_level": 259,
+                "item_level": 285,
                 "enchant": 8039,
                 "icon": "inv_staff_2h_dungeonharronir_c_02",
                 "name": "Aln'hara Cane",
@@ -101433,7 +102452,11 @@
                   12214,
                   12497,
                   12066,
-                  8791
+                  12693,
+                  8960,
+                  8791,
+                  13622,
+                  13667
                 ]
               }
             }
@@ -101461,8 +102484,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 344.4,
-          "allScoreColor": "#f2ffec"
+          "allScore": 1022.2,
+          "allScoreColor": "#9dff82"
         },
         "rank": 4,
         "stream": null
@@ -180843,7 +181866,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-04T10:13:26.979Z"
+    "fetchedAt": "2026-04-04T12:15:21.098Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -183738,7 +184761,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -184723,7 +185746,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -185593,7 +186616,7 @@
           "type": "live",
           "title": "<Echo>  Nicememes RWF DAY 69 BIG MYTHIC TODAY FOR SURELY 100% | FINALLY DAMAGING TODAY?!?! | MASSIVE OILED UP ARMS AND FEET",
           "community_ids": [],
-          "viewer_count": 164,
+          "viewer_count": 195,
           "started_at": "2026-04-04T05:39:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ognicememes-{width}x{height}.jpg"
@@ -186245,7 +187268,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -187163,7 +188186,7 @@
           "type": "live",
           "title": "<Echo>  Nicememes RWF DAY 69 BIG MYTHIC TODAY FOR SURELY 100% | FINALLY DAMAGING TODAY?!?! | MASSIVE OILED UP ARMS AND FEET",
           "community_ids": [],
-          "viewer_count": 164,
+          "viewer_count": 195,
           "started_at": "2026-04-04T05:39:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ognicememes-{width}x{height}.jpg"
@@ -187865,7 +188888,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -191143,7 +192166,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -191779,7 +192802,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -192503,7 +193526,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -193818,7 +194841,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF - Mythic Day 11 - Evoker - ADVANCED BY !AMD",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 39,
           "started_at": "2026-04-04T05:43:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -195203,7 +196226,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -195868,7 +196891,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF - Mythic Day 11 - Evoker - ADVANCED BY !AMD",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 39,
           "started_at": "2026-04-04T05:43:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -196523,7 +197546,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -197846,7 +198869,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -202222,7 +203245,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -204793,7 +205816,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -206799,7 +207822,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -207995,7 +209018,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -208650,7 +209673,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -209297,7 +210320,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -209973,7 +210996,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -210676,7 +211699,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -211340,7 +212363,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -213811,7 +214834,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -216383,7 +217406,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -219003,7 +220026,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -219705,7 +220728,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -220361,7 +221384,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 11 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 147,
           "started_at": "2026-04-04T07:57:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -226125,7 +227148,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 46,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -227439,7 +228462,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 46,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -228087,7 +229110,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -235592,7 +236615,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -239504,7 +240527,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -245198,7 +246221,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -253173,7 +254196,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 46,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -253810,7 +254833,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -254406,7 +255429,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -257089,7 +258112,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -261670,7 +262693,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -262327,7 +263350,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -272046,7 +273069,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -273316,7 +274339,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -274013,7 +275036,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -274661,7 +275684,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -275325,7 +276348,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -275917,7 +276940,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -276572,7 +277595,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -277223,7 +278246,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -277834,7 +278857,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -279822,7 +280845,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -280496,7 +281519,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -281104,7 +282127,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -282364,7 +283387,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -283076,7 +284099,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -289278,7 +290301,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -289940,7 +290963,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -301749,7 +302772,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -302349,7 +303372,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -302958,7 +303981,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -304924,7 +305947,7 @@
           "type": "live",
           "title": "<Echo> Mythic Day 11 | !ui !maxroll",
           "community_ids": [],
-          "viewer_count": 210,
+          "viewer_count": 260,
           "started_at": "2026-04-04T05:39:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -308949,7 +309972,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -310225,7 +311248,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -313436,7 +314459,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -320615,7 +321638,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -321298,7 +322321,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -321972,7 +322995,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -326405,7 +327428,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 46,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -332858,7 +333881,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -334177,7 +335200,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -334848,7 +335871,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -335494,7 +336517,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -336241,7 +337264,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -346937,7 +347960,7 @@
           "type": "live",
           "title": "<Echo> RWF Blade Blade Blade  DAY 11 !restedxp !gifts @mandatory !discord !amd",
           "community_ids": [],
-          "viewer_count": 707,
+          "viewer_count": 842,
           "started_at": "2026-04-04T05:22:25Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -352028,7 +353051,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -357069,7 +358092,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 46,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -358368,7 +359391,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -359656,7 +360679,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -369977,7 +371000,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 46,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -370684,7 +371707,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -371321,7 +372344,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -372044,7 +373067,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -373879,7 +374902,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 18 | Doing some damage per 60th of a minute",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 10,
           "started_at": "2026-04-04T05:42:32Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shamilli_-{width}x{height}.jpg"
@@ -375131,7 +376154,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -375730,7 +376753,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -376352,7 +377375,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -376966,7 +377989,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -377568,7 +378591,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -378196,7 +379219,7 @@
           "type": "live",
           "title": "Sol <Echo> once again rwf hunter gaming !AMD !rxptracker",
           "community_ids": [],
-          "viewer_count": 32,
+          "viewer_count": 42,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_solwinas-{width}x{height}.jpg"
@@ -378799,7 +379822,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -379457,7 +380480,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -380128,7 +381151,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -380823,7 +381846,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -381501,7 +382524,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -382152,7 +383175,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -382751,7 +383774,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -384145,7 +385168,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -384843,7 +385866,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -385499,7 +386522,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -386811,7 +387834,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -387492,7 +388515,7 @@
           "type": "live",
           "title": "<Echo> Rwf Day Many (i lost count)",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 38,
           "started_at": "2026-04-04T05:39:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -388173,7 +389196,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 19,
+          "viewer_count": 22,
           "started_at": "2026-04-04T05:39:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -389515,7 +390538,7 @@
           "type": "live",
           "title": "<ECHO> RWF Mythic Lu'ra !restedxp !summer !ui !kill",
           "community_ids": [],
-          "viewer_count": 4043,
+          "viewer_count": 4523,
           "started_at": "2026-04-04T05:46:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -390213,7 +391236,7 @@
           "type": "live",
           "title": "Verb <Echo> RWF Day idk !ui !rxptracker",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 46,
           "started_at": "2026-04-04T10:03:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verbiatv-{width}x{height}.jpg"
@@ -402965,7 +403988,7 @@
           "type": "live",
           "title": "!DROPS <Echo> RWF DAY 18 Mythic Day 11 | !splits | !UI | !AMD",
           "community_ids": [],
-          "viewer_count": 1143,
+          "viewer_count": 1360,
           "started_at": "2026-04-04T05:39:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -405683,7 +406706,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-04T10:13:31.380Z"
+    "fetchedAt": "2026-04-04T12:15:24.272Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -409340,7 +410363,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -410156,7 +411179,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 35,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -414898,7 +415921,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -416078,7 +417101,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 35,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -417932,7 +418955,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -418883,7 +419906,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -420854,7 +421891,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 35,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -421695,7 +422732,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 35,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -422491,7 +423528,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -424818,7 +425855,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -428620,7 +429671,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -431629,7 +432694,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -435449,7 +436514,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 51,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -436089,7 +437154,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 51,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -439200,7 +440265,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -440481,7 +441546,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 35,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -441121,7 +442186,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 563,
+          "viewer_count": 658,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -441789,7 +442854,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -443796,7 +444861,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 35,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -445073,7 +446138,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -447625,7 +448704,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -448242,7 +449321,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -450218,7 +451297,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -450919,7 +451998,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -452995,7 +454074,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 11",
           "community_ids": [],
-          "viewer_count": 35,
+          "viewer_count": 45,
           "started_at": "2026-04-04T06:08:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -459198,7 +460277,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -459808,7 +460901,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -460501,7 +461608,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -463108,7 +464215,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 51,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -463772,7 +464879,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 51,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -466513,7 +467620,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -467221,7 +468328,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 563,
+          "viewer_count": 658,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -467892,7 +468999,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -468492,7 +469599,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -469123,7 +470244,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 563,
+          "viewer_count": 658,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -469762,7 +470883,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -471133,7 +472254,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 563,
+          "viewer_count": 658,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -471731,7 +472852,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -472391,7 +473512,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -473054,7 +474175,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -473688,7 +474809,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -474992,7 +476113,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -477546,7 +478667,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -478876,7 +479997,21 @@
           "allScoreColor": "#2676d6"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -479570,7 +480705,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -481503,7 +482638,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -483400,7 +484535,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 51,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -483987,7 +485122,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 563,
+          "viewer_count": 658,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -484663,7 +485798,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 51,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -486026,7 +487161,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -488483,7 +489618,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -492212,7 +493347,7 @@
           "type": "live",
           "title": "Method MYTHIC WEEK (AGAIN)",
           "community_ids": [],
-          "viewer_count": 563,
+          "viewer_count": 658,
           "started_at": "2026-04-04T06:07:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -494920,7 +496055,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -502511,7 +503646,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF  Day 11 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 51,
           "started_at": "2026-04-04T06:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -504437,7 +505572,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -512761,7 +513896,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -513988,7 +515123,7 @@
           "type": "live",
           "title": "<Method> Mythic Lu'ra ROGUE IN THE RAID (for now) !vpn !holy !restedxp",
           "community_ids": [],
-          "viewer_count": 13,
+          "viewer_count": 7,
           "started_at": "2026-04-04T05:37:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -515919,7 +517054,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -516572,7 +517707,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -517208,7 +518343,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -520739,7 +521874,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -521420,7 +522569,21 @@
           "allScoreColor": "#5fb692"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -524069,7 +525232,7 @@
           "type": "live",
           "title": "RWF Day 11 <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 625,
+          "viewer_count": 668,
           "started_at": "2026-04-04T06:04:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -531785,7 +532948,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -544429,7 +545606,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -550057,7 +551234,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -553284,7 +554461,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -553981,7 +555158,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 9,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -555247,7 +556424,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -559777,7 +560954,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -560367,7 +561544,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -562814,7 +563991,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -564818,7 +565995,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 9,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -566195,7 +567372,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -568099,7 +569276,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -571383,7 +572560,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -581346,7 +582523,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -582650,7 +583841,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -583337,7 +584528,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 9,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -592472,7 +593663,7 @@
           "type": "live",
           "title": "💥<Method> RWF Day 11💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 108,
+          "viewer_count": 141,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -598250,7 +599441,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -600269,7 +601460,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -600903,7 +602094,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -602166,7 +603357,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -604127,7 +605318,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -606084,7 +607275,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -609804,7 +610995,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -611110,7 +612315,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -611755,7 +612960,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 517166,
+          "id": "316849370597",
+          "name": "wildigenia",
+          "user_id": "68281787",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Day smth - Mythic Mage [ENG/GER] !Discord !coaching !Holy",
+          "community_ids": [],
+          "viewer_count": 59,
+          "started_at": "2026-04-04T10:49:39Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wildigenia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -612489,7 +613708,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -614371,7 +615590,7 @@
           "type": "live",
           "title": "<Method> RWF L'URA PROG",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 9,
           "started_at": "2026-04-04T06:03:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rowelly-{width}x{height}.jpg"
@@ -618226,7 +619445,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -622041,7 +623260,7 @@
           "type": "live",
           "title": "<Method> RWF Lura Prog Begins - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 5,
+          "viewer_count": 4,
           "started_at": "2026-04-04T06:04:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -623942,7 +625161,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -627279,7 +628498,7 @@
           "type": "live",
           "title": "Mythic LURA <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 323,
+          "viewer_count": 362,
           "started_at": "2026-04-04T06:05:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -632544,6 +633763,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-04T10:13:36.896Z"
+    "fetchedAt": "2026-04-04T12:15:31.763Z"
   }
 }
