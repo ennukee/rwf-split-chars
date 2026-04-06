@@ -644,7 +644,7 @@
           "totalBosses": 9,
           "progress": {
             "normal": 6,
-            "heroic": 1,
+            "heroic": 4,
             "mythic": 0
           }
         },
@@ -1776,7 +1776,7 @@
         },
         "keystoneScores": {
           "allScore": 2655.9,
-          "allScoreColor": "#346cdf"
+          "allScoreColor": "#316cdf"
         },
         "rank": 7,
         "stream": null
@@ -2604,7 +2604,7 @@
         },
         "keystoneScores": {
           "allScore": 2779.3,
-          "allScoreColor": "#8351e8"
+          "allScoreColor": "#7c55e7"
         },
         "rank": 7,
         "stream": null
@@ -4608,7 +4608,7 @@
         },
         "keystoneScores": {
           "allScore": 3283.2,
-          "allScoreColor": "#e2588d"
+          "allScoreColor": "#e05790"
         },
         "rank": 8,
         "stream": null
@@ -5380,6 +5380,805 @@
       },
       {
         "character": {
+          "name": "Trillwar",
+          "level": 90,
+          "race": {
+            "id": 2,
+            "name": "Orc",
+            "slug": "orc",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 1,
+            "name": "Warrior",
+            "slug": "warrior"
+          },
+          "spec": {
+            "id": 73,
+            "name": "Protection",
+            "slug": "protection",
+            "class_id": 1,
+            "role": "tank",
+            "is_melee": true,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/33/169505313-avatar.jpg",
+          "itemLevelEquipped": 264,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-04-06T03:37:56.956Z",
+            "updated_at": "2026-04-06T03:37:56.956Z",
+            "source": "s3",
+            "item_level_equipped": 264,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 151333,
+                "item_level": 276,
+                "enchant": 7961,
+                "icon": "inv_helm_plate_legiondungeon_c_03",
+                "name": "Crown of the Dark Envoy",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7961
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243951,
+                    "name": "Enchant Helm - Empowered Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  6652,
+                  12667,
+                  13577,
+                  12699,
+                  12798
+                ]
+              },
+              "neck": {
+                "item_id": 265739,
+                "item_level": 263,
+                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
+                "name": "Amani Heartstring Pendant",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12790
+                ]
+              },
+              "shoulder": {
+                "item_id": 251164,
+                "item_level": 266,
+                "enchant": 8031,
+                "icon": "inv_shoulder_plate_dungeonharronir_c_01",
+                "name": "Amalgamation's Harness",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8031
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244021,
+                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  13577,
+                  12699
+                ]
+              },
+              "back": {
+                "item_id": 259910,
+                "item_level": 250,
+                "icon": "inv_cape_leather_outdoorvoidelf_c_01",
+                "name": "Preyseeker's Sleek Capelet",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  12782
+                ]
+              },
+              "chest": {
+                "item_id": 50272,
+                "item_level": 266,
+                "enchant": 7987,
+                "icon": "inv_chest_plate23",
+                "name": "Frost Wyrm Ribcage",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  13577,
+                  12699
+                ]
+              },
+              "waist": {
+                "item_id": 249659,
+                "item_level": 263,
+                "icon": "inv_belt_plate_dungeonharronir_c_01",
+                "name": "Rampant Thornstrap",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13577,
+                  12794
+                ]
+              },
+              "shirt": {
+                "item_id": 4336,
+                "item_level": 1,
+                "icon": "inv_shirt_black_01",
+                "name": "Black Swashbuckler's Shirt",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": []
+              },
+              "wrist": {
+                "item_id": 256965,
+                "item_level": 237,
+                "icon": "inv_bracer_plate_dungeonharronir_c_01",
+                "name": "Steelbark Vambraces",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13578,
+                  12774
+                ]
+              },
+              "hands": {
+                "item_id": 249655,
+                "item_level": 263,
+                "icon": "inv_glove_plate_dungeonharronir_c_01",
+                "name": "Rampant Creepers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  12790
+                ]
+              },
+              "legs": {
+                "item_id": 251118,
+                "item_level": 276,
+                "enchant": 8159,
+                "icon": "inv_pant_plate_dungeonharronir_c_01",
+                "name": "Legplates of Lingering Dusk",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13577,
+                  12699,
+                  12798
+                ]
+              },
+              "feet": {
+                "item_id": 251169,
+                "item_level": 276,
+                "icon": "inv_boot_plate_dungeonharronir_c_01",
+                "name": "Footwraps of Ill-Fate",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13577,
+                  12699,
+                  12798
+                ]
+              },
+              "finger1": {
+                "item_id": 151311,
+                "item_level": 276,
+                "enchant": 8025,
+                "icon": "inv_70_dungeon_ring2b",
+                "name": "Band of the Triumvirate",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8025
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  41,
+                  13668,
+                  12699,
+                  12798
+                ]
+              },
+              "finger2": {
+                "item_id": 259914,
+                "item_level": 263,
+                "enchant": 8021,
+                "icon": "inv_70_quest_ring10d",
+                "name": "Preyseeker's Circle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12790
+                ]
+              },
+              "trinket1": {
+                "item_id": 249342,
+                "item_level": 263,
+                "icon": "inv_12_trinket_raid_voidspire_strdps_hearthofancienthunger",
+                "name": "Heart of Ancient Hunger",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12794,
+                  11215
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 262731,
+                "item_level": 263,
+                "enchant": 8039,
+                "icon": "inv_sword_1h_dungeonharronir_c_01",
+                "name": "Wildthorn Razorfang",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12790
+                ]
+              },
+              "offhand": {
+                "item_id": 249676,
+                "item_level": 263,
+                "icon": "inv_shield_1h_dungeonharronir_c_01",
+                "name": "Bramblebarricade",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12790
+                ]
+              }
+            }
+          },
+          "expansionData": {
+            "expansionId": 8,
+            "covenant": {
+              "id": 4,
+              "name": "Necrolord",
+              "slug": "necrolord",
+              "icon": "ui_sigil_necrolord"
+            },
+            "renownLevel": 52,
+            "activeSoulbindIndex": 0,
+            "soulbinds": [
+              {
+                "id": 4,
+                "name": "Plague Deviser Marileth",
+                "slug": "plague-deviser-marileth",
+                "traits": [
+                  {
+                    "id": 1124,
+                    "spell": {
+                      "id": 323074,
+                      "name": "Volatile Solvent",
+                      "icon": "inv_misc_food_legion_gooslime_pool",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1126,
+                    "spell": {
+                      "id": 323091,
+                      "name": "Ooz's Frictionless Coating",
+                      "icon": "inv_maldraxxusslime_green",
+                      "school": 8,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1130,
+                    "spell": {
+                      "id": 323081,
+                      "name": "Plagueborn Cleansing Slime",
+                      "icon": "inv_maldraxxusslime_plague",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1136,
+                    "spell": {
+                      "id": 323095,
+                      "name": "Ultimate Form",
+                      "icon": "spell_shadow_zdemonformgreen",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 12,
+                    "spell": {
+                      "id": 335242,
+                      "name": "Crash the Ramparts",
+                      "icon": "inv_mace_1h_draenorraid_d_04yellow",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  },
+                  {
+                    "id": 5,
+                    "spell": {
+                      "id": 334993,
+                      "name": "Stalwart Guardian",
+                      "icon": "ability_warrior_shieldmastery",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  },
+                  {
+                    "id": 169,
+                    "spell": {
+                      "id": 339386,
+                      "name": "Mortal Combo",
+                      "icon": "warrior_talent_icon_igniteweapon",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 5
+                  },
+                  {
+                    "id": 27,
+                    "spell": {
+                      "id": 336191,
+                      "name": "Indelible Victory",
+                      "icon": "ability_warrior_secondwind",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 5
+                  },
+                  {
+                    "id": 158,
+                    "spell": {
+                      "id": 339265,
+                      "name": "Veteran's Repute",
+                      "icon": "spell_animamaldraxxus_buff",
+                      "school": 32,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 5
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "name": "Emeni",
+                "slug": "emeni",
+                "traits": [],
+                "conduits": []
+              },
+              {
+                "id": 10,
+                "name": "Bonesmith Heirmir",
+                "slug": "bonesmith-heirmir",
+                "traits": [],
+                "conduits": []
+              }
+            ]
+          },
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 1652.4,
+          "allScoreColor": "#33f82a"
+        },
+        "rank": 3,
+        "stream": null
+      },
+      {
+        "character": {
           "name": "Ktb",
           "level": 90,
           "race": {
@@ -5427,8 +6226,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-04T19:32:57.462Z",
-            "updated_at": "2026-04-04T19:32:57.462Z",
+            "created_at": "2026-04-06T04:03:16.177Z",
+            "updated_at": "2026-04-06T04:03:16.177Z",
             "source": "s3",
             "item_level_equipped": 271,
             "item_level_total": 0,
@@ -5842,7 +6641,7 @@
               },
               "finger2": {
                 "item_id": 49812,
-                "item_level": 263,
+                "item_level": 266,
                 "enchant": 8021,
                 "icon": "inv_jewelry_ring_42",
                 "name": "Purloined Wedding Ring",
@@ -5857,13 +6656,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240858
+                  240889
                 ],
                 "gems_detail": [
                   {
-                    "id": 240858,
-                    "name": "12 Haste & 5 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_fire_green"
+                    "id": 240889,
+                    "name": "14 Haste & 6 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
                   }
                 ],
                 "enchants": [
@@ -5877,11 +6676,11 @@
                   }
                 ],
                 "bonuses": [
-                  13439,
+                  12795,
+                  13440,
                   6652,
                   13668,
-                  12699,
-                  12790
+                  12699
                 ]
               },
               "trinket1": {
@@ -6123,8 +6922,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3133.2,
-          "allScoreColor": "#d04ab3"
+          "allScore": 3171.9,
+          "allScoreColor": "#d34cac"
         },
         "rank": 7,
         "stream": null
@@ -7089,7 +7888,7 @@
         },
         "keystoneScores": {
           "allScore": 2667.9,
-          "allScoreColor": "#346cdf"
+          "allScoreColor": "#316cdf"
         },
         "rank": 6,
         "stream": null
@@ -9061,7 +9860,7 @@
           "type": "live",
           "title": "<Liquid> RWF Killing The Boss Today",
           "community_ids": [],
-          "viewer_count": 934,
+          "viewer_count": 872,
           "started_at": "2026-04-05T16:20:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -10081,7 +10880,7 @@
         },
         "keystoneScores": {
           "allScore": 3003.7,
-          "allScoreColor": "#bf40cd"
+          "allScoreColor": "#bb3ed2"
         },
         "rank": 7,
         "stream": null
@@ -12800,7 +13599,7 @@
         },
         "keystoneScores": {
           "allScore": 2781.2,
-          "allScoreColor": "#8351e8"
+          "allScoreColor": "#7c55e7"
         },
         "rank": 7,
         "stream": null
@@ -14305,7 +15104,7 @@
           "type": "live",
           "title": "<Liquid> RWF Killing The Boss Today",
           "community_ids": [],
-          "viewer_count": 934,
+          "viewer_count": 872,
           "started_at": "2026-04-05T16:20:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -17248,7 +18047,7 @@
         },
         "keystoneScores": {
           "allScore": 2651.1,
-          "allScoreColor": "#346cdf"
+          "allScoreColor": "#316cdf"
         },
         "rank": 8,
         "stream": null
@@ -18444,7 +19243,7 @@
           "type": "live",
           "title": "RWF Day 13 L'ura die",
           "community_ids": [],
-          "viewer_count": 1046,
+          "viewer_count": 981,
           "started_at": "2026-04-05T16:57:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -19467,7 +20266,7 @@
           "type": "live",
           "title": "<Liquid> rwf mythic day4 xdd",
           "community_ids": [],
-          "viewer_count": 990,
+          "viewer_count": 1008,
           "started_at": "2026-04-05T17:00:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -20129,7 +20928,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 Ele pov",
           "community_ids": [],
-          "viewer_count": 139,
+          "viewer_count": 108,
           "started_at": "2026-04-05T17:01:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -22707,7 +23506,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 Ele pov",
           "community_ids": [],
-          "viewer_count": 139,
+          "viewer_count": 108,
           "started_at": "2026-04-05T17:01:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -23368,7 +24167,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 Ele pov",
           "community_ids": [],
-          "viewer_count": 139,
+          "viewer_count": 108,
           "started_at": "2026-04-05T17:01:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -26578,7 +27377,7 @@
         },
         "keystoneScores": {
           "allScore": 2733.1,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 4,
         "stream": null
@@ -32431,7 +33230,7 @@
         },
         "keystoneScores": {
           "allScore": 2694,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -33668,7 +34467,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -36363,7 +37162,7 @@
         },
         "keystoneScores": {
           "allScore": 3262.1,
-          "allScoreColor": "#df5693"
+          "allScoreColor": "#de5596"
         },
         "rank": 7,
         "stream": null
@@ -36957,7 +37756,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -38303,7 +39102,7 @@
         },
         "keystoneScores": {
           "allScore": 3044.3,
-          "allScoreColor": "#c644c3"
+          "allScoreColor": "#c342c7"
         },
         "rank": 8,
         "stream": null
@@ -42751,7 +43550,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -43455,7 +44254,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 Ele pov",
           "community_ids": [],
-          "viewer_count": 139,
+          "viewer_count": 108,
           "started_at": "2026-04-05T17:01:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -44058,7 +44857,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -44711,7 +45510,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -45373,7 +46172,7 @@
           "type": "live",
           "title": "<Liquid> RWF week 2 Ele pov",
           "community_ids": [],
-          "viewer_count": 139,
+          "viewer_count": 108,
           "started_at": "2026-04-05T17:01:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -47293,7 +48092,7 @@
           "type": "live",
           "title": "<Liquid> RWF Killing The Boss Today",
           "community_ids": [],
-          "viewer_count": 934,
+          "viewer_count": 872,
           "started_at": "2026-04-05T16:20:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -48509,7 +49308,7 @@
           "type": "live",
           "title": "<Liquid> RWF Killing The Boss Today",
           "community_ids": [],
-          "viewer_count": 934,
+          "viewer_count": 872,
           "started_at": "2026-04-05T16:20:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -50459,7 +51258,7 @@
           "type": "live",
           "title": "<Liquid> RWF Killing The Boss Today",
           "community_ids": [],
-          "viewer_count": 934,
+          "viewer_count": 872,
           "started_at": "2026-04-05T16:20:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -51756,7 +52555,7 @@
           "type": "live",
           "title": "<Liquid> lura",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 39,
           "started_at": "2026-04-05T16:59:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -52439,7 +53238,7 @@
           "type": "live",
           "title": "<Liquid> lura",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 39,
           "started_at": "2026-04-05T16:59:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -56958,7 +57757,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -58229,7 +59028,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -59497,7 +60296,7 @@
           "type": "live",
           "title": "<Liquid> RWF Killing The Boss Today",
           "community_ids": [],
-          "viewer_count": 934,
+          "viewer_count": 872,
           "started_at": "2026-04-05T16:20:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -61522,7 +62321,7 @@
           "type": "live",
           "title": "<Liquid> rwf mythic day4 xdd",
           "community_ids": [],
-          "viewer_count": 990,
+          "viewer_count": 1008,
           "started_at": "2026-04-05T17:00:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -65247,7 +66046,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -65919,7 +66718,7 @@
         },
         "keystoneScores": {
           "allScore": 2680,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": {
@@ -65932,7 +66731,7 @@
           "type": "live",
           "title": "<Liquid> rwf mythic day4 xdd",
           "community_ids": [],
-          "viewer_count": 990,
+          "viewer_count": 1008,
           "started_at": "2026-04-05T17:00:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -71059,7 +71858,7 @@
           "type": "live",
           "title": "<Liquid> lura",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 39,
           "started_at": "2026-04-05T16:59:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -72300,7 +73099,7 @@
           "type": "live",
           "title": "<Liquid> lura",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 39,
           "started_at": "2026-04-05T16:59:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -73662,7 +74461,7 @@
           "type": "live",
           "title": "<Liquid> lura",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 39,
           "started_at": "2026-04-05T16:59:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -75626,7 +76425,7 @@
           "type": "live",
           "title": "<Liquid> lura",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 39,
           "started_at": "2026-04-05T16:59:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drenacoxd-{width}x{height}.jpg"
@@ -85748,7 +86547,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -87699,7 +88498,7 @@
         },
         "keystoneScores": {
           "allScore": 2693.9,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -89014,7 +89813,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -89716,7 +90515,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -92959,7 +93758,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -93585,7 +94384,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -96100,7 +96899,7 @@
           "type": "live",
           "title": "RWF Day 13 L'ura die",
           "community_ids": [],
-          "viewer_count": 1046,
+          "viewer_count": 981,
           "started_at": "2026-04-05T16:57:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -99401,7 +100200,7 @@
         },
         "keystoneScores": {
           "allScore": 2789.6,
-          "allScoreColor": "#8351e8"
+          "allScoreColor": "#7c55e7"
         },
         "rank": 5,
         "stream": null
@@ -100049,7 +100848,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week 2",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 47,
           "started_at": "2026-04-05T16:58:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -103908,7 +104707,7 @@
         },
         "keystoneScores": {
           "allScore": 2692.9,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -105223,7 +106022,7 @@
         },
         "keystoneScores": {
           "allScore": 3098.2,
-          "allScoreColor": "#cc48b8"
+          "allScoreColor": "#ca46bc"
         },
         "rank": 8,
         "stream": null
@@ -107186,7 +107985,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -110999,7 +111798,7 @@
           "type": "live",
           "title": "RWF Day 13 L'ura die",
           "community_ids": [],
-          "viewer_count": 1046,
+          "viewer_count": 981,
           "started_at": "2026-04-05T16:57:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -111691,7 +112490,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week 2",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 47,
           "started_at": "2026-04-05T16:58:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -112363,7 +113162,7 @@
           "type": "live",
           "title": "RWF Day 13 L'ura die",
           "community_ids": [],
-          "viewer_count": 1046,
+          "viewer_count": 981,
           "started_at": "2026-04-05T16:57:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -113096,7 +113895,7 @@
         },
         "keystoneScores": {
           "allScore": 2781.2,
-          "allScoreColor": "#8351e8"
+          "allScoreColor": "#7c55e7"
         },
         "rank": 4,
         "stream": null
@@ -115192,7 +115991,7 @@
           "type": "live",
           "title": "RWF Day 13 L'ura die",
           "community_ids": [],
-          "viewer_count": 1046,
+          "viewer_count": 981,
           "started_at": "2026-04-05T16:57:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -115861,7 +116660,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -116551,7 +117350,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -117780,7 +118579,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -118460,7 +119259,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -119137,7 +119936,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week 2",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 47,
           "started_at": "2026-04-05T16:58:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -119768,7 +120567,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week 2",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 47,
           "started_at": "2026-04-05T16:58:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -120451,7 +121250,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week 2",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 47,
           "started_at": "2026-04-05T16:58:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -121099,7 +121898,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week 2",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 47,
           "started_at": "2026-04-05T16:58:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -121704,7 +122503,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic Week 2",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 47,
           "started_at": "2026-04-05T16:58:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -124802,7 +125601,7 @@
         },
         "keystoneScores": {
           "allScore": 2695.6,
-          "allScoreColor": "#5c63e3"
+          "allScoreColor": "#5764e2"
         },
         "rank": 4,
         "stream": null
@@ -129814,7 +130613,7 @@
           "type": "live",
           "title": "RWF Day 13 L'ura die",
           "community_ids": [],
-          "viewer_count": 1046,
+          "viewer_count": 981,
           "started_at": "2026-04-05T16:57:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -136818,7 +137617,7 @@
         },
         "keystoneScores": {
           "allScore": 2706.1,
-          "allScoreColor": "#5c63e3"
+          "allScoreColor": "#5764e2"
         },
         "rank": 4,
         "stream": null
@@ -148669,7 +149468,7 @@
         },
         "keystoneScores": {
           "allScore": 2678.6,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -149327,7 +150126,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 20 BOSS DIES TODAY !ui",
           "community_ids": [],
-          "viewer_count": 1570,
+          "viewer_count": 1425,
           "started_at": "2026-04-05T17:02:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -150630,7 +151429,7 @@
           "type": "live",
           "title": "<Liquid> RWF Mythic day 13",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 32,
           "started_at": "2026-04-05T16:53:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_anarchypov-{width}x{height}.jpg"
@@ -164571,7 +165370,7 @@
         },
         "keystoneScores": {
           "allScore": 2676.1,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -170870,7 +171669,7 @@
         },
         "keystoneScores": {
           "allScore": 2690.7,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -172848,7 +173647,7 @@
         },
         "keystoneScores": {
           "allScore": 2738.8,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 4,
         "stream": null
@@ -184174,7 +184973,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-06T03:10:34.891Z"
+    "fetchedAt": "2026-04-06T05:01:09.325Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -184815,7 +185614,7 @@
         },
         "keystoneScores": {
           "allScore": 2663.2,
-          "allScoreColor": "#346cdf"
+          "allScoreColor": "#316cdf"
         },
         "rank": 5,
         "stream": null
@@ -185918,7 +186717,7 @@
         },
         "keystoneScores": {
           "allScore": 2704.6,
-          "allScoreColor": "#5c63e3"
+          "allScoreColor": "#5764e2"
         },
         "rank": 1,
         "stream": null
@@ -187972,7 +188771,7 @@
         },
         "keystoneScores": {
           "allScore": 2690.7,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -197644,7 +198443,7 @@
         },
         "keystoneScores": {
           "allScore": 2777.5,
-          "allScoreColor": "#8351e8"
+          "allScoreColor": "#7c55e7"
         },
         "rank": 7,
         "stream": null
@@ -203456,7 +204255,7 @@
         },
         "keystoneScores": {
           "allScore": 2855.3,
-          "allScoreColor": "#a335ee"
+          "allScoreColor": "#9a3fec"
         },
         "rank": 7,
         "stream": null
@@ -214924,7 +215723,7 @@
         },
         "keystoneScores": {
           "allScore": 2675,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -235974,7 +236773,7 @@
         },
         "keystoneScores": {
           "allScore": 2691.8,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -266199,7 +266998,7 @@
         },
         "keystoneScores": {
           "allScore": 2965.4,
-          "allScoreColor": "#b63cd8"
+          "allScoreColor": "#b23add"
         },
         "rank": 5,
         "stream": null
@@ -268827,7 +269626,7 @@
         },
         "keystoneScores": {
           "allScore": 2989.9,
-          "allScoreColor": "#bb3ed3"
+          "allScoreColor": "#b73cd8"
         },
         "rank": 5,
         "stream": null
@@ -277994,7 +278793,7 @@
         },
         "keystoneScores": {
           "allScore": 2664,
-          "allScoreColor": "#346cdf"
+          "allScoreColor": "#316cdf"
         },
         "rank": 4,
         "stream": null
@@ -281752,20 +282551,20 @@
             "slug": "monk"
           },
           "spec": {
-            "id": 270,
-            "name": "Mistweaver",
-            "slug": "mistweaver",
+            "id": 268,
+            "name": "Brewmaster",
+            "slug": "brewmaster",
             "class_id": 10,
-            "role": "healer",
-            "is_melee": false,
+            "role": "tank",
+            "is_melee": true,
             "patch": "5.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/158/188660894-avatar.jpg",
-          "itemLevelEquipped": 278,
+          "itemLevelEquipped": 279,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -281785,10 +282584,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-05T01:48:25.919Z",
-            "updated_at": "2026-04-05T01:48:25.919Z",
+            "created_at": "2026-04-06T04:04:01.268Z",
+            "updated_at": "2026-04-06T04:04:01.268Z",
             "source": "s3",
-            "item_level_equipped": 278,
+            "item_level_equipped": 279,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -282026,10 +282825,10 @@
                 ]
               },
               "waist": {
-                "item_id": 249374,
+                "item_id": 249314,
                 "item_level": 289,
-                "icon": "inv_belt_leather_raidmonkmidnight_d_01",
-                "name": "Scorn-Scarred Shul'ka's Belt",
+                "icon": "inv_belt_leather_raiddemonhuntermidnight_d_01",
+                "name": "Twisted Twilight Sash",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -282152,11 +282951,11 @@
                 ]
               },
               "feet": {
-                "item_id": 258577,
+                "item_id": 249382,
                 "item_level": 276,
-                "enchant": 7993,
-                "icon": "inv_leather_draenordungeon_c_01boot",
-                "name": "Boots of Burning Focus",
+                "enchant": 7963,
+                "icon": "inv_boot_leather_raiddruidmidnight_d_01",
+                "name": "Canopy Walker's Footwraps",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -282170,29 +282969,28 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7993
+                  7963
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243983,
-                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  13440,
-                  41,
+                  6652,
                   13577,
-                  12699,
+                  13334,
                   12798
                 ]
               },
               "finger1": {
-                "item_id": 251093,
+                "item_id": 249369,
                 "item_level": 276,
-                "enchant": 8021,
-                "icon": "inv_12_trinket_devouring_host_currency1_silver",
-                "name": "Omission of Light",
+                "enchant": 8025,
+                "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
+                "name": "Bond of Light",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -282214,20 +283012,19 @@
                   }
                 ],
                 "enchants": [
-                  8021
+                  8025
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  13440,
-                  42,
+                  6652,
                   13668,
-                  12699,
+                  13334,
                   12798
                 ]
               },
@@ -282277,10 +283074,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249808,
+                "item_id": 249339,
                 "item_level": 276,
-                "icon": "inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath",
-                "name": "Litany of Lightblind Wrath",
+                "icon": "inv_12_trinket_raid_voidspire_tank1_smolderinggloomscale",
+                "name": "Gloom-Spattered Dreadscale",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -282327,11 +283124,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 193707,
-                "item_level": 276,
+                "item_id": 237847,
+                "item_level": 285,
                 "enchant": 8039,
-                "icon": "inv_staff_2h_drakonid_c_01",
-                "name": "Final Grade",
+                "icon": "inv_polearm_2h_questbloodelf_b_01",
+                "name": "Blood Knight's Impetus",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -282355,10 +283152,14 @@
                   }
                 ],
                 "bonuses": [
-                  13440,
-                  41,
-                  12701,
-                  12798
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8790,
+                  13622,
+                  13667
                 ]
               }
             }
@@ -282387,7 +283188,7 @@
         },
         "keystoneScores": {
           "allScore": 2692.5,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -284981,7 +285782,7 @@
         },
         "keystoneScores": {
           "allScore": 2689.9,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -328765,7 +329566,7 @@
         },
         "keystoneScores": {
           "allScore": 2742.9,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 4,
         "stream": null
@@ -335831,7 +336632,7 @@
         },
         "keystoneScores": {
           "allScore": 2826.8,
-          "allScoreColor": "#9940ec"
+          "allScoreColor": "#9148eb"
         },
         "rank": 4,
         "stream": null
@@ -356967,7 +357768,7 @@
         },
         "keystoneScores": {
           "allScore": 2760.1,
-          "allScoreColor": "#7858e6"
+          "allScoreColor": "#715be5"
         },
         "rank": 4,
         "stream": null
@@ -373466,7 +374267,7 @@
         },
         "keystoneScores": {
           "allScore": 2965.4,
-          "allScoreColor": "#b63cd8"
+          "allScoreColor": "#b23add"
         },
         "rank": 5,
         "stream": null
@@ -402696,7 +403497,7 @@
         },
         "keystoneScores": {
           "allScore": 2719.2,
-          "allScoreColor": "#5c63e3"
+          "allScoreColor": "#5764e2"
         },
         "rank": 4,
         "stream": null
@@ -405365,7 +406166,7 @@
         },
         "keystoneScores": {
           "allScore": 2679.2,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -412694,7 +413495,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-06T03:10:38.576Z"
+    "fetchedAt": "2026-04-06T05:01:13.434Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -441585,7 +442386,7 @@
         },
         "keystoneScores": {
           "allScore": 2721.3,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 2,
         "stream": null
@@ -444806,7 +445607,7 @@
         },
         "keystoneScores": {
           "allScore": 2740.2,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 4,
         "stream": null
@@ -446598,7 +447399,7 @@
         },
         "keystoneScores": {
           "allScore": 2786.8,
-          "allScoreColor": "#8351e8"
+          "allScoreColor": "#7c55e7"
         },
         "rank": 2,
         "stream": null
@@ -451210,7 +452011,7 @@
         },
         "keystoneScores": {
           "allScore": 3276.4,
-          "allScoreColor": "#df5693"
+          "allScoreColor": "#de5596"
         },
         "rank": 7,
         "stream": null
@@ -464709,7 +465510,7 @@
         },
         "keystoneScores": {
           "allScore": 2721,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 4,
         "stream": null
@@ -481467,7 +482268,7 @@
         },
         "keystoneScores": {
           "allScore": 3491,
-          "allScoreColor": "#f16961"
+          "allScoreColor": "#f06863"
         },
         "rank": 4,
         "stream": null
@@ -486661,7 +487462,7 @@
         },
         "keystoneScores": {
           "allScore": 2731.6,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 4,
         "stream": null
@@ -499872,7 +500673,7 @@
         },
         "keystoneScores": {
           "allScore": 2752.5,
-          "allScoreColor": "#7858e6"
+          "allScoreColor": "#715be5"
         },
         "rank": 4,
         "stream": null
@@ -521479,7 +522280,7 @@
         },
         "keystoneScores": {
           "allScore": 2690.2,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -530263,7 +531064,7 @@
         },
         "keystoneScores": {
           "allScore": 3104.2,
-          "allScoreColor": "#cc48b8"
+          "allScoreColor": "#ca46bc"
         },
         "rank": 8,
         "stream": null
@@ -566551,7 +567352,7 @@
         },
         "keystoneScores": {
           "allScore": 2701.7,
-          "allScoreColor": "#5c63e3"
+          "allScoreColor": "#5764e2"
         },
         "rank": 4,
         "stream": null
@@ -599091,7 +599892,7 @@
         },
         "keystoneScores": {
           "allScore": 2674.1,
-          "allScoreColor": "#4b68e1"
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -620827,7 +621628,7 @@
         },
         "keystoneScores": {
           "allScore": 2721,
-          "allScoreColor": "#6a5ee5"
+          "allScoreColor": "#6560e4"
         },
         "rank": 4,
         "stream": null
@@ -636261,7 +637062,7 @@
         },
         "keystoneScores": {
           "allScore": 2998,
-          "allScoreColor": "#bf40cd"
+          "allScoreColor": "#bb3ed2"
         },
         "rank": 4,
         "stream": null
@@ -638253,6 +639054,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-06T03:10:44.947Z"
+    "fetchedAt": "2026-04-06T05:01:23.899Z"
   }
 }
