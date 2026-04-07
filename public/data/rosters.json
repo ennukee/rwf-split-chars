@@ -9882,7 +9882,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/48/220561200-avatar.jpg",
-          "itemLevelEquipped": 270,
+          "itemLevelEquipped": 274,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -9902,10 +9902,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-06T09:11:22.445Z",
-            "updated_at": "2026-04-06T09:11:22.445Z",
+            "created_at": "2026-04-07T22:10:58.972Z",
+            "updated_at": "2026-04-07T22:10:58.972Z",
             "source": "s3",
-            "item_level_equipped": 270,
+            "item_level_equipped": 274,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -9918,14 +9918,60 @@
             "items": {
               "head": {
                 "item_id": 250015,
-                "item_level": 253,
+                "item_level": 289,
                 "enchant": 7959,
                 "icon": "inv_helm_leather_raidmonkmidnight_d_01",
                 "name": "Fearsome Visage of Ra-den's Chosen",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -9946,9 +9992,12 @@
                   }
                 ],
                 "bonuses": [
+                  6652,
+                  12667,
+                  13440,
                   13338,
                   13575,
-                  12787
+                  12806
                 ]
               },
               "neck": {
@@ -10196,11 +10245,11 @@
                 ]
               },
               "legs": {
-                "item_id": 249641,
-                "item_level": 250,
+                "item_id": 250014,
+                "item_level": 276,
                 "enchant": 8159,
-                "icon": "inv_pant_leather_dungeonharronir_c_01",
-                "name": "Osseoclad Bonesteppers",
+                "icon": "inv_pant_leather_raidmonkmidnight_d_01",
+                "name": "Swiftsweepers of Ra-den's Chosen",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -10211,6 +10260,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -10224,14 +10274,17 @@
                   }
                 ],
                 "bonuses": [
-                  12786,
-                  41,
-                  13577
+                  6652,
+                  13440,
+                  13339,
+                  13575,
+                  12798
                 ]
               },
               "feet": {
                 "item_id": 258577,
                 "item_level": 266,
+                "enchant": 7993,
                 "icon": "inv_leather_draenordungeon_c_01boot",
                 "name": "Boots of Burning Focus",
                 "item_quality": 4,
@@ -10246,8 +10299,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   13440,
                   6652,
@@ -10258,7 +10319,7 @@
               },
               "finger1": {
                 "item_id": 251093,
-                "item_level": 266,
+                "item_level": 272,
                 "enchant": 8025,
                 "icon": "inv_12_trinket_devouring_host_currency1_silver",
                 "name": "Omission of Light",
@@ -10293,11 +10354,11 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13440,
                   42,
                   13668,
-                  12699
+                  12699,
+                  12797
                 ]
               },
               "finger2": {
@@ -13581,7 +13642,7 @@
           "totalBosses": 9,
           "progress": {
             "normal": 7,
-            "heroic": 2,
+            "heroic": 6,
             "mythic": 0
           }
         },
@@ -33926,8 +33987,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-07T17:08:01.945Z",
-            "updated_at": "2026-04-07T17:08:01.945Z",
+            "created_at": "2026-04-07T21:29:21.953Z",
+            "updated_at": "2026-04-07T21:29:21.953Z",
             "source": "s3",
             "item_level_equipped": 280,
             "item_level_total": 0,
@@ -34033,10 +34094,10 @@
                 ]
               },
               "neck": {
-                "item_id": 249337,
-                "item_level": 276,
-                "icon": "inv_12_jewelry_devouringhost_necklace_bronze",
-                "name": "Ribbon of Coiled Malice",
+                "item_id": 249368,
+                "item_level": 289,
+                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
+                "name": "Eternal Voidsong Chain",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -34060,10 +34121,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  41,
                   13668,
-                  13334,
-                  12798
+                  13335,
+                  12806
                 ]
               },
               "shoulder": {
@@ -34168,10 +34229,10 @@
                 ]
               },
               "waist": {
-                "item_id": 193722,
+                "item_id": 249371,
                 "item_level": 276,
-                "icon": "inv_mail_dragondungeon_c_01_buckle",
-                "name": "Azure Belt of Competition",
+                "icon": "inv_belt_mail_raidhuntermidnight_d_01",
+                "name": "Scornbane Waistguard",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -34183,23 +34244,22 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240908
+                  240900
                 ],
                 "gems_detail": [
                   {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
                   }
                 ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
                   13534,
                   13577,
-                  12699,
+                  13334,
                   12798
                 ]
               },
@@ -34340,11 +34400,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 193708,
+                "item_id": 251093,
                 "item_level": 276,
                 "enchant": 7967,
-                "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
-                "name": "Platinum Star Band",
+                "icon": "inv_12_trinket_devouring_host_currency1_silver",
+                "name": "Omission of Light",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -34356,13 +34416,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240890
+                  240892
                 ],
                 "gems_detail": [
                   {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
                   }
                 ],
                 "enchants": [
@@ -34384,11 +34444,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 249919,
-                "item_level": 282,
+                "item_id": 249920,
+                "item_level": 276,
                 "enchant": 7967,
-                "icon": "inv_12_jewelry_silvermoonelf_ring_red1",
-                "name": "Sin'dorei Band of Hope",
+                "icon": "inv_12_jewelry_devouringhost_ring_bronze",
+                "name": "Eye of Midnight",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -34400,13 +34460,19 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240898
+                  240892,
+                  240892
                 ],
                 "gems_detail": [
                   {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  },
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
                   }
                 ],
                 "enchants": [
@@ -34422,8 +34488,8 @@
                 "bonuses": [
                   6652,
                   13668,
-                  13335,
-                  12804
+                  13334,
+                  12798
                 ]
               },
               "trinket1": {
@@ -184853,7 +184919,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T20:16:26.721Z"
+    "fetchedAt": "2026-04-07T22:16:24.459Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -197716,8 +197782,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-07T03:28:18.055Z",
-            "updated_at": "2026-04-07T03:28:18.055Z",
+            "created_at": "2026-04-07T20:36:03.513Z",
+            "updated_at": "2026-04-07T20:36:03.513Z",
             "source": "s3",
             "item_level_equipped": 273,
             "item_level_total": 0,
@@ -198221,7 +198287,7 @@
               },
               "trinket2": {
                 "item_id": 250256,
-                "item_level": 263,
+                "item_level": 266,
                 "icon": "inv_10_jewelcrafting3_soulcage_air",
                 "name": "Heart of Wind",
                 "item_quality": 4,
@@ -198239,10 +198305,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12795,
                   13440,
                   6652,
-                  12699,
-                  12790
+                  12699
                 ]
               },
               "mainhand": {
@@ -205956,7 +206022,7 @@
           "progress": {
             "normal": 6,
             "heroic": 7,
-            "mythic": 1
+            "mythic": 2
           }
         },
         "keystoneScores": {
@@ -219285,8 +219351,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1007.6,
-          "allScoreColor": "#aaff90"
+          "allScore": 1329.7,
+          "allScoreColor": "#7aff5d"
         },
         "rank": 5,
         "stream": null
@@ -413065,7 +413131,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T20:16:26.834Z"
+    "fetchedAt": "2026-04-07T22:16:30.138Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -416014,8 +416080,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 667.7,
-          "allScoreColor": "#d2ffc1"
+          "allScore": 1001.5,
+          "allScoreColor": "#aaff90"
         },
         "rank": 2,
         "stream": null
@@ -447032,8 +447098,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-07T14:20:58.712Z",
-            "updated_at": "2026-04-07T14:20:58.712Z",
+            "created_at": "2026-04-07T22:04:01.654Z",
+            "updated_at": "2026-04-07T22:04:01.654Z",
             "source": "s3",
             "item_level_equipped": 276,
             "item_level_total": 0,
@@ -447202,6 +447268,7 @@
               "back": {
                 "item_id": 257172,
                 "item_level": 263,
+                "enchant": 3605,
                 "icon": "inv_cape_cloth_outdoorvoidelf_c_01",
                 "name": "Voidbreaker's Cape",
                 "item_quality": 4,
@@ -447216,7 +447283,9 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
+                "enchants": [
+                  3605
+                ],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
@@ -453416,8 +453485,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3276.4,
-          "allScoreColor": "#dc539b"
+          "allScore": 3301.1,
+          "allScoreColor": "#de5596"
         },
         "rank": 7,
         "stream": null
@@ -642488,6 +642557,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T20:16:31.381Z"
+    "fetchedAt": "2026-04-07T22:16:30.507Z"
   }
 }
