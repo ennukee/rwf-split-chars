@@ -4614,7 +4614,7 @@
         },
         "keystoneScores": {
           "allScore": 3309.3,
-          "allScoreColor": "#e1588d"
+          "allScoreColor": "#e05790"
         },
         "rank": 8,
         "stream": null
@@ -6929,7 +6929,7 @@
         },
         "keystoneScores": {
           "allScore": 3234.8,
-          "allScoreColor": "#d74fa4"
+          "allScoreColor": "#d64ea6"
         },
         "rank": 7,
         "stream": null
@@ -10869,7 +10869,7 @@
         },
         "keystoneScores": {
           "allScore": 3003.7,
-          "allScoreColor": "#b73cd7"
+          "allScoreColor": "#b73cd8"
         },
         "rank": 7,
         "stream": null
@@ -13581,7 +13581,7 @@
           "totalBosses": 9,
           "progress": {
             "normal": 7,
-            "heroic": 1,
+            "heroic": 2,
             "mythic": 0
           }
         },
@@ -36559,7 +36559,7 @@
         },
         "keystoneScores": {
           "allScore": 3335.2,
-          "allScoreColor": "#e45a88"
+          "allScoreColor": "#e3598b"
         },
         "rank": 7,
         "stream": null
@@ -38424,7 +38424,7 @@
         },
         "keystoneScores": {
           "allScore": 3099.1,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 8,
         "stream": null
@@ -104948,7 +104948,7 @@
         },
         "keystoneScores": {
           "allScore": 3111.5,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 8,
         "stream": null
@@ -175680,7 +175680,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/167/236140967-avatar.jpg",
-          "itemLevelEquipped": 277,
+          "itemLevelEquipped": 279,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -175700,10 +175700,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-07T03:53:57.352Z",
-            "updated_at": "2026-04-07T03:53:57.352Z",
+            "created_at": "2026-04-07T18:45:04.548Z",
+            "updated_at": "2026-04-07T18:45:04.548Z",
             "source": "s3",
-            "item_level_equipped": 277,
+            "item_level_equipped": 279,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -175984,10 +175984,10 @@
                 ]
               },
               "waist": {
-                "item_id": 263265,
-                "item_level": 263,
-                "icon": "inv_belt_cloth_dungeonharronir_c_01",
-                "name": "Hara'ti Defender's Sash",
+                "item_id": 249319,
+                "item_level": 289,
+                "icon": "inv_belt_cloth_raidpriestmidnight_d_01",
+                "name": "Endless March Waistwrap",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -176003,8 +176003,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  6652,
+                  12667,
                   13577,
-                  12790
+                  13335,
+                  12806
                 ]
               },
               "wrist": {
@@ -184850,7 +184853,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T18:24:05.005Z"
+    "fetchedAt": "2026-04-07T20:16:26.721Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -198307,7 +198310,7 @@
         },
         "keystoneScores": {
           "allScore": 3061.5,
-          "allScoreColor": "#c040cc"
+          "allScoreColor": "#bf40cd"
         },
         "rank": 7,
         "stream": null
@@ -267431,7 +267434,7 @@
         },
         "keystoneScores": {
           "allScore": 2965.4,
-          "allScoreColor": "#ae39e2"
+          "allScoreColor": "#ae38e3"
         },
         "rank": 5,
         "stream": null
@@ -270059,7 +270062,7 @@
         },
         "keystoneScores": {
           "allScore": 2989.9,
-          "allScoreColor": "#b33add"
+          "allScoreColor": "#b23add"
         },
         "rank": 5,
         "stream": null
@@ -299965,7 +299968,7 @@
           "progress": {
             "normal": 6,
             "heroic": 8,
-            "mythic": 0
+            "mythic": 2
           }
         },
         "keystoneScores": {
@@ -301863,7 +301866,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/47/186976559-avatar.jpg",
-          "itemLevelEquipped": 267,
+          "itemLevelEquipped": 268,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -301883,10 +301886,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-07T12:20:27.602Z",
-            "updated_at": "2026-04-07T12:20:27.602Z",
+            "created_at": "2026-04-07T19:21:26.062Z",
+            "updated_at": "2026-04-07T19:21:26.062Z",
             "source": "s3",
-            "item_level_equipped": 267,
+            "item_level_equipped": 268,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -301982,10 +301985,10 @@
                 ]
               },
               "neck": {
-                "item_id": 249368,
-                "item_level": 263,
-                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
-                "name": "Eternal Voidsong Chain",
+                "item_id": 50228,
+                "item_level": 266,
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Barbed Ymirheim Choker",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -302009,10 +302012,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12795,
+                  13440,
                   6652,
                   13668,
-                  13333,
-                  12790
+                  12699
                 ]
               },
               "shoulder": {
@@ -302367,10 +302371,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249809,
+                "item_id": 249346,
                 "item_level": 269,
-                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
-                "name": "Locus-Walker's Ribbon",
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -302386,7 +302390,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  42,
                   13334,
                   12796
                 ]
@@ -374531,7 +374535,7 @@
         },
         "keystoneScores": {
           "allScore": 2965.4,
-          "allScoreColor": "#ae39e2"
+          "allScoreColor": "#ae38e3"
         },
         "rank": 5,
         "stream": null
@@ -413061,7 +413065,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T18:24:05.134Z"
+    "fetchedAt": "2026-04-07T20:16:26.834Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -416690,21 +416694,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -417506,21 +417496,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526642,
-          "id": "315821486292",
-          "name": "clickzyo",
-          "user_id": "86604094",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> RWF Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 59,
-          "started_at": "2026-04-07T06:14:56Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -420181,8 +420157,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2499.9,
-          "allScoreColor": "#3e81cb"
+          "allScore": 2532.6,
+          "allScoreColor": "#387ecf"
         },
         "rank": 8,
         "stream": null
@@ -422259,21 +422235,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -423391,21 +423353,7 @@
           "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526642,
-          "id": "315821486292",
-          "name": "clickzyo",
-          "user_id": "86604094",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> RWF Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 59,
-          "started_at": "2026-04-07T06:14:56Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -425245,21 +425193,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -428193,21 +428127,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526642,
-          "id": "315821486292",
-          "name": "clickzyo",
-          "user_id": "86604094",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> RWF Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 59,
-          "started_at": "2026-04-07T06:14:56Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -429034,21 +428954,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526642,
-          "id": "315821486292",
-          "name": "clickzyo",
-          "user_id": "86604094",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> RWF Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 59,
-          "started_at": "2026-04-07T06:14:56Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -429830,21 +429736,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -439559,21 +439451,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -443371,21 +443249,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526638,
-          "id": "315762401237",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - RWF  Day 14 !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 44,
-          "started_at": "2026-04-07T06:12:58Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -444011,21 +443875,7 @@
           "allScoreColor": "#71ff55"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526638,
-          "id": "315762401237",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - RWF  Day 14 !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 44,
-          "started_at": "2026-04-07T06:12:58Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -447131,21 +446981,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -448412,21 +448248,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526642,
-          "id": "315821486292",
-          "name": "clickzyo",
-          "user_id": "86604094",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> RWF Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 59,
-          "started_at": "2026-04-07T06:14:56Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -449052,21 +448874,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526689,
-          "id": "315762514773",
-          "name": "zaelia",
-          "user_id": "13101446",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Method MYTHIC WEEK (AGAIN)",
-          "community_ids": [],
-          "viewer_count": 984,
-          "started_at": "2026-04-07T06:53:15Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -449720,21 +449528,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -450385,21 +450179,7 @@
           "allScoreColor": "#f1ffea"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527019,
-          "id": "315791380566",
-          "name": "byfaithy",
-          "user_id": "70296113",
-          "game_id": "18122",
-          "type": "live",
-          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T11:37:04Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -451727,21 +451507,7 @@
           "allScoreColor": "#d2ffc1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526642,
-          "id": "315821486292",
-          "name": "clickzyo",
-          "user_id": "86604094",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> RWF Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 59,
-          "started_at": "2026-04-07T06:14:56Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -452927,8 +452693,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 981.3,
-          "allScoreColor": "#adff93"
+          "allScore": 1309.3,
+          "allScoreColor": "#7eff62"
         },
         "rank": 6,
         "stream": null
@@ -453651,7 +453417,7 @@
         },
         "keystoneScores": {
           "allScore": 3276.4,
-          "allScoreColor": "#dd5399"
+          "allScoreColor": "#dc539b"
         },
         "rank": 7,
         "stream": null
@@ -457502,21 +457268,7 @@
           "allScoreColor": "#5ec481"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -458119,21 +457871,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -460095,21 +459833,7 @@
           "allScoreColor": "#d0ffbe"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -460796,21 +460520,7 @@
           "allScoreColor": "#75ff59"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -461476,21 +461186,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527019,
-          "id": "315791380566",
-          "name": "byfaithy",
-          "user_id": "70296113",
-          "game_id": "18122",
-          "type": "live",
-          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T11:37:04Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -462163,21 +461859,7 @@
           "allScoreColor": "#5ec481"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527019,
-          "id": "315791380566",
-          "name": "byfaithy",
-          "user_id": "70296113",
-          "game_id": "18122",
-          "type": "live",
-          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T11:37:04Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -462872,21 +462554,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526642,
-          "id": "315821486292",
-          "name": "clickzyo",
-          "user_id": "86604094",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> RWF Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 59,
-          "started_at": "2026-04-07T06:14:56Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -470404,21 +470072,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -473011,21 +472665,7 @@
           "allScoreColor": "#eeffe7"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526638,
-          "id": "315762401237",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - RWF  Day 14 !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 44,
-          "started_at": "2026-04-07T06:12:58Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -473675,21 +473315,7 @@
           "allScoreColor": "#5292b9"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526638,
-          "id": "315762401237",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - RWF  Day 14 !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 44,
-          "started_at": "2026-04-07T06:12:58Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -474269,21 +473895,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527019,
-          "id": "315791380566",
-          "name": "byfaithy",
-          "user_id": "70296113",
-          "game_id": "18122",
-          "type": "live",
-          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T11:37:04Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -475018,21 +474630,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527019,
-          "id": "315791380566",
-          "name": "byfaithy",
-          "user_id": "70296113",
-          "game_id": "18122",
-          "type": "live",
-          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T11:37:04Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -475715,21 +475313,7 @@
           "allScoreColor": "#5ec481"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527019,
-          "id": "315791380566",
-          "name": "byfaithy",
-          "user_id": "70296113",
-          "game_id": "18122",
-          "type": "live",
-          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T11:37:04Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -476426,21 +476010,7 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -477175,21 +476745,7 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526689,
-          "id": "315762514773",
-          "name": "zaelia",
-          "user_id": "13101446",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Method MYTHIC WEEK (AGAIN)",
-          "community_ids": [],
-          "viewer_count": 984,
-          "started_at": "2026-04-07T06:53:15Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -477846,21 +477402,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -479077,21 +478619,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526689,
-          "id": "315762514773",
-          "name": "zaelia",
-          "user_id": "13101446",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Method MYTHIC WEEK (AGAIN)",
-          "community_ids": [],
-          "viewer_count": 984,
-          "started_at": "2026-04-07T06:53:15Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -479716,21 +479244,7 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -481087,21 +480601,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526689,
-          "id": "315762514773",
-          "name": "zaelia",
-          "user_id": "13101446",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Method MYTHIC WEEK (AGAIN)",
-          "community_ids": [],
-          "viewer_count": 984,
-          "started_at": "2026-04-07T06:53:15Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -481678,21 +481178,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -482338,21 +481824,7 @@
           "allScoreColor": "#4888c4"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -483001,21 +482473,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -483635,21 +483093,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -484299,7 +483743,7 @@
         },
         "keystoneScores": {
           "allScore": 3538.6,
-          "allScoreColor": "#f36c59"
+          "allScoreColor": "#f26a5d"
         },
         "rank": 4,
         "stream": null
@@ -484947,21 +484391,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -487501,21 +486931,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -489524,21 +488940,7 @@
           "allScoreColor": "#5764e2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -491457,21 +490859,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -493351,21 +492739,7 @@
           "allScoreColor": "#3af435"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526638,
-          "id": "315762401237",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - RWF  Day 14 !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 44,
-          "started_at": "2026-04-07T06:12:58Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -493938,21 +493312,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526689,
-          "id": "315762514773",
-          "name": "zaelia",
-          "user_id": "13101446",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Method MYTHIC WEEK (AGAIN)",
-          "community_ids": [],
-          "viewer_count": 984,
-          "started_at": "2026-04-07T06:53:15Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -494614,21 +493974,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526638,
-          "id": "315762401237",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - RWF  Day 14 !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 44,
-          "started_at": "2026-04-07T06:12:58Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -495979,21 +495325,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -497800,21 +497132,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -498464,21 +497782,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -499082,21 +498386,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -502193,21 +501483,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526689,
-          "id": "315762514773",
-          "name": "zaelia",
-          "user_id": "13101446",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Method MYTHIC WEEK (AGAIN)",
-          "community_ids": [],
-          "viewer_count": 984,
-          "started_at": "2026-04-07T06:53:15Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -503579,21 +502855,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527019,
-          "id": "315791380566",
-          "name": "byfaithy",
-          "user_id": "70296113",
-          "game_id": "18122",
-          "type": "live",
-          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T11:37:04Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -504866,21 +504128,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -512454,21 +511702,7 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526638,
-          "id": "315762401237",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - RWF  Day 14 !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 44,
-          "started_at": "2026-04-07T06:12:58Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -514380,21 +513614,7 @@
           "allScoreColor": "#d2ffc1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -521402,21 +520622,7 @@
           "allScoreColor": "#5fc185"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -522672,21 +521878,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -523899,21 +523091,7 @@
           "allScoreColor": "#2afb1c"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526630,
-          "id": "315437913939",
-          "name": "uggzz",
-          "user_id": "30905095",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic L'ura",
-          "community_ids": [],
-          "viewer_count": 6,
-          "started_at": "2026-04-07T06:09:28Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -525916,21 +525094,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -527219,21 +526383,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -527855,21 +527005,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -534102,7 +533238,7 @@
         },
         "keystoneScores": {
           "allScore": 3104.2,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 8,
         "stream": null
@@ -534754,21 +533890,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 527026,
-          "id": "315763758165",
-          "name": "naowh",
-          "user_id": "53649632",
-          "game_id": "18122",
-          "type": "live",
-          "title": "L'ura progress hehe <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
-          "community_ids": [],
-          "viewer_count": 1314,
-          "started_at": "2026-04-07T11:40:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -539252,7 +538374,7 @@
           "progress": {
             "normal": 7,
             "heroic": 7,
-            "mythic": 2
+            "mythic": 3
           }
         },
         "keystoneScores": {
@@ -539900,21 +539022,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -540584,21 +539692,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -541273,21 +540367,7 @@
           "allScoreColor": "#f1ffea"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -541964,21 +541044,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -543231,21 +542297,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -544579,21 +543631,7 @@
           "allScoreColor": "#71ff55"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -545177,21 +544215,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -545834,21 +544858,7 @@
           "allScoreColor": "#75ff59"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -546456,21 +545466,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -551415,21 +550411,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -552766,21 +551748,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -555275,21 +554243,7 @@
           "allScoreColor": "#2afb1c"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -560960,21 +559914,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -564187,21 +563127,7 @@
           "allScoreColor": "#2afb1c"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -566136,21 +565062,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -570763,21 +569675,7 @@
           "allScoreColor": "#4769e0"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -571353,21 +570251,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -573800,21 +572684,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -577186,21 +576056,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -579090,21 +577946,7 @@
           "allScoreColor": "#5496b5"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -582428,21 +581270,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -584977,21 +583805,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -585558,21 +584372,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -587393,21 +586193,7 @@
           "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -588020,21 +586806,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -590546,21 +589318,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -593722,21 +592480,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -604038,21 +602782,7 @@
           "allScoreColor": "#0070dd"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526633,
-          "id": "316726363879",
-          "name": "roiben_",
-          "user_id": "35048709",
-          "game_id": "18122",
-          "type": "live",
-          "title": "💥<Method> RWF MIDNIGHT FALLS SURELY SOON💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
-          "community_ids": [],
-          "viewer_count": 157,
-          "started_at": "2026-04-07T06:11:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -609776,21 +608506,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -611748,21 +610464,7 @@
           "allScoreColor": "#75ff59"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -612382,21 +611084,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -613645,21 +612333,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -615606,21 +614280,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -617588,21 +616248,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -619508,21 +618154,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -620137,21 +618769,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -620729,21 +619347,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526654,
-          "id": "316726413415",
-          "name": "firekatwow",
-          "user_id": "101511485",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method>RWF Mythic Day 14 | !ui",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:24:20Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_firekatwow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -623258,21 +621862,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -624637,21 +623227,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -633516,21 +632092,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526655,
-          "id": "316881881445",
-          "name": "prebbytv",
-          "user_id": "170379444",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
-          "community_ids": [],
-          "viewer_count": 9,
-          "started_at": "2026-04-07T06:24:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -635417,21 +633979,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -637421,21 +635969,7 @@
           "allScoreColor": "#2afb1c"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -638069,21 +636603,7 @@
           "allScoreColor": "#f1ffea"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526640,
-          "id": "316395558498",
-          "name": "centiso",
-          "user_id": "31880915",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Mythic Week Day 14",
-          "community_ids": [],
-          "viewer_count": 10,
-          "started_at": "2026-04-07T06:15:28Z",
-          "language": "fr",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -638780,21 +637300,7 @@
           "allScoreColor": "#5fc185"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 526644,
-          "id": "315821488980",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
-          "community_ids": [],
-          "viewer_count": 493,
-          "started_at": "2026-04-07T06:15:59Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -642027,7 +640533,7 @@
         },
         "keystoneScores": {
           "allScore": 3187.4,
-          "allScoreColor": "#d44daa"
+          "allScoreColor": "#d34cac"
         },
         "rank": 4,
         "stream": null
@@ -643982,6 +642488,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T18:24:11.049Z"
+    "fetchedAt": "2026-04-07T20:16:31.381Z"
   }
 }
