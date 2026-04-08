@@ -16314,7 +16314,21 @@
           "allScoreColor": "#aeff95"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 532258,
+          "id": "318767537115",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid in-house crafter) the race is done but the crafts are still on",
+          "community_ids": [],
+          "viewer_count": 5,
+          "started_at": "2026-04-08T18:54:20Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -19400,7 +19414,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/32/224792096-avatar.jpg",
-          "itemLevelEquipped": 277,
+          "itemLevelEquipped": 278,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -19420,10 +19434,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-03T10:03:17.728Z",
-            "updated_at": "2026-04-03T10:03:17.728Z",
+            "created_at": "2026-04-08T19:42:07.833Z",
+            "updated_at": "2026-04-08T19:42:07.833Z",
             "source": "s3",
-            "item_level_equipped": 277,
+            "item_level_equipped": 278,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -19730,7 +19744,7 @@
               },
               "hands": {
                 "item_id": 250007,
-                "item_level": 276,
+                "item_level": 282,
                 "icon": "inv_glove_leather_raidroguemidnight_d_01",
                 "name": "Sleight of Hand of the Grim Jest",
                 "item_quality": 4,
@@ -19750,10 +19764,11 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13440,
+                  13335,
+                  12804,
                   13337,
                   13574,
-                  12798
+                  3167
                 ]
               },
               "legs": {
@@ -107659,7 +107674,21 @@
           "allScoreColor": "#c442c6"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 532258,
+          "id": "318767537115",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid in-house crafter) the race is done but the crafts are still on",
+          "community_ids": [],
+          "viewer_count": 5,
+          "started_at": "2026-04-08T18:54:20Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -188468,7 +188497,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T18:32:24.436Z"
+    "fetchedAt": "2026-04-08T20:17:31.352Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -303052,7 +303081,7 @@
           },
           "totalBosses": 9,
           "progress": {
-            "normal": 4,
+            "normal": 6,
             "heroic": 1,
             "mythic": 0
           }
@@ -342482,7 +342511,7 @@
           "totalBosses": 9,
           "progress": {
             "normal": 0,
-            "heroic": 7,
+            "heroic": 8,
             "mythic": 6
           }
         },
@@ -379518,14 +379547,14 @@
             "slug": "druid"
           },
           "spec": {
-            "id": 105,
-            "name": "Restoration",
-            "slug": "restoration",
+            "id": 102,
+            "name": "Balance",
+            "slug": "balance",
             "class_id": 11,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 3
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
@@ -419333,7 +419362,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T18:32:24.728Z"
+    "fetchedAt": "2026-04-08T20:17:35.194Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -426425,7 +426454,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2532.6,
+          "allScore": 2534.6,
           "allScoreColor": "#397ece"
         },
         "rank": 8,
@@ -444519,8 +444548,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2322.8,
-          "allScoreColor": "#579ab0"
+          "allScore": 2655.9,
+          "allScoreColor": "#0070dd"
         },
         "rank": 6,
         "stream": null
@@ -456445,7 +456474,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day ITS OVER  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 169,
+          "viewer_count": 190,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -457808,7 +457837,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/119/180075383-avatar.jpg",
-          "itemLevelEquipped": 263,
+          "itemLevelEquipped": 264,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -457828,10 +457857,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-07T05:06:18.709Z",
-            "updated_at": "2026-04-07T05:06:18.709Z",
+            "created_at": "2026-04-08T19:14:04.482Z",
+            "updated_at": "2026-04-08T19:14:04.482Z",
             "source": "s3",
-            "item_level_equipped": 263,
+            "item_level_equipped": 264,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -458092,10 +458121,10 @@
                 ]
               },
               "hands": {
-                "item_id": 259927,
-                "item_level": 250,
-                "icon": "inv_glove_leather_outdoorvoidelf_c_01",
-                "name": "Preyseeker's Sleek Gauntlets",
+                "item_id": 250025,
+                "item_level": 272,
+                "icon": "inv_glove_leather_raiddruidmidnight_d_01",
+                "name": "Arbortenders of the Luminous Bloom",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458106,14 +458135,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  13337,
+                  12801,
+                  13440,
                   6652,
-                  13577,
-                  12782
+                  13574
                 ]
               },
               "legs": {
@@ -458388,8 +458420,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1714.9,
-          "allScoreColor": "#2bfb1d"
+          "allScore": 2048.4,
+          "allScoreColor": "#5ec67e"
         },
         "rank": 4,
         "stream": null
@@ -467464,7 +467496,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day ITS OVER  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 169,
+          "viewer_count": 190,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -468151,7 +468183,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day ITS OVER  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 169,
+          "viewer_count": 190,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -480202,7 +480234,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day ITS OVER  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 169,
+          "viewer_count": 190,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -480951,7 +480983,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day ITS OVER  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 169,
+          "viewer_count": 190,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -481648,7 +481680,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day ITS OVER  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 169,
+          "viewer_count": 190,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -509195,7 +509227,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day ITS OVER  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 169,
+          "viewer_count": 190,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -649863,6 +649895,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T18:32:25.000Z"
+    "fetchedAt": "2026-04-08T20:17:40.241Z"
   }
 }
