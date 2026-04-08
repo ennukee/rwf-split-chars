@@ -3664,7 +3664,7 @@
       },
       {
         "character": {
-          "name": "Fayleena",
+          "name": "Fayleena-50657496",
           "level": 90,
           "race": {
             "id": 4,
@@ -6191,7 +6191,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -6944,6 +6944,905 @@
         "keystoneScores": {
           "allScore": 3234.8,
           "allScoreColor": "#d64ea6"
+        },
+        "rank": 7,
+        "stream": null
+      },
+      {
+        "character": {
+          "name": "Kamsdhunter",
+          "level": 90,
+          "race": {
+            "id": 10,
+            "name": "Blood Elf",
+            "slug": "blood-elf",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 12,
+            "name": "Demon Hunter",
+            "slug": "demon-hunter"
+          },
+          "spec": {
+            "id": 1480,
+            "name": "Devourer",
+            "slug": "devourer",
+            "class_id": 12,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "12.0.0",
+            "ordinal": 2
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/133/167120773-avatar.jpg",
+          "itemLevelEquipped": 256,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-04-08T05:56:59.593Z",
+            "updated_at": "2026-04-08T05:56:59.593Z",
+            "source": "s3",
+            "item_level_equipped": 256,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250033,
+                "item_level": 276,
+                "icon": "inv_helm_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Intake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13338,
+                  13575,
+                  12798
+                ]
+              },
+              "neck": {
+                "item_id": 171632,
+                "item_level": 259,
+                "icon": "inv_misc_necklacea8",
+                "name": "Rage of Ages",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  8902,
+                  12793,
+                  7756,
+                  13668,
+                  12699,
+                  42
+                ]
+              },
+              "shoulder": {
+                "item_id": 250031,
+                "item_level": 263,
+                "icon": "inv_shoulder_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Exhaustplates",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13333,
+                  13340,
+                  6652,
+                  13574,
+                  12790
+                ]
+              },
+              "back": {
+                "item_id": 259909,
+                "item_level": 259,
+                "icon": "inv_cape_cloth_outdoorvoidelf_c_01",
+                "name": "Preyseeker's Refined Shawl",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  12793
+                ]
+              },
+              "chest": {
+                "item_id": 250036,
+                "item_level": 276,
+                "icon": "inv_chest_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Engine",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13440,
+                  13336,
+                  13575,
+                  12798
+                ]
+              },
+              "waist": {
+                "item_id": 251166,
+                "item_level": 250,
+                "icon": "inv_belt_leather_dungeonharronir_c_01",
+                "name": "Falconer's Cinch",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  12667,
+                  12699,
+                  13577,
+                  12782
+                ]
+              },
+              "wrist": {
+                "item_id": 249644,
+                "item_level": 237,
+                "icon": "inv_bracer_leather_dungeonharronir_c_01",
+                "name": "Osseoclad Ivory Wrist",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12778,
+                  6652,
+                  12667,
+                  11215,
+                  13577
+                ]
+              },
+              "hands": {
+                "item_id": 193721,
+                "item_level": 253,
+                "icon": "inv_leather_dragondungeon_c_01_glove",
+                "name": "Ruby Contestant's Gloves",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12787,
+                  13440,
+                  6652,
+                  13577,
+                  12699
+                ]
+              },
+              "legs": {
+                "item_id": 250032,
+                "item_level": 250,
+                "icon": "inv_pant_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Pistons",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13332,
+                  13339,
+                  6652,
+                  13575,
+                  12782
+                ]
+              },
+              "feet": {
+                "item_id": 258577,
+                "item_level": 256,
+                "icon": "inv_leather_draenordungeon_c_01boot",
+                "name": "Boots of Burning Focus",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12788,
+                  13440,
+                  6652,
+                  13577,
+                  12699
+                ]
+              },
+              "finger1": {
+                "item_id": 251194,
+                "item_level": 250,
+                "icon": "inv12_jewelrytrinkets_rutaani_ring_yellow",
+                "name": "Lightwarden's Bind",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13668,
+                  12699,
+                  12782
+                ]
+              },
+              "finger2": {
+                "item_id": 151311,
+                "item_level": 246,
+                "icon": "inv_70_dungeon_ring2b",
+                "name": "Band of the Triumvirate",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12785,
+                  13439,
+                  6652,
+                  13668,
+                  12699
+                ]
+              },
+              "trinket1": {
+                "item_id": 251792,
+                "item_level": 263,
+                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
+                "name": "Glorious Crusader's Keepsake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12794
+                ]
+              },
+              "trinket2": {
+                "item_id": 251785,
+                "item_level": 263,
+                "icon": "inv_12_trinket_void_reaperslibram",
+                "name": "Void-Reaper's Libram",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 237840,
+                "item_level": 259,
+                "enchant": 8039,
+                "icon": "inv_glaive_1h_questbloodelf_b_01",
+                "name": "Spellbreaker's Warglaive",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8793
+                ]
+              },
+              "offhand": {
+                "item_id": 249677,
+                "item_level": 250,
+                "icon": "inv_glaive_1h_dungeonharronir_c_01",
+                "name": "Twinthorn Wildglaive",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12786,
+                  6652
+                ]
+              }
+            }
+          },
+          "expansionData": {
+            "expansionId": 8,
+            "covenant": {
+              "id": 1,
+              "name": "Kyrian",
+              "slug": "kyrian",
+              "icon": "ui_sigil_kyrian"
+            },
+            "renownLevel": 80,
+            "activeSoulbindIndex": 0,
+            "soulbinds": [
+              {
+                "id": 7,
+                "name": "Pelagos",
+                "slug": "pelagos",
+                "traits": [
+                  {
+                    "id": 1316,
+                    "spell": {
+                      "id": 328266,
+                      "name": "Combat Meditation",
+                      "icon": "spell_animabastion_buff",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1317,
+                    "spell": {
+                      "id": 329786,
+                      "name": "Road of Trials",
+                      "icon": "achievement_guildperk_havegroupwilltravel",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1310,
+                    "spell": {
+                      "id": 328263,
+                      "name": "Cleansed Vestments",
+                      "icon": "inv_misc_bag_14",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1303,
+                    "spell": {
+                      "id": 328257,
+                      "name": "Let Go of the Past",
+                      "icon": "ability_hunter_readiness",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1812,
+                    "spell": {
+                      "id": 351146,
+                      "name": "Better Together",
+                      "icon": "achievement_reputation_01",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1816,
+                    "spell": {
+                      "id": 351149,
+                      "name": "Newfound Resolve",
+                      "icon": "inv_enchant_essencemagiclarge",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 132,
+                    "spell": {
+                      "id": 338793,
+                      "name": "Shattered Restoration",
+                      "icon": "ability_warlock_soulsiphon",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 131,
+                    "spell": {
+                      "id": 338682,
+                      "name": "Viscous Ink",
+                      "icon": "inv_archaeology_orcclans_tattooknife",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 187,
+                    "spell": {
+                      "id": 339895,
+                      "name": "Repeat Decree",
+                      "icon": "ability_mount_goatmountwhite",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 130,
+                    "spell": {
+                      "id": 338671,
+                      "name": "Fel Defender",
+                      "icon": "inv_armor_shield_naxxramas_d_01",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 153,
+                    "spell": {
+                      "id": 339231,
+                      "name": "Growing Inferno",
+                      "icon": "spell_fel_incinerate",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 283,
+                    "spell": {
+                      "id": 357888,
+                      "name": "Condensed Anima Sphere",
+                      "icon": "spell_animarevendreth_orb",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 9
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "name": "Kleia",
+                "slug": "kleia",
+                "traits": [
+                  {
+                    "id": 1378,
+                    "spell": {
+                      "id": 329791,
+                      "name": "Valiant Strikes",
+                      "icon": "spell_holy_prayerofspirit",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1368,
+                    "spell": {
+                      "id": 334066,
+                      "name": "Mentorship",
+                      "icon": "achievement_reputation_05",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1372,
+                    "spell": {
+                      "id": 329784,
+                      "name": "Cleansing Rites",
+                      "icon": "spell_magic_magearmor",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1369,
+                    "spell": {
+                      "id": 329778,
+                      "name": "Pointed Courage",
+                      "icon": "ability_hunter_displacement",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1826,
+                    "spell": {
+                      "id": 351488,
+                      "name": "Spear of the Archon",
+                      "icon": "inv_spear_04",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1830,
+                    "spell": {
+                      "id": 351491,
+                      "name": "Light the Path",
+                      "icon": "inv_jewelry_ring_88",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 187,
+                    "spell": {
+                      "id": 339895,
+                      "name": "Repeat Decree",
+                      "icon": "ability_mount_goatmountwhite",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 134,
+                    "spell": {
+                      "id": 338799,
+                      "name": "Felfire Haste",
+                      "icon": "inv_boots_cloth_35v4",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 9
+                  },
+                  {
+                    "id": 131,
+                    "spell": {
+                      "id": 338682,
+                      "name": "Viscous Ink",
+                      "icon": "inv_archaeology_orcclans_tattooknife",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 11
+                  },
+                  {
+                    "id": 132,
+                    "spell": {
+                      "id": 338793,
+                      "name": "Shattered Restoration",
+                      "icon": "ability_warlock_soulsiphon",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 153,
+                    "spell": {
+                      "id": 339231,
+                      "name": "Growing Inferno",
+                      "icon": "spell_fel_incinerate",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  }
+                ]
+              },
+              {
+                "id": 18,
+                "name": "Forgelite Prime Mikanikos",
+                "slug": "forgelite-prime-mikanikos",
+                "traits": [
+                  {
+                    "id": 1418,
+                    "spell": {
+                      "id": 333950,
+                      "name": "Bron's Call to Action",
+                      "icon": "ui_sigil_kyrian",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1407,
+                    "spell": {
+                      "id": 331610,
+                      "name": "Charged Additive",
+                      "icon": "inv_potion_105",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1417,
+                    "spell": {
+                      "id": 331725,
+                      "name": "Resilient Plumage",
+                      "icon": "achievement_legionpvp4tier1",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1412,
+                    "spell": {
+                      "id": 331611,
+                      "name": "Soulsteel Clamps",
+                      "icon": "inv_misc_enggizmos_05",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1832,
+                    "spell": {
+                      "id": 352186,
+                      "name": "Soulglow Spectrometer",
+                      "icon": "inv_helm_goggles_draenortradeskill_d_01",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1836,
+                    "spell": {
+                      "id": 352188,
+                      "name": "Effusive Anima Accelerator",
+                      "icon": "inv_offhand_1h_bastion_d_01",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": []
+              }
+            ]
+          },
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 5,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 592.4,
+          "allScoreColor": "#daffcb"
         },
         "rank": 7,
         "stream": null
@@ -17065,7 +17964,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -31440,7 +32339,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -39835,7 +40734,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -42333,7 +43232,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -46189,7 +47088,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -66685,7 +67584,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -142528,7 +143427,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -143147,7 +144046,7 @@
           "type": "live",
           "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
           "community_ids": [],
-          "viewer_count": 204,
+          "viewer_count": 224,
           "started_at": "2026-04-08T03:25:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -177192,8 +178091,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2008.9,
-          "allScoreColor": "#5ccb78"
+          "allScore": 2340.3,
+          "allScoreColor": "#5799b1"
         },
         "rank": 4,
         "stream": null
@@ -185043,9 +185942,723 @@
         },
         "rank": 4,
         "stream": null
+      },
+      {
+        "character": {
+          "name": "Fayelina",
+          "level": 90,
+          "race": {
+            "id": 4,
+            "name": "Night Elf",
+            "slug": "night-elf",
+            "faction": "alliance"
+          },
+          "class": {
+            "id": 5,
+            "name": "Priest",
+            "slug": "priest"
+          },
+          "spec": {
+            "id": 256,
+            "name": "Discipline",
+            "slug": "discipline",
+            "class_id": 5,
+            "role": "healer",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "sargeras/10/186997514-avatar.jpg",
+          "itemLevelEquipped": 272,
+          "realm": {
+            "id": 428,
+            "connectedRealmId": 231,
+            "wowRealmId": 76,
+            "wowConnectedRealmId": 76,
+            "name": "Sargeras",
+            "altName": null,
+            "slug": "sargeras",
+            "altSlug": "sargeras",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-04-08T06:08:10.104Z",
+            "updated_at": "2026-04-08T06:08:10.104Z",
+            "source": "s3",
+            "item_level_equipped": 272,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 193703,
+                "item_level": 266,
+                "enchant": 7961,
+                "icon": "inv_helm_cloth_dragondungeon_c_01",
+                "name": "Organized Pontificator's Mask",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  7961
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243951,
+                    "name": "Enchant Helm - Empowered Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  13534,
+                  13577,
+                  12699
+                ]
+              },
+              "neck": {
+                "item_id": 50228,
+                "item_level": 266,
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Barbed Ymirheim Choker",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240889
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240889,
+                    "name": "14 Haste & 6 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  13668,
+                  12699
+                ]
+              },
+              "shoulder": {
+                "item_id": 250049,
+                "item_level": 276,
+                "enchant": 7998,
+                "icon": "inv_shoulder_cloth_raidpriestmidnight_d_01",
+                "name": "Blind Oath's Seraphguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7998
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243988,
+                    "name": "Enchant Shoulders - Nature's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13440,
+                  13340,
+                  13574,
+                  12798
+                ]
+              },
+              "back": {
+                "item_id": 260312,
+                "item_level": 266,
+                "icon": "inv_cape_plate_dungeonharronir_c_01",
+                "name": "Defiant Defender's Drape",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  13577,
+                  12699
+                ]
+              },
+              "chest": {
+                "item_id": 250054,
+                "item_level": 276,
+                "enchant": 7987,
+                "icon": "inv_robe_cloth_raidpriestmidnight_d_01",
+                "name": "Blind Oath's Raiment",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12798,
+                  13440,
+                  13336,
+                  13575,
+                  3161
+                ]
+              },
+              "waist": {
+                "item_id": 249319,
+                "item_level": 266,
+                "icon": "inv_belt_cloth_raidpriestmidnight_d_01",
+                "name": "Endless March Waistwrap",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13577,
+                  13334,
+                  12795
+                ]
+              },
+              "shirt": {
+                "item_id": 151116,
+                "item_level": 1,
+                "icon": "inv_shirt_06",
+                "name": "Fashionable Undershirt",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": []
+              },
+              "wrist": {
+                "item_id": 49809,
+                "item_level": 266,
+                "icon": "inv_bracer_32a",
+                "name": "Wristguards of Subterranean Moss",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  12667,
+                  13577,
+                  12699
+                ]
+              },
+              "hands": {
+                "item_id": 250052,
+                "item_level": 289,
+                "icon": "inv_glove_cloth_raidpriestmidnight_d_01",
+                "name": "Blind Oath's Touch",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13440,
+                  13337,
+                  13574,
+                  12806
+                ]
+              },
+              "legs": {
+                "item_id": 250050,
+                "item_level": 266,
+                "icon": "inv_pant_cloth_raidpriestmidnight_d_01",
+                "name": "Blind Oath's Leggings",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12795,
+                  13440,
+                  13339,
+                  13575,
+                  3151
+                ]
+              },
+              "feet": {
+                "item_id": 49805,
+                "item_level": 276,
+                "enchant": 7992,
+                "icon": "inv_boots_cloth_26",
+                "name": "Ice-Steeped Sandals",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7992
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243982,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13577,
+                  12699,
+                  12798
+                ]
+              },
+              "finger1": {
+                "item_id": 49812,
+                "item_level": 266,
+                "enchant": 8020,
+                "icon": "inv_jewelry_ring_42",
+                "name": "Purloined Wedding Ring",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240889
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240889,
+                    "name": "14 Haste & 6 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8020
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244010,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12795,
+                  13440,
+                  41,
+                  13668,
+                  12699
+                ]
+              },
+              "finger2": {
+                "item_id": 251093,
+                "item_level": 266,
+                "enchant": 8020,
+                "icon": "inv_12_trinket_devouring_host_currency1_silver",
+                "name": "Omission of Light",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240889
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240889,
+                    "name": "14 Haste & 6 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8020
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244010,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12795,
+                  13440,
+                  40,
+                  13668,
+                  12699
+                ]
+              },
+              "trinket1": {
+                "item_id": 249346,
+                "item_level": 272,
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12797
+                ]
+              },
+              "trinket2": {
+                "item_id": 249809,
+                "item_level": 272,
+                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
+                "name": "Locus-Walker's Ribbon",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12797
+                ]
+              },
+              "mainhand": {
+                "item_id": 245770,
+                "item_level": 285,
+                "enchant": 8039,
+                "icon": "inv_staff_2h_dungeonharronir_c_02",
+                "name": "Aln'hara Cane",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8795,
+                  13622,
+                  13667
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 1,
+            "heroic": 6,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 3320.6,
+          "allScoreColor": "#e05790"
+        },
+        "rank": 99,
+        "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T04:54:04.983Z"
+    "fetchedAt": "2026-04-08T06:38:37.522Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -294619,8 +296232,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2484.4,
-          "allScoreColor": "#4384c7"
+          "allScore": 2648,
+          "allScoreColor": "#1b73d9"
         },
         "rank": 7,
         "stream": null
@@ -299610,8 +301223,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2393.2,
-          "allScoreColor": "#5292b9"
+          "allScore": 2395.5,
+          "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
         "stream": null
@@ -413970,7 +415583,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T04:54:09.072Z"
+    "fetchedAt": "2026-04-08T06:38:40.785Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -423140,7 +424753,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -426098,7 +427725,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -430641,7 +432282,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -444125,7 +445780,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530152,
+          "id": "315797211094",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Finishing the job !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-04-08T06:02:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -444751,7 +446420,21 @@
           "allScoreColor": "#71ff55"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530152,
+          "id": "315797211094",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Finishing the job !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-04-08T06:02:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -450407,7 +452090,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -473545,7 +475242,21 @@
           "allScoreColor": "#eeffe7"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530152,
+          "id": "315797211094",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Finishing the job !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-04-08T06:02:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -473596,8 +475307,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-02T01:35:31.205Z",
-            "updated_at": "2026-04-02T01:35:31.205Z",
+            "created_at": "2026-04-08T06:16:24.216Z",
+            "updated_at": "2026-04-08T06:16:24.216Z",
             "source": "s3",
             "item_level_equipped": 278,
             "item_level_total": 0,
@@ -473953,11 +475664,11 @@
                 ]
               },
               "feet": {
-                "item_id": 260377,
-                "item_level": 276,
+                "item_id": 249381,
+                "item_level": 279,
                 "enchant": 7993,
-                "icon": "inv_plate_raiddeathknightmidnight_d_01_boot",
-                "name": "Fading Dawn Sabatons",
+                "icon": "inv_boot_plate_raidwarriormidnight_d_01",
+                "name": "Greaves of the Unformed",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -473981,11 +475692,10 @@
                   }
                 ],
                 "bonuses": [
-                  41,
+                  6652,
                   13577,
-                  13334,
-                  10844,
-                  12798
+                  13335,
+                  12803
                 ]
               },
               "finger1": {
@@ -474195,7 +475905,21 @@
           "allScoreColor": "#5292b9"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530152,
+          "id": "315797211094",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Finishing the job !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-04-08T06:02:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -478273,7 +479997,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -493610,7 +495348,21 @@
           "allScoreColor": "#3af435"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530152,
+          "id": "315797211094",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Finishing the job !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-04-08T06:02:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -494845,7 +496597,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530152,
+          "id": "315797211094",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Finishing the job !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-04-08T06:02:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -505001,7 +506767,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -511948,7 +513728,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/146/193591954-avatar.jpg",
-          "itemLevelEquipped": 277,
+          "itemLevelEquipped": 278,
           "realm": {
             "id": 739,
             "connectedRealmId": 362,
@@ -511968,10 +513748,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-06T17:35:59.196Z",
-            "updated_at": "2026-04-06T17:35:59.196Z",
+            "created_at": "2026-04-08T06:16:20.414Z",
+            "updated_at": "2026-04-08T06:16:20.414Z",
             "source": "s3",
-            "item_level_equipped": 277,
+            "item_level_equipped": 278,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -512067,10 +513847,10 @@
                 ]
               },
               "neck": {
-                "item_id": 249337,
+                "item_id": 249368,
                 "item_level": 276,
-                "icon": "inv_12_jewelry_devouringhost_necklace_bronze",
-                "name": "Ribbon of Coiled Malice",
+                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
+                "name": "Eternal Voidsong Chain",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -512094,7 +513874,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  41,
                   13668,
                   13334,
                   12798
@@ -512451,7 +514231,7 @@
               },
               "trinket1": {
                 "item_id": 249808,
-                "item_level": 276,
+                "item_level": 289,
                 "icon": "inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath",
                 "name": "Litany of Lightblind Wrath",
                 "item_quality": 4,
@@ -512470,8 +514250,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13334,
-                  12798
+                  13335,
+                  12806
                 ]
               },
               "trinket2": {
@@ -512567,7 +514347,21 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530152,
+          "id": "315797211094",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Finishing the job !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-04-08T06:02:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -612429,7 +614223,21 @@
           "allScoreColor": "#75ff59"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -614298,7 +616106,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -616245,7 +618067,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -623820,7 +625656,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -625185,7 +627035,21 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -635937,7 +637801,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -639256,7 +641134,21 @@
           "allScoreColor": "#5fc185"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530192,
+          "id": "315769612629",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
+          "community_ids": [],
+          "viewer_count": 75,
+          "started_at": "2026-04-08T06:30:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -641176,7 +643068,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "twisting-nether/76/196076108-avatar.jpg",
-          "itemLevelEquipped": 280,
+          "itemLevelEquipped": 281,
           "realm": {
             "id": 739,
             "connectedRealmId": 362,
@@ -641196,10 +643088,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-08T03:56:22.558Z",
-            "updated_at": "2026-04-08T03:56:22.558Z",
+            "created_at": "2026-04-08T06:16:14.419Z",
+            "updated_at": "2026-04-08T06:16:14.419Z",
             "source": "s3",
-            "item_level_equipped": 280,
+            "item_level_equipped": 281,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -641295,10 +643187,10 @@
                 ]
               },
               "neck": {
-                "item_id": 50228,
-                "item_level": 276,
-                "icon": "inv_jewelry_necklace_22",
-                "name": "Barbed Ymirheim Choker",
+                "item_id": 249337,
+                "item_level": 282,
+                "icon": "inv_12_jewelry_devouringhost_necklace_bronze",
+                "name": "Ribbon of Coiled Malice",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -641322,11 +643214,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
                   13668,
-                  12699,
-                  12798
+                  13335,
+                  12804
                 ]
               },
               "shoulder": {
@@ -644483,6 +646374,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T04:54:18.654Z"
+    "fetchedAt": "2026-04-08T06:38:47.008Z"
   }
 }
