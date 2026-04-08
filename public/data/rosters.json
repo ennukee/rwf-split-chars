@@ -15764,7 +15764,21 @@
           "allScoreColor": "#adff93"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 529173,
+          "id": "318650530906",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid in-house crafter) reset day shorter stream because gym at 830",
+          "community_ids": [],
+          "viewer_count": 1,
+          "started_at": "2026-04-08T00:09:30Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -98544,7 +98558,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/220/234479580-avatar.jpg",
-          "itemLevelEquipped": 268,
+          "itemLevelEquipped": 270,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -98564,10 +98578,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-05T17:47:49.322Z",
-            "updated_at": "2026-04-05T17:47:49.322Z",
+            "created_at": "2026-04-08T00:13:57.082Z",
+            "updated_at": "2026-04-08T00:13:57.082Z",
             "source": "s3",
-            "item_level_equipped": 268,
+            "item_level_equipped": 270,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -98644,8 +98658,8 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
                   12667,
+                  41,
                   12798,
                   13440,
                   13338,
@@ -98895,7 +98909,7 @@
               "legs": {
                 "item_id": 244574,
                 "item_level": 285,
-                "enchant": 7935,
+                "enchant": 8159,
                 "icon": "inv_pant_leather_questbloodelf_b_01",
                 "name": "Silvermoon Agent's Leggings",
                 "item_quality": 4,
@@ -98911,13 +98925,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7935
+                  8159
                 ],
                 "enchants_detail": [
                   {
-                    "id": 240133,
-                    "name": "41 Int & 115 Sta",
-                    "icon": "inv_tailoring_spellthread_orange_spellthread"
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
                   }
                 ],
                 "bonuses": [
@@ -99052,32 +99066,6 @@
                 ]
               },
               "trinket1": {
-                "item_id": 193701,
-                "item_level": 263,
-                "icon": "inv_misc_enggizmos_18",
-                "name": "Algeth'ar Puzzle Box",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13439,
-                  6652,
-                  12699,
-                  12790
-                ]
-              },
-              "trinket2": {
                 "item_id": 249344,
                 "item_level": 263,
                 "icon": "inv_12_trinket_raid_voidspire_physdps1_armyoflightbanner",
@@ -99100,6 +99088,31 @@
                   6652,
                   13333,
                   12790
+                ]
+              },
+              "trinket2": {
+                "item_id": 249343,
+                "item_level": 266,
+                "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
+                "name": "Gaze of the Alnseer",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12795
                 ]
               },
               "mainhand": {
@@ -99142,11 +99155,11 @@
                 ]
               },
               "offhand": {
-                "item_id": 193717,
-                "item_level": 263,
-                "enchant": 7983,
-                "icon": "inv_glaive_1h_drakonid_c_01",
-                "name": "Mystakria's Harvester",
+                "item_id": 237840,
+                "item_level": 285,
+                "enchant": 8041,
+                "icon": "inv_glaive_1h_questbloodelf_b_01",
+                "name": "Spellbreaker's Warglaive",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -99160,20 +99173,22 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7983
+                  8041
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243973,
-                    "name": "Enchant Weapon - Berserker's Rage",
+                    "id": 244031,
+                    "name": "Enchant Weapon - Arcane Mast",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
                   }
                 ],
                 "bonuses": [
-                  13439,
-                  6652,
-                  12701,
-                  12790
+                  12214,
+                  12497,
+                  12066,
+                  8790,
+                  13622,
+                  13667
                 ]
               }
             }
@@ -105017,7 +105032,21 @@
           "allScoreColor": "#c744c2"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 529173,
+          "id": "318650530906",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid in-house crafter) reset day shorter stream because gym at 830",
+          "community_ids": [],
+          "viewer_count": 1,
+          "started_at": "2026-04-08T00:09:30Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -105048,7 +105077,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/213/233080789-avatar.jpg",
-          "itemLevelEquipped": 270,
+          "itemLevelEquipped": 269,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -105068,10 +105097,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-07T12:17:04.093Z",
-            "updated_at": "2026-04-07T12:17:04.093Z",
+            "created_at": "2026-04-07T22:31:03.991Z",
+            "updated_at": "2026-04-07T22:31:03.991Z",
             "source": "s3",
-            "item_level_equipped": 270,
+            "item_level_equipped": 269,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -105426,8 +105455,7 @@
               },
               "feet": {
                 "item_id": 249320,
-                "item_level": 269,
-                "enchant": 7993,
+                "item_level": 279,
                 "icon": "inv_boot_mail_raidevokermidnight_d_01",
                 "name": "Sabatons of Obscurement",
                 "item_quality": 4,
@@ -105442,21 +105470,13 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7993
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243983,
-                    "name": "Enchant Boots - Shaladrassil's Roots",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  41,
+                  6652,
                   13577,
-                  13334,
-                  12796
+                  13335,
+                  12803
                 ]
               },
               "finger1": {
@@ -105544,10 +105564,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 249808,
-                "item_level": 276,
-                "icon": "inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath",
-                "name": "Litany of Lightblind Wrath",
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -105563,9 +105583,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13334,
-                  12798
+                  12790
                 ]
               },
               "trinket2": {
@@ -105657,8 +105675,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 170,
-          "allScoreColor": "#ffffff"
+          "allScore": 505,
+          "allScoreColor": "#e2ffd6"
         },
         "rank": 1,
         "stream": null
@@ -184919,7 +184937,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T22:16:24.459Z"
+    "fetchedAt": "2026-04-08T00:39:21.910Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -215040,20 +215058,20 @@
             "slug": "hunter"
           },
           "spec": {
-            "id": 254,
-            "name": "Marksmanship",
-            "slug": "marksmanship",
+            "id": 253,
+            "name": "Beast Mastery",
+            "slug": "beast-mastery",
             "class_id": 3,
             "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "talents": "",
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/157/183963549-avatar.jpg",
-          "itemLevelEquipped": 276,
+          "itemLevelEquipped": 274,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -215073,10 +215091,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-05T05:55:33.476Z",
-            "updated_at": "2026-04-05T05:55:33.476Z",
+            "created_at": "2026-04-07T23:17:00.914Z",
+            "updated_at": "2026-04-07T23:17:00.914Z",
             "source": "s3",
-            "item_level_equipped": 276,
+            "item_level_equipped": 274,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -215332,10 +215350,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 249304,
-                "item_level": 276,
-                "icon": "inv_bracer_mail_raidshamanmidnight_d_01",
-                "name": "Fallen King's Cuffs",
+                "item_id": 251079,
+                "item_level": 266,
+                "icon": "inv_bracer_mail_dungeonharronir_c_01",
+                "name": "Amberfrond Bracers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -215351,11 +215369,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12795,
+                  13440,
                   6652,
                   12667,
                   13577,
-                  13335,
-                  12802
+                  12699
                 ]
               },
               "hands": {
@@ -215386,11 +215405,11 @@
                 ]
               },
               "legs": {
-                "item_id": 251104,
+                "item_id": 249987,
                 "item_level": 276,
                 "enchant": 8159,
-                "icon": "inv_pant_mail_dungeonharronir_c_01",
-                "name": "Leggings of Orderly Conduct",
+                "icon": "inv_pant_mail_raidhuntermidnight_d_01",
+                "name": "Primal Sentry's Legguards",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -215401,6 +215420,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -215414,11 +215434,11 @@
                   }
                 ],
                 "bonuses": [
-                  13440,
                   6652,
-                  13577,
-                  12699,
-                  12798
+                  13440,
+                  13339,
+                  13575,
+                  12802
                 ]
               },
               "feet": {
@@ -215572,10 +215592,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 249345,
-                "item_level": 276,
-                "icon": "inv_12_trinket_raid_voidspire_agidps_rangercaptainsinsignia",
-                "name": "Ranger-Captain's Iridescent Insignia",
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -215591,9 +215611,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  42,
-                  13334,
-                  12798
+                  12790
                 ]
               },
               "mainhand": {
@@ -413131,7 +413149,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T22:16:30.138Z"
+    "fetchedAt": "2026-04-08T00:39:26.297Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -453485,8 +453503,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3301.1,
-          "allScoreColor": "#de5596"
+          "allScore": 3339.5,
+          "allScoreColor": "#e3598b"
         },
         "rank": 7,
         "stream": null
@@ -529443,8 +529461,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 987.3,
-          "allScoreColor": "#adff93"
+          "allScore": 1310.4,
+          "allScoreColor": "#7eff62"
         },
         "rank": 2,
         "stream": null
@@ -642557,6 +642575,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-07T22:16:30.507Z"
+    "fetchedAt": "2026-04-08T00:39:33.982Z"
   }
 }
