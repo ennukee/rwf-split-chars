@@ -40689,8 +40689,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2021.7,
-          "allScoreColor": "#5ec87d"
+          "allScore": 2356.7,
+          "allScoreColor": "#5496b5"
         },
         "rank": 4,
         "stream": null
@@ -87924,7 +87924,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/226/234060514-avatar.jpg",
-          "itemLevelEquipped": 271,
+          "itemLevelEquipped": 278,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -87944,10 +87944,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-06T09:11:55.540Z",
-            "updated_at": "2026-04-06T09:11:55.540Z",
+            "created_at": "2026-04-08T10:21:11.964Z",
+            "updated_at": "2026-04-08T10:21:11.965Z",
             "source": "s3",
-            "item_level_equipped": 271,
+            "item_level_equipped": 278,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -87996,7 +87996,7 @@
               },
               "neck": {
                 "item_id": 50228,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_jewelry_necklace_22",
                 "name": "Barbed Ymirheim Choker",
                 "item_quality": 4,
@@ -88022,11 +88022,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12798
                 ]
               },
               "shoulder": {
@@ -88066,7 +88066,7 @@
               },
               "back": {
                 "item_id": 49823,
-                "item_level": 266,
+                "item_level": 269,
                 "enchant": 3605,
                 "icon": "inv_misc_cape_18",
                 "name": "Cloak of the Fallen Cardinal",
@@ -88087,11 +88087,11 @@
                 ],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   41,
                   13577,
-                  12699
+                  12699,
+                  12796
                 ]
               },
               "chest": {
@@ -88133,7 +88133,7 @@
               },
               "waist": {
                 "item_id": 249374,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 4223,
                 "icon": "inv_belt_leather_raidmonkmidnight_d_01",
                 "name": "Scorn-Scarred Shul'ka's Belt",
@@ -88158,14 +88158,14 @@
                   12667,
                   13577,
                   13334,
-                  12795
+                  12798
                 ]
               },
               "wrist": {
-                "item_id": 249327,
-                "item_level": 263,
-                "icon": "inv_bracer_leather_raidroguemidnight_d_01",
-                "name": "Void-Skinned Bracers",
+                "item_id": 244576,
+                "item_level": 285,
+                "icon": "inv_bracer_leather_questbloodelf_b_01",
+                "name": "Silvermoon Agent's Deflectors",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -88189,11 +88189,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13534,
-                  13577,
-                  13333,
-                  12790
+                  12214,
+                  12497,
+                  12066,
+                  8960,
+                  12384,
+                  8790,
+                  13622,
+                  13667,
+                  12666
                 ]
               },
               "hands": {
@@ -88226,7 +88230,7 @@
               },
               "legs": {
                 "item_id": 250014,
-                "item_level": 276,
+                "item_level": 289,
                 "enchant": 7935,
                 "icon": "inv_pant_leather_raidmonkmidnight_d_01",
                 "name": "Swiftsweepers of Ra-den's Chosen",
@@ -88254,11 +88258,12 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
-                  13339,
+                  12806,
                   6652,
+                  13440,
+                  13339,
                   13575,
-                  12798
+                  3174
                 ]
               },
               "feet": {
@@ -88299,7 +88304,7 @@
               },
               "finger1": {
                 "item_id": 251217,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 8025,
                 "icon": "inv_12_trinket_devouring_host_currency1_bronze",
                 "name": "Occlusion of Void",
@@ -88334,16 +88339,16 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12798
                 ]
               },
               "finger2": {
                 "item_id": 49812,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 8025,
                 "icon": "inv_jewelry_ring_42",
                 "name": "Purloined Wedding Ring",
@@ -88378,16 +88383,16 @@
                   }
                 ],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12798
                 ]
               },
               "trinket1": {
                 "item_id": 249808,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath",
                 "name": "Litany of Lightblind Wrath",
                 "item_quality": 4,
@@ -88407,12 +88412,12 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12795
+                  12798
                 ]
               },
               "trinket2": {
                 "item_id": 249343,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
                 "name": "Gaze of the Alnseer",
                 "item_quality": 4,
@@ -88432,7 +88437,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12795
+                  12798
                 ]
               },
               "mainhand": {
@@ -88499,8 +88504,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2919.5,
-          "allScoreColor": "#a335ee"
+          "allScore": 2932.3,
+          "allScoreColor": "#a837e8"
         },
         "rank": 4,
         "stream": null
@@ -164382,8 +164387,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 335,
+          "allScoreColor": "#f3ffee"
         },
         "rank": 4,
         "stream": null
@@ -186554,7 +186559,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T08:30:43.833Z"
+    "fetchedAt": "2026-04-08T10:27:32.584Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -191875,7 +191880,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -192830,8 +192849,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-01T23:24:32.794Z",
-            "updated_at": "2026-04-01T23:24:32.794Z",
+            "created_at": "2026-04-08T09:13:04.684Z",
+            "updated_at": "2026-04-08T09:13:04.684Z",
             "source": "s3",
             "item_level_equipped": 279,
             "item_level_total": 0,
@@ -193180,11 +193199,10 @@
                 ]
               },
               "legs": {
-                "item_id": 249996,
+                "item_id": 251170,
                 "item_level": 276,
-                "enchant": 7937,
-                "icon": "inv_pant_mail_raidevokermidnight_d_01",
-                "name": "Greaves of the Black Talon",
+                "icon": "inv_pant_mail_dungeonharronir_c_01",
+                "name": "Wickedweave Trousers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -193195,25 +193213,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7937
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 240155,
-                    "name": "41 Int & +% Mana",
-                    "icon": "inv_12_tailoring_spellthread_violet_spellthread"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  13334,
-                  13339,
+                  13440,
                   6652,
-                  13575,
-                  12798
+                  13577,
+                  12699,
+                  12802
                 ]
               },
               "feet": {
@@ -199364,7 +199373,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530371,
+          "id": "315770091349",
+          "name": "fraggo",
+          "user_id": "37210499",
+          "game_id": "18122",
+          "type": "live",
+          "title": "fraggo <Echo> extracurricular fun wow time nice",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-04-08T08:49:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -201389,7 +201412,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530371,
+          "id": "315770091349",
+          "name": "fraggo",
+          "user_id": "37210499",
+          "game_id": "18122",
+          "type": "live",
+          "title": "fraggo <Echo> extracurricular fun wow time nice",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-04-08T08:49:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -202026,11 +202063,25 @@
           }
         },
         "keystoneScores": {
-          "allScore": 335,
-          "allScoreColor": "#f3ffee"
+          "allScore": 670,
+          "allScoreColor": "#d2ffc1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -261425,7 +261476,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -279010,7 +279075,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -280266,7 +280345,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -280949,7 +281042,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -282288,7 +282395,21 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -289825,7 +289946,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -290523,7 +290658,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -299861,6 +300010,697 @@
         "keystoneScores": {
           "allScore": 0,
           "allScoreColor": "#aaa"
+        },
+        "rank": 4,
+        "stream": null
+      },
+      {
+        "character": {
+          "name": "Sõl",
+          "level": 90,
+          "race": {
+            "id": 10,
+            "name": "Blood Elf",
+            "slug": "blood-elf",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 12,
+            "name": "Demon Hunter",
+            "slug": "demon-hunter"
+          },
+          "spec": {
+            "id": 577,
+            "name": "Havoc",
+            "slug": "havoc",
+            "class_id": 12,
+            "role": "dps",
+            "is_melee": true,
+            "patch": "7.0.0",
+            "ordinal": 0
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "tarren-mill/243/177652211-avatar.jpg",
+          "itemLevelEquipped": 256,
+          "realm": {
+            "id": 719,
+            "connectedRealmId": 300,
+            "wowRealmId": 1306,
+            "wowConnectedRealmId": 1084,
+            "name": "Tarren Mill",
+            "altName": null,
+            "slug": "tarren-mill",
+            "altSlug": "tarren-mill",
+            "locale": "en_GB",
+            "isConnected": true,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+          },
+          "items": {
+            "created_at": "2026-04-08T09:24:00.876Z",
+            "updated_at": "2026-04-08T09:24:00.876Z",
+            "source": "s3",
+            "item_level_equipped": 256,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250033,
+                "item_level": 263,
+                "enchant": 7959,
+                "icon": "inv_helm_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Intake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7959
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243949,
+                    "name": "Enchant Helm - Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  13333,
+                  13338,
+                  6652,
+                  12667,
+                  13575,
+                  12790
+                ]
+              },
+              "neck": {
+                "item_id": 250247,
+                "item_level": 276,
+                "icon": "inv_12_jewelry_devouringhost_necklace_bronze2",
+                "name": "Amulet of the Abyssal Hymn",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908,
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  },
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  11215,
+                  12798
+                ]
+              },
+              "shoulder": {
+                "item_id": 250031,
+                "item_level": 256,
+                "enchant": 8029,
+                "icon": "inv_shoulder_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Exhaustplates",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8029
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244019,
+                    "name": "Enchant Shoulders - Thalassian Recovery",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12788,
+                  13340,
+                  13574,
+                  3141
+                ]
+              },
+              "back": {
+                "item_id": 257172,
+                "item_level": 250,
+                "icon": "inv_cape_cloth_outdoorvoidelf_c_01",
+                "name": "Voidbreaker's Cape",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13577,
+                  12786
+                ]
+              },
+              "chest": {
+                "item_id": 250036,
+                "item_level": 250,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Engine",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13332,
+                  13336,
+                  6652,
+                  13575,
+                  12782
+                ]
+              },
+              "waist": {
+                "item_id": 263267,
+                "item_level": 246,
+                "icon": "inv_belt_leather_dungeonharronir_c_01",
+                "name": "Hara'ti Defender's Cord",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13577,
+                  12785
+                ]
+              },
+              "shirt": {
+                "item_id": 11840,
+                "item_level": 1,
+                "icon": "inv_shirt_black_01",
+                "name": "Master Builder's Shirt",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": []
+              },
+              "wrist": {
+                "item_id": 251103,
+                "item_level": 240,
+                "icon": "inv_bracer_leather_dungeonharronir_c_01",
+                "name": "Custodial Cuffs",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12779,
+                  13439,
+                  6652,
+                  12667,
+                  12699,
+                  13577
+                ]
+              },
+              "hands": {
+                "item_id": 251113,
+                "item_level": 250,
+                "icon": "inv_glove_leather_dungeonharronir_c_01",
+                "name": "Gloves of Viscous Goo",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  42,
+                  12699,
+                  13577,
+                  12782
+                ]
+              },
+              "legs": {
+                "item_id": 250032,
+                "item_level": 276,
+                "enchant": 8159,
+                "icon": "inv_pant_leather_raiddemonhuntermidnight_d_01",
+                "name": "Devouring Reaver's Pistons",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12798,
+                  13339,
+                  13575,
+                  3161
+                ]
+              },
+              "feet": {
+                "item_id": 249638,
+                "item_level": 259,
+                "enchant": 7963,
+                "icon": "inv_boot_leather_dungeonharronir_c_01",
+                "name": "Osseoclad Bonecrushers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12793,
+                  6652,
+                  13577
+                ]
+              },
+              "finger1": {
+                "item_id": 259914,
+                "item_level": 246,
+                "enchant": 7995,
+                "icon": "inv_70_quest_ring10d",
+                "name": "Preyseeker's Circle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240875
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240875,
+                    "name": "11 Crit & 4 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7995
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243985,
+                    "name": "Enchant Ring - Nature's Wrath",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12781
+                ]
+              },
+              "finger2": {
+                "item_id": 240947,
+                "item_level": 246,
+                "enchant": 7995,
+                "icon": "inv_12_profession_jewelcrafting_ring2_gold",
+                "name": "Gleaming Copper Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  7995
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243985,
+                    "name": "Enchant Ring - Nature's Wrath",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12249,
+                  12248,
+                  4785,
+                  12497,
+                  13453,
+                  8960,
+                  8791,
+                  13620
+                ]
+              },
+              "trinket1": {
+                "item_id": 251783,
+                "item_level": 263,
+                "icon": "inv_12_trinket_grisgrisofconfidenc",
+                "name": "Lost Idol of the Hash'ey",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12790
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 263,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12790
+                ]
+              },
+              "mainhand": {
+                "item_id": 259959,
+                "item_level": 263,
+                "enchant": 8039,
+                "icon": "inv_glaive_1h_outdoorvoidelf_c_01",
+                "name": "Preyseeker's Warglaive",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12790
+                ]
+              },
+              "offhand": {
+                "item_id": 251885,
+                "item_level": 263,
+                "enchant": 8039,
+                "icon": "inv_sword_1h_draenorcrafted_d_01_c_alliance",
+                "name": "Radiant Foil",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12790
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 4,
+            "heroic": 1,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 332.5,
+          "allScoreColor": "#f3ffee"
         },
         "rank": 4,
         "stream": null
@@ -313427,7 +314267,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530370,
+          "id": "316893129317",
+          "name": "xerwo",
+          "user_id": "36930822",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Post race chilling | !ui !maxroll",
+          "community_ids": [],
+          "viewer_count": 238,
+          "started_at": "2026-04-08T08:49:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -330981,8 +331835,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 170,
-          "allScoreColor": "#ffffff"
+          "allScore": 505,
+          "allScoreColor": "#e2ffd6"
         },
         "rank": 4,
         "stream": null
@@ -402198,8 +403052,8 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-06T15:19:08.351Z",
-            "updated_at": "2026-04-06T15:19:08.351Z",
+            "created_at": "2026-04-08T09:13:09.793Z",
+            "updated_at": "2026-04-08T09:13:09.793Z",
             "source": "s3",
             "item_level_equipped": 279,
             "item_level_total": 0,
@@ -402714,10 +403568,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 250256,
+                "item_id": 249346,
                 "item_level": 276,
-                "icon": "inv_10_jewelcrafting3_soulcage_air",
-                "name": "Heart of Wind",
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -402733,9 +403587,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
-                  12699,
+                  13334,
                   12798
                 ]
               },
@@ -404908,7 +405761,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/161/189965473-avatar.jpg",
-          "itemLevelEquipped": 277,
+          "itemLevelEquipped": 279,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -404928,10 +405781,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-07T11:43:03.655Z",
-            "updated_at": "2026-04-07T11:43:03.655Z",
+            "created_at": "2026-04-08T09:13:02.159Z",
+            "updated_at": "2026-04-08T09:13:02.159Z",
             "source": "s3",
-            "item_level_equipped": 277,
+            "item_level_equipped": 279,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -405326,11 +406179,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 249336,
-                "item_level": 266,
+                "item_id": 249919,
+                "item_level": 285,
                 "enchant": 7967,
-                "icon": "inv_12_jewelry_devouringhost_ring_silver2",
-                "name": "Signet of the Starved Beast",
+                "icon": "inv_12_jewelry_silvermoonelf_ring_red1",
+                "name": "Sin'dorei Band of Hope",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -405364,8 +406217,8 @@
                 "bonuses": [
                   6652,
                   13668,
-                  13334,
-                  12795
+                  13335,
+                  12805
                 ]
               },
               "trinket1": {
@@ -415484,7 +416337,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T08:30:43.927Z"
+    "fetchedAt": "2026-04-08T10:27:36.678Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -419115,16 +419968,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -419939,7 +420792,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 159 pls let me out",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 66,
           "started_at": "2026-04-08T07:09:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -424692,7 +425545,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -425824,7 +426677,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 159 pls let me out",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 66,
           "started_at": "2026-04-08T07:09:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -427678,7 +428531,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -430626,7 +431479,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 159 pls let me out",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 66,
           "started_at": "2026-04-08T07:09:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -431467,7 +432320,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 159 pls let me out",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 66,
           "started_at": "2026-04-08T07:09:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -432263,7 +433116,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -441963,7 +442816,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -445775,7 +446628,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 98,
+          "viewer_count": 85,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -446415,7 +447268,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 98,
+          "viewer_count": 85,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -449535,7 +450388,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -450819,7 +451672,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 159 pls let me out",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 66,
           "started_at": "2026-04-08T07:09:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -451449,7 +452302,21 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530486,
+          "id": "315770441941",
+          "name": "zaelia",
+          "user_id": "13101446",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Method Zaelia Lyskanoon saving the world once more",
+          "community_ids": [],
+          "viewer_count": 219,
+          "started_at": "2026-04-08T10:03:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -452113,7 +452980,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -452778,7 +453645,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -454120,7 +454987,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 159 pls let me out",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 66,
           "started_at": "2026-04-08T07:09:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -456709,7 +457576,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2717.1,
+          "allScore": 2717.7,
           "allScoreColor": "#4769e0"
         },
         "rank": 4,
@@ -459877,7 +460744,7 @@
           "progress": {
             "normal": 7,
             "heroic": 7,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -459895,7 +460762,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -460512,7 +461379,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -462488,7 +463355,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -463188,7 +464055,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -463868,7 +464735,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -464555,7 +465422,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -465264,7 +466131,7 @@
           "type": "live",
           "title": "<Method> RWF Mythic Week Day 159 pls let me out",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 66,
           "started_at": "2026-04-08T07:09:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -472798,7 +473665,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -475405,7 +476272,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 98,
+          "viewer_count": 85,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -476068,7 +476935,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 98,
+          "viewer_count": 85,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -476662,7 +477529,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -477411,7 +478278,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -478108,7 +478975,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -478801,7 +479668,7 @@
           "progress": {
             "normal": 7,
             "heroic": 9,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -478819,7 +479686,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -479541,7 +480408,7 @@
           "progress": {
             "normal": 7,
             "heroic": 9,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -479549,7 +480416,21 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530486,
+          "id": "315770441941",
+          "name": "zaelia",
+          "user_id": "13101446",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Method Zaelia Lyskanoon saving the world once more",
+          "community_ids": [],
+          "viewer_count": 219,
+          "started_at": "2026-04-08T10:03:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -480216,7 +481097,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -481437,7 +482318,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530486,
+          "id": "315770441941",
+          "name": "zaelia",
+          "user_id": "13101446",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Method Zaelia Lyskanoon saving the world once more",
+          "community_ids": [],
+          "viewer_count": 219,
+          "started_at": "2026-04-08T10:03:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -482072,7 +482967,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -483433,7 +484328,21 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530486,
+          "id": "315770441941",
+          "name": "zaelia",
+          "user_id": "13101446",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Method Zaelia Lyskanoon saving the world once more",
+          "community_ids": [],
+          "viewer_count": 219,
+          "started_at": "2026-04-08T10:03:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -484020,7 +484929,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -484680,7 +485589,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -485343,7 +486252,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -485977,7 +486886,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -487289,7 +488198,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -489843,7 +490752,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -491866,7 +492775,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -493799,7 +494708,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -495693,7 +496602,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 98,
+          "viewer_count": 85,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -496270,7 +497179,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530486,
+          "id": "315770441941",
+          "name": "zaelia",
+          "user_id": "13101446",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Method Zaelia Lyskanoon saving the world once more",
+          "community_ids": [],
+          "viewer_count": 219,
+          "started_at": "2026-04-08T10:03:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -496942,7 +497865,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 98,
+          "viewer_count": 85,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -498307,7 +499230,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -500778,7 +501701,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -504483,7 +505406,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530486,
+          "id": "315770441941",
+          "name": "zaelia",
+          "user_id": "13101446",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Method Zaelia Lyskanoon saving the world once more",
+          "community_ids": [],
+          "viewer_count": 219,
+          "started_at": "2026-04-08T10:03:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -505865,7 +506802,7 @@
           "type": "live",
           "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-04-08T07:18:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -507154,7 +508091,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -514734,7 +515671,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 98,
+          "viewer_count": 85,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -516660,7 +517597,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -524925,7 +525862,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -526152,7 +527089,7 @@
           "type": "live",
           "title": "<Method> Reset into freedom hopefully",
           "community_ids": [],
-          "viewer_count": 12,
+          "viewer_count": 10,
           "started_at": "2026-04-08T07:08:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -526835,8 +527772,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2690.2,
-          "allScoreColor": "#316cdf"
+          "allScore": 2695,
+          "allScoreColor": "#4769e0"
         },
         "rank": 4,
         "stream": null
@@ -528169,7 +529106,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -529472,7 +530409,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -530108,7 +531045,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -537007,7 +537944,7 @@
           "type": "live",
           "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
           "community_ids": [],
-          "viewer_count": 746,
+          "viewer_count": 956,
           "started_at": "2026-04-08T06:58:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
@@ -554255,7 +555192,7 @@
           "progress": {
             "normal": 7,
             "heroic": 7,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -557381,7 +558318,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -563066,7 +564003,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -566285,16 +567222,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -568242,7 +569179,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -572861,16 +573798,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -573459,7 +574396,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -575898,16 +576835,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -579284,16 +580221,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -581172,7 +582109,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -584502,16 +585439,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -595734,7 +596671,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -607180,7 +608117,7 @@
           "type": "live",
           "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 112,
+          "viewer_count": 170,
           "started_at": "2026-04-08T07:07:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -612910,16 +613847,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -614890,7 +615827,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -615516,16 +616453,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -616787,7 +617724,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -618748,7 +619685,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -620722,16 +621659,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -626351,7 +627288,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -627730,7 +628667,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -636601,16 +637538,16 @@
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
-          "activity_record_id": 530253,
-          "id": "316956828134",
+          "activity_record_id": 530501,
+          "id": "316738262759",
           "name": "prebbytv",
           "user_id": "170379444",
           "game_id": "18122",
           "type": "live",
-          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "title": "<Method> Lura falls or I fall of my chair - Hunter PoV",
           "community_ids": [],
-          "viewer_count": 8,
-          "started_at": "2026-04-08T07:11:26Z",
+          "viewer_count": 1,
+          "started_at": "2026-04-08T10:08:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
         }
@@ -638510,7 +639447,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -641843,7 +642780,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 429,
+          "viewer_count": 443,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -643728,7 +644665,7 @@
           "progress": {
             "normal": 7,
             "heroic": 7,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -644386,8 +645323,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1704.5,
-          "allScoreColor": "#33f82a"
+          "allScore": 2054.6,
+          "allScoreColor": "#5ec481"
         },
         "rank": 4,
         "stream": null
@@ -646399,7 +647336,7 @@
           "progress": {
             "normal": 6,
             "heroic": 7,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -647073,6 +648010,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T08:30:44.047Z"
+    "fetchedAt": "2026-04-08T10:27:42.916Z"
   }
 }
