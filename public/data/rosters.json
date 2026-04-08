@@ -35,7 +35,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/121/140050553-avatar.jpg",
-          "itemLevelEquipped": 270,
+          "itemLevelEquipped": 271,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -55,10 +55,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-06T07:43:05.707Z",
-            "updated_at": "2026-04-06T07:43:05.707Z",
+            "created_at": "2026-04-08T07:28:21.453Z",
+            "updated_at": "2026-04-08T07:28:21.453Z",
             "source": "s3",
-            "item_level_equipped": 270,
+            "item_level_equipped": 271,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -189,7 +189,7 @@
               },
               "chest": {
                 "item_id": 250009,
-                "item_level": 272,
+                "item_level": 276,
                 "enchant": 7987,
                 "icon": "inv_chest_leather_raidroguemidnight_d_01",
                 "name": "Fantastic Finery of the Grim Jest",
@@ -221,7 +221,7 @@
                   13440,
                   13336,
                   13575,
-                  12797
+                  12798
                 ]
               },
               "waist": {
@@ -579,11 +579,11 @@
                 ]
               },
               "offhand": {
-                "item_id": 249662,
-                "item_level": 263,
+                "item_id": 251212,
+                "item_level": 276,
                 "enchant": 8041,
                 "icon": "inv_knife_1h_dungeonharronir_c_01",
-                "name": "Wild Fiberknife",
+                "name": "Radiant Slicer",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -607,8 +607,10 @@
                   }
                 ],
                 "bonuses": [
+                  13440,
                   6652,
-                  12790
+                  12701,
+                  12802
                 ]
               }
             }
@@ -647,8 +649,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2645.5,
-          "allScoreColor": "#1b73d9"
+          "allScore": 2651.3,
+          "allScoreColor": "#0070dd"
         },
         "rank": 7,
         "stream": null
@@ -6181,21 +6183,7 @@
           "allScoreColor": "#1eff00"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -13747,7 +13735,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/27/81283867-avatar.jpg",
-          "itemLevelEquipped": 269,
+          "itemLevelEquipped": 273,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -13767,10 +13755,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-06T09:11:18.568Z",
-            "updated_at": "2026-04-06T09:11:18.568Z",
+            "created_at": "2026-04-08T06:43:08.188Z",
+            "updated_at": "2026-04-08T06:43:08.188Z",
             "source": "s3",
-            "item_level_equipped": 269,
+            "item_level_equipped": 273,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -13820,7 +13808,7 @@
               },
               "neck": {
                 "item_id": 151309,
-                "item_level": 266,
+                "item_level": 272,
                 "icon": "inv_7_0raid_necklace_06d",
                 "name": "Necklace of the Twisting Void",
                 "item_quality": 4,
@@ -13846,11 +13834,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12797
                 ]
               },
               "shoulder": {
@@ -13891,7 +13879,7 @@
               },
               "back": {
                 "item_id": 251161,
-                "item_level": 266,
+                "item_level": 272,
                 "icon": "inv_cape_special_hextroll_d_01",
                 "name": "Soulhunter's Mask",
                 "item_quality": 4,
@@ -13909,11 +13897,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   13577,
-                  12699
+                  12699,
+                  12797
                 ]
               },
               "chest": {
@@ -14002,7 +13990,7 @@
               },
               "waist": {
                 "item_id": 251112,
-                "item_level": 266,
+                "item_level": 272,
                 "icon": "inv_belt_plate_dungeonharronir_c_01",
                 "name": "Shadowsplit Girdle",
                 "item_quality": 4,
@@ -14020,12 +14008,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
                   12667,
                   13577,
-                  12699
+                  12699,
+                  12797
                 ]
               },
               "shirt": {
@@ -14051,7 +14039,7 @@
               },
               "wrist": {
                 "item_id": 249660,
-                "item_level": 266,
+                "item_level": 272,
                 "icon": "inv_bracer_plate_dungeonharronir_c_01",
                 "name": "Rampant Briarcuffs",
                 "item_quality": 4,
@@ -14072,7 +14060,7 @@
                   42,
                   12667,
                   13577,
-                  12795
+                  12797
                 ]
               },
               "hands": {
@@ -14104,7 +14092,7 @@
               },
               "legs": {
                 "item_id": 249951,
-                "item_level": 256,
+                "item_level": 263,
                 "enchant": 8159,
                 "icon": "inv_pant_plate_raidwarriormidnight_d_01",
                 "name": "Night Ender's Chausses",
@@ -14136,12 +14124,13 @@
                   13439,
                   13339,
                   13575,
-                  12788
+                  12790
                 ]
               },
               "feet": {
                 "item_id": 237828,
                 "item_level": 285,
+                "enchant": 7993,
                 "icon": "inv_plate_questbloodelf_b_01_boot",
                 "name": "Spellbreaker's March",
                 "item_quality": 4,
@@ -14156,8 +14145,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12214,
                   12497,
@@ -14170,11 +14167,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 251217,
-                "item_level": 263,
-                "enchant": 8021,
-                "icon": "inv_12_trinket_devouring_host_currency1_bronze",
-                "name": "Occlusion of Void",
+                "item_id": 193708,
+                "item_level": 282,
+                "enchant": 8025,
+                "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
+                "name": "Platinum Star Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -14186,31 +14183,31 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240857
+                  240890
                 ],
                 "gems_detail": [
                   {
-                    "id": 240857,
-                    "name": "11 Haste & 4 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_uncommon_gem_cut_fire_green"
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
                   }
                 ],
                 "enchants": [
-                  8021
+                  8025
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244011,
-                    "name": "Enchant Ring - Thalassian Haste",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  13439,
+                  13440,
                   6652,
                   13668,
                   12699,
-                  12790
+                  12804
                 ]
               },
               "finger2": {
@@ -14230,13 +14227,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240890
+                  240983
                 ],
                 "gems_detail": [
                   {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
                   }
                 ],
                 "enchants": [
@@ -14570,7 +14567,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2791.2,
+          "allScore": 2791.3,
           "allScoreColor": "#715be5"
         },
         "rank": 7,
@@ -17954,21 +17951,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -32329,21 +32312,7 @@
           "allScoreColor": "#38ff1f"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -40724,21 +40693,7 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -43222,21 +43177,7 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -47078,21 +47019,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -67574,21 +67501,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -143417,21 +143330,7 @@
           "allScoreColor": "#5faf9a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -144036,21 +143935,7 @@
           "allScoreColor": "#ffffff"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 529947,
-          "id": "318113088734",
-          "name": "trilltko",
-          "user_id": "110027977",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Trill <Liquid> | BACK HOME! WE WON RWF! 3v3 TIME",
-          "community_ids": [],
-          "viewer_count": 224,
-          "started_at": "2026-04-08T03:25:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -170811,7 +170696,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/213/234826965-avatar.jpg",
-          "itemLevelEquipped": 280,
+          "itemLevelEquipped": 281,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -170831,10 +170716,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-06T23:29:56.681Z",
-            "updated_at": "2026-04-06T23:29:56.681Z",
+            "created_at": "2026-04-08T07:19:12.050Z",
+            "updated_at": "2026-04-08T07:19:12.050Z",
             "source": "s3",
-            "item_level_equipped": 280,
+            "item_level_equipped": 281,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -170909,13 +170794,13 @@
                 "domination_shards": [],
                 "tier": "35",
                 "gems": [
-                  240906
+                  240983
                 ],
                 "gems_detail": [
                   {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
                   }
                 ],
                 "enchants": [
@@ -170938,10 +170823,10 @@
                 ]
               },
               "neck": {
-                "item_id": 249368,
+                "item_id": 250247,
                 "item_level": 276,
-                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
-                "name": "Eternal Voidsong Chain",
+                "icon": "inv_12_jewelry_devouringhost_necklace_bronze2",
+                "name": "Amulet of the Abyssal Hymn",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -170953,13 +170838,19 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240983
+                  240908,
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  },
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [],
@@ -171114,13 +171005,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240906
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [],
@@ -171255,13 +171146,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240906
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [
@@ -171286,11 +171177,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 193708,
-                "item_level": 276,
+                "item_id": 249920,
+                "item_level": 289,
                 "enchant": 7997,
-                "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
-                "name": "Platinum Star Band",
+                "icon": "inv_12_jewelry_devouringhost_ring_bronze",
+                "name": "Eye of Midnight",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -171302,13 +171193,19 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240906
+                  240908,
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  },
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [
@@ -171322,11 +171219,10 @@
                   }
                 ],
                 "bonuses": [
-                  13440,
                   6652,
                   13668,
-                  12699,
-                  12798
+                  13335,
+                  12806
                 ]
               },
               "trinket1": {
@@ -186658,7 +186554,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T06:38:37.522Z"
+    "fetchedAt": "2026-04-08T08:30:43.833Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -296232,8 +296128,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2648,
-          "allScoreColor": "#1b73d9"
+          "allScore": 2729.7,
+          "allScoreColor": "#5764e2"
         },
         "rank": 7,
         "stream": null
@@ -300634,7 +300530,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/190/183931582-avatar.jpg",
-          "itemLevelEquipped": 279,
+          "itemLevelEquipped": 281,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -300654,10 +300550,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-05T07:17:44.534Z",
-            "updated_at": "2026-04-05T07:17:44.534Z",
+            "created_at": "2026-04-08T07:43:01.545Z",
+            "updated_at": "2026-04-08T07:43:01.545Z",
             "source": "s3",
-            "item_level_equipped": 279,
+            "item_level_equipped": 281,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -301022,50 +300918,6 @@
                 ]
               },
               "finger1": {
-                "item_id": 49812,
-                "item_level": 276,
-                "enchant": 7997,
-                "icon": "inv_jewelry_ring_42",
-                "name": "Purloined Wedding Ring",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240906
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
-                  }
-                ],
-                "enchants": [
-                  7997
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243987,
-                    "name": "Enchant Ring - Nature's Fury",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  13440,
-                  6652,
-                  13668,
-                  12699,
-                  12798
-                ]
-              },
-              "finger2": {
                 "item_id": 251217,
                 "item_level": 276,
                 "enchant": 7997,
@@ -301109,6 +300961,55 @@
                   12798
                 ]
               },
+              "finger2": {
+                "item_id": 249920,
+                "item_level": 289,
+                "enchant": 7997,
+                "icon": "inv_12_jewelry_devouringhost_ring_bronze",
+                "name": "Eye of Midnight",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240906,
+                  240906
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                  },
+                  {
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                  }
+                ],
+                "enchants": [
+                  7997
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  40,
+                  13668,
+                  13335,
+                  12806
+                ]
+              },
               "trinket1": {
                 "item_id": 249343,
                 "item_level": 289,
@@ -301135,10 +301036,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 249809,
-                "item_level": 276,
-                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
-                "name": "Locus-Walker's Ribbon",
+                "item_id": 249810,
+                "item_level": 289,
+                "icon": "inv_12_trinket_raid_darkwell_intdps2",
+                "name": "Shadow of the Empyrean Requiem",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -301154,9 +301055,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13334,
-                  12798
+                  41,
+                  13335,
+                  12806
                 ]
               },
               "mainhand": {
@@ -301191,7 +301092,7 @@
                   12214,
                   12497,
                   12066,
-                  12685,
+                  12693,
                   8960,
                   8790,
                   13622,
@@ -301223,7 +301124,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2395.5,
+          "allScore": 2395.6,
           "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
@@ -415583,7 +415484,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T06:38:40.785Z"
+    "fetchedAt": "2026-04-08T08:30:43.927Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -419212,7 +419113,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -420014,7 +419929,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530248,
+          "id": "315828890580",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Mythic Week Day 159 pls let me out",
+          "community_ids": [],
+          "viewer_count": 71,
+          "started_at": "2026-04-08T07:09:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -424763,7 +424692,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -425885,7 +425814,21 @@
           "allScoreColor": "#4f8fbc"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530248,
+          "id": "315828890580",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Mythic Week Day 159 pls let me out",
+          "community_ids": [],
+          "viewer_count": 71,
+          "started_at": "2026-04-08T07:09:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -427735,7 +427678,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -430673,7 +430616,21 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530248,
+          "id": "315828890580",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Mythic Week Day 159 pls let me out",
+          "community_ids": [],
+          "viewer_count": 71,
+          "started_at": "2026-04-08T07:09:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -431500,7 +431457,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530248,
+          "id": "315828890580",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Mythic Week Day 159 pls let me out",
+          "community_ids": [],
+          "viewer_count": 71,
+          "started_at": "2026-04-08T07:09:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -432292,7 +432263,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -441982,7 +441953,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -445790,7 +445775,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 98,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -446430,7 +446415,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 98,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -449540,7 +449525,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -450810,7 +450809,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530248,
+          "id": "315828890580",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Mythic Week Day 159 pls let me out",
+          "community_ids": [],
+          "viewer_count": 71,
+          "started_at": "2026-04-08T07:09:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -452100,7 +452113,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -452755,7 +452768,21 @@
           "allScoreColor": "#f1ffea"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530265,
+          "id": "315797427798",
+          "name": "byfaithy",
+          "user_id": "70296113",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
+          "community_ids": [],
+          "viewer_count": 6,
+          "started_at": "2026-04-08T07:18:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -454083,7 +454110,21 @@
           "allScoreColor": "#d2ffc1"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530248,
+          "id": "315828890580",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Mythic Week Day 159 pls let me out",
+          "community_ids": [],
+          "viewer_count": 71,
+          "started_at": "2026-04-08T07:09:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -459844,7 +459885,21 @@
           "allScoreColor": "#5ec481"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -460447,7 +460502,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -462409,7 +462478,21 @@
           "allScoreColor": "#d0ffbe"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -463095,7 +463178,21 @@
           "allScoreColor": "#75ff59"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -463761,7 +463858,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530265,
+          "id": "315797427798",
+          "name": "byfaithy",
+          "user_id": "70296113",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
+          "community_ids": [],
+          "viewer_count": 6,
+          "started_at": "2026-04-08T07:18:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -464434,7 +464545,21 @@
           "allScoreColor": "#5ec481"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530265,
+          "id": "315797427798",
+          "name": "byfaithy",
+          "user_id": "70296113",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
+          "community_ids": [],
+          "viewer_count": 6,
+          "started_at": "2026-04-08T07:18:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -465129,7 +465254,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530248,
+          "id": "315828890580",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> RWF Mythic Week Day 159 pls let me out",
+          "community_ids": [],
+          "viewer_count": 71,
+          "started_at": "2026-04-08T07:09:04Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -472649,7 +472788,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -475252,7 +475405,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 98,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -475915,7 +476068,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 98,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -476499,7 +476652,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530265,
+          "id": "315797427798",
+          "name": "byfaithy",
+          "user_id": "70296113",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
+          "community_ids": [],
+          "viewer_count": 6,
+          "started_at": "2026-04-08T07:18:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -477234,7 +477401,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530265,
+          "id": "315797427798",
+          "name": "byfaithy",
+          "user_id": "70296113",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
+          "community_ids": [],
+          "viewer_count": 6,
+          "started_at": "2026-04-08T07:18:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -477917,7 +478098,21 @@
           "allScoreColor": "#5ec481"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530265,
+          "id": "315797427798",
+          "name": "byfaithy",
+          "user_id": "70296113",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
+          "community_ids": [],
+          "viewer_count": 6,
+          "started_at": "2026-04-08T07:18:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -478614,7 +478809,21 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -479332,7 +479541,7 @@
           "progress": {
             "normal": 7,
             "heroic": 9,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -480007,7 +480216,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -481853,7 +482062,21 @@
           "allScoreColor": "#33f82a"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -483787,7 +484010,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -484433,7 +484670,21 @@
           "allScoreColor": "#4888c4"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -485082,7 +485333,21 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -485702,7 +485967,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -487000,7 +487279,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -489540,7 +489833,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -491549,7 +491856,21 @@
           "allScoreColor": "#5764e2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -493468,7 +493789,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -495358,7 +495693,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 98,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -496607,7 +496942,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 98,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -497962,7 +498297,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -500419,7 +500768,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -505492,7 +505855,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530265,
+          "id": "315797427798",
+          "name": "byfaithy",
+          "user_id": "70296113",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Method> Faithy | RWF day (REDACTED) Killing angry purple crystal  (: !vpn  !holy",
+          "community_ids": [],
+          "viewer_count": 6,
+          "started_at": "2026-04-08T07:18:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -506777,7 +507154,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -514357,7 +514734,7 @@
           "type": "live",
           "title": "Thaner <Method> - Finishing the job !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 98,
           "started_at": "2026-04-08T06:02:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -516273,7 +516650,21 @@
           "allScoreColor": "#d2ffc1"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -524524,7 +524915,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -525737,7 +526142,21 @@
           "allScoreColor": "#2afb1c"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530244,
+          "id": "315402945617",
+          "name": "uggzz",
+          "user_id": "30905095",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Reset into freedom hopefully",
+          "community_ids": [],
+          "viewer_count": 12,
+          "started_at": "2026-04-08T07:08:54Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -527740,7 +528159,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -528375,8 +528808,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2037.2,
-          "allScoreColor": "#5ec481"
+          "allScore": 2367.7,
+          "allScoreColor": "#5496b5"
         },
         "rank": 4,
         "stream": null
@@ -529029,7 +529462,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -529651,7 +530098,21 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -536536,7 +536997,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530228,
+          "id": "315828852948",
+          "name": "naowh",
+          "user_id": "53649632",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Race to World Third <Method> | NaowhUI updated in !Discord !SPLITS !VPN !QUNA !HOLY",
+          "community_ids": [],
+          "viewer_count": 746,
+          "started_at": "2026-04-08T06:58:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naowh-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -556896,7 +557371,21 @@
           "allScoreColor": "#2afb1c"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -562567,7 +563056,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -565780,7 +566283,21 @@
           "allScoreColor": "#2afb1c"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -567715,7 +568232,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -572328,7 +572859,21 @@
           "allScoreColor": "#4769e0"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -572904,7 +573449,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -575337,7 +575896,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -578709,7 +579282,21 @@
           "allScoreColor": "#5ec87d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -580575,7 +581162,21 @@
           "allScoreColor": "#5496b5"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -583899,7 +584500,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -595109,7 +595724,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -606541,7 +607170,21 @@
           "allScoreColor": "#0070dd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530246,
+          "id": "316892605541",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥<Method> RWF MIDNIGHT FALLS TODAY💥!ui !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 112,
+          "started_at": "2026-04-08T07:07:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -612265,7 +612908,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -614233,7 +614890,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -614857,7 +615514,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -616116,7 +616787,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -618077,7 +618748,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -620049,7 +620720,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -625666,7 +626351,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -627045,7 +627730,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -635914,7 +636599,21 @@
           "allScoreColor": "#f3ffee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 530253,
+          "id": "316956828134",
+          "name": "prebbytv",
+          "user_id": "170379444",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Mythic Lura boss pls - Hunter PoV",
+          "community_ids": [],
+          "viewer_count": 8,
+          "started_at": "2026-04-08T07:11:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -637811,7 +638510,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -638511,7 +639210,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2650.1,
+          "allScore": 2653.1,
           "allScoreColor": "#0070dd"
         },
         "rank": 2,
@@ -639797,7 +640496,7 @@
           "progress": {
             "normal": 7,
             "heroic": 7,
-            "mythic": 6
+            "mythic": 7
           }
         },
         "keystoneScores": {
@@ -641144,7 +641843,7 @@
           "type": "live",
           "title": "Mythic LURA - midnight falls or i fall <Method> !ui Updated for all Specs! !vpn",
           "community_ids": [],
-          "viewer_count": 75,
+          "viewer_count": 429,
           "started_at": "2026-04-08T06:30:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -643029,7 +643728,7 @@
           "progress": {
             "normal": 7,
             "heroic": 7,
-            "mythic": 5
+            "mythic": 6
           }
         },
         "keystoneScores": {
@@ -646374,6 +647073,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-08T06:38:47.008Z"
+    "fetchedAt": "2026-04-08T08:30:44.047Z"
   }
 }
