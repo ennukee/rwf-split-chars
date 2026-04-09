@@ -6021,8 +6021,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3249.4,
-          "allScoreColor": "#d74fa4"
+          "allScore": 3289.1,
+          "allScoreColor": "#dd5399"
         },
         "rank": 7,
         "stream": null
@@ -6920,8 +6920,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 822.4,
-          "allScoreColor": "#c3ffae"
+          "allScore": 1097.9,
+          "allScoreColor": "#a2ff87"
         },
         "rank": 7,
         "stream": null
@@ -16325,7 +16325,7 @@
           "type": "live",
           "title": "(liquid in-house crafter) shorter post-workout stream, legs are dedge",
           "community_ids": [],
-          "viewer_count": 85,
+          "viewer_count": 107,
           "started_at": "2026-04-09T03:56:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -54427,8 +54427,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 631.7,
-          "allScoreColor": "#d6ffc6"
+          "allScore": 971,
+          "allScoreColor": "#b1ff99"
         },
         "rank": 4,
         "stream": null
@@ -107702,7 +107702,7 @@
           "type": "live",
           "title": "(liquid in-house crafter) shorter post-workout stream, legs are dedge",
           "community_ids": [],
-          "viewer_count": 85,
+          "viewer_count": 107,
           "started_at": "2026-04-09T03:56:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -188516,7 +188516,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T04:51:50.451Z"
+    "fetchedAt": "2026-04-09T06:38:34.037Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -419583,7 +419583,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T04:51:55.688Z"
+    "fetchedAt": "2026-04-09T06:38:38.674Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -449869,7 +449869,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/179/179147187-avatar.jpg",
-          "itemLevelEquipped": 265,
+          "itemLevelEquipped": 274,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -449889,10 +449889,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-31T07:41:13.523Z",
-            "updated_at": "2026-03-31T07:41:13.523Z",
+            "created_at": "2026-04-09T05:44:33.211Z",
+            "updated_at": "2026-04-09T05:44:33.211Z",
             "source": "s3",
-            "item_level_equipped": 265,
+            "item_level_equipped": 274,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -449941,7 +449941,7 @@
               },
               "neck": {
                 "item_id": 265739,
-                "item_level": 246,
+                "item_level": 256,
                 "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
                 "name": "Amani Heartstring Pendant",
                 "item_quality": 4,
@@ -449967,83 +449967,46 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12785,
                   6652,
-                  13668
+                  13668,
+                  12788
                 ]
               },
               "shoulder": {
-                "item_id": 237924,
-                "item_level": 246,
-                "enchant": 8029,
-                "icon": "inv_plate_questbloodelf_b_01_shoulder",
-                "name": "Blood-Tempered Pauldrons",
+                "item_id": 249959,
+                "item_level": 289,
+                "enchant": 8031,
+                "icon": "inv_shoulder_plate_raidpaladinmidnight_d_01",
+                "name": "Luminant Verdict's Providence Watch",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  null,
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8029
+                  8031
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244019,
-                    "name": "Enchant Shoulders - Thalassian Recovery",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 244021,
+                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  12247,
-                  12246,
-                  12497,
-                  8960,
-                  12384,
-                  8793,
-                  13620
+                  6652,
+                  13335,
+                  13340,
+                  13574,
+                  12806
                 ]
               },
               "back": {
@@ -450110,7 +450073,7 @@
               },
               "waist": {
                 "item_id": 249331,
-                "item_level": 269,
+                "item_level": 276,
                 "icon": "inv_belt_plate_raidwarriormidnight_d_01",
                 "name": "Ezzorak's Gloombind",
                 "item_quality": 4,
@@ -450132,12 +450095,12 @@
                   12667,
                   13577,
                   13334,
-                  12796
+                  12798
                 ]
               },
               "wrist": {
                 "item_id": 249326,
-                "item_level": 269,
+                "item_level": 276,
                 "icon": "inv_bracer_plate_raidwarriormidnight_d_01",
                 "name": "Light's March Bracers",
                 "item_quality": 4,
@@ -450159,7 +450122,7 @@
                   12667,
                   13577,
                   13334,
-                  12796
+                  12798
                 ]
               },
               "hands": {
@@ -450191,11 +450154,11 @@
                 ]
               },
               "legs": {
-                "item_id": 249960,
-                "item_level": 263,
+                "item_id": 249311,
+                "item_level": 276,
                 "enchant": 7937,
                 "icon": "inv_pant_plate_raidpaladinmidnight_d_01",
-                "name": "Luminant Verdict's Greaves",
+                "name": "Lightblood Greaves",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -450206,7 +450169,6 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -450220,16 +450182,15 @@
                   }
                 ],
                 "bonuses": [
-                  13333,
-                  13339,
                   6652,
-                  13575,
-                  12790
+                  13577,
+                  13334,
+                  12798
                 ]
               },
               "feet": {
                 "item_id": 249963,
-                "item_level": 266,
+                "item_level": 276,
                 "enchant": 7993,
                 "icon": "inv_boot_plate_raidpaladinmidnight_d_01",
                 "name": "Luminant Verdict's Sabatons",
@@ -450258,8 +450219,7 @@
                 "bonuses": [
                   13334,
                   41,
-                  12795,
-                  3151
+                  12798
                 ]
               },
               "finger1": {
@@ -450305,11 +450265,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 249621,
-                "item_level": 250,
-                "enchant": 7965,
-                "icon": "inv12_jewelrytrinkets_zulaman_troll_ring_purple",
-                "name": "Voodoo Band",
+                "item_id": 193708,
+                "item_level": 289,
+                "enchant": 7969,
+                "icon": "inv_10_dungeonjewelry_explorer_ring_1_color1",
+                "name": "Platinum Star Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -450321,29 +450281,31 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240892
+                  240898
                 ],
                 "gems_detail": [
                   {
-                    "id": 240892,
-                    "name": "16 Haste & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
                   }
                 ],
                 "enchants": [
-                  7965
+                  7969
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243955,
-                    "name": "Enchant Ring - Amani Mast",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                    "id": 243959,
+                    "name": "Enchant Ring - Zul'jin's Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  12786,
+                  13440,
                   6652,
-                  13668
+                  13668,
+                  12699,
+                  12806
                 ]
               },
               "trinket1": {
@@ -450372,10 +450334,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 249346,
-                "item_level": 263,
-                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
-                "name": "Vaelgor's Final Stare",
+                "item_id": 249809,
+                "item_level": 276,
+                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
+                "name": "Locus-Walker's Ribbon",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -450392,8 +450354,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13333,
-                  12790
+                  13334,
+                  12798
                 ]
               },
               "mainhand": {
@@ -451060,6 +451022,640 @@
                   6652,
                   13333,
                   12790
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 7,
+            "heroic": 7,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 4,
+        "stream": null
+      },
+      {
+        "character": {
+          "name": "Thanerbully",
+          "level": 90,
+          "race": {
+            "id": 3,
+            "name": "Dwarf",
+            "slug": "dwarf",
+            "faction": "alliance"
+          },
+          "class": {
+            "id": 2,
+            "name": "Paladin",
+            "slug": "paladin"
+          },
+          "spec": {
+            "id": 65,
+            "name": "Holy",
+            "slug": "holy",
+            "class_id": 2,
+            "role": "healer",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "male",
+          "thumbnail": "tarren-mill/15/179143183-avatar.jpg",
+          "itemLevelEquipped": 255,
+          "realm": {
+            "id": 719,
+            "connectedRealmId": 300,
+            "wowRealmId": 1306,
+            "wowConnectedRealmId": 1084,
+            "name": "Tarren Mill",
+            "altName": null,
+            "slug": "tarren-mill",
+            "altSlug": "tarren-mill",
+            "locale": "en_GB",
+            "isConnected": true,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+          },
+          "items": {
+            "created_at": "2026-04-09T05:44:35.497Z",
+            "updated_at": "2026-04-09T05:44:35.497Z",
+            "source": "s3",
+            "item_level_equipped": 255,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 249961,
+                "item_level": 263,
+                "enchant": 7959,
+                "icon": "inv_helm_plate_raidpaladinmidnight_d_01",
+                "name": "Luminant Verdict's Unwavering Gaze",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7959
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243949,
+                    "name": "Enchant Helm - Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12790,
+                  13338,
+                  13575,
+                  3148
+                ]
+              },
+              "neck": {
+                "item_id": 249368,
+                "item_level": 276,
+                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
+                "name": "Eternal Voidsong Chain",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  12798
+                ]
+              },
+              "shoulder": {
+                "item_id": 251138,
+                "item_level": 240,
+                "enchant": 8029,
+                "icon": "inv_shoulder_plate_dungeonharronir_c_01",
+                "name": "Cinderfury Shoulderguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8029
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244019,
+                    "name": "Enchant Shoulders - Thalassian Recovery",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12779,
+                  13439,
+                  6652,
+                  12699,
+                  13577
+                ]
+              },
+              "back": {
+                "item_id": 257175,
+                "item_level": 246,
+                "icon": "inv_cape_plate_outdoorvoidelf_c_01",
+                "name": "Voidbreaker's Wrap",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12785,
+                  6652,
+                  13577
+                ]
+              },
+              "chest": {
+                "item_id": 237918,
+                "item_level": 246,
+                "enchant": 7987,
+                "icon": "inv_plate_questbloodelf_b_01_chest",
+                "name": "Blood-Tempered Chestplate",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12249,
+                  12248,
+                  4785,
+                  12497,
+                  8960,
+                  12384,
+                  8793,
+                  13620
+                ]
+              },
+              "waist": {
+                "item_id": 263269,
+                "item_level": 250,
+                "icon": "inv_belt_plate_dungeonharronir_c_01",
+                "name": "Hara'ti Defender's Greatbelt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13577,
+                  12786
+                ]
+              },
+              "wrist": {
+                "item_id": 249326,
+                "item_level": 259,
+                "icon": "inv_bracer_plate_raidwarriormidnight_d_01",
+                "name": "Light's March Bracers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13577,
+                  13334,
+                  12793
+                ]
+              },
+              "hands": {
+                "item_id": 237925,
+                "item_level": 246,
+                "icon": "inv_plate_questbloodelf_b_01_glove",
+                "name": "Blood-Tempered Gauntlets",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12247,
+                  12246,
+                  12497,
+                  12715,
+                  8793,
+                  13620
+                ]
+              },
+              "legs": {
+                "item_id": 249960,
+                "item_level": 253,
+                "enchant": 7937,
+                "icon": "inv_pant_plate_raidpaladinmidnight_d_01",
+                "name": "Luminant Verdict's Greaves",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7937
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240155,
+                    "name": "41 Int & +% Mana",
+                    "icon": "inv_12_tailoring_spellthread_violet_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  12787,
+                  13333,
+                  13339,
+                  6652,
+                  13575
+                ]
+              },
+              "feet": {
+                "item_id": 251091,
+                "item_level": 240,
+                "icon": "inv_boot_plate_dungeonharronir_c_01",
+                "name": "Sabatons of Furious Revenge",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12779,
+                  13439,
+                  6652,
+                  12699,
+                  13577
+                ]
+              },
+              "finger1": {
+                "item_id": 249369,
+                "item_level": 269,
+                "enchant": 7965,
+                "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
+                "name": "Bond of Light",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7965
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243955,
+                    "name": "Enchant Ring - Amani Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  12796
+                ]
+              },
+              "finger2": {
+                "item_id": 251194,
+                "item_level": 240,
+                "enchant": 8021,
+                "icon": "inv12_jewelrytrinkets_rutaani_ring_yellow",
+                "name": "Lightwarden's Bind",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12779,
+                  13439,
+                  6652,
+                  13668,
+                  12699
+                ]
+              },
+              "trinket1": {
+                "item_id": 249808,
+                "item_level": 266,
+                "icon": "inv_12_trinket_raid_voidspire_healer2_litanyoflightblindwrath",
+                "name": "Litany of Lightblind Wrath",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  41,
+                  13334,
+                  12795
+                ]
+              },
+              "trinket2": {
+                "item_id": 249341,
+                "item_level": 263,
+                "icon": "inv_12_trinket_raid_voidspire_healer1_volatilevoidsuffuser",
+                "name": "Volatile Void Suffuser",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12794
+                ]
+              },
+              "mainhand": {
+                "item_id": 237843,
+                "item_level": 272,
+                "enchant": 8038,
+                "icon": "inv_sword_1h_questbloodelf_b_01",
+                "name": "Magister's Mana Sword",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8038
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244028,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8793,
+                  13621,
+                  13667
+                ]
+              },
+              "offhand": {
+                "item_id": 249275,
+                "item_level": 259,
+                "icon": "inv_shield_1h_raidmidnight_d_01",
+                "name": "Bulwark of Noble Resolve",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12793
                 ]
               }
             }
@@ -478685,7 +479281,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/59/183701563-avatar.jpg",
-          "itemLevelEquipped": 262,
+          "itemLevelEquipped": 263,
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -478705,10 +479301,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-27T04:24:14.156Z",
-            "updated_at": "2026-03-27T04:24:14.156Z",
+            "created_at": "2026-04-09T05:44:34.836Z",
+            "updated_at": "2026-04-09T05:44:34.836Z",
             "source": "s3",
-            "item_level_equipped": 262,
+            "item_level_equipped": 263,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -478804,10 +479400,10 @@
                 ]
               },
               "neck": {
-                "item_id": 265739,
-                "item_level": 250,
-                "icon": "inv_12_jewelry_zulaman_troll_necklace_purple2",
-                "name": "Amani Heartstring Pendant",
+                "item_id": 249368,
+                "item_level": 276,
+                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
+                "name": "Eternal Voidsong Chain",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -478833,7 +479429,8 @@
                 "bonuses": [
                   6652,
                   13668,
-                  12786
+                  13334,
+                  12798
                 ]
               },
               "shoulder": {
@@ -479055,11 +479652,11 @@
                 ]
               },
               "feet": {
-                "item_id": 249332,
+                "item_id": 249381,
                 "item_level": 263,
                 "enchant": 7993,
-                "icon": "inv_boot_plate_raidpaladinmidnight_d_01",
-                "name": "Parasite Stompers",
+                "icon": "inv_boot_plate_raidwarriormidnight_d_01",
+                "name": "Greaves of the Unformed",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -479085,8 +479682,8 @@
                 "bonuses": [
                   6652,
                   13577,
-                  13333,
-                  12790
+                  13334,
+                  12794
                 ]
               },
               "finger1": {
@@ -498754,7 +499351,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/198/192525510-avatar.jpg",
-          "itemLevelEquipped": 273,
+          "itemLevelEquipped": 275,
           "realm": {
             "id": 739,
             "connectedRealmId": 362,
@@ -498774,10 +499371,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-06T17:36:05.491Z",
-            "updated_at": "2026-04-06T17:36:05.491Z",
+            "created_at": "2026-04-09T05:44:37.175Z",
+            "updated_at": "2026-04-09T05:44:37.175Z",
             "source": "s3",
-            "item_level_equipped": 273,
+            "item_level_equipped": 275,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -498943,10 +499540,10 @@
                 ]
               },
               "back": {
-                "item_id": 257175,
-                "item_level": 263,
-                "icon": "inv_cape_plate_outdoorvoidelf_c_01",
-                "name": "Voidbreaker's Wrap",
+                "item_id": 239656,
+                "item_level": 285,
+                "icon": "inv_cape_cloth_questbloodelf_b_01",
+                "name": "Adherent's Silken Shroud",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -498962,9 +499559,14 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13577,
-                  12790
+                  12214,
+                  12497,
+                  12066,
+                  8960,
+                  12384,
+                  8793,
+                  13622,
+                  13667
                 ]
               },
               "chest": {
@@ -499059,7 +499661,7 @@
               },
               "hands": {
                 "item_id": 250025,
-                "item_level": 276,
+                "item_level": 289,
                 "icon": "inv_glove_leather_raiddruidmidnight_d_01",
                 "name": "Arbortenders of the Luminous Bloom",
                 "item_quality": 4,
@@ -499078,11 +499680,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13334,
+                  13335,
                   13337,
                   6652,
                   13574,
-                  12798
+                  12806
                 ]
               },
               "legs": {
@@ -499964,7 +500566,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/33/192524321-avatar.jpg",
-          "itemLevelEquipped": 258,
+          "itemLevelEquipped": 259,
           "realm": {
             "id": 739,
             "connectedRealmId": 362,
@@ -499984,10 +500586,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-03-22T19:39:32.798Z",
-            "updated_at": "2026-03-22T19:39:32.798Z",
+            "created_at": "2026-04-09T05:44:33.760Z",
+            "updated_at": "2026-04-09T05:44:33.760Z",
             "source": "s3",
-            "item_level_equipped": 258,
+            "item_level_equipped": 259,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -500383,6 +500985,7 @@
               "feet": {
                 "item_id": 244585,
                 "item_level": 246,
+                "enchant": 7993,
                 "icon": "inv_boot_leather_questbloodelf_b_01",
                 "name": "Smuggler's Leather Footpads",
                 "item_quality": 4,
@@ -500397,8 +501000,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12249,
                   12248,
@@ -500413,6 +501024,7 @@
               "finger1": {
                 "item_id": 249621,
                 "item_level": 259,
+                "enchant": 8025,
                 "icon": "inv12_jewelrytrinkets_zulaman_troll_ring_purple",
                 "name": "Voodoo Band",
                 "item_quality": 4,
@@ -500425,10 +501037,26 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "gems": [
+                  240892
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  }
+                ],
+                "enchants": [
+                  8025
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12793,
                   40,
@@ -500479,10 +501107,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 250248,
-                "item_level": 250,
-                "icon": "inv_misc_starspecklemushroom",
-                "name": "Mycolic Medicine",
+                "item_id": 249346,
+                "item_level": 269,
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -500498,10 +501126,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
                   6652,
-                  12699,
-                  12782
+                  13334,
+                  12796
                 ]
               },
               "trinket2": {
@@ -650197,6 +650824,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T04:51:55.929Z"
+    "fetchedAt": "2026-04-09T06:38:43.795Z"
   }
 }
