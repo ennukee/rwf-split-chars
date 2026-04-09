@@ -5265,7 +5265,7 @@
           "totalBosses": 9,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -11520,6 +11520,1087 @@
       },
       {
         "character": {
+          "name": "Monkcane",
+          "level": 90,
+          "race": {
+            "id": 2,
+            "name": "Orc",
+            "slug": "orc",
+            "faction": "horde"
+          },
+          "class": {
+            "id": 10,
+            "name": "Monk",
+            "slug": "monk"
+          },
+          "spec": {
+            "id": 268,
+            "name": "Brewmaster",
+            "slug": "brewmaster",
+            "class_id": 10,
+            "role": "tank",
+            "is_melee": true,
+            "patch": "5.0.0",
+            "ordinal": 0
+          },
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/48/220561200-avatar.jpg",
+          "itemLevelEquipped": 274,
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "items": {
+            "created_at": "2026-04-09T08:00:26.311Z",
+            "updated_at": "2026-04-09T08:00:26.311Z",
+            "source": "s3",
+            "item_level_equipped": 274,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 250015,
+                "item_level": 289,
+                "enchant": 7959,
+                "icon": "inv_helm_leather_raidmonkmidnight_d_01",
+                "name": "Fearsome Visage of Ra-den's Chosen",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7959
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243949,
+                    "name": "Enchant Helm - Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12667,
+                  13440,
+                  13338,
+                  13575,
+                  12806
+                ]
+              },
+              "neck": {
+                "item_id": 266314,
+                "item_level": 266,
+                "icon": "inv_112_raidtrinkets_necklace01_etherealnontechnologicalstyle_terra",
+                "name": "Novice Combatant's Necklace",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13447,
+                  12795
+                ]
+              },
+              "shoulder": {
+                "item_id": 250013,
+                "item_level": 276,
+                "enchant": 8031,
+                "icon": "inv_shoulder_leather_raidmonkmidnight_d_01",
+                "name": "Aurastones of Ra-den's Chosen",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8031
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244021,
+                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13340,
+                  13574,
+                  12798
+                ]
+              },
+              "back": {
+                "item_id": 193712,
+                "item_level": 266,
+                "icon": "inv_leather_dragondungeon_c_01_cape",
+                "name": "Potion-Stained Cloak",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  13577,
+                  12699
+                ]
+              },
+              "chest": {
+                "item_id": 250018,
+                "item_level": 276,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raidmonkmidnight_d_01",
+                "name": "Battle Garb of Ra-den's Chosen",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13440,
+                  13336,
+                  13575,
+                  12798
+                ]
+              },
+              "waist": {
+                "item_id": 49806,
+                "item_level": 266,
+                "icon": "inv_belt_65",
+                "name": "Flayer's Black Belt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  12667,
+                  13577,
+                  12699
+                ]
+              },
+              "shirt": {
+                "item_id": 18231,
+                "item_level": 1,
+                "icon": "inv_shirt_12",
+                "name": "Sleeveless T-Shirt",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": []
+              },
+              "wrist": {
+                "item_id": 251103,
+                "item_level": 266,
+                "icon": "inv_bracer_leather_dungeonharronir_c_01",
+                "name": "Custodial Cuffs",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12795,
+                  13440,
+                  6652,
+                  13534,
+                  13577,
+                  12699
+                ]
+              },
+              "hands": {
+                "item_id": 250016,
+                "item_level": 266,
+                "icon": "inv_glove_leather_raidmonkmidnight_d_01",
+                "name": "Thunderfists of Ra-den's Chosen",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13337,
+                  6652,
+                  13574,
+                  12795
+                ]
+              },
+              "legs": {
+                "item_id": 250014,
+                "item_level": 276,
+                "enchant": 8159,
+                "icon": "inv_pant_leather_raidmonkmidnight_d_01",
+                "name": "Swiftsweepers of Ra-den's Chosen",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13440,
+                  13339,
+                  13575,
+                  12798
+                ]
+              },
+              "feet": {
+                "item_id": 258577,
+                "item_level": 266,
+                "enchant": 7993,
+                "icon": "inv_leather_draenordungeon_c_01boot",
+                "name": "Boots of Burning Focus",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13577,
+                  12699,
+                  12795
+                ]
+              },
+              "finger1": {
+                "item_id": 251093,
+                "item_level": 272,
+                "enchant": 8025,
+                "icon": "inv_12_trinket_devouring_host_currency1_silver",
+                "name": "Omission of Light",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8025
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  42,
+                  13668,
+                  12699,
+                  12797
+                ]
+              },
+              "finger2": {
+                "item_id": 251513,
+                "item_level": 285,
+                "enchant": 8025,
+                "icon": "inv_12_profession_jewelcrafting_ring3_silver",
+                "name": "Loa Worshiper's Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  8025
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  8960,
+                  12497,
+                  12066,
+                  13622,
+                  13667
+                ]
+              },
+              "trinket1": {
+                "item_id": 252420,
+                "item_level": 276,
+                "icon": "inv_enchant_shardbrilliantlarge",
+                "name": "Solarflare Prism",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13440,
+                  6652,
+                  12699,
+                  12798
+                ]
+              },
+              "trinket2": {
+                "item_id": 260235,
+                "item_level": 276,
+                "icon": "inv_12_dualityphoenix_void_feather",
+                "name": "Umbral Plume",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12798
+                ]
+              },
+              "mainhand": {
+                "item_id": 245771,
+                "item_level": 285,
+                "enchant": 8039,
+                "icon": "inv_staff_2h_dungeonharronir_c_01",
+                "name": "Aln'hara Pikestaff",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8790,
+                  13622,
+                  13667
+                ]
+              }
+            }
+          },
+          "expansionData": {
+            "expansionId": 8,
+            "covenant": {
+              "id": 1,
+              "name": "Kyrian",
+              "slug": "kyrian",
+              "icon": "ui_sigil_kyrian"
+            },
+            "renownLevel": 64,
+            "activeSoulbindIndex": 2,
+            "soulbinds": [
+              {
+                "id": 7,
+                "name": "Pelagos",
+                "slug": "pelagos",
+                "traits": [
+                  {
+                    "id": 1316,
+                    "spell": {
+                      "id": 328266,
+                      "name": "Combat Meditation",
+                      "icon": "spell_animabastion_buff",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1308,
+                    "spell": {
+                      "id": 328261,
+                      "name": "Focusing Mantra",
+                      "icon": "spell_arcane_focusedpower",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1314,
+                    "spell": {
+                      "id": 328265,
+                      "name": "Bond of Friendship",
+                      "icon": "achievement_worldevent_childrensweek",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1303,
+                    "spell": {
+                      "id": 328257,
+                      "name": "Let Go of the Past",
+                      "icon": "ability_hunter_readiness",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1812,
+                    "spell": {
+                      "id": 351146,
+                      "name": "Better Together",
+                      "icon": "achievement_reputation_01",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 24,
+                    "spell": {
+                      "id": 336616,
+                      "name": "Xuen's Bond",
+                      "icon": "ability_demonhunter_netherbond",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 15,
+                    "spell": {
+                      "id": 336379,
+                      "name": "Harm Denial",
+                      "icon": "ability_monk_chiswirl",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 22,
+                    "spell": {
+                      "id": 336598,
+                      "name": "Coordinated Offensive",
+                      "icon": "ability_fixated_state_red",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 42,
+                    "spell": {
+                      "id": 337084,
+                      "name": "Tumbling Technique",
+                      "icon": "ability_titankeeper_phasing",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 59,
+                    "spell": {
+                      "id": 337286,
+                      "name": "Strike with Clarity",
+                      "icon": "ability_bastion_warrior",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  }
+                ]
+              },
+              {
+                "id": 13,
+                "name": "Kleia",
+                "slug": "kleia",
+                "traits": [
+                  {
+                    "id": 1378,
+                    "spell": {
+                      "id": 329791,
+                      "name": "Valiant Strikes",
+                      "icon": "spell_holy_prayerofspirit",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1367,
+                    "spell": {
+                      "id": 329776,
+                      "name": "Ascendant Phial",
+                      "icon": "inv_alchemy_elixir_02",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1372,
+                    "spell": {
+                      "id": 329784,
+                      "name": "Cleansing Rites",
+                      "icon": "spell_magic_magearmor",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1369,
+                    "spell": {
+                      "id": 329778,
+                      "name": "Pointed Courage",
+                      "icon": "ability_hunter_displacement",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1827,
+                    "spell": {
+                      "id": 351489,
+                      "name": "Hope Springs Eternal",
+                      "icon": "inv_offhand_pvealliance_d_01",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 283,
+                    "spell": {
+                      "id": 357888,
+                      "name": "Condensed Anima Sphere",
+                      "icon": "spell_animarevendreth_orb",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 37,
+                    "spell": {
+                      "id": 336890,
+                      "name": "Dizzying Tumble",
+                      "icon": "inv_elemental_mote_air01",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 15,
+                    "spell": {
+                      "id": 336379,
+                      "name": "Harm Denial",
+                      "icon": "ability_monk_chiswirl",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 33,
+                    "spell": {
+                      "id": 336853,
+                      "name": "Fortifying Ingredients",
+                      "icon": "inv_misc_food_vendor_blackpepper",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 59,
+                    "spell": {
+                      "id": 337286,
+                      "name": "Strike with Clarity",
+                      "icon": "ability_bastion_warrior",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  }
+                ]
+              },
+              {
+                "id": 18,
+                "name": "Forgelite Prime Mikanikos",
+                "slug": "forgelite-prime-mikanikos",
+                "traits": [
+                  {
+                    "id": 1418,
+                    "spell": {
+                      "id": 333950,
+                      "name": "Bron's Call to Action",
+                      "icon": "ui_sigil_kyrian",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1408,
+                    "spell": {
+                      "id": 331609,
+                      "name": "Forgelite Filter",
+                      "icon": "inv_alchemy_lightbloodelixir",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1416,
+                    "spell": {
+                      "id": 331726,
+                      "name": "Regenerating Materials",
+                      "icon": "inv_misc_enchantedpearlf",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1412,
+                    "spell": {
+                      "id": 331611,
+                      "name": "Soulsteel Clamps",
+                      "icon": "inv_misc_enggizmos_05",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1832,
+                    "spell": {
+                      "id": 352186,
+                      "name": "Soulglow Spectrometer",
+                      "icon": "inv_helm_goggles_draenortradeskill_d_01",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  },
+                  {
+                    "id": 1836,
+                    "spell": {
+                      "id": 352188,
+                      "name": "Effusive Anima Accelerator",
+                      "icon": "inv_offhand_1h_bastion_d_01",
+                      "school": 64,
+                      "rank": null,
+                      "hasCooldown": false
+                    }
+                  }
+                ],
+                "conduits": [
+                  {
+                    "id": 46,
+                    "spell": {
+                      "id": 337119,
+                      "name": "Scalding Brew",
+                      "icon": "spell_brew_bolt_dark",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 42,
+                    "spell": {
+                      "id": 337084,
+                      "name": "Tumbling Technique",
+                      "icon": "ability_titankeeper_phasing",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 33,
+                    "spell": {
+                      "id": 336853,
+                      "name": "Fortifying Ingredients",
+                      "icon": "inv_misc_food_vendor_blackpepper",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 59,
+                    "spell": {
+                      "id": 337286,
+                      "name": "Strike with Clarity",
+                      "icon": "ability_bastion_warrior",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 7
+                  },
+                  {
+                    "id": 57,
+                    "spell": {
+                      "id": 337264,
+                      "name": "Walk with the Ox",
+                      "icon": "monk_stance_drunkenox",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  },
+                  {
+                    "id": 15,
+                    "spell": {
+                      "id": 336379,
+                      "name": "Harm Denial",
+                      "icon": "ability_monk_chiswirl",
+                      "school": 1,
+                      "rank": null,
+                      "hasCooldown": false
+                    },
+                    "rank": 10
+                  }
+                ]
+              }
+            ]
+          },
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 16340,
+            "difficulty": "heroic",
+            "name": "MN Tier 1 (VS / DR / MQD)",
+            "short_name": "VS/DR/MQD",
+            "wowInstanceId": 2912,
+            "slug": "tier-mn-1",
+            "icon_url": "/images/wow/icons/large/inv_achievement_raid_darkwell.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 9,
+          "progress": {
+            "normal": 7,
+            "heroic": 1,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 3008.5,
+          "allScoreColor": "#b33add"
+        },
+        "rank": 7,
+        "stream": null
+      },
+      {
+        "character": {
           "name": "Btymage",
           "level": 90,
           "race": {
@@ -16315,21 +17396,7 @@
           "allScoreColor": "#aeff95"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 534042,
-          "id": "318672101978",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid in-house crafter) shorter post-workout stream, legs are dedge",
-          "community_ids": [],
-          "viewer_count": 107,
-          "started_at": "2026-04-09T03:56:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -18197,7 +19264,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2680.8,
+          "allScore": 2681.6,
           "allScoreColor": "#2e6ddf"
         },
         "rank": 8,
@@ -35929,8 +36996,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 680.9,
-          "allScoreColor": "#d0ffbf"
+          "allScore": 1015.9,
+          "allScoreColor": "#abff92"
         },
         "rank": 4,
         "stream": null
@@ -39254,8 +40321,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-07T09:37:17.094Z",
-            "updated_at": "2026-04-07T09:37:17.094Z",
+            "created_at": "2026-04-09T06:54:35.642Z",
+            "updated_at": "2026-04-09T06:54:35.642Z",
             "source": "s3",
             "item_level_equipped": 271,
             "item_level_total": 0,
@@ -39270,7 +40337,7 @@
             "items": {
               "head": {
                 "item_id": 250006,
-                "item_level": 269,
+                "item_level": 272,
                 "enchant": 8015,
                 "icon": "inv_helm_leather_raidroguemidnight_d_01",
                 "name": "Masquerade of the Grim Jest",
@@ -39302,7 +40369,7 @@
                   6652,
                   12667,
                   13575,
-                  12796
+                  12797
                 ]
               },
               "neck": {
@@ -39715,10 +40782,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 193701,
-                "item_level": 263,
-                "icon": "inv_misc_enggizmos_18",
-                "name": "Algeth'ar Puzzle Box",
+                "item_id": 249344,
+                "item_level": 269,
+                "icon": "inv_12_trinket_raid_voidspire_physdps1_armyoflightbanner",
+                "name": "Light Company Guidon",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -39734,10 +40801,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
                   6652,
-                  12699,
-                  12790
+                  13334,
+                  12796
                 ]
               },
               "mainhand": {
@@ -39782,7 +40848,6 @@
               "offhand": {
                 "item_id": 249925,
                 "item_level": 276,
-                "enchant": 8052,
                 "icon": "inv_knife_1h_raidmidnight_d_02",
                 "name": "Hungering Victory",
                 "item_quality": 4,
@@ -39797,9 +40862,7 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8052
-                ],
+                "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
@@ -52511,8 +53574,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 335,
+          "allScoreColor": "#f3ffee"
         },
         "rank": 4,
         "stream": null
@@ -107692,21 +108755,7 @@
           "allScoreColor": "#c442c6"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 534042,
-          "id": "318672101978",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid in-house crafter) shorter post-workout stream, legs are dedge",
-          "community_ids": [],
-          "viewer_count": 107,
-          "started_at": "2026-04-09T03:56:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -173881,8 +174930,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2019.6,
-          "allScoreColor": "#5dca7a"
+          "allScore": 2685.3,
+          "allScoreColor": "#2e6ddf"
         },
         "rank": 4,
         "stream": null
@@ -188516,7 +189565,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T06:38:34.037Z"
+    "fetchedAt": "2026-04-09T08:37:45.788Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -419583,7 +420632,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T06:38:38.674Z"
+    "fetchedAt": "2026-04-09T08:37:51.115Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -648154,8 +649203,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2054.6,
-          "allScoreColor": "#5ec67e"
+          "allScore": 2387,
+          "allScoreColor": "#5293b8"
         },
         "rank": 4,
         "stream": null
@@ -650824,6 +651873,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T06:38:43.795Z"
+    "fetchedAt": "2026-04-09T08:37:54.669Z"
   }
 }
