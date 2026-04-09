@@ -6021,8 +6021,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3234.8,
-          "allScoreColor": "#d44daa"
+          "allScore": 3249.4,
+          "allScoreColor": "#d74fa4"
         },
         "rank": 7,
         "stream": null
@@ -6043,14 +6043,14 @@
             "slug": "demon-hunter"
           },
           "spec": {
-            "id": 1480,
-            "name": "Devourer",
-            "slug": "devourer",
+            "id": 581,
+            "name": "Vengeance",
+            "slug": "vengeance",
             "class_id": 12,
-            "role": "dps",
-            "is_melee": false,
-            "patch": "12.0.0",
-            "ordinal": 2
+            "role": "tank",
+            "is_melee": true,
+            "patch": "7.0.0",
+            "ordinal": 1
           },
           "talents": "",
           "talentsDetails": [],
@@ -6076,8 +6076,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-08T05:56:59.593Z",
-            "updated_at": "2026-04-08T05:56:59.593Z",
+            "created_at": "2026-04-09T03:18:29.360Z",
+            "updated_at": "2026-04-09T03:18:29.360Z",
             "source": "s3",
             "item_level_equipped": 256,
             "item_level_total": 0,
@@ -6443,10 +6443,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 251785,
-                "item_level": 263,
-                "icon": "inv_12_trinket_void_reaperslibram",
-                "name": "Void-Reaper's Libram",
+                "item_id": 251782,
+                "item_level": 259,
+                "icon": "inv_12_trinket_witheredsaptorspaw",
+                "name": "Withered Saptor's Paw",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -6463,7 +6463,7 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12790
+                  12789
                 ]
               },
               "mainhand": {
@@ -6920,8 +6920,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 592.4,
-          "allScoreColor": "#dbffcc"
+          "allScore": 822.4,
+          "allScoreColor": "#c3ffae"
         },
         "rank": 7,
         "stream": null
@@ -11547,7 +11547,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/230/221854950-avatar.jpg",
-          "itemLevelEquipped": 267,
+          "itemLevelEquipped": 269,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -11567,10 +11567,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-04-08T17:06:02.505Z",
-            "updated_at": "2026-04-08T17:06:02.505Z",
+            "created_at": "2026-04-09T04:50:52.587Z",
+            "updated_at": "2026-04-09T04:50:52.587Z",
             "source": "s3",
-            "item_level_equipped": 267,
+            "item_level_equipped": 269,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -11744,7 +11744,7 @@
               },
               "chest": {
                 "item_id": 250063,
-                "item_level": 263,
+                "item_level": 276,
                 "enchant": 7987,
                 "icon": "inv_chest_cloth_raidmagemidnight_d_01",
                 "name": "Voidbreaker's Robe",
@@ -11775,7 +11775,7 @@
                   13336,
                   6652,
                   13575,
-                  12794
+                  12798
                 ]
               },
               "waist": {
@@ -11815,10 +11815,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 251108,
-                "item_level": 266,
-                "icon": "inv_bracer_cloth_dungeonharronir_c_01",
-                "name": "Wraps of Watchful Wrath",
+                "item_id": 239648,
+                "item_level": 285,
+                "icon": "inv_bracer_cloth_questbloodelf_b_01",
+                "name": "Martyr's Bindings",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -11834,12 +11834,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
-                  13440,
-                  6652,
-                  12667,
-                  13577,
-                  12699
+                  12214,
+                  12497,
+                  12066,
+                  8960,
+                  12384,
+                  8791,
+                  13622,
+                  13667,
+                  12667
                 ]
               },
               "hands": {
@@ -11873,7 +11876,7 @@
               },
               "legs": {
                 "item_id": 250059,
-                "item_level": 266,
+                "item_level": 269,
                 "enchant": 7934,
                 "icon": "inv_pant_cloth_raidmagemidnight_d_01",
                 "name": "Voidbreaker's Britches",
@@ -11905,7 +11908,7 @@
                   13440,
                   13339,
                   13575,
-                  12795
+                  12796
                 ]
               },
               "feet": {
@@ -16312,7 +16315,21 @@
           "allScoreColor": "#aeff95"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 534042,
+          "id": "318672101978",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid in-house crafter) shorter post-workout stream, legs are dedge",
+          "community_ids": [],
+          "viewer_count": 85,
+          "started_at": "2026-04-09T03:56:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -37230,7 +37247,7 @@
           "progress": {
             "normal": 2,
             "heroic": 6,
-            "mythic": 3
+            "mythic": 4
           }
         },
         "keystoneScores": {
@@ -107675,7 +107692,21 @@
           "allScoreColor": "#c442c6"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 534042,
+          "id": "318672101978",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid in-house crafter) shorter post-workout stream, legs are dedge",
+          "community_ids": [],
+          "viewer_count": 85,
+          "started_at": "2026-04-09T03:56:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -182579,8 +182610,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2085.5,
-          "allScoreColor": "#5fbf87"
+          "allScore": 2749.9,
+          "allScoreColor": "#6062e3"
         },
         "rank": 4,
         "stream": null
@@ -188485,7 +188516,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T03:09:06.852Z"
+    "fetchedAt": "2026-04-09T04:51:50.451Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -419552,7 +419583,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T03:09:11.486Z"
+    "fetchedAt": "2026-04-09T04:51:55.688Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -489711,7 +489742,7 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "kazzak/220/206962396-avatar.jpg",
-          "itemLevelEquipped": 273,
+          "itemLevelEquipped": 274,
           "realm": {
             "id": 631,
             "connectedRealmId": 336,
@@ -489731,10 +489762,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-04-09T00:48:30.665Z",
-            "updated_at": "2026-04-09T00:48:30.665Z",
+            "created_at": "2026-04-09T03:09:21.075Z",
+            "updated_at": "2026-04-09T03:09:21.075Z",
             "source": "s3",
-            "item_level_equipped": 273,
+            "item_level_equipped": 274,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -490218,7 +490249,7 @@
               },
               "trinket1": {
                 "item_id": 250256,
-                "item_level": 266,
+                "item_level": 276,
                 "icon": "inv_10_jewelcrafting3_soulcage_air",
                 "name": "Heart of Wind",
                 "item_quality": 4,
@@ -490236,15 +490267,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12795,
                   13440,
                   6652,
-                  12699
+                  12699,
+                  12798
                 ]
               },
               "trinket2": {
                 "item_id": 250144,
-                "item_level": 272,
+                "item_level": 289,
                 "icon": "inv_icon_feather06a",
                 "name": "Emberwing Feather",
                 "item_quality": 4,
@@ -490262,10 +490293,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12801,
                   13440,
                   6652,
-                  12699
+                  12699,
+                  12806
                 ]
               },
               "mainhand": {
@@ -650166,6 +650197,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-04-09T03:09:22.205Z"
+    "fetchedAt": "2026-04-09T04:51:55.929Z"
   }
 }
