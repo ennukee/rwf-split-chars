@@ -39,8 +39,8 @@ async function fetchAllRosters() {
       console.log(`Fetching ${guild.name} (${guild.region}/${guild.realm})...`);
       const allCharacters = await fetchGuildRoster(guild.region, guild.realm, guild.name);
       
-      // Filter to only level 90 characters with ilvl 254+
-      const roster = allCharacters.filter(char => char.character.level === 90 && char.character.itemLevelEquipped >= 254);
+      // Filter to only level 90 characters with a given ilvl
+      const roster = allCharacters.filter(char => char.character.level === 90 && char.character.itemLevelEquipped >= 295);
       
       const key = `${guild.region}/${guild.realm}/${guild.name}`;
       rosters[key] = {

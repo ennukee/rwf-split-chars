@@ -117,7 +117,7 @@ function App() {
                     Last updated <span className="text-blue-400">{new Date(data.fetchedAt).toLocaleString()}</span>
                   </p>
                   <p className="text-slate-400 text-sm">
-                    Note: Data cuts off any character below i254, as well as the bottom 25% of ilvl afterward, to help create accurate data by ignoring max-level characters not intended for potential use.
+                    Note: Data cuts off any character below i295, as well as the bottom 25% of ilvl afterward, to help create accurate data by ignoring max-level characters not intended for potential use.
                   </p>
                 </div>
 
