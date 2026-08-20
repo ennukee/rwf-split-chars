@@ -83,6 +83,7 @@ export function analyzeRoster(roster: GuildRosterCharacter[]): {
 
   const filteredRoster = removeBottomQuartile(roster)
 
+
   const craftedWeaponNames = new Set([
     "Aln'hara Cane",
     "Blood Knight's Impetus",
