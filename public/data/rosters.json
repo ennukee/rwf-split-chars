@@ -2971,8 +2971,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-08-20T08:04:36.082Z",
-            "updated_at": "2026-08-20T08:04:36.082Z",
+            "created_at": "2026-08-21T16:23:57.473Z",
+            "updated_at": "2026-08-21T16:23:57.473Z",
             "source": "s3",
             "item_level_equipped": 306,
             "item_level_total": 0,
@@ -3129,10 +3129,10 @@
                 ]
               },
               "back": {
-                "item_id": 257022,
+                "item_id": 272225,
                 "item_level": 295,
-                "icon": "inv_cape_cloth_dungeonharronir_c_01",
-                "name": "Deepvine Shroud",
+                "icon": "inv_cape_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Mantle",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -3148,9 +3148,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12834,
                   6652,
-                  13662,
-                  12830
+                  13662
                 ]
               },
               "chest": {
@@ -4037,8 +4037,8 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-08-21T05:16:08.803Z",
-            "updated_at": "2026-08-21T05:16:08.803Z",
+            "created_at": "2026-08-21T16:24:50.112Z",
+            "updated_at": "2026-08-21T16:24:50.112Z",
             "source": "s3",
             "item_level_equipped": 303,
             "item_level_total": 0,
@@ -4359,11 +4359,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 49812,
-                "item_level": 289,
-                "enchant": 7968,
-                "icon": "inv_jewelry_ring_42",
-                "name": "Purloined Wedding Ring",
+                "item_id": 251136,
+                "item_level": 308,
+                "enchant": 8021,
+                "icon": "inv_12_jewelry_voidelf_ring_teal",
+                "name": "Signet of Snarling Servitude",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -4375,13 +4375,57 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240892
+                  240899
                 ],
                 "gems_detail": [
                   {
-                    "id": 240892,
-                    "name": "16 Haste & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                    "id": 240899,
+                    "name": "14 Mast & 6 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  8021
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  12842,
+                  13440,
+                  6652,
+                  13668,
+                  12699
+                ]
+              },
+              "finger2": {
+                "item_id": 251115,
+                "item_level": 289,
+                "enchant": 7968,
+                "icon": "inv_12_trinket_devouring_host_currency2_void",
+                "name": "Bifurcation Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240907
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240907,
+                    "name": "14 Crit & 6 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [
@@ -4400,33 +4444,6 @@
                   13668,
                   12699,
                   12806
-                ]
-              },
-              "finger2": {
-                "item_id": 251136,
-                "item_level": 308,
-                "icon": "inv_12_jewelry_voidelf_ring_teal",
-                "name": "Signet of Snarling Servitude",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12842,
-                  13440,
-                  6652,
-                  13668,
-                  12699
                 ]
               },
               "trinket1": {
@@ -10912,7 +10929,7 @@
       },
       {
         "character": {
-          "name": "Thdlock",
+          "name": "Thdlock-113982498",
           "level": 90,
           "race": {
             "id": 2,
@@ -196200,7 +196217,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-08-21T14:35:07.804Z"
+    "fetchedAt": "2026-08-21T16:34:56.181Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -197431,7 +197448,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 3,
+            "heroic": 7,
             "mythic": 0
           }
         },
@@ -197450,7 +197467,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 230,
+          "viewer_count": 247,
           "started_at": "2026-08-21T05:03:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -198545,7 +198562,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 3 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 102,
           "started_at": "2026-08-21T05:17:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -199580,7 +199597,7 @@
           "type": "live",
           "title": "Velo <Echo> RWF Day 3 Mythic - Healer PoV !ui",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 102,
           "started_at": "2026-08-21T05:17:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_velowow-{width}x{height}.jpg"
@@ -200399,7 +200416,7 @@
           "type": "live",
           "title": "rwf 12.1 <Echo>",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 346,
           "started_at": "2026-08-21T05:05:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_revvez-{width}x{height}.jpg"
@@ -201092,7 +201109,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF Venomous Abyss - Day 3",
           "community_ids": [],
-          "viewer_count": 25,
+          "viewer_count": 17,
           "started_at": "2026-08-21T06:17:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -201735,7 +201752,7 @@
           "type": "live",
           "title": "[DROP] RWF DAY 3 <Echo> @mandatory   !discord !restedxp",
           "community_ids": [],
-          "viewer_count": 673,
+          "viewer_count": 687,
           "started_at": "2026-08-21T05:00:56Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -202481,7 +202498,7 @@
           "type": "live",
           "title": "[DROP] RWF DAY 3 <Echo> @mandatory   !discord !restedxp",
           "community_ids": [],
-          "viewer_count": 673,
+          "viewer_count": 687,
           "started_at": "2026-08-21T05:00:56Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -203146,7 +203163,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF Venomous Abyss - Day 3",
           "community_ids": [],
-          "viewer_count": 25,
+          "viewer_count": 17,
           "started_at": "2026-08-21T06:17:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -203792,7 +203809,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 230,
+          "viewer_count": 247,
           "started_at": "2026-08-21T05:03:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -205207,7 +205224,7 @@
           "type": "live",
           "title": "rwf 12.1 <Echo>",
           "community_ids": [],
-          "viewer_count": 137,
+          "viewer_count": 346,
           "started_at": "2026-08-21T05:05:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_revvez-{width}x{height}.jpg"
@@ -205835,7 +205852,7 @@
           "type": "live",
           "title": "[DROP] RWF DAY 3 <Echo> @mandatory   !discord !restedxp",
           "community_ids": [],
-          "viewer_count": 673,
+          "viewer_count": 687,
           "started_at": "2026-08-21T05:00:56Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -206483,8 +206500,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2287.5,
-          "allScoreColor": "#665fe4"
+          "allScore": 2448.2,
+          "allScoreColor": "#8a4de9"
         },
         "rank": 7,
         "stream": null
@@ -207774,7 +207791,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 !UI !gains",
           "community_ids": [],
-          "viewer_count": 4127,
+          "viewer_count": 4668,
           "started_at": "2026-08-21T05:16:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -208424,7 +208441,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF Venomous Abyss - Day 3",
           "community_ids": [],
-          "viewer_count": 25,
+          "viewer_count": 17,
           "started_at": "2026-08-21T06:17:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -209100,7 +209117,7 @@
           "type": "live",
           "title": "[DROP] RWF DAY 3 <Echo> @mandatory   !discord !restedxp",
           "community_ids": [],
-          "viewer_count": 673,
+          "viewer_count": 687,
           "started_at": "2026-08-21T05:00:56Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -209802,7 +209819,7 @@
           "type": "live",
           "title": "[DROP] RWF DAY 3 <Echo> @mandatory   !discord !restedxp",
           "community_ids": [],
-          "viewer_count": 673,
+          "viewer_count": 687,
           "started_at": "2026-08-21T05:00:56Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -211868,7 +211885,7 @@
           "type": "live",
           "title": "<Echo> Soda | RWF Day 3, EU headstart continues | ui! updated for every class",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 73,
           "started_at": "2026-08-21T05:01:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sodalsk-{width}x{height}.jpg"
@@ -212662,7 +212679,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 !UI !gains",
           "community_ids": [],
-          "viewer_count": 4127,
+          "viewer_count": 4668,
           "started_at": "2026-08-21T05:16:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -213414,7 +213431,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 !UI !gains",
           "community_ids": [],
-          "viewer_count": 4127,
+          "viewer_count": 4668,
           "started_at": "2026-08-21T05:16:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -214182,7 +214199,7 @@
           "type": "live",
           "title": "<Echo> Gub RWF Day 3 Mage PoV !ui",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 19,
           "started_at": "2026-08-21T05:02:55Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tchub-{width}x{height}.jpg"
@@ -215536,7 +215553,7 @@
           "type": "live",
           "title": "<Echo> | RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 56,
+          "viewer_count": 78,
           "started_at": "2026-08-21T05:22:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krona-{width}x{height}.jpg"
@@ -216195,7 +216212,7 @@
           "type": "live",
           "title": "<Echo> | RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 56,
+          "viewer_count": 78,
           "started_at": "2026-08-21T05:22:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krona-{width}x{height}.jpg"
@@ -218206,7 +218223,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 3,
+            "heroic": 7,
             "mythic": 0
           }
         },
@@ -218225,7 +218242,7 @@
           "type": "live",
           "title": "<Echo> Arxes | RWF DAY 3 - RRRAAHHHH !ui",
           "community_ids": [],
-          "viewer_count": 22,
+          "viewer_count": 50,
           "started_at": "2026-08-21T06:12:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
@@ -218897,7 +218914,7 @@
           "type": "live",
           "title": "<Echo> Gub RWF Day 3 Mage PoV !ui",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 19,
           "started_at": "2026-08-21T05:02:55Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tchub-{width}x{height}.jpg"
@@ -221633,7 +221650,7 @@
           "type": "live",
           "title": "<Echo> | RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 56,
+          "viewer_count": 78,
           "started_at": "2026-08-21T05:22:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krona-{width}x{height}.jpg"
@@ -222314,7 +222331,7 @@
           "type": "live",
           "title": "<Echo> | RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 56,
+          "viewer_count": 78,
           "started_at": "2026-08-21T05:22:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krona-{width}x{height}.jpg"
@@ -225026,7 +225043,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 3,
+            "heroic": 7,
             "mythic": 0
           }
         },
@@ -226402,7 +226419,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 3,
+            "heroic": 7,
             "mythic": 0
           }
         },
@@ -227194,7 +227211,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 230,
+          "viewer_count": 247,
           "started_at": "2026-08-21T05:03:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -227859,7 +227876,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 | !UI For Subs",
           "community_ids": [],
-          "viewer_count": 34,
+          "viewer_count": 47,
           "started_at": "2026-08-21T06:04:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_narcolies-{width}x{height}.jpg"
@@ -228561,7 +228578,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 !UI !gains",
           "community_ids": [],
-          "viewer_count": 4127,
+          "viewer_count": 4668,
           "started_at": "2026-08-21T05:16:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -229288,7 +229305,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 !UI !gains",
           "community_ids": [],
-          "viewer_count": 4127,
+          "viewer_count": 4668,
           "started_at": "2026-08-21T05:16:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -232046,7 +232063,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 230,
+          "viewer_count": 247,
           "started_at": "2026-08-21T05:03:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xerwo-{width}x{height}.jpg"
@@ -232660,7 +232677,7 @@
           "type": "live",
           "title": "<Echo> Soda | RWF Day 3, EU headstart continues | ui! updated for every class",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 73,
           "started_at": "2026-08-21T05:01:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sodalsk-{width}x{height}.jpg"
@@ -234040,7 +234057,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 | !UI For Subs",
           "community_ids": [],
-          "viewer_count": 34,
+          "viewer_count": 47,
           "started_at": "2026-08-21T06:04:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_narcolies-{width}x{height}.jpg"
@@ -234652,7 +234669,7 @@
           "type": "live",
           "title": "<Echo> RWF day 3 | !UI For Subs",
           "community_ids": [],
-          "viewer_count": 34,
+          "viewer_count": 47,
           "started_at": "2026-08-21T06:04:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_narcolies-{width}x{height}.jpg"
@@ -236789,7 +236806,7 @@
           "type": "live",
           "title": "<Echo> | RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 56,
+          "viewer_count": 78,
           "started_at": "2026-08-21T05:22:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_krona-{width}x{height}.jpg"
@@ -238229,7 +238246,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -238944,7 +238961,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 18,
           "started_at": "2026-08-21T11:01:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skanerost_-{width}x{height}.jpg"
@@ -239667,7 +239684,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 8,
-            "heroic": 3,
+            "heroic": 6,
             "mythic": 0
           }
         },
@@ -239686,7 +239703,7 @@
           "type": "live",
           "title": "DROPS <Echo> RWF DAY 3 | !UI for SEASON 2 | !watchparty !review",
           "community_ids": [],
-          "viewer_count": 1444,
+          "viewer_count": 1589,
           "started_at": "2026-08-21T05:01:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -240361,7 +240378,7 @@
           "type": "live",
           "title": "fraggo <Echo> RWF Venomous Abyss - Day 3",
           "community_ids": [],
-          "viewer_count": 25,
+          "viewer_count": 17,
           "started_at": "2026-08-21T06:17:46Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fraggo-{width}x{height}.jpg"
@@ -241048,7 +241065,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 18,
           "started_at": "2026-08-21T11:01:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skanerost_-{width}x{height}.jpg"
@@ -242430,7 +242447,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -243121,7 +243138,7 @@
           "type": "live",
           "title": "DROPS <Echo> RWF DAY 3 | !UI for SEASON 2 | !watchparty !review",
           "community_ids": [],
-          "viewer_count": 1444,
+          "viewer_count": 1589,
           "started_at": "2026-08-21T05:01:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -243828,7 +243845,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Day 3 Splits",
           "community_ids": [],
-          "viewer_count": 17,
+          "viewer_count": 27,
           "started_at": "2026-08-21T05:00:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -245226,7 +245243,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -248909,7 +248926,7 @@
           "type": "live",
           "title": "DROPS <Echo> RWF DAY 3 | !UI for SEASON 2 | !watchparty !review",
           "community_ids": [],
-          "viewer_count": 1444,
+          "viewer_count": 1589,
           "started_at": "2026-08-21T05:01:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -249534,7 +249551,7 @@
           "type": "live",
           "title": "<Echo> DAY 3 SLAMMAGE !ui !addons",
           "community_ids": [],
-          "viewer_count": 127,
+          "viewer_count": 147,
           "started_at": "2026-08-21T05:56:25Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -250248,7 +250265,7 @@
           "type": "live",
           "title": "DROPS <Echo> RWF DAY 3 | !UI for SEASON 2 | !watchparty !review",
           "community_ids": [],
-          "viewer_count": 1444,
+          "viewer_count": 1589,
           "started_at": "2026-08-21T05:01:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -250972,7 +250989,7 @@
           "type": "live",
           "title": "<Echo> Gub RWF Day 3 Mage PoV !ui",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 19,
           "started_at": "2026-08-21T05:02:55Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tchub-{width}x{height}.jpg"
@@ -251726,7 +251743,7 @@
           "type": "live",
           "title": "<Echo> Soda | RWF Day 3, EU headstart continues | ui! updated for every class",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 73,
           "started_at": "2026-08-21T05:01:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sodalsk-{width}x{height}.jpg"
@@ -252408,7 +252425,7 @@
           "type": "live",
           "title": "<Echo> Rycn - R2WF Monsterous Splits",
           "community_ids": [],
-          "viewer_count": 67,
+          "viewer_count": 64,
           "started_at": "2026-08-21T06:05:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rycn-{width}x{height}.jpg"
@@ -253045,7 +253062,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Day 3 Splits",
           "community_ids": [],
-          "viewer_count": 17,
+          "viewer_count": 27,
           "started_at": "2026-08-21T05:00:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -255104,7 +255121,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -255899,7 +255916,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -256624,7 +256641,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -257340,7 +257357,7 @@
           "type": "live",
           "title": "DROPS <Echo> RWF DAY 3 | !UI for SEASON 2 | !watchparty !review",
           "community_ids": [],
-          "viewer_count": 1444,
+          "viewer_count": 1589,
           "started_at": "2026-08-21T05:01:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -258012,7 +258029,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -258693,7 +258710,7 @@
           "type": "live",
           "title": "<Echo> RWF Splits Woohoo",
           "community_ids": [],
-          "viewer_count": 38,
+          "viewer_count": 52,
           "started_at": "2026-08-21T05:01:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ftmjgtde-{width}x{height}.jpg"
@@ -259417,7 +259434,7 @@
           "type": "live",
           "title": "<Echo> Soda | RWF Day 3, EU headstart continues | ui! updated for every class",
           "community_ids": [],
-          "viewer_count": 40,
+          "viewer_count": 73,
           "started_at": "2026-08-21T05:01:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sodalsk-{width}x{height}.jpg"
@@ -261608,7 +261625,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Day 3 Splits",
           "community_ids": [],
-          "viewer_count": 17,
+          "viewer_count": 27,
           "started_at": "2026-08-21T05:00:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -262190,7 +262207,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 8,
-            "heroic": 3,
+            "heroic": 7,
             "mythic": 0
           }
         },
@@ -262209,7 +262226,7 @@
           "type": "live",
           "title": "<Echo> RWF Day 3 | !ui",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 18,
           "started_at": "2026-08-21T11:01:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skanerost_-{width}x{height}.jpg"
@@ -262973,7 +262990,7 @@
           "type": "live",
           "title": "<Echo> Gub RWF Day 3 Mage PoV !ui",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 19,
           "started_at": "2026-08-21T05:02:55Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tchub-{width}x{height}.jpg"
@@ -263662,7 +263679,7 @@
           "type": "live",
           "title": "DROPS <Echo> RWF DAY 3 | !UI for SEASON 2 | !watchparty !review",
           "community_ids": [],
-          "viewer_count": 1444,
+          "viewer_count": 1589,
           "started_at": "2026-08-21T05:01:15Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -264988,7 +265005,7 @@
           "type": "live",
           "title": "<Echo> RWF !ui",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 55,
           "started_at": "2026-08-21T04:57:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -265706,7 +265723,7 @@
           "type": "live",
           "title": "<Echo> RWF !ui",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 55,
           "started_at": "2026-08-21T04:57:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -266375,7 +266392,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Day 3 Splits",
           "community_ids": [],
-          "viewer_count": 17,
+          "viewer_count": 27,
           "started_at": "2026-08-21T05:00:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -267092,7 +267109,7 @@
           "type": "live",
           "title": "Tief <Echo> RWF Day 3 Splits",
           "community_ids": [],
-          "viewer_count": 17,
+          "viewer_count": 27,
           "started_at": "2026-08-21T05:00:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tiefpassgg-{width}x{height}.jpg"
@@ -267772,7 +267789,7 @@
           "type": "live",
           "title": "<Echo> RWF !ui",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 55,
           "started_at": "2026-08-21T04:57:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -268397,7 +268414,7 @@
           "type": "live",
           "title": "<Echo> RWF !ui",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 55,
           "started_at": "2026-08-21T04:57:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -269156,7 +269173,7 @@
           "type": "live",
           "title": "<Echo> RWF !ui",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 55,
           "started_at": "2026-08-21T04:57:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -270567,7 +270584,7 @@
           "type": "live",
           "title": "<Echo> RWF !ui",
           "community_ids": [],
-          "viewer_count": 33,
+          "viewer_count": 55,
           "started_at": "2026-08-21T04:57:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -271849,7 +271866,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 8,
-            "heroic": 3,
+            "heroic": 7,
             "mythic": 0
           }
         },
@@ -273147,7 +273164,7 @@
           "type": "live",
           "title": "<Echo> Rycn - R2WF Monsterous Splits",
           "community_ids": [],
-          "viewer_count": 67,
+          "viewer_count": 64,
           "started_at": "2026-08-21T06:05:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rycn-{width}x{height}.jpg"
@@ -274450,7 +274467,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 6,
-            "heroic": 3,
+            "heroic": 7,
             "mythic": 0
           }
         },
@@ -285014,7 +285031,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-08-21T14:35:12.821Z"
+    "fetchedAt": "2026-08-21T16:34:56.393Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -285797,7 +285814,7 @@
           "type": "live",
           "title": "<Method> Faithy | RWF Day 3# Splits Splits Splits Loot Loot Loot !vpn !holy",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 8,
           "started_at": "2026-08-21T05:29:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -286750,7 +286767,7 @@
           "type": "live",
           "title": "<Method> Day 3 RWF !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-08-21T05:26:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_finduz2-{width}x{height}.jpg"
@@ -288012,7 +288029,7 @@
           "type": "live",
           "title": "RWF Venomous Abyss <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 30,
+          "viewer_count": 34,
           "started_at": "2026-08-21T13:26:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -290412,7 +290429,7 @@
           "type": "live",
           "title": "<Method> Day 3 Splits Hunter PoV -  !holy !glorious !giveaway",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:35:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -292578,7 +292595,7 @@
           "type": "live",
           "title": "ITS BEEN A WHILE <Method> !ui !coaching",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 75,
           "started_at": "2026-08-21T05:38:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_canexx-{width}x{height}.jpg"
@@ -293338,7 +293355,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF day 3 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 57,
+          "viewer_count": 37,
           "started_at": "2026-08-21T05:38:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -295459,7 +295476,7 @@
           "type": "live",
           "title": "Thaner <Method> - RWF day 3 !ui !vpn",
           "community_ids": [],
-          "viewer_count": 57,
+          "viewer_count": 37,
           "started_at": "2026-08-21T05:38:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -296209,7 +296226,7 @@
           "type": "live",
           "title": "RWF Venomous Abyss <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 30,
+          "viewer_count": 34,
           "started_at": "2026-08-21T13:26:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -296919,7 +296936,7 @@
           "type": "live",
           "title": "Method Zaelia RWF a glimpse into the life of a simple men with a BRAND NEW UI DAAAAAAAAYUuuuum s0n",
           "community_ids": [],
-          "viewer_count": 681,
+          "viewer_count": 537,
           "started_at": "2026-08-21T05:47:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -299022,7 +299039,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 more splits woo",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 17,
           "started_at": "2026-08-21T12:58:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypewow-{width}x{height}.jpg"
@@ -299735,7 +299752,7 @@
           "type": "live",
           "title": "ITS BEEN A WHILE <Method> !ui !coaching",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 75,
           "started_at": "2026-08-21T05:38:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_canexx-{width}x{height}.jpg"
@@ -301171,7 +301188,7 @@
           "type": "live",
           "title": "<Method> !splits RWF Day 3",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:31:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -301782,7 +301799,7 @@
           "type": "live",
           "title": "RWF Venomous Abyss <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 30,
+          "viewer_count": 34,
           "started_at": "2026-08-21T13:26:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -302532,7 +302549,7 @@
           "type": "live",
           "title": "Method Zaelia RWF a glimpse into the life of a simple men with a BRAND NEW UI DAAAAAAAAYUuuuum s0n",
           "community_ids": [],
-          "viewer_count": 681,
+          "viewer_count": 537,
           "started_at": "2026-08-21T05:47:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zaelia-{width}x{height}.jpg"
@@ -305288,7 +305305,7 @@
           "type": "live",
           "title": "<Method> !splits RWF Day 3",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:31:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -306007,7 +306024,7 @@
           "type": "live",
           "title": "<Method> Faithy | RWF Day 3# Splits Splits Splits Loot Loot Loot !vpn !holy",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 8,
           "started_at": "2026-08-21T05:29:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -306696,7 +306713,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 !ui",
           "community_ids": [],
-          "viewer_count": 58,
+          "viewer_count": 50,
           "started_at": "2026-08-21T05:31:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_waalpen-{width}x{height}.jpg"
@@ -307363,7 +307380,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3",
           "community_ids": [],
-          "viewer_count": 54,
+          "viewer_count": 28,
           "started_at": "2026-08-21T05:27:53Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -308018,15 +308035,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 993709,
-          "id": "315905680209",
+          "id": "315907399121",
           "name": "immonate",
           "user_id": "46377162",
           "game_id": "18122",
           "type": "live",
           "title": "✅ DROPS 🔴 RWF DAY 3 Tank PoV <Method> | !UI !splits",
           "community_ids": [],
-          "viewer_count": 26,
-          "started_at": "2026-08-21T05:24:52Z",
+          "viewer_count": 10,
+          "started_at": "2026-08-21T16:13:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_immonate-{width}x{height}.jpg"
         }
@@ -308790,7 +308807,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -309410,7 +309427,7 @@
           "type": "live",
           "title": "ITS BEEN A WHILE <Method> !ui !coaching",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 75,
           "started_at": "2026-08-21T05:38:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_canexx-{width}x{height}.jpg"
@@ -310092,7 +310109,7 @@
           "type": "live",
           "title": "RWF Venomous Abyss <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 30,
+          "viewer_count": 34,
           "started_at": "2026-08-21T13:26:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -310879,7 +310896,7 @@
           "type": "live",
           "title": "<Method> Faithy | RWF Day 3# Splits Splits Splits Loot Loot Loot !vpn !holy",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 8,
           "started_at": "2026-08-21T05:29:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -311559,15 +311576,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 993709,
-          "id": "315905680209",
+          "id": "315907399121",
           "name": "immonate",
           "user_id": "46377162",
           "game_id": "18122",
           "type": "live",
           "title": "✅ DROPS 🔴 RWF DAY 3 Tank PoV <Method> | !UI !splits",
           "community_ids": [],
-          "viewer_count": 26,
-          "started_at": "2026-08-21T05:24:52Z",
+          "viewer_count": 10,
+          "started_at": "2026-08-21T16:13:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_immonate-{width}x{height}.jpg"
         }
@@ -312269,15 +312286,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 993709,
-          "id": "315905680209",
+          "id": "315907399121",
           "name": "immonate",
           "user_id": "46377162",
           "game_id": "18122",
           "type": "live",
           "title": "✅ DROPS 🔴 RWF DAY 3 Tank PoV <Method> | !UI !splits",
           "community_ids": [],
-          "viewer_count": 26,
-          "started_at": "2026-08-21T05:24:52Z",
+          "viewer_count": 10,
+          "started_at": "2026-08-21T16:13:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_immonate-{width}x{height}.jpg"
         }
@@ -314343,15 +314360,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 993709,
-          "id": "315905680209",
+          "id": "315907399121",
           "name": "immonate",
           "user_id": "46377162",
           "game_id": "18122",
           "type": "live",
           "title": "✅ DROPS 🔴 RWF DAY 3 Tank PoV <Method> | !UI !splits",
           "community_ids": [],
-          "viewer_count": 26,
-          "started_at": "2026-08-21T05:24:52Z",
+          "viewer_count": 10,
+          "started_at": "2026-08-21T16:13:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_immonate-{width}x{height}.jpg"
         }
@@ -316570,7 +316587,7 @@
           "type": "live",
           "title": "<Method> !splits RWF Day 3",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:31:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uggzz-{width}x{height}.jpg"
@@ -317327,7 +317344,7 @@
           "type": "live",
           "title": "RWF Venomous Abyss <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 30,
+          "viewer_count": 34,
           "started_at": "2026-08-21T13:26:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -318757,7 +318774,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 more splits woo",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 17,
           "started_at": "2026-08-21T12:58:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypewow-{width}x{height}.jpg"
@@ -319441,7 +319458,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 !ui",
           "community_ids": [],
-          "viewer_count": 58,
+          "viewer_count": 50,
           "started_at": "2026-08-21T05:31:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_waalpen-{width}x{height}.jpg"
@@ -320167,8 +320184,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 3,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -321445,7 +321462,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 !ui",
           "community_ids": [],
-          "viewer_count": 58,
+          "viewer_count": 50,
           "started_at": "2026-08-21T05:31:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_waalpen-{width}x{height}.jpg"
@@ -324286,7 +324303,7 @@
           "type": "live",
           "title": "<Method> Faithy | RWF Day 3# Splits Splits Splits Loot Loot Loot !vpn !holy",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 8,
           "started_at": "2026-08-21T05:29:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -325670,7 +325687,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 | !giveaway !vpn !holy !splits",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:51:48Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
@@ -326460,7 +326477,7 @@
           "type": "live",
           "title": "<Method> Faithy | RWF Day 3# Splits Splits Splits Loot Loot Loot !vpn !holy",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 8,
           "started_at": "2026-08-21T05:29:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -327901,7 +327918,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3",
           "community_ids": [],
-          "viewer_count": 54,
+          "viewer_count": 28,
           "started_at": "2026-08-21T05:27:53Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -330086,7 +330103,7 @@
           "type": "live",
           "title": "<Method> Day 3 Splits Hunter PoV -  !holy !glorious !giveaway",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:35:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -331519,7 +331536,7 @@
           "type": "live",
           "title": "<Method> Day 3 Splits Hunter PoV -  !holy !glorious !giveaway",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:35:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -332188,7 +332205,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -332874,7 +332891,7 @@
           "type": "live",
           "title": "!DROPS <Method> RWF Hype Baby | Get !FragUI x Ellesmere <Method> Available for All DPS, Tanks & Healers 1440p & 1080p !restedxp !holy",
           "community_ids": [],
-          "viewer_count": 330,
+          "viewer_count": 317,
           "started_at": "2026-08-21T05:26:28Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
@@ -333544,7 +333561,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -336085,8 +336102,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 3,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -336105,7 +336122,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -336714,7 +336731,7 @@
           "type": "live",
           "title": "ITS BEEN A WHILE <Method> !ui !coaching",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 75,
           "started_at": "2026-08-21T05:38:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_canexx-{width}x{height}.jpg"
@@ -337415,7 +337432,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -338147,7 +338164,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -338874,7 +338891,7 @@
           "type": "live",
           "title": "<Method> Faithy | RWF Day 3# Splits Splits Splits Loot Loot Loot !vpn !holy",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 8,
           "started_at": "2026-08-21T05:29:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_byfaithy-{width}x{height}.jpg"
@@ -340235,7 +340252,7 @@
           "type": "live",
           "title": "<Method> Day 3 Splits Hunter PoV -  !holy !glorious !giveaway",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:35:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -342321,7 +342338,7 @@
           "type": "live",
           "title": "<Method> Day 3 Splits Hunter PoV -  !holy !glorious !giveaway",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:35:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -343695,7 +343712,7 @@
           "type": "live",
           "title": "<Method> Day 3 RWF !holy",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 9,
           "started_at": "2026-08-21T05:26:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_finduz2-{width}x{height}.jpg"
@@ -346419,7 +346436,7 @@
           "type": "live",
           "title": "<Method> Day 3 Splits Hunter PoV -  !holy !glorious !giveaway",
           "community_ids": [],
-          "viewer_count": 6,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:35:57Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prebbytv-{width}x{height}.jpg"
@@ -349985,7 +350002,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 more splits woo",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 17,
           "started_at": "2026-08-21T12:58:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypewow-{width}x{height}.jpg"
@@ -350716,7 +350733,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 | !giveaway !vpn !holy !splits",
           "community_ids": [],
-          "viewer_count": 7,
+          "viewer_count": 5,
           "started_at": "2026-08-21T05:51:48Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_centiso-{width}x{height}.jpg"
@@ -351403,7 +351420,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 more splits woo",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 17,
           "started_at": "2026-08-21T12:58:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypewow-{width}x{height}.jpg"
@@ -352093,7 +352110,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 more splits woo",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 17,
           "started_at": "2026-08-21T12:58:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypewow-{width}x{height}.jpg"
@@ -353977,7 +353994,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -354640,7 +354657,7 @@
           "type": "live",
           "title": "💥RWF Day 3 - splitting splits <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 79,
           "started_at": "2026-08-21T05:36:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -355338,15 +355355,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 993709,
-          "id": "315905680209",
+          "id": "315907399121",
           "name": "immonate",
           "user_id": "46377162",
           "game_id": "18122",
           "type": "live",
           "title": "✅ DROPS 🔴 RWF DAY 3 Tank PoV <Method> | !UI !splits",
           "community_ids": [],
-          "viewer_count": 26,
-          "started_at": "2026-08-21T05:24:52Z",
+          "viewer_count": 10,
+          "started_at": "2026-08-21T16:13:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_immonate-{width}x{height}.jpg"
         }
@@ -355987,15 +356004,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 993709,
-          "id": "315905680209",
+          "id": "315907399121",
           "name": "immonate",
           "user_id": "46377162",
           "game_id": "18122",
           "type": "live",
           "title": "✅ DROPS 🔴 RWF DAY 3 Tank PoV <Method> | !UI !splits",
           "community_ids": [],
-          "viewer_count": 26,
-          "started_at": "2026-08-21T05:24:52Z",
+          "viewer_count": 10,
+          "started_at": "2026-08-21T16:13:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_immonate-{width}x{height}.jpg"
         }
@@ -356725,15 +356742,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 993709,
-          "id": "315905680209",
+          "id": "315907399121",
           "name": "immonate",
           "user_id": "46377162",
           "game_id": "18122",
           "type": "live",
           "title": "✅ DROPS 🔴 RWF DAY 3 Tank PoV <Method> | !UI !splits",
           "community_ids": [],
-          "viewer_count": 26,
-          "started_at": "2026-08-21T05:24:52Z",
+          "viewer_count": 10,
+          "started_at": "2026-08-21T16:13:50Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_immonate-{width}x{height}.jpg"
         }
@@ -357397,7 +357414,7 @@
           "type": "live",
           "title": "RWF Venomous Abyss <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 30,
+          "viewer_count": 34,
           "started_at": "2026-08-21T13:26:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -359456,7 +359473,7 @@
           "type": "live",
           "title": "<Method> Huge fun :D",
           "community_ids": [],
-          "viewer_count": 14,
+          "viewer_count": 10,
           "started_at": "2026-08-21T05:26:55Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -363037,7 +363054,7 @@
           "type": "live",
           "title": "<Method> Huge fun :D",
           "community_ids": [],
-          "viewer_count": 14,
+          "viewer_count": 10,
           "started_at": "2026-08-21T05:26:55Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -363808,7 +363825,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3 !ui",
           "community_ids": [],
-          "viewer_count": 58,
+          "viewer_count": 50,
           "started_at": "2026-08-21T05:31:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_waalpen-{width}x{height}.jpg"
@@ -364510,7 +364527,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3",
           "community_ids": [],
-          "viewer_count": 54,
+          "viewer_count": 28,
           "started_at": "2026-08-21T05:27:53Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -365196,7 +365213,7 @@
           "type": "live",
           "title": "<Method> RWF Day 3",
           "community_ids": [],
-          "viewer_count": 54,
+          "viewer_count": 28,
           "started_at": "2026-08-21T05:27:53Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -367301,13 +367318,13 @@
           "type": "live",
           "title": "<Method> RWF Day 3 more splits woo",
           "community_ids": [],
-          "viewer_count": 11,
+          "viewer_count": 17,
           "started_at": "2026-08-21T12:58:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hypewow-{width}x{height}.jpg"
         }
       }
     ],
-    "fetchedAt": "2026-08-21T14:35:18.234Z"
+    "fetchedAt": "2026-08-21T16:34:56.600Z"
   }
 }
