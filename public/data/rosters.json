@@ -845,7 +845,7 @@
         },
         "keystoneScores": {
           "allScore": 960.1,
-          "allScoreColor": "#36f62f"
+          "allScoreColor": "#30f925"
         },
         "rank": 7,
         "stream": null
@@ -1860,7 +1860,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -2750,7 +2750,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -3839,7 +3839,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -4922,7 +4922,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -5989,7 +5989,7 @@
         },
         "keystoneScores": {
           "allScore": 2658.8,
-          "allScoreColor": "#ae39e2"
+          "allScoreColor": "#a937e8"
         },
         "rank": 7,
         "stream": null
@@ -6023,7 +6023,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/230/221854950-avatar.jpg",
-          "itemLevelEquipped": 303,
+          "itemLevelEquipped": 304,
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -6043,10 +6043,10 @@
             "short_name": "US"
           },
           "items": {
-            "created_at": "2026-08-21T16:24:50.112Z",
-            "updated_at": "2026-08-21T16:24:50.112Z",
+            "created_at": "2026-08-22T00:57:41.797Z",
+            "updated_at": "2026-08-22T00:57:41.797Z",
             "source": "s3",
-            "item_level_equipped": 303,
+            "item_level_equipped": 304,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -6058,20 +6058,68 @@
             },
             "items": {
               "head": {
-                "item_id": 272234,
-                "item_level": 305,
-                "icon": "inv_helm_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Miter",
+                "item_id": 250060,
+                "item_level": 289,
+                "enchant": 8016,
+                "icon": "inv_helm_cloth_raidmagemidnight_d_01",
+                "name": "Voidbreaker's Veil",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "35",
                 "gems": [
                   240897
                 ],
@@ -6082,13 +6130,23 @@
                     "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
                   }
                 ],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8016
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244006,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12841,
                   6652,
-                  13695,
-                  13662
+                  13534,
+                  13440,
+                  13338,
+                  13575,
+                  12806
                 ]
               },
               "neck": {
@@ -6181,11 +6239,10 @@
                 ]
               },
               "chest": {
-                "item_id": 250063,
-                "item_level": 289,
-                "enchant": 7987,
-                "icon": "inv_chest_cloth_raidmagemidnight_d_01",
-                "name": "Voidbreaker's Robe",
+                "item_id": 251139,
+                "item_level": 308,
+                "icon": "inv_chest_cloth_dungeonharronir_c_01",
+                "name": "Summoner's Searing Shirt",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -6196,25 +6253,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  12842,
                   13440,
-                  13336,
-                  13575,
-                  12806
+                  6652,
+                  13662,
+                  12699
                 ]
               },
               "waist": {
@@ -6409,11 +6457,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 251115,
-                "item_level": 289,
-                "enchant": 7968,
-                "icon": "inv_12_trinket_devouring_host_currency2_void",
-                "name": "Bifurcation Band",
+                "item_id": 251148,
+                "item_level": 311,
+                "enchant": 8021,
+                "icon": "inv_12_jewelry_zulaman_troll_ring_green2",
+                "name": "Pilfered Precious Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -6425,31 +6473,31 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240907
+                  240891
                 ],
                 "gems_detail": [
                   {
-                    "id": 240907,
-                    "name": "14 Crit & 6 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                    "id": 240891,
+                    "name": "14 Haste & 6 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
                   }
                 ],
                 "enchants": [
-                  7968
+                  8021
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243958,
-                    "name": "Enchant Ring - Zul'jin's Mast",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                    "id": 244011,
+                    "name": "Enchant Ring - Thalassian Haste",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
                   }
                 ],
                 "bonuses": [
+                  12843,
                   13440,
                   6652,
                   13668,
-                  12699,
-                  12806
+                  12699
                 ]
               },
               "trinket1": {
@@ -6825,8 +6873,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2627.2,
-          "allScoreColor": "#a937e8"
+          "allScore": 2641.6,
+          "allScoreColor": "#a335ee"
         },
         "rank": 8,
         "stream": null
@@ -7607,7 +7655,7 @@
         },
         "keystoneScores": {
           "allScore": 1617.6,
-          "allScoreColor": "#5da8a2"
+          "allScoreColor": "#5eac9d"
         },
         "rank": 7,
         "stream": null
@@ -8342,7 +8390,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -9981,7 +10029,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -10674,7 +10722,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -12800,7 +12848,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -13595,7 +13643,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -14397,7 +14445,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -17703,7 +17751,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -18377,7 +18425,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 2,
             "heroic": 0,
             "mythic": 0
           }
@@ -18397,7 +18445,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 splits, blue class/warr pov",
           "community_ids": [],
-          "viewer_count": 96,
+          "viewer_count": 76,
           "started_at": "2026-08-21T17:03:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -19081,7 +19129,7 @@
           "type": "live",
           "title": "rwf splits for the next few days !event",
           "community_ids": [],
-          "viewer_count": 440,
+          "viewer_count": 339,
           "started_at": "2026-08-21T18:34:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -19809,7 +19857,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -20574,7 +20622,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -22011,7 +22059,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 splits, blue class/warr pov",
           "community_ids": [],
-          "viewer_count": 96,
+          "viewer_count": 76,
           "started_at": "2026-08-21T17:03:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -22734,7 +22782,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 splits, blue class/warr pov",
           "community_ids": [],
-          "viewer_count": 96,
+          "viewer_count": 76,
           "started_at": "2026-08-21T17:03:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -23409,7 +23457,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -25557,7 +25605,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -26332,7 +26380,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -27001,7 +27049,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -30521,7 +30569,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -33956,7 +34004,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -35377,7 +35425,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -38890,7 +38938,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 splits, blue class/warr pov",
           "community_ids": [],
-          "viewer_count": 96,
+          "viewer_count": 76,
           "started_at": "2026-08-21T17:03:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -39650,7 +39698,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -40343,7 +40391,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -42385,7 +42433,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -43106,7 +43154,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -43796,7 +43844,7 @@
           "type": "live",
           "title": "rwf splits for the next few days !event",
           "community_ids": [],
-          "viewer_count": 440,
+          "viewer_count": 339,
           "started_at": "2026-08-21T18:34:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -45120,8 +45168,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 2,
+            "heroic": 4,
             "mythic": 0
           }
         },
@@ -48446,7 +48494,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 1,
             "heroic": 0,
             "mythic": 0
           }
@@ -48466,7 +48514,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -49208,7 +49256,7 @@
           "type": "live",
           "title": "hello america splits time DAY 4 !ui <Liquid>",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 42,
           "started_at": "2026-08-21T17:04:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -50497,7 +50545,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -51148,7 +51196,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 3,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -51167,7 +51215,7 @@
           "type": "live",
           "title": "hello america splits time DAY 4 !ui <Liquid>",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 42,
           "started_at": "2026-08-21T17:04:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -51890,7 +51938,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -53347,7 +53395,7 @@
           "type": "live",
           "title": "rwf splits for the next few days !event",
           "community_ids": [],
-          "viewer_count": 440,
+          "viewer_count": 339,
           "started_at": "2026-08-21T18:34:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -54048,7 +54096,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -54718,7 +54766,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -55468,7 +55516,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -56071,7 +56119,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 8,
             "mythic": 0
           }
@@ -56091,7 +56139,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -57354,7 +57402,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -59459,7 +59507,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 2,
             "heroic": 0,
             "mythic": 0
           }
@@ -61560,7 +61608,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -62270,7 +62318,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -63633,8 +63681,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 2,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -63653,7 +63701,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 :)",
           "community_ids": [],
-          "viewer_count": 463,
+          "viewer_count": 369,
           "started_at": "2026-08-21T16:38:08Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickc1-{width}x{height}.jpg"
@@ -64319,7 +64367,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -65013,7 +65061,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -65685,7 +65733,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 2,
             "heroic": 0,
             "mythic": 0
           }
@@ -65705,7 +65753,7 @@
           "type": "live",
           "title": "rwf splits for the next few days !event",
           "community_ids": [],
-          "viewer_count": 440,
+          "viewer_count": 339,
           "started_at": "2026-08-21T18:34:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -66429,7 +66477,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -67182,8 +67230,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 2,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -67880,7 +67928,7 @@
           "type": "live",
           "title": "rwf splits for the next few days !event",
           "community_ids": [],
-          "viewer_count": 440,
+          "viewer_count": 339,
           "started_at": "2026-08-21T18:34:29Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imexile-{width}x{height}.jpg"
@@ -68542,7 +68590,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 6,
             "mythic": 0
           }
@@ -68562,7 +68610,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -72878,8 +72926,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 2,
+            "heroic": 4,
             "mythic": 0
           }
         },
@@ -74348,7 +74396,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 7,
             "mythic": 0
           }
@@ -75076,7 +75124,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -75803,7 +75851,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -79916,7 +79964,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 3,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -79935,7 +79983,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -80703,7 +80751,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 1,
             "heroic": 0,
             "mythic": 0
           }
@@ -80723,7 +80771,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -81443,7 +81491,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -82120,7 +82168,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -83523,7 +83571,7 @@
           "type": "live",
           "title": "hello america splits time DAY 4 !ui <Liquid>",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 42,
           "started_at": "2026-08-21T17:04:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -84267,7 +84315,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -85703,7 +85751,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -87125,7 +87173,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -87845,8 +87893,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
-            "heroic": 4,
+            "normal": 3,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -87865,7 +87913,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -88508,7 +88556,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 2,
             "heroic": 0,
             "mythic": 0
           }
@@ -95535,7 +95583,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -98853,7 +98901,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 splits, blue class/warr pov",
           "community_ids": [],
-          "viewer_count": 96,
+          "viewer_count": 76,
           "started_at": "2026-08-21T17:03:54Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impec_-{width}x{height}.jpg"
@@ -99565,7 +99613,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 1,
             "heroic": 0,
             "mythic": 0
           }
@@ -99585,7 +99633,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -102350,7 +102398,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -103081,7 +103129,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 7,
             "mythic": 0
           }
@@ -103101,7 +103149,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -103820,7 +103868,7 @@
           "type": "live",
           "title": "hello america splits time DAY 4 !ui <Liquid>",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 42,
           "started_at": "2026-08-21T17:04:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -104614,7 +104662,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -105359,7 +105407,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -106770,7 +106818,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 1,
             "heroic": 0,
             "mythic": 0
           }
@@ -107547,7 +107595,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -112334,7 +112382,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -113064,7 +113112,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -113785,7 +113833,7 @@
           "type": "live",
           "title": "hello america splits time DAY 4 !ui <Liquid>",
           "community_ids": [],
-          "viewer_count": 78,
+          "viewer_count": 42,
           "started_at": "2026-08-21T17:04:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -115230,7 +115278,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -115249,7 +115297,7 @@
           "type": "live",
           "title": "Trill <Liquid> | RWF DAY 4",
           "community_ids": [],
-          "viewer_count": 140,
+          "viewer_count": 165,
           "started_at": "2026-08-21T17:01:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trilltko-{width}x{height}.jpg"
@@ -116590,7 +116638,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -117363,7 +117411,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -118791,7 +118839,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -119490,7 +119538,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -120207,7 +120255,7 @@
         },
         "keystoneScores": {
           "allScore": 2653.1,
-          "allScoreColor": "#ae39e2"
+          "allScoreColor": "#a937e8"
         },
         "rank": 8,
         "stream": null
@@ -120912,7 +120960,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -121623,7 +121671,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -126501,7 +126549,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -128532,7 +128580,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 1,
             "heroic": 0,
             "mythic": 0
           }
@@ -130756,7 +130804,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -131480,7 +131528,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -132142,8 +132190,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 2,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -132849,7 +132897,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 7,
             "mythic": 0
           }
@@ -133543,7 +133591,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -134291,7 +134339,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -135018,7 +135066,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -135741,7 +135789,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -136474,7 +136522,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -137156,7 +137204,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -137867,7 +137915,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -138527,7 +138575,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -139210,7 +139258,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 5,
             "mythic": 0
           }
@@ -139230,7 +139278,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -139903,7 +139951,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -140606,7 +140654,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -142549,7 +142597,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -143239,7 +143287,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 2,
             "heroic": 0,
             "mythic": 0
           }
@@ -145282,7 +145330,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -149368,7 +149416,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -150093,7 +150141,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -152303,7 +152351,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -153072,7 +153120,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -153091,7 +153139,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -154436,7 +154484,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 7,
             "mythic": 0
           }
@@ -154456,7 +154504,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -155907,7 +155955,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -156679,7 +156727,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -160295,7 +160343,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -164615,7 +164663,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -165304,8 +165352,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 2,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -166017,7 +166065,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -172335,7 +172383,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4 | !ui !reflect !restedxp !capybara !guide",
           "community_ids": [],
-          "viewer_count": 61,
+          "viewer_count": 50,
           "started_at": "2026-08-21T17:01:33Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
@@ -173017,7 +173065,7 @@
           "type": "live",
           "title": "<Liquid> Venomous Abyss RWF splits ULA'TEK HEROIC !!",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 72,
           "started_at": "2026-08-21T17:08:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_goop-{width}x{height}.jpg"
@@ -173720,7 +173768,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -175150,7 +175198,7 @@
           "type": "live",
           "title": "DROPS <Liquid> RWF DAY 4 MORE SPLITS",
           "community_ids": [],
-          "viewer_count": 534,
+          "viewer_count": 426,
           "started_at": "2026-08-21T16:58:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
@@ -177823,7 +177871,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -180039,7 +180087,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 3,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -183473,7 +183521,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -189915,7 +189963,7 @@
           "type": "live",
           "title": "<Liquid> RWF Week 1",
           "community_ids": [],
-          "viewer_count": 77,
+          "viewer_count": 57,
           "started_at": "2026-08-21T17:00:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wallife1-{width}x{height}.jpg"
@@ -190538,7 +190586,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 2,
             "heroic": 0,
             "mythic": 0
           }
@@ -191918,7 +191966,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -191937,7 +191985,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -192662,7 +192710,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -193379,7 +193427,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -194150,7 +194198,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -196837,7 +196885,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 2,
+            "normal": 3,
             "heroic": 6,
             "mythic": 0
           }
@@ -197594,7 +197642,7 @@
           "type": "live",
           "title": "RWF Day 4",
           "community_ids": [],
-          "viewer_count": 666,
+          "viewer_count": 588,
           "started_at": "2026-08-21T16:55:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
@@ -199037,7 +199085,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 3,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -202624,7 +202672,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -203967,7 +204015,7 @@
           "type": "live",
           "title": "<Liquid> rwf day 4 !discord",
           "community_ids": [],
-          "viewer_count": 229,
+          "viewer_count": 203,
           "started_at": "2026-08-21T17:00:39Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
@@ -207491,7 +207539,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -208154,7 +208202,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -208910,7 +208958,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -209596,7 +209644,7 @@
           "type": "live",
           "title": "<Liquid> RWF DAY 4 !ui",
           "community_ids": [],
-          "viewer_count": 1022,
+          "viewer_count": 1058,
           "started_at": "2026-08-21T17:08:26Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
@@ -210270,7 +210318,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -211504,7 +211552,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 3,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -212884,7 +212932,7 @@
           "type": "live",
           "title": "<Liquid> RWF Day 4",
           "community_ids": [],
-          "viewer_count": 70,
+          "viewer_count": 55,
           "started_at": "2026-08-21T17:00:16Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
@@ -214238,7 +214286,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 1,
             "heroic": 0,
             "mythic": 0
           }
@@ -217063,7 +217111,7 @@
           "totalBosses": 8,
           "progress": {
             "normal": 2,
-            "heroic": 4,
+            "heroic": 5,
             "mythic": 0
           }
         },
@@ -217699,7 +217747,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -220452,7 +220500,7 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
+            "normal": 1,
             "heroic": 0,
             "mythic": 0
           }
@@ -220472,7 +220520,7 @@
           "type": "live",
           "title": "<Liquid> yep",
           "community_ids": [],
-          "viewer_count": 101,
+          "viewer_count": 82,
           "started_at": "2026-08-21T18:57:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
@@ -223861,8 +223909,8 @@
           },
           "totalBosses": 8,
           "progress": {
-            "normal": 0,
-            "heroic": 0,
+            "normal": 2,
+            "heroic": 4,
             "mythic": 0
           }
         },
@@ -230228,7 +230276,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-08-21T22:25:13.462Z"
+    "fetchedAt": "2026-08-22T01:15:25.316Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -240358,7 +240406,7 @@
         },
         "keystoneScores": {
           "allScore": 2448.2,
-          "allScoreColor": "#8550e9"
+          "allScoreColor": "#7e55e7"
         },
         "rank": 7,
         "stream": null
@@ -317978,7 +318026,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-08-21T22:25:13.583Z"
+    "fetchedAt": "2026-08-22T01:15:29.085Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -321769,7 +321817,7 @@
         },
         "keystoneScores": {
           "allScore": 629.8,
-          "allScoreColor": "#9aff7f"
+          "allScoreColor": "#9fff84"
         },
         "rank": 5,
         "stream": null
@@ -325473,7 +325521,7 @@
         },
         "keystoneScores": {
           "allScore": 310.2,
-          "allScoreColor": "#eaffe1"
+          "allScoreColor": "#ebffe3"
         },
         "rank": 5,
         "stream": null
@@ -326253,7 +326301,7 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/101/187520101-avatar.jpg",
-          "itemLevelEquipped": 297,
+          "itemLevelEquipped": 300,
           "realm": {
             "id": 739,
             "connectedRealmId": 362,
@@ -326273,10 +326321,10 @@
             "short_name": "EU"
           },
           "items": {
-            "created_at": "2026-08-20T19:16:19.580Z",
-            "updated_at": "2026-08-20T19:16:19.580Z",
+            "created_at": "2026-08-21T22:28:41.445Z",
+            "updated_at": "2026-08-21T22:28:41.445Z",
             "source": "s3",
-            "item_level_equipped": 297,
+            "item_level_equipped": 300,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -326372,10 +326420,10 @@
                 ]
               },
               "neck": {
-                "item_id": 50228,
-                "item_level": 276,
-                "icon": "inv_jewelry_necklace_22",
-                "name": "Barbed Ymirheim Choker",
+                "item_id": 273781,
+                "item_level": 311,
+                "icon": "inv_121_jewelry_neck03_teal",
+                "name": "Strand of Warding Fangs",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -326399,11 +326447,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12843,
                   13440,
                   6652,
                   13668,
-                  12699,
-                  12802
+                  12699
                 ]
               },
               "shoulder": {
@@ -326521,11 +326569,11 @@
                 ]
               },
               "chest": {
-                "item_id": 239032,
-                "item_level": 292,
+                "item_id": 273785,
+                "item_level": 311,
                 "enchant": 7987,
-                "icon": "inv_chest_cloth_zandalardungeon_c_01",
-                "name": "Robes of the Reborn Serpent",
+                "icon": "inv_robe_cloth_outdooramaniloa_c_01",
+                "name": "Primordial Robe of Rites",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -326549,9 +326597,9 @@
                   }
                 ],
                 "bonuses": [
-                  12833,
-                  13439,
-                  41,
+                  12843,
+                  13440,
+                  6652,
                   13662,
                   12699
                 ]
@@ -326935,7 +326983,7 @@
         },
         "keystoneScores": {
           "allScore": 3020.2,
-          "allScoreColor": "#e45a88"
+          "allScoreColor": "#e3598b"
         },
         "rank": 7,
         "stream": null
@@ -330467,7 +330515,7 @@
         },
         "keystoneScores": {
           "allScore": 1694.6,
-          "allScoreColor": "#589cae"
+          "allScoreColor": "#5aa1a9"
         },
         "rank": 3,
         "stream": null
@@ -333274,7 +333322,7 @@
         },
         "keystoneScores": {
           "allScore": 310.2,
-          "allScoreColor": "#eaffe1"
+          "allScoreColor": "#ebffe3"
         },
         "rank": 3,
         "stream": null
@@ -340062,7 +340110,7 @@
         },
         "keystoneScores": {
           "allScore": 310.2,
-          "allScoreColor": "#eaffe1"
+          "allScoreColor": "#ebffe3"
         },
         "rank": 5,
         "stream": null
@@ -356056,7 +356104,7 @@
         },
         "keystoneScores": {
           "allScore": 298.5,
-          "allScoreColor": "#f0ffe9"
+          "allScoreColor": "#f0ffea"
         },
         "rank": 3,
         "stream": null
@@ -371838,7 +371886,7 @@
         },
         "keystoneScores": {
           "allScore": 979.1,
-          "allScoreColor": "#3cf337"
+          "allScoreColor": "#36f62f"
         },
         "rank": 5,
         "stream": null
@@ -399348,6 +399396,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-08-21T22:25:20.193Z"
+    "fetchedAt": "2026-08-22T01:15:35.608Z"
   }
 }
