@@ -13631,12 +13631,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/131/218811523-avatar.jpg",
-          "itemLevelEquipped": 325,
+          "itemLevelEquipped": 326,
           "items": {
-            "created_at": "2026-10-07T15:30:04.086Z",
-            "updated_at": "2026-10-07T15:30:04.086Z",
+            "created_at": "2026-10-11T05:03:19.011Z",
+            "updated_at": "2026-10-11T05:03:19.011Z",
             "source": "s3",
-            "item_level_equipped": 325,
+            "item_level_equipped": 326,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -13851,10 +13851,10 @@
                 ]
               },
               "back": {
-                "item_id": 251190,
+                "item_id": 271559,
                 "item_level": 321,
-                "icon": "inv_cape_mail_dungeonharronir_c_01",
-                "name": "Bloodthorn Burnous",
+                "icon": "inv_cape_cloth_raidmageulatek_d_01",
+                "name": "Spellcloak of the Primal Leywarden",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -13870,11 +13870,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
+                  12846,
                   6652,
-                  13662,
-                  12699,
-                  12846
+                  13440,
+                  1574
                 ]
               },
               "chest": {
@@ -13915,10 +13914,10 @@
                 ]
               },
               "waist": {
-                "item_id": 268232,
+                "item_id": 271561,
                 "item_level": 321,
                 "icon": "inv_belt_cloth_raidmageulatek_d_01",
-                "name": "Cincture of the Abyssal Grotto",
+                "name": "Primal Leywarden's Bejeweled Buckle",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -13942,11 +13941,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12846,
                   6652,
-                  13695,
-                  13662,
                   13333,
-                  12846
+                  13695,
+                  1574
                 ]
               },
               "wrist": {
@@ -13982,10 +13981,10 @@
                 ]
               },
               "hands": {
-                "item_id": 268243,
+                "item_id": 271565,
                 "item_level": 321,
-                "icon": "inv_glove_cloth_raidwarlockulatek_d_01",
-                "name": "Grasps of the Eternal Shadow",
+                "icon": "inv_glove_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Manashapers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -13996,15 +13995,18 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13662,
+                  12846,
                   13334,
-                  12846
+                  6652,
+                  13691,
+                  13697,
+                  1574
                 ]
               },
               "legs": {
@@ -14044,11 +14046,11 @@
                 ]
               },
               "feet": {
-                "item_id": 268218,
-                "item_level": 321,
+                "item_id": 251137,
+                "item_level": 328,
                 "enchant": 7963,
-                "icon": "inv_boot_cloth_raidpriestulatek_d_01",
-                "name": "Nek'zali's Spiritwalkers",
+                "icon": "inv_boot_cloth_dungeonharronir_c_01",
+                "name": "Tempestuous Sandals",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -14074,8 +14076,7 @@
                 "bonuses": [
                   6652,
                   13662,
-                  13334,
-                  12846
+                  12852
                 ]
               },
               "finger1": {
@@ -14167,7 +14168,7 @@
               },
               "trinket1": {
                 "item_id": 270164,
-                "item_level": 328,
+                "item_level": 334,
                 "icon": "inv_10_tailoring_bag1_color2",
                 "name": "Gebbo's Bottomless Bag",
                 "item_quality": 4,
@@ -14187,7 +14188,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12852
+                  12854
                 ]
               },
               "trinket2": {
@@ -14453,8 +14454,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2923.7,
-          "allScoreColor": "#2977d5"
+          "allScore": 2955.4,
+          "allScoreColor": "#1c74d9"
         },
         "rank": 6,
         "stream": null
@@ -228303,21 +228304,7 @@
           "allScoreColor": "#337bd1"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1186345,
-          "id": "321749481177",
-          "name": "jdotb",
-          "user_id": "89390235",
-          "game_id": "18122",
-          "type": "live",
-          "title": "hpal 21 keys",
-          "community_ids": [],
-          "viewer_count": 196,
-          "started_at": "2026-10-10T20:02:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -328878,7 +328865,7 @@
           "progress": {
             "normal": 6,
             "heroic": 8,
-            "mythic": 3
+            "mythic": 5
           }
         },
         "keystoneScores": {
@@ -334189,7 +334176,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-11T04:17:03.521Z"
+    "fetchedAt": "2026-10-11T06:22:44.806Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -677786,7 +677773,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-11T04:17:13.529Z"
+    "fetchedAt": "2026-10-11T06:22:54.914Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1017479,6 +1017466,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-11T04:17:21.661Z"
+    "fetchedAt": "2026-10-11T06:23:02.547Z"
   }
 }
