@@ -22822,21 +22822,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1198707,
-          "id": "321844708570",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) wowee",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-14T03:56:44Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -40529,12 +40515,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "zuljin/73/252428617-avatar.jpg",
-          "itemLevelEquipped": 334,
+          "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-13T22:15:32.710Z",
-            "updated_at": "2026-10-13T22:15:32.710Z",
+            "created_at": "2026-10-14T08:15:25.809Z",
+            "updated_at": "2026-10-14T08:15:25.809Z",
             "source": "s3",
-            "item_level_equipped": 334,
+            "item_level_equipped": 333,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -41060,11 +41046,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 268249,
+                "item_id": 281029,
                 "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_121_jewelry_ring01_purple",
-                "name": "Vile Alchemist's Band",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -41098,7 +41084,7 @@
                 "bonuses": [
                   6652,
                   13668,
-                  13335,
+                  13334,
                   12854
                 ]
               },
@@ -41128,10 +41114,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 270168,
-                "item_level": 344,
-                "icon": "inv_10_dungeonjewelry_dragon_trinket_3djardintrophy_green",
-                "name": "Font of Venomous Rage",
+                "item_id": 270167,
+                "item_level": 334,
+                "icon": "inv_tradeskillitem_sorcererswater",
+                "name": "Wavecaller's Seastone",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -41149,7 +41135,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  13848
+                  12854
                 ]
               },
               "mainhand": {
@@ -41237,7 +41223,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -42024,12 +42010,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "area-52/220/237147868-avatar.jpg",
-          "itemLevelEquipped": 330,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-11T07:05:27.948Z",
-            "updated_at": "2026-10-11T07:05:27.948Z",
+            "created_at": "2026-10-14T08:15:17.865Z",
+            "updated_at": "2026-10-14T08:15:17.865Z",
             "source": "s3",
-            "item_level_equipped": 330,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -42041,11 +42027,11 @@
             },
             "items": {
               "head": {
-                "item_id": 271456,
-                "item_level": 321,
+                "item_id": 281239,
+                "item_level": 334,
                 "enchant": 8017,
                 "icon": "inv_helm_plate_raidwarriorulatek_d_01",
-                "name": "Tempered Horns of the Jade Warlord",
+                "name": "Corroded Hulk's Skullcap",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
@@ -42102,7 +42088,6 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -42118,10 +42103,10 @@
                 "bonuses": [
                   6652,
                   13696,
-                  13440,
-                  13692,
-                  13698,
-                  12846
+                  13662,
+                  13334,
+                  14049,
+                  12854
                 ]
               },
               "neck": {
@@ -42590,10 +42575,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270165,
+                "item_id": 270173,
                 "item_level": 334,
-                "icon": "inv_121_trinket_raid_ulatek_golemhearts_green",
-                "name": "Keeper's Seething Core",
+                "icon": "inv_121_trinket_raid_ulatek_trolltablet",
+                "name": "Zul'jin's Guillotine Technique",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -42610,7 +42595,7 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13335,
+                  13334,
                   12854
                 ]
               },
@@ -42640,11 +42625,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 268214,
+                "item_id": 268213,
                 "item_level": 334,
                 "enchant": 8689,
-                "icon": "inv_sword_2h_ulatek_d_01",
-                "name": "Malignant Toothed Edge",
+                "icon": "inv_axe_2h_ulatek_d_01",
+                "name": "Maze-roa, Warlord's Fury",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -42669,7 +42654,7 @@
                 ],
                 "bonuses": [
                   6652,
-                  13335,
+                  13334,
                   12854
                 ]
               }
@@ -47399,8 +47384,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3096.3,
-          "allScoreColor": "#4f67e1"
+          "allScore": 3143.9,
+          "allScoreColor": "#5c63e3"
         },
         "rank": 8,
         "stream": null
@@ -125490,21 +125475,7 @@
           "allScoreColor": "#675fe4"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1198707,
-          "id": "321844708570",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) wowee",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-14T03:56:44Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -151139,8 +151110,8 @@
           "thumbnail": "illidan/77/233608781-avatar.jpg",
           "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-08T07:15:02.142Z",
-            "updated_at": "2026-10-08T07:15:02.142Z",
+            "created_at": "2026-10-14T08:14:34.153Z",
+            "updated_at": "2026-10-14T08:14:34.153Z",
             "source": "s3",
             "item_level_equipped": 331,
             "item_level_total": 0,
@@ -151587,11 +151558,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 240949,
-                "item_level": 331,
+                "item_id": 281029,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -151623,14 +151594,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  12715,
-                  8791,
-                  13836
+                  6652,
+                  13668,
+                  13334,
+                  12854
                 ]
               },
               "finger2": {
@@ -151677,10 +151644,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 273796,
-                "item_level": 334,
-                "icon": "inv_121_trinket_dungeon_ulatek_vile",
-                "name": "Vile Vial of Volatile Venom",
+                "item_id": 270169,
+                "item_level": 344,
+                "icon": "inv_archaeology_orcclans_crackedidol",
+                "name": "Hex Lord's Dooming Idol",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -151696,10 +151663,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
-                  12699,
-                  12854
+                  13335,
+                  13848
                 ]
               },
               "trinket2": {
@@ -156424,8 +156390,8 @@
           "thumbnail": "zuljin/111/265149551-avatar.jpg",
           "itemLevelEquipped": 330,
           "items": {
-            "created_at": "2026-10-12T11:13:11.967Z",
-            "updated_at": "2026-10-12T11:13:11.967Z",
+            "created_at": "2026-10-14T08:15:28.938Z",
+            "updated_at": "2026-10-14T08:15:28.938Z",
             "source": "s3",
             "item_level_equipped": 330,
             "item_level_total": 0,
@@ -156776,6 +156742,7 @@
               "hands": {
                 "item_id": 271466,
                 "item_level": 321,
+                "enchant": 8727,
                 "icon": "inv_glove_plate_raidpaladinulatek_d_01",
                 "name": "Gauntlets of the Consecrated Flame",
                 "item_quality": 4,
@@ -156791,8 +156758,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8727
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 280563,
+                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Falco Strikes|r",
+                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13691,
@@ -156926,11 +156901,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 240949,
-                "item_level": 331,
+                "item_id": 281029,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -156962,13 +156937,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8793,
-                  13836
+                  6652,
+                  13668,
+                  13334,
+                  12854
                 ]
               },
               "trinket1": {
@@ -157075,7 +157047,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -157084,21 +157056,7 @@
           "allScoreColor": "#c442c6"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1198707,
-          "id": "321844708570",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) wowee",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-14T03:56:44Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -212262,8 +212220,8 @@
           "thumbnail": "illidan/223/236620511-avatar.jpg",
           "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-13T17:29:18.628Z",
-            "updated_at": "2026-10-13T17:29:18.628Z",
+            "created_at": "2026-10-14T08:15:19.391Z",
+            "updated_at": "2026-10-14T08:15:19.391Z",
             "source": "s3",
             "item_level_equipped": 331,
             "item_level_total": 0,
@@ -212670,7 +212628,7 @@
               "legs": {
                 "item_id": 244574,
                 "item_level": 331,
-                "enchant": 8159,
+                "enchant": 7935,
                 "icon": "inv_pant_leather_questbloodelf_b_01",
                 "name": "Silvermoon Agent's Leggings",
                 "item_quality": 4,
@@ -212686,13 +212644,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8159
+                  7935
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244641,
-                    "name": "41 Agi/Str & 115 Sta",
-                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
                   }
                 ],
                 "bonuses": [
@@ -212932,7 +212890,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -229004,8 +228962,8 @@
           "thumbnail": "illidan/127/234383999-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-07T00:55:07.406Z",
-            "updated_at": "2026-10-07T00:55:07.406Z",
+            "created_at": "2026-10-14T08:14:38.509Z",
+            "updated_at": "2026-10-14T08:14:38.509Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -229030,17 +228988,7 @@
                 "azerite_powers": [
                   null,
                   null,
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
+                  null,
                   {
                     "id": 580,
                     "spell": {
@@ -229061,8 +229009,16 @@
                 },
                 "domination_shards": [],
                 "tier": "36",
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [
                   8017
                 ],
@@ -229081,7 +229037,8 @@
                   13848,
                   13692,
                   13698,
-                  1597
+                  1597,
+                  13695
                 ]
               },
               "neck": {
@@ -235060,12 +235017,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/50/236314930-avatar.jpg",
-          "itemLevelEquipped": 339,
+          "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-14T00:46:17.181Z",
-            "updated_at": "2026-10-14T00:46:17.181Z",
+            "created_at": "2026-10-14T08:15:18.511Z",
+            "updated_at": "2026-10-14T08:15:18.511Z",
             "source": "s3",
-            "item_level_equipped": 339,
+            "item_level_equipped": 338,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -235637,10 +235594,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270175,
-                "item_level": 344,
-                "icon": "inv_121_trinket_raid_ulatek_heart",
-                "name": "Voracious Heart of Ula'tek",
+                "item_id": 281215,
+                "item_level": 334,
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -235658,7 +235615,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  13848
+                  12854
                 ]
               },
               "trinket2": {
@@ -262655,14 +262612,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 264,
-            "name": "Restoration",
-            "slug": "restoration",
+            "id": 262,
+            "name": "Elemental",
+            "slug": "elemental",
             "class_id": 7,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "path": "/characters/us/illidan/Drineystwo",
           "realm": {
@@ -262690,8 +262647,8 @@
           "thumbnail": "illidan/21/237460501-avatar.jpg",
           "itemLevelEquipped": 337,
           "items": {
-            "created_at": "2026-10-07T17:47:02.789Z",
-            "updated_at": "2026-10-07T17:47:02.789Z",
+            "created_at": "2026-10-14T08:15:19.570Z",
+            "updated_at": "2026-10-14T08:15:19.570Z",
             "source": "s3",
             "item_level_equipped": 337,
             "item_level_total": 0,
@@ -262983,13 +262940,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240910
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240910,
+                    "name": "16 Crit & 7 Vers",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_frost_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
                   13667,
+                  13695,
                   12497,
                   13751,
                   14001,
@@ -263178,7 +263144,7 @@
               },
               "finger2": {
                 "item_id": 268252,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 7967,
                 "icon": "inv_121_jewelry_ring03_red",
                 "name": "Apex Brute's Claw Ring",
@@ -263213,38 +263179,13 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
+                  40,
                   13668,
                   13334,
-                  12846
-                ]
-              },
-              "trinket1": {
-                "item_id": 270164,
-                "item_level": 334,
-                "icon": "inv_10_tailoring_bag1_color2",
-                "name": "Gebbo's Bottomless Bag",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13335,
                   12854
                 ]
               },
-              "trinket2": {
+              "trinket1": {
                 "item_id": 270169,
                 "item_level": 344,
                 "icon": "inv_archaeology_orcclans_crackedidol",
@@ -263267,6 +263208,31 @@
                   42,
                   13335,
                   13848
+                ]
+              },
+              "trinket2": {
+                "item_id": 270164,
+                "item_level": 334,
+                "icon": "inv_10_tailoring_bag1_color2",
+                "name": "Gebbo's Bottomless Bag",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13335,
+                  12854
                 ]
               },
               "mainhand": {
@@ -292740,7 +292706,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 1
           }
         },
@@ -297561,8 +297527,8 @@
           "thumbnail": "illidan/109/237902701-avatar.jpg",
           "itemLevelEquipped": 337,
           "items": {
-            "created_at": "2026-10-07T00:55:10.229Z",
-            "updated_at": "2026-10-07T00:55:10.229Z",
+            "created_at": "2026-10-14T08:15:19.457Z",
+            "updated_at": "2026-10-14T08:15:19.457Z",
             "source": "s3",
             "item_level_equipped": 337,
             "item_level_total": 0,
@@ -297749,47 +297715,22 @@
                 ]
               },
               "chest": {
-                "item_id": 239655,
-                "item_level": 331,
+                "item_id": 271549,
+                "item_level": 334,
                 "enchant": 7987,
-                "icon": "inv_robe_cloth_questbloodelf_b_01",
-                "name": "Martyr's Vestments",
+                "icon": "inv_robe_cloth_raidwarlockulatek_d_01",
+                "name": "Damned Necrolyte's Rattling Robes",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  null,
-                  null,
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -297803,14 +297744,11 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  8960,
-                  12384,
-                  8790,
-                  13836
+                  13335,
+                  13690,
+                  41,
+                  13698,
+                  12854
                 ]
               },
               "waist": {
@@ -297871,10 +297809,10 @@
                 "bonuses": []
               },
               "wrist": {
-                "item_id": 268228,
-                "item_level": 334,
-                "icon": "inv_bracer_cloth_raidmageulatek_d_01",
-                "name": "Venom-Singed Cuffs",
+                "item_id": 239648,
+                "item_level": 331,
+                "icon": "inv_bracer_cloth_questbloodelf_b_01",
+                "name": "Martyr's Bindings",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -297886,23 +297824,29 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240906
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  12214,
+                  13667,
                   13695,
-                  13662,
-                  13335,
-                  12854
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13836,
+                  13696
                 ]
               },
               "hands": {
@@ -298122,10 +298066,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 270164,
+                "item_id": 281215,
                 "item_level": 334,
-                "icon": "inv_10_tailoring_bag1_color2",
-                "name": "Gebbo's Bottomless Bag",
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -298142,7 +298086,7 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13335,
+                  13334,
                   12854
                 ]
               },
@@ -298207,7 +298151,7 @@
                   14001,
                   13771,
                   8960,
-                  8790,
+                  8791,
                   13836
                 ]
               }
@@ -300342,12 +300286,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/228/237922788-avatar.jpg",
-          "itemLevelEquipped": 336,
+          "itemLevelEquipped": 315,
           "items": {
-            "created_at": "2026-10-14T01:23:21.864Z",
-            "updated_at": "2026-10-14T01:23:21.864Z",
+            "created_at": "2026-10-14T08:15:17.866Z",
+            "updated_at": "2026-10-14T08:15:17.866Z",
             "source": "s3",
-            "item_level_equipped": 336,
+            "item_level_equipped": 315,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -300516,35 +300460,6 @@
                   13662,
                   13335,
                   13848
-                ]
-              },
-              "back": {
-                "item_id": 239656,
-                "item_level": 331,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8791,
-                  13836
                 ]
               },
               "chest": {
@@ -314644,12 +314559,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "zuljin/210/268434642-avatar.jpg",
-          "itemLevelEquipped": 329,
+          "itemLevelEquipped": 330,
           "items": {
-            "created_at": "2026-10-10T11:31:19.328Z",
-            "updated_at": "2026-10-10T11:31:19.328Z",
+            "created_at": "2026-10-14T08:15:29.021Z",
+            "updated_at": "2026-10-14T08:15:29.021Z",
             "source": "s3",
-            "item_level_equipped": 329,
+            "item_level_equipped": 330,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -314662,7 +314577,7 @@
             "items": {
               "head": {
                 "item_id": 271510,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 8017,
                 "icon": "inv_helm_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Spirit Shroud",
@@ -314732,14 +314647,14 @@
                   13847,
                   13692,
                   13698,
-                  12846
+                  12854
                 ]
               },
               "neck": {
-                "item_id": 273781,
+                "item_id": 268265,
                 "item_level": 321,
-                "icon": "inv_121_jewelry_neck03_teal",
-                "name": "Strand of Warding Fangs",
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -314751,9 +314666,15 @@
                 },
                 "domination_shards": [],
                 "gems": [
+                  240906,
                   240908
                 ],
                 "gems_detail": [
+                  {
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                  },
                   {
                     "id": 240908,
                     "name": "16 Crit & 7 Mast",
@@ -314763,10 +314684,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
                   13668,
-                  12699,
+                  13334,
+                  13987,
                   12846
                 ]
               },
@@ -316080,12 +316001,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/212/238086356-avatar.jpg",
-          "itemLevelEquipped": 329,
+          "itemLevelEquipped": 334,
           "items": {
-            "created_at": "2026-10-12T11:12:27.227Z",
-            "updated_at": "2026-10-12T11:12:27.227Z",
+            "created_at": "2026-10-14T08:15:23.596Z",
+            "updated_at": "2026-10-14T08:15:23.596Z",
             "source": "s3",
-            "item_level_equipped": 329,
+            "item_level_equipped": 334,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -316172,10 +316093,10 @@
                 ]
               },
               "neck": {
-                "item_id": 271638,
-                "item_level": 334,
-                "icon": "inv_121_jewelry_neck01_green",
-                "name": "Bound Serpent's Jade Eye",
+                "item_id": 268265,
+                "item_level": 344,
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -316187,13 +316108,19 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240967
+                  240983,
+                  240898
                 ],
                 "gems_detail": [
                   {
-                    "id": 240967,
-                    "name": "23 Primary / +0.15% critical strike effectiveness per unique Midnight gem color",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_orange"
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  },
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
                   }
                 ],
                 "enchants": [],
@@ -316202,20 +316129,66 @@
                   6652,
                   13668,
                   13335,
-                  10844,
-                  12854
+                  13848,
+                  13987
                 ]
               },
               "shoulder": {
                 "item_id": 271508,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 8031,
                 "icon": "inv_shoulder_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Voodoo Guards",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -316237,17 +316210,18 @@
                 ],
                 "bonuses": [
                   6652,
-                  13440,
+                  13335,
+                  12854,
                   13694,
                   13697,
-                  12846
+                  1587
                 ]
               },
               "back": {
-                "item_id": 239656,
-                "item_level": 331,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
+                "item_id": 268253,
+                "item_level": 344,
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -316263,13 +316237,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8791,
-                  13836
+                  6652,
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "chest": {
@@ -316353,13 +316324,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240908
+                  240898
                 ],
                 "gems_detail": [
                   {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
                   }
                 ],
                 "enchants": [],
@@ -316374,10 +316345,10 @@
                 ]
               },
               "hands": {
-                "item_id": 244575,
-                "item_level": 331,
-                "icon": "inv_glove_leather_questbloodelf_b_01",
-                "name": "Silvermoon Agent's Handwraps",
+                "item_id": 271511,
+                "item_level": 334,
+                "icon": "inv_glove_leather_raidrogueulatek_d_01",
+                "name": "Chosen Bloodslayer's Fanged Grips",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -316388,23 +316359,23 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8791,
-                  13836
+                  6652,
+                  13335,
+                  12854,
+                  13691,
+                  13697,
+                  1587
                 ]
               },
               "legs": {
                 "item_id": 271509,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 8159,
                 "icon": "inv_pant_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Reinforced Pants",
@@ -316432,11 +316403,11 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
+                  13335,
                   13693,
                   6652,
                   13698,
-                  12846
+                  12854
                 ]
               },
               "feet": {
@@ -316496,13 +316467,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240892
+                  240898
                 ],
                 "gems_detail": [
                   {
-                    "id": 240892,
-                    "name": "16 Haste & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
                   }
                 ],
                 "enchants": [
@@ -316542,13 +316513,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240900
+                  240898
                 ],
                 "gems_detail": [
                   {
-                    "id": 240900,
-                    "name": "16 Mast & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
                   }
                 ],
                 "enchants": [
@@ -316570,7 +316541,7 @@
               },
               "trinket1": {
                 "item_id": 270175,
-                "item_level": 321,
+                "item_level": 344,
                 "icon": "inv_121_trinket_raid_ulatek_heart",
                 "name": "Voracious Heart of Ula'tek",
                 "item_quality": 4,
@@ -316589,8 +316560,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13334,
-                  12846
+                  13335,
+                  13848
                 ]
               },
               "trinket2": {
@@ -344594,7 +344565,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-14T06:22:21.001Z"
+    "fetchedAt": "2026-10-14T08:18:41.293Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -353478,7 +353449,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -362992,7 +362963,21 @@
           "allScoreColor": "#97ff7c"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -365557,7 +365542,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -368834,7 +368819,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -381892,7 +381877,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -383252,7 +383251,21 @@
           "allScoreColor": "#f2ffed"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -383959,7 +383972,21 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -391571,7 +391598,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -396492,7 +396519,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -399331,7 +399372,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -400784,7 +400839,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -403422,7 +403491,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -404007,7 +404076,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -429783,7 +429852,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -431156,7 +431239,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -454816,8 +454913,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3564,
-          "allScoreColor": "#cb47bb"
+          "allScore": 3602.4,
+          "allScoreColor": "#d14baf"
         },
         "rank": 4,
         "stream": null
@@ -456209,7 +456306,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -461125,7 +461222,21 @@
           "allScoreColor": "#0070dd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -461817,7 +461928,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -462528,7 +462653,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -476634,12 +476773,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/79/176072783-avatar.jpg",
-          "itemLevelEquipped": 336,
+          "itemLevelEquipped": 337,
           "items": {
-            "created_at": "2026-10-12T21:55:29.922Z",
-            "updated_at": "2026-10-12T21:55:29.922Z",
+            "created_at": "2026-10-14T08:15:20.330Z",
+            "updated_at": "2026-10-14T08:15:20.330Z",
             "source": "s3",
-            "item_level_equipped": 336,
+            "item_level_equipped": 337,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -476740,8 +476879,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240890,
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  },
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -476790,10 +476943,10 @@
                 ]
               },
               "back": {
-                "item_id": 239656,
-                "item_level": 331,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
+                "item_id": 268253,
+                "item_level": 344,
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -476809,15 +476962,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8791,
-                  13836
+                  6652,
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "chest": {
@@ -477051,11 +477199,11 @@
                 ]
               },
               "feet": {
-                "item_id": 268258,
-                "item_level": 334,
+                "item_id": 244577,
+                "item_level": 331,
                 "enchant": 7993,
-                "icon": "inv_boot_mail_raidevokerulatek_d_01",
-                "name": "Boots of the Reckless Wayfarer",
+                "icon": "inv_boot_mail_questbloodelf_b_01",
+                "name": "Farstrider's Razor Talons",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -477079,10 +477227,15 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13662,
-                  13335,
-                  12854
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13836
                 ]
               },
               "finger1": {
@@ -477227,6 +477380,7 @@
               "mainhand": {
                 "item_id": 268207,
                 "item_level": 344,
+                "enchant": 8689,
                 "icon": "inv_bow_1h_ulatek_d_01",
                 "name": "Caustic Repose Greatbow",
                 "item_quality": 4,
@@ -477241,8 +477395,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13335,
@@ -494221,7 +494383,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -495687,7 +495849,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -521516,7 +521678,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -539066,14 +539242,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 257,
-            "name": "Holy",
-            "slug": "holy",
+            "id": 258,
+            "name": "Shadow",
+            "slug": "shadow",
             "class_id": 5,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 2
           },
           "path": "/characters/eu/tarren-mill/Cere",
           "realm": {
@@ -543130,7 +543306,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -563438,14 +563614,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 264,
-            "name": "Restoration",
-            "slug": "restoration",
+            "id": 262,
+            "name": "Elemental",
+            "slug": "elemental",
             "class_id": 7,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "path": "/characters/eu/tarren-mill/Ftmbucket",
           "realm": {
@@ -563473,8 +563649,8 @@
           "thumbnail": "tarren-mill/128/189904512-avatar.jpg",
           "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-12T21:55:31.161Z",
-            "updated_at": "2026-10-12T21:55:31.161Z",
+            "created_at": "2026-10-14T08:16:20.012Z",
+            "updated_at": "2026-10-14T08:16:20.012Z",
             "source": "s3",
             "item_level_equipped": 333,
             "item_level_total": 0,
@@ -564088,7 +564264,6 @@
               "offhand": {
                 "item_id": 268196,
                 "item_level": 334,
-                "enchant": 7528,
                 "icon": "inv_shield_1h_ulatek_d_01",
                 "name": "Venom-Slashed Scuteward",
                 "item_quality": 4,
@@ -564103,9 +564278,7 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7528
-                ],
+                "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
@@ -567662,7 +567835,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -568202,7 +568375,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -573709,7 +573882,21 @@
           "allScoreColor": "#f2ffed"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -623716,7 +623903,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -624242,7 +624429,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -635109,7 +635296,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -635795,7 +635996,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199058,
+          "id": "317059407574",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> WF 60 prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-10-14T08:13:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -664585,7 +664800,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -665987,7 +666202,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -666047,8 +666262,8 @@
           "thumbnail": "tarren-mill/164/190838692-avatar.jpg",
           "itemLevelEquipped": 332,
           "items": {
-            "created_at": "2026-10-13T20:54:32.858Z",
-            "updated_at": "2026-10-13T20:54:32.858Z",
+            "created_at": "2026-10-14T08:16:19.757Z",
+            "updated_at": "2026-10-14T08:16:19.757Z",
             "source": "s3",
             "item_level_equipped": 332,
             "item_level_total": 0,
@@ -666062,36 +666277,17 @@
             },
             "items": {
               "head": {
-                "item_id": 271875,
+                "item_id": 271528,
                 "item_level": 344,
+                "enchant": 7991,
                 "icon": "inv_helm_leather_raiddruidulatek_d_01",
-                "name": "Gaze of the Coiled Watcher",
+                "name": "Enigmatic Dreamwatcher's Somnolent Stare",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
+                  null,
+                  null,
                   {
                     "id": 580,
                     "spell": {
@@ -666122,17 +666318,28 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7991
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243981,
+                    "name": "Enchant Helm - Empowered Blessing of Speed",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
-                  13696,
-                  13662,
                   13335,
+                  13696,
+                  13847,
                   13848,
-                  13847
+                  13692,
+                  13698,
+                  1597
                 ]
               },
               "neck": {
@@ -666395,6 +666602,7 @@
               "hands": {
                 "item_id": 271529,
                 "item_level": 321,
+                "enchant": 8729,
                 "icon": "inv_glove_leather_raiddruidulatek_d_01",
                 "name": "Enigmatic Dreamwatcher's Gauntlets",
                 "item_quality": 4,
@@ -666410,8 +666618,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8729
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 283996,
+                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Heat Wave|r",
+                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color2"
+                  }
+                ],
                 "bonuses": [
                   42,
                   13691,
@@ -666706,7 +666922,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -676565,8 +676781,8 @@
           "thumbnail": "tarren-mill/144/190854544-avatar.jpg",
           "itemLevelEquipped": 339,
           "items": {
-            "created_at": "2026-10-12T21:55:30.008Z",
-            "updated_at": "2026-10-12T21:55:30.008Z",
+            "created_at": "2026-10-14T08:16:21.099Z",
+            "updated_at": "2026-10-14T08:16:21.099Z",
             "source": "s3",
             "item_level_equipped": 339,
             "item_level_total": 0,
@@ -676806,30 +677022,78 @@
                 ]
               },
               "chest": {
-                "item_id": 271876,
+                "item_id": 271495,
                 "item_level": 344,
-                "icon": "inv_chest_mail_raidevokerulatek_d_01",
-                "name": "Awoken Dreadfang Cuirass",
+                "enchant": 7987,
+                "icon": "inv_chest_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Scuteplate",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
-                  13662,
                   13335,
+                  13846,
                   13848,
-                  13846
+                  13690,
+                  13698,
+                  1597
                 ]
               },
               "waist": {
@@ -677867,7 +678131,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -678566,7 +678830,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -679641,7 +679905,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -680244,7 +680508,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -680828,7 +681092,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -681370,7 +681634,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -682080,7 +682344,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ NEW PATCH HYPE ♾️ | !UI | !shop !moumint !aion2",
           "community_ids": [],
-          "viewer_count": 827,
+          "viewer_count": 1360,
           "started_at": "2026-10-14T04:30:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -692979,7 +693243,7 @@
         "character": {
           "id": 309589360,
           "persona_id": 46262766,
-          "name": "Revvezw",
+          "name": "Revvezw-309589360",
           "class": {
             "id": 1,
             "name": "Warrior",
@@ -693003,7 +693267,7 @@
             "patch": "1.0.0",
             "ordinal": 0
           },
-          "path": "/characters/eu/tarren-mill/Revvezw",
+          "path": "/characters/eu/tarren-mill/Revvezw-309589360",
           "realm": {
             "id": 719,
             "connectedRealmId": 300,
@@ -694321,7 +694585,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-14T06:22:29.478Z"
+    "fetchedAt": "2026-10-14T08:18:41.552Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -701838,7 +702102,21 @@
           "allScoreColor": "#d9ffcb"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -736084,7 +736362,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -747268,7 +747560,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -776524,7 +776830,21 @@
           "allScoreColor": "#ddffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -777220,7 +777540,21 @@
           "allScoreColor": "#95ff79"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -811705,7 +812039,21 @@
           "allScoreColor": "#41ff28"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -812347,7 +812695,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -813707,7 +814069,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -814415,7 +814791,21 @@
           "allScoreColor": "#fa7736"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -844267,7 +844657,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -914037,7 +914441,21 @@
           "allScoreColor": "#b5ff9d"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -963849,7 +964267,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -977157,7 +977589,21 @@
           "allScoreColor": "#beffa8"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -978462,7 +978908,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -979127,7 +979587,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -985321,7 +985795,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1199060,
+          "id": "318803255911",
+          "name": "dan_warr",
+          "user_id": "145850098",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Wednesday can only mean one thing poggDelve <Method> :> !ui !vpn !holy",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-14T08:13:14Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1035421,6 +1035909,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-14T06:22:37.289Z"
+    "fetchedAt": "2026-10-14T08:18:58.291Z"
   }
 }
