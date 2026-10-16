@@ -345376,7 +345376,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-16T08:17:26.637Z"
+    "fetchedAt": "2026-10-16T10:13:10.258Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -354452,7 +354452,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -366599,7 +366599,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -369954,7 +369954,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -393215,7 +393215,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -405146,7 +405146,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -405781,7 +405781,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -416470,7 +416470,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -458010,7 +458010,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -484880,6 +484880,488 @@
       },
       {
         "character": {
+          "id": 292001947,
+          "persona_id": 46981939,
+          "name": "Rumiau",
+          "class": {
+            "id": 11,
+            "name": "Druid",
+            "slug": "druid"
+          },
+          "race": {
+            "id": 4,
+            "name": "Night Elf",
+            "slug": "night-elf",
+            "faction": "alliance"
+          },
+          "faction": "alliance",
+          "level": 90,
+          "spec": {
+            "id": 104,
+            "name": "Guardian",
+            "slug": "guardian",
+            "class_id": 11,
+            "role": "tank",
+            "is_melee": true,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "path": "/characters/eu/tarren-mill/Rumiau",
+          "realm": {
+            "id": 719,
+            "connectedRealmId": 300,
+            "wowRealmId": 1306,
+            "wowConnectedRealmId": 1084,
+            "name": "Tarren Mill",
+            "altName": null,
+            "slug": "tarren-mill",
+            "altSlug": "tarren-mill",
+            "locale": "en_GB",
+            "isConnected": true,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "Europe",
+            "slug": "eu",
+            "short_name": "EU"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "tarren-mill/28/179805212-avatar.jpg",
+          "itemLevelEquipped": 301,
+          "items": {
+            "created_at": "2026-10-16T09:56:26.676Z",
+            "updated_at": "2026-10-16T09:56:26.676Z",
+            "source": "s3",
+            "item_level_equipped": 301,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271528,
+                "item_level": 308,
+                "icon": "inv_helm_leather_raiddruidulatek_d_01",
+                "name": "Enigmatic Dreamwatcher's Somnolent Stare",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13696,
+                  13692,
+                  13698,
+                  12838
+                ]
+              },
+              "neck": {
+                "item_id": 275530,
+                "item_level": 308,
+                "icon": "inv_121_jewelry_neck02_orange",
+                "name": "Preyhunter's Clasp",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12838
+                ]
+              },
+              "shoulder": {
+                "item_id": 271526,
+                "item_level": 308,
+                "icon": "inv_shoulder_leather_raiddruidulatek_d_01",
+                "name": "Enigmatic Dreamwatcher's Plumage",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  42,
+                  13694,
+                  13697,
+                  12838
+                ]
+              },
+              "back": {
+                "item_id": 279222,
+                "item_level": 295,
+                "icon": "inv_cape_mail_outdooramaniloa_c_01",
+                "name": "Venom-Cursed Eagle's Mantle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  42,
+                  13662,
+                  12830
+                ]
+              },
+              "chest": {
+                "item_id": 271531,
+                "item_level": 305,
+                "icon": "inv_robe_leather_raiddruidulatek_d_01",
+                "name": "Enigmatic Dreamwatcher's Lunar Raiment",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12841,
+                  13690,
+                  13698,
+                  1558
+                ]
+              },
+              "waist": {
+                "item_id": 268256,
+                "item_level": 308,
+                "icon": "inv_belt_leather_raiddruidulatek_d_01",
+                "name": "Sash of the Forlorn Vessel",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13696,
+                  13662,
+                  13333,
+                  12838
+                ]
+              },
+              "wrist": {
+                "item_id": 277780,
+                "item_level": 295,
+                "icon": "inv_bracer_leather_outdooramaniloa_c_01",
+                "name": "Venom-Cursed Lynx's Bracers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13695,
+                  13662,
+                  12830
+                ]
+              },
+              "hands": {
+                "item_id": 271529,
+                "item_level": 308,
+                "icon": "inv_glove_leather_raiddruidulatek_d_01",
+                "name": "Enigmatic Dreamwatcher's Gauntlets",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13691,
+                  13697,
+                  12838
+                ]
+              },
+              "legs": {
+                "item_id": 277783,
+                "item_level": 295,
+                "icon": "inv_pant_leather_outdooramaniloa_c_01",
+                "name": "Venom-Cursed Lynx's Breeches",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  40,
+                  13662,
+                  12830
+                ]
+              },
+              "feet": {
+                "item_id": 277786,
+                "item_level": 295,
+                "icon": "inv_boot_leather_outdooramaniloa_c_01",
+                "name": "Venom-Cursed Lynx's Paws",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12830
+                ]
+              },
+              "finger1": {
+                "item_id": 272150,
+                "item_level": 305,
+                "icon": "inv_jewelry_ring_181",
+                "name": "Ouroboric Signet",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  42,
+                  13668
+                ]
+              },
+              "finger2": {
+                "item_id": 275528,
+                "item_level": 308,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Preyhunter's Ring",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12838
+                ]
+              },
+              "trinket1": {
+                "item_id": 274499,
+                "item_level": 295,
+                "icon": "rogue_venomzest",
+                "name": "Toxiferous Transfusion",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12830
+                ]
+              },
+              "trinket2": {
+                "item_id": 264507,
+                "item_level": 295,
+                "icon": "inv_112_raidtrinkets_etherealenergystoragebattery_gold",
+                "name": "Crucible of Erratic Energies",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12830
+                ]
+              },
+              "mainhand": {
+                "item_id": 277806,
+                "item_level": 295,
+                "icon": "inv_polearm_2h_outdooramaniloa_c_01",
+                "name": "Venom-Cursed Hidepiercer",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12830
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 5,
+        "stream": null
+      },
+      {
+        "character": {
           "id": 292039800,
           "persona_id": 53098174,
           "name": "Frostkatwo",
@@ -496679,7 +497161,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -498137,7 +498619,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -546772,7 +547254,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -571815,7 +572297,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -572355,7 +572837,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -588430,7 +588912,21 @@
           "allScoreColor": "#5dcb78"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207836,
+          "id": "317072013398",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Rogue bang. !ui !website !rogue !coaching !Liquid",
+          "community_ids": [],
+          "viewer_count": 166,
+          "started_at": "2026-10-16T09:56:05Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -625960,7 +626456,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -626486,7 +626982,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -666871,7 +667367,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -668273,7 +668769,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -668993,7 +669489,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -679572,7 +680068,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -680261,7 +680757,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -681411,7 +681907,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -682010,7 +682506,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -682593,7 +683089,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -683121,7 +683617,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -683820,7 +684316,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ LAB PRO + HUGE FOREVER CHANGES ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 619,
+          "viewer_count": 707,
           "started_at": "2026-10-16T06:25:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -698870,7 +699366,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-16T08:17:35.591Z"
+    "fetchedAt": "2026-10-16T10:13:32.989Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -702657,7 +703153,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -713453,7 +713949,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -715408,7 +715904,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -719680,7 +720176,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -724776,7 +725272,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -727643,7 +728139,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -728299,7 +728795,21 @@
           "allScoreColor": "#6fff53"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207765,
+          "id": "318963309669",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 50,
+          "started_at": "2026-10-16T09:05:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -738701,7 +739211,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -739390,7 +739900,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -740875,7 +741385,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -741563,11 +742073,25 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4133.3,
+          "allScore": 4133.9,
           "allScoreColor": "#fd7c23"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207830,
+          "id": "318963581157",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 420 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 51,
+          "started_at": "2026-10-16T09:50:28Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -745134,7 +745658,21 @@
           "allScoreColor": "#76ff5a"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207830,
+          "id": "318963581157",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 420 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 51,
+          "started_at": "2026-10-16T09:50:28Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -746580,7 +747118,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -747290,7 +747828,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -750746,7 +751284,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -756944,7 +757482,21 @@
           "allScoreColor": "#3a7fcd"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207765,
+          "id": "318963309669",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 50,
+          "started_at": "2026-10-16T09:05:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -761402,7 +761954,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -768803,7 +769355,21 @@
           "allScoreColor": "#e65c82"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207765,
+          "id": "318963309669",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 50,
+          "started_at": "2026-10-16T09:05:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -772554,7 +773120,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -775346,7 +775912,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -780799,7 +781365,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -781503,7 +782069,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -782204,7 +782770,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -783002,7 +783568,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -789279,7 +789845,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -796443,7 +797009,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -800581,7 +801147,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -801333,7 +801899,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -804197,7 +804763,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -807500,7 +808066,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -809595,7 +810161,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -810253,7 +810819,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -810915,7 +811481,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -826087,7 +826653,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -826760,7 +827326,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -853881,7 +854447,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -864202,11 +864768,25 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4133.3,
+          "allScore": 4133.9,
           "allScoreColor": "#fd7c23"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207765,
+          "id": "318963309669",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 50,
+          "started_at": "2026-10-16T09:05:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -864912,7 +865492,21 @@
           "allScoreColor": "#4082ca"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207765,
+          "id": "318963309669",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 50,
+          "started_at": "2026-10-16T09:05:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -879265,7 +879859,21 @@
           "allScoreColor": "#d9ffcb"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207765,
+          "id": "318963309669",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 50,
+          "started_at": "2026-10-16T09:05:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -882768,7 +883376,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -883528,7 +884136,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -910968,7 +911576,21 @@
           "allScoreColor": "#5ec77d"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207830,
+          "id": "318963581157",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 420 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 51,
+          "started_at": "2026-10-16T09:50:28Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -923270,7 +923892,21 @@
           "allScoreColor": "#406ae0"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207830,
+          "id": "318963581157",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 420 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 51,
+          "started_at": "2026-10-16T09:50:28Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -955900,7 +956536,7 @@
           "type": "live",
           "title": "Thaner <Method> - High keys !ui !vpn",
           "community_ids": [],
-          "viewer_count": 71,
+          "viewer_count": 102,
           "started_at": "2026-10-16T07:40:58Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -959397,7 +960033,21 @@
           "allScoreColor": "#ddffd0"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207765,
+          "id": "318963309669",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 50,
+          "started_at": "2026-10-16T09:05:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -960088,7 +960738,21 @@
           "allScoreColor": "#7aff5d"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1207830,
+          "id": "318963581157",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 420 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 51,
+          "started_at": "2026-10-16T09:50:28Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1000880,7 +1001544,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1001600,7 +1002264,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1002951,7 +1003615,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1003584,7 +1004248,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1011065,7 +1011729,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 200,
           "started_at": "2026-10-16T07:57:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1020936,12 +1021600,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/6/190931206-avatar.jpg",
-          "itemLevelEquipped": 339,
+          "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-14T22:44:22.981Z",
-            "updated_at": "2026-10-14T22:44:22.981Z",
+            "created_at": "2026-10-16T09:17:25.743Z",
+            "updated_at": "2026-10-16T09:17:25.743Z",
             "source": "s3",
-            "item_level_equipped": 339,
+            "item_level_equipped": 338,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -1021440,10 +1022104,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 270173,
-                "item_level": 344,
-                "icon": "inv_121_trinket_raid_ulatek_trolltablet",
-                "name": "Zul'jin's Guillotine Technique",
+                "item_id": 281215,
+                "item_level": 334,
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1021460,9 +1022124,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13335,
-                  13848,
-                  13696
+                  13334,
+                  12854
                 ]
               },
               "mainhand": {
@@ -1030952,6 +1031615,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-16T08:17:49.725Z"
+    "fetchedAt": "2026-10-16T10:13:45.232Z"
   }
 }
