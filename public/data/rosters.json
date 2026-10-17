@@ -348122,7 +348122,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T12:16:41.518Z"
+    "fetchedAt": "2026-10-17T14:10:49.599Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -356045,8 +356045,8 @@
           "thumbnail": "tarren-mill/18/176690706-avatar.jpg",
           "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-13T18:26:19.198Z",
-            "updated_at": "2026-10-13T18:26:19.198Z",
+            "created_at": "2026-10-17T14:09:26.947Z",
+            "updated_at": "2026-10-17T14:09:26.947Z",
             "source": "s3",
             "item_level_equipped": 338,
             "item_level_total": 0,
@@ -356428,52 +356428,6 @@
                 ]
               },
               "finger1": {
-                "item_id": 251513,
-                "item_level": 331,
-                "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring3_silver",
-                "name": "Loa Worshiper's Band",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240898
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  12214,
-                  13667,
-                  8960,
-                  12497,
-                  13751,
-                  14001,
-                  13836
-                ]
-              },
-              "finger2": {
                 "item_id": 268266,
                 "item_level": 334,
                 "enchant": 7967,
@@ -356515,6 +356469,32 @@
                   13335,
                   12854,
                   13696
+                ]
+              },
+              "finger2": {
+                "item_id": 268249,
+                "item_level": 334,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13335,
+                  12854
                 ]
               },
               "trinket1": {
@@ -366730,7 +366710,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -367471,7 +367451,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -386344,7 +386324,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -387718,7 +387698,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -388439,7 +388419,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -399518,14 +399498,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 259,
-            "name": "Assassination",
-            "slug": "assassination",
+            "id": 261,
+            "name": "Subtlety",
+            "slug": "subtlety",
             "class_id": 4,
             "role": "dps",
             "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 2
           },
           "path": "/characters/eu/kazzak/Arxstab",
           "realm": {
@@ -400965,7 +400945,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -401765,7 +401745,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -403823,7 +403803,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -405290,7 +405270,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -424240,7 +424220,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -424941,7 +424921,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -434330,7 +434310,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -435717,7 +435697,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -452501,7 +452481,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -457440,7 +457420,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -465814,7 +465794,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -466520,7 +466500,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -467245,7 +467225,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -479327,7 +479307,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -488855,12 +488835,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/164/189448868-avatar.jpg",
-          "itemLevelEquipped": 333,
+          "itemLevelEquipped": 332,
           "items": {
-            "created_at": "2026-10-14T21:44:20.404Z",
-            "updated_at": "2026-10-14T21:44:20.404Z",
+            "created_at": "2026-10-17T14:09:26.747Z",
+            "updated_at": "2026-10-17T14:09:26.747Z",
             "source": "s3",
-            "item_level_equipped": 333,
+            "item_level_equipped": 332,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -489396,10 +489376,35 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270162,
+                "item_id": 249346,
+                "item_level": 298,
+                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
+                "name": "Vaelgor's Final Stare",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13335,
+                  13654
+                ]
+              },
+              "trinket2": {
+                "item_id": 270161,
                 "item_level": 334,
-                "icon": "inv_121_trinket_raid_ulatek_ritualvessel",
-                "name": "Soulcoiler Ritual Vessel",
+                "icon": "inv_121_trinket_raid_ulatek_fang_purple",
+                "name": "Fang of Umbral Malignance",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -489418,31 +489423,6 @@
                   6652,
                   13335,
                   12854
-                ]
-              },
-              "trinket2": {
-                "item_id": 270167,
-                "item_level": 308,
-                "icon": "inv_tradeskillitem_sorcererswater",
-                "name": "Wavecaller's Seastone",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13333,
-                  12838
                 ]
               },
               "mainhand": {
@@ -496068,7 +496048,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 1
           }
         },
@@ -499464,7 +499444,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -500804,7 +500784,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -503649,7 +503629,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -506488,8 +506468,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3768.2,
-          "allScoreColor": "#e45a88"
+          "allScore": 3808.2,
+          "allScoreColor": "#e85f7c"
         },
         "rank": 4,
         "stream": null
@@ -511278,14 +511258,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 1468,
-            "name": "Preservation",
-            "slug": "preservation",
+            "id": 1467,
+            "name": "Devastation",
+            "slug": "devastation",
             "class_id": 13,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "10.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/eu/tarren-mill/Ftmballerup",
           "realm": {
@@ -527890,7 +527870,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -537246,7 +537226,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -539328,7 +539308,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -545436,7 +545416,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -547463,7 +547443,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -552316,7 +552296,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -553729,7 +553709,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -554412,7 +554392,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -555213,7 +555193,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -563751,7 +563731,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -573412,14 +573392,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 257,
-            "name": "Holy",
-            "slug": "holy",
+            "id": 258,
+            "name": "Shadow",
+            "slug": "shadow",
             "class_id": 5,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 2
           },
           "path": "/characters/eu/tarren-mill/Ftmbatchest",
           "realm": {
@@ -580722,7 +580702,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -585838,7 +585818,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -591934,7 +591914,7 @@
           "type": "live",
           "title": "Dont nerf rogue pls one time playable . no end til 24 resi !ui !website !rogue !coaching !Liquid",
           "community_ids": [],
-          "viewer_count": 543,
+          "viewer_count": 611,
           "started_at": "2026-10-17T10:49:30Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -616588,7 +616568,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -622261,7 +622241,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -640872,7 +640852,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -641588,7 +641568,7 @@
           "type": "live",
           "title": "DROPS <Echo> Forever Gaming !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 589,
+          "viewer_count": 944,
           "started_at": "2026-10-17T11:49:27Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -648381,14 +648361,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 264,
-            "name": "Restoration",
-            "slug": "restoration",
+            "id": 262,
+            "name": "Elemental",
+            "slug": "elemental",
             "class_id": 7,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "path": "/characters/eu/tarren-mill/Ftmraccoon",
           "realm": {
@@ -648416,8 +648396,8 @@
           "thumbnail": "tarren-mill/124/190738556-avatar.jpg",
           "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-10-16T20:28:38.153Z",
-            "updated_at": "2026-10-16T20:28:38.153Z",
+            "created_at": "2026-10-17T14:10:25.631Z",
+            "updated_at": "2026-10-17T14:10:25.631Z",
             "source": "s3",
             "item_level_equipped": 335,
             "item_level_total": 0,
@@ -649029,7 +649009,6 @@
               "offhand": {
                 "item_id": 268262,
                 "item_level": 334,
-                "enchant": 7528,
                 "icon": "inv_shield_1h_ulatek_d_01",
                 "name": "Bubblefin Splash Guard",
                 "item_quality": 4,
@@ -649044,9 +649023,7 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7528
-                ],
+                "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
@@ -649104,14 +649081,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 1467,
-            "name": "Devastation",
-            "slug": "devastation",
+            "id": 1473,
+            "name": "Augmentation",
+            "slug": "augmentation",
             "class_id": 13,
             "role": "dps",
             "is_melee": false,
-            "patch": "10.0.0",
-            "ordinal": 0
+            "patch": "10.1.5",
+            "ordinal": 2
           },
           "path": "/characters/eu/tarren-mill/Fraggovoka",
           "realm": {
@@ -681011,7 +680988,7 @@
           "type": "live",
           "title": "<Echo> i just had tiramisu :) mental fortress !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 125,
+          "viewer_count": 209,
           "started_at": "2026-10-17T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -690033,14 +690010,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 265,
-            "name": "Affliction",
-            "slug": "affliction",
+            "id": 266,
+            "name": "Demonology",
+            "slug": "demonology",
             "class_id": 9,
             "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/eu/tarren-mill/Firekatdone",
           "realm": {
@@ -690068,8 +690045,8 @@
           "thumbnail": "tarren-mill/118/190791542-avatar.jpg",
           "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-16T16:13:28.956Z",
-            "updated_at": "2026-10-16T16:13:28.956Z",
+            "created_at": "2026-10-17T14:10:24.595Z",
+            "updated_at": "2026-10-17T14:10:24.595Z",
             "source": "s3",
             "item_level_equipped": 333,
             "item_level_total": 0,
@@ -690490,49 +690467,6 @@
                 ]
               },
               "finger1": {
-                "item_id": 268266,
-                "item_level": 334,
-                "enchant": 7967,
-                "icon": "inv_70_raid_ring8c",
-                "name": "Alluring Bubbleband",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240898
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  6652,
-                  13668,
-                  13335,
-                  12854
-                ]
-              },
-              "finger2": {
                 "item_id": 268252,
                 "item_level": 334,
                 "enchant": 7967,
@@ -690572,6 +690506,49 @@
                   6652,
                   13668,
                   13335,
+                  12854
+                ]
+              },
+              "finger2": {
+                "item_id": 268249,
+                "item_level": 334,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240906
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
                   12854
                 ]
               },
@@ -699596,8 +699573,8 @@
           "thumbnail": "tarren-mill/139/191100299-avatar.jpg",
           "itemLevelEquipped": 334,
           "items": {
-            "created_at": "2026-10-14T21:45:27.002Z",
-            "updated_at": "2026-10-14T21:45:27.002Z",
+            "created_at": "2026-10-17T14:10:31.812Z",
+            "updated_at": "2026-10-17T14:10:31.812Z",
             "source": "s3",
             "item_level_equipped": 334,
             "item_level_total": 0,
@@ -699611,19 +699588,59 @@
             },
             "items": {
               "head": {
-                "item_id": 237832,
-                "item_level": 331,
+                "item_id": 281239,
+                "item_level": 334,
                 "enchant": 7961,
-                "icon": "inv_plate_questbloodelf_b_01_helm",
-                "name": "Spellbreaker's Cover",
+                "icon": "inv_helm_plate_raidwarriorulatek_d_01",
+                "name": "Corroded Hulk's Skullcap",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  null,
-                  null,
-                  null,
-                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
                   null
                 ],
                 "corruption": {
@@ -699645,16 +699662,12 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8793,
-                  13836,
-                  13696
+                  6652,
+                  13696,
+                  13662,
+                  13334,
+                  14049,
+                  12854
                 ]
               },
               "neck": {
@@ -700938,7 +700951,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -701607,680 +701620,9 @@
         },
         "rank": 5,
         "stream": null
-      },
-      {
-        "character": {
-          "id": 309634225,
-          "persona_id": 46262766,
-          "name": "Revvezw-309634225",
-          "class": {
-            "id": 1,
-            "name": "Warrior",
-            "slug": "warrior"
-          },
-          "race": {
-            "id": 7,
-            "name": "Gnome",
-            "slug": "gnome",
-            "faction": "alliance"
-          },
-          "faction": "alliance",
-          "level": 90,
-          "spec": {
-            "id": 71,
-            "name": "Arms",
-            "slug": "arms",
-            "class_id": 1,
-            "role": "dps",
-            "is_melee": true,
-            "patch": "1.0.0",
-            "ordinal": 0
-          },
-          "path": "/characters/eu/tarren-mill/Revvezw-309634225",
-          "realm": {
-            "id": 719,
-            "connectedRealmId": 300,
-            "wowRealmId": 1306,
-            "wowConnectedRealmId": 1084,
-            "name": "Tarren Mill",
-            "altName": null,
-            "slug": "tarren-mill",
-            "altSlug": "tarren-mill",
-            "locale": "en_GB",
-            "isConnected": true,
-            "realmType": "live"
-          },
-          "region": {
-            "name": "Europe",
-            "slug": "eu",
-            "short_name": "EU"
-          },
-          "flags": {},
-          "talents": "",
-          "talentsDetails": [],
-          "gender": "male",
-          "thumbnail": "tarren-mill/235/179358699-avatar.jpg",
-          "itemLevelEquipped": 320,
-          "items": {
-            "created_at": "2026-10-15T21:28:42.798Z",
-            "updated_at": "2026-10-15T21:28:42.798Z",
-            "source": "s3",
-            "item_level_equipped": 320,
-            "item_level_total": 0,
-            "artifact_traits": 0,
-            "corruption": {
-              "added": 0,
-              "resisted": 0,
-              "total": 0,
-              "cloakRank": 0,
-              "spells": []
-            },
-            "items": {
-              "head": {
-                "item_id": 271456,
-                "item_level": 321,
-                "enchant": 8017,
-                "icon": "inv_helm_plate_raidwarriorulatek_d_01",
-                "name": "Tempered Horns of the Jade Warlord",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8017
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244007,
-                    "name": "Enchant Helm - Empowered Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  13334,
-                  6652,
-                  13696,
-                  13692,
-                  13698,
-                  12846
-                ]
-              },
-              "neck": {
-                "item_id": 268265,
-                "item_level": 308,
-                "icon": "inv_121_jewelry_neck03_green",
-                "name": "Aqirbane Reliquary",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240890,
-                  240967
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  },
-                  {
-                    "id": 240967,
-                    "name": "23 Primary / +0.15% critical strike effectiveness per unique Midnight gem color",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_orange"
-                  }
-                ],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13668,
-                  13333,
-                  13987,
-                  12838
-                ]
-              },
-              "shoulder": {
-                "item_id": 271454,
-                "item_level": 321,
-                "enchant": 8001,
-                "icon": "inv_shoulder_plate_raidwarriorulatek_d_01",
-                "name": "Raging Pauldrons of the Jade Warlord",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8001
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243991,
-                    "name": "Enchant Shoulders - Amirdrassil's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  13334,
-                  6652,
-                  13694,
-                  13697,
-                  12846
-                ]
-              },
-              "back": {
-                "item_id": 239656,
-                "item_level": 318,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8790,
-                  13835
-                ]
-              },
-              "chest": {
-                "item_id": 271459,
-                "item_level": 321,
-                "enchant": 7987,
-                "icon": "inv_chest_plate_raidwarriorulatek_d_01",
-                "name": "Cuirass of the Jade Warlord",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  13334,
-                  6652,
-                  13690,
-                  13698,
-                  12846
-                ]
-              },
-              "waist": {
-                "item_id": 268244,
-                "item_level": 328,
-                "icon": "inv_belt_plate_raiddeathknightulatek_d_01",
-                "name": "Forgotten Grotto Girdle",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13696,
-                  13662,
-                  13334,
-                  12852
-                ]
-              },
-              "wrist": {
-                "item_id": 237834,
-                "item_level": 331,
-                "icon": "inv_plate_questbloodelf_b_01_bracer",
-                "name": "Spellbreaker's Bracers",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240916
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240916,
-                    "name": "16 Vers & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_blue"
-                  }
-                ],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12214,
-                  13667,
-                  13695,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8790,
-                  13836,
-                  13696
-                ]
-              },
-              "hands": {
-                "item_id": 271457,
-                "item_level": 308,
-                "icon": "inv_glove_plate_raidwarriorulatek_d_01",
-                "name": "Jeweled Gauntlets of the Jade Warlord",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13333,
-                  13691,
-                  6652,
-                  13697,
-                  12838
-                ]
-              },
-              "legs": {
-                "item_id": 271878,
-                "item_level": 328,
-                "enchant": 8163,
-                "icon": "inv_pant_plate_raiddeathknightulatek_d_01",
-                "name": "Chausses of Unbound Rancor",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8163
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244643,
-                    "name": "41 Agi/Str & 27 Armor",
-                    "icon": "inv_12_profession_leatherworking_thalassian_amor_kit"
-                  }
-                ],
-                "bonuses": [
-                  40,
-                  13662,
-                  13334,
-                  13708,
-                  12852
-                ]
-              },
-              "feet": {
-                "item_id": 193728,
-                "item_level": 308,
-                "enchant": 7963,
-                "icon": "inv_plate_dragondungeon_c_01_boot",
-                "name": "Scaleguard's Stalwart Greatboots",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7963
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243953,
-                    "name": "Enchant Boots - Lynx's Dexterity",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  13439,
-                  6652,
-                  13662,
-                  12699,
-                  12838
-                ]
-              },
-              "finger1": {
-                "item_id": 268252,
-                "item_level": 318,
-                "enchant": 7967,
-                "icon": "inv_121_jewelry_ring03_red",
-                "name": "Apex Brute's Claw Ring",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240900
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240900,
-                    "name": "16 Mast & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  6652,
-                  13668,
-                  13334,
-                  12849
-                ]
-              },
-              "finger2": {
-                "item_id": 240949,
-                "item_level": 318,
-                "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240906
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8790,
-                  13835
-                ]
-              },
-              "trinket1": {
-                "item_id": 270175,
-                "item_level": 308,
-                "icon": "inv_121_trinket_raid_ulatek_heart",
-                "name": "Voracious Heart of Ula'tek",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13333,
-                  12838
-                ]
-              },
-              "trinket2": {
-                "item_id": 270173,
-                "item_level": 318,
-                "icon": "inv_121_trinket_raid_ulatek_trolltablet",
-                "name": "Zul'jin's Guillotine Technique",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13334,
-                  12849
-                ]
-              },
-              "mainhand": {
-                "item_id": 268213,
-                "item_level": 334,
-                "enchant": 8689,
-                "icon": "inv_axe_2h_ulatek_d_01",
-                "name": "Maze-roa, Warlord's Fury",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8689
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
-                "bonuses": [
-                  6652,
-                  13334,
-                  13696,
-                  12854
-                ]
-              }
-            }
-          },
-          "expansionData": null,
-          "patronLevel": null
-        },
-        "raidProgress": {
-          "raid": {
-            "type": "raid",
-            "id": 17059,
-            "difficulty": "heroic",
-            "name": "The Unbinding of Kith'ix",
-            "short_name": "UOK",
-            "wowInstanceId": 3095,
-            "slug": "the-unbinding-of-kithix",
-            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
-            "expansion_id": 11
-          },
-          "totalBosses": 1,
-          "progress": {
-            "normal": 0,
-            "heroic": 0,
-            "mythic": 0
-          }
-        },
-        "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
-        },
-        "rank": 4,
-        "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T12:17:02.364Z"
+    "fetchedAt": "2026-10-17T14:10:55.244Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -731635,7 +730977,7 @@
           "type": "live",
           "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 52,
           "started_at": "2026-10-17T09:11:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -744866,7 +744208,7 @@
           "type": "live",
           "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 120,
+          "viewer_count": 101,
           "started_at": "2026-10-17T09:18:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -748447,7 +747789,7 @@
           "type": "live",
           "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 120,
+          "viewer_count": 101,
           "started_at": "2026-10-17T09:18:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -760229,7 +759571,7 @@
           "type": "live",
           "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 52,
           "started_at": "2026-10-17T09:11:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -772087,7 +771429,7 @@
           "type": "live",
           "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 52,
           "started_at": "2026-10-17T09:11:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -802373,7 +801715,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1533.8,
+          "allScore": 1536.2,
           "allScoreColor": "#8cff70"
         },
         "rank": 7,
@@ -850762,7 +850104,7 @@
           "type": "live",
           "title": "<Method> Hpal high keys rogue nerf this week ?",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 22,
           "started_at": "2026-10-17T10:56:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
@@ -858277,7 +857619,7 @@
           "type": "live",
           "title": "<Method> Hpal high keys rogue nerf this week ?",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 22,
           "started_at": "2026-10-17T10:56:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
@@ -859660,7 +859002,7 @@
           "type": "live",
           "title": "<Method> Hpal high keys rogue nerf this week ?",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 22,
           "started_at": "2026-10-17T10:56:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
@@ -867919,7 +867261,7 @@
           "type": "live",
           "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 52,
           "started_at": "2026-10-17T09:11:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -868639,7 +867981,7 @@
           "type": "live",
           "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 52,
           "started_at": "2026-10-17T09:11:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -873525,7 +872867,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 758.2,
+          "allScore": 760,
           "allScoreColor": "#d5ffc5"
         },
         "rank": 5,
@@ -883006,7 +882348,7 @@
           "type": "live",
           "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 52,
           "started_at": "2026-10-17T09:11:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -914695,7 +914037,7 @@
           "type": "live",
           "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 120,
+          "viewer_count": 101,
           "started_at": "2026-10-17T09:18:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -927008,7 +926350,7 @@
           "type": "live",
           "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 120,
+          "viewer_count": 101,
           "started_at": "2026-10-17T09:18:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -963135,7 +962477,7 @@
           "type": "live",
           "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 52,
           "started_at": "2026-10-17T09:11:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -963840,7 +963182,7 @@
           "type": "live",
           "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 120,
+          "viewer_count": 101,
           "started_at": "2026-10-17T09:18:21Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -964601,7 +963943,7 @@
           "type": "live",
           "title": "<Method> Hpal high keys rogue nerf this week ?",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 22,
           "started_at": "2026-10-17T10:56:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
@@ -997822,7 +997164,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3490.3,
+          "allScore": 3503.7,
           "allScoreColor": "#c442c6"
         },
         "rank": 5,
@@ -1008553,7 +1007895,7 @@
           "type": "live",
           "title": "<Method> Hpal high keys rogue nerf this week ?",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 22,
           "started_at": "2026-10-17T10:56:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
@@ -1012754,7 +1012096,7 @@
           "type": "live",
           "title": "<Method> Hpal high keys rogue nerf this week ?",
           "community_ids": [],
-          "viewer_count": 26,
+          "viewer_count": 22,
           "started_at": "2026-10-17T10:56:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
@@ -1013386,7 +1012728,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3888.4,
+          "allScore": 3899.1,
           "allScoreColor": "#ee656b"
         },
         "rank": 5,
@@ -1033224,8 +1032566,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3234.4,
-          "allScoreColor": "#8351e8"
+          "allScore": 3398.8,
+          "allScoreColor": "#b33add"
         },
         "rank": 5,
         "stream": null
@@ -1034628,6 +1033970,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T12:17:10.520Z"
+    "fetchedAt": "2026-10-17T14:11:01.621Z"
   }
 }
