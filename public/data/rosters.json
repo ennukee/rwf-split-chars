@@ -22851,21 +22851,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1210810,
-          "id": "322002424155",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) finally did every dam task around the house, now we key/stream",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-17T02:23:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -78708,7 +78694,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -125469,21 +125455,7 @@
           "allScoreColor": "#675fe4"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1210810,
-          "id": "322002424155",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) finally did every dam task around the house, now we key/stream",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-17T02:23:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -133545,7 +133517,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -156454,25 +156426,11 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3519.1,
+          "allScore": 3536.3,
           "allScoreColor": "#c744c0"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1210810,
-          "id": "322002424155",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) finally did every dam task around the house, now we key/stream",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-17T02:23:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -224449,7 +224407,7 @@
           "type": "live",
           "title": "[DROPS] keys into rdruid raid",
           "community_ids": [],
-          "viewer_count": 226,
+          "viewer_count": 266,
           "started_at": "2026-10-16T22:52:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -344931,7 +344889,7 @@
         "character": {
           "id": 309626576,
           "persona_id": 57824260,
-          "name": "Chocolatier",
+          "name": "Chocolatier-309626576",
           "class": {
             "id": 13,
             "name": "Evoker",
@@ -344955,7 +344913,7 @@
             "patch": "10.0.0",
             "ordinal": 0
           },
-          "path": "/characters/us/illidan/Chocolatier",
+          "path": "/characters/us/illidan/Chocolatier-309626576",
           "realm": {
             "id": 369,
             "connectedRealmId": 207,
@@ -346201,7 +346159,7 @@
         "character": {
           "id": 309626578,
           "persona_id": 57824260,
-          "name": "Boomie",
+          "name": "Boomie-309626578",
           "class": {
             "id": 13,
             "name": "Evoker",
@@ -346225,7 +346183,7 @@
             "patch": "10.0.0",
             "ordinal": 1
           },
-          "path": "/characters/us/alexstrasza/Boomie",
+          "path": "/characters/us/alexstrasza/Boomie-309626578",
           "realm": {
             "id": 252,
             "connectedRealmId": 126,
@@ -347546,9 +347504,686 @@
         },
         "rank": 1,
         "stream": null
+      },
+      {
+        "character": {
+          "id": 309650974,
+          "persona_id": 57824260,
+          "name": "Chocolatier",
+          "class": {
+            "id": 13,
+            "name": "Evoker",
+            "slug": "evoker"
+          },
+          "race": {
+            "id": 70,
+            "name": "Dracthyr",
+            "slug": "dracthyr",
+            "faction": "horde"
+          },
+          "faction": "horde",
+          "level": 90,
+          "spec": {
+            "id": 1468,
+            "name": "Preservation",
+            "slug": "preservation",
+            "class_id": 13,
+            "role": "healer",
+            "is_melee": false,
+            "patch": "10.0.0",
+            "ordinal": 1
+          },
+          "path": "/characters/us/illidan/Chocolatier",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/143/238128783-avatar.jpg",
+          "itemLevelEquipped": 311,
+          "items": {
+            "created_at": "2026-10-17T05:50:27.475Z",
+            "updated_at": "2026-10-17T05:50:27.475Z",
+            "source": "s3",
+            "item_level_equipped": 311,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 249997,
+                "item_level": 289,
+                "enchant": 7961,
+                "icon": "inv_helm_mail_raidevokermidnight_d_01",
+                "name": "Hornhelm of the Black Talon",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "35",
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7961
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243951,
+                    "name": "Enchant Helm - Empowered Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13335,
+                  13338,
+                  6652,
+                  13534,
+                  13575,
+                  12806
+                ]
+              },
+              "neck": {
+                "item_id": 272228,
+                "item_level": 321,
+                "icon": "inv_121_jewelry_neck02_purple",
+                "name": "Whispering Periapt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12846
+                ]
+              },
+              "shoulder": {
+                "item_id": 271499,
+                "item_level": 321,
+                "enchant": 8031,
+                "icon": "inv_shoulder_mail_raidevokerulatek_d_01",
+                "name": "Calamitous Echo's Sundered Peaks",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8031
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244021,
+                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13334,
+                  13696,
+                  13694,
+                  13697,
+                  12850
+                ]
+              },
+              "back": {
+                "item_id": 251132,
+                "item_level": 308,
+                "icon": "inv_cape_leather_dungeonharronir_c_01",
+                "name": "Speakeasy Shroud",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13662,
+                  12699,
+                  12838
+                ]
+              },
+              "chest": {
+                "item_id": 271504,
+                "item_level": 321,
+                "enchant": 7987,
+                "icon": "inv_chest_mail_raidevokerulatek_d_01",
+                "name": "Searing Caldera of Calamity",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12846,
+                  6652,
+                  13690,
+                  13698,
+                  1574
+                ]
+              },
+              "waist": {
+                "item_id": 249994,
+                "item_level": 289,
+                "icon": "inv_belt_mail_raidevokermidnight_d_01",
+                "name": "Girdle of the Black Talon",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12806,
+                  6652,
+                  13335,
+                  3174,
+                  13534
+                ]
+              },
+              "wrist": {
+                "item_id": 268217,
+                "item_level": 318,
+                "icon": "inv_bracer_mail_raidhunterulatek_d_01",
+                "name": "Rising Tide Wristguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13696,
+                  13662,
+                  13334,
+                  12849
+                ]
+              },
+              "hands": {
+                "item_id": 271502,
+                "item_level": 321,
+                "icon": "inv_glove_mail_raidevokerulatek_d_01",
+                "name": "Calamitous Echo's Ebon Greathorns",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12846,
+                  6652,
+                  13691,
+                  13697,
+                  1574
+                ]
+              },
+              "legs": {
+                "item_id": 271500,
+                "item_level": 298,
+                "enchant": 7937,
+                "icon": "inv_pant_mail_raidevokerulatek_d_01",
+                "name": "Earthen Pillars of Calamity",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7937
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240155,
+                    "name": "41 Int & +% Mana",
+                    "icon": "inv_12_tailoring_spellthread_violet_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13693,
+                  13698,
+                  12835
+                ]
+              },
+              "feet": {
+                "item_id": 272248,
+                "item_level": 321,
+                "enchant": 7993,
+                "icon": "inv_boot_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Footguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "finger1": {
+                "item_id": 275526,
+                "item_level": 308,
+                "enchant": 7997,
+                "icon": "inv_121_jewelry_ring01_teal",
+                "name": "Preyhunter's Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7997
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12838
+                ]
+              },
+              "finger2": {
+                "item_id": 251136,
+                "item_level": 308,
+                "enchant": 7997,
+                "icon": "inv_12_jewelry_voidelf_ring_teal",
+                "name": "Signet of Snarling Servitude",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7997
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243987,
+                    "name": "Enchant Ring - Nature's Fury",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13668,
+                  12699,
+                  12838
+                ]
+              },
+              "trinket1": {
+                "item_id": 251792,
+                "item_level": 321,
+                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
+                "name": "Glorious Crusader's Keepsake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12846
+                ]
+              },
+              "trinket2": {
+                "item_id": 249809,
+                "item_level": 298,
+                "icon": "inv_12_trinket_raid_voidspire_int2_locuswalkerslastribbon",
+                "name": "Locus-Walker's Ribbon",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13335,
+                  13654
+                ]
+              },
+              "mainhand": {
+                "item_id": 272266,
+                "item_level": 321,
+                "enchant": 8689,
+                "icon": "inv_knife_1h_outdooramaniloa_c_01",
+                "name": "Forgotten Eidolon's Dagger",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  41,
+                  12846
+                ]
+              },
+              "offhand": {
+                "item_id": 272275,
+                "item_level": 321,
+                "icon": "inv_offhand_1h_outdooramaniloa_c_01",
+                "name": "Soulsinger's Horn",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12846
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 372.5,
+          "allScoreColor": "#f4ffef"
+        },
+        "rank": 99,
+        "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T04:13:52.184Z"
+    "fetchedAt": "2026-10-17T06:19:54.948Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -701216,7 +701851,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T04:14:12.927Z"
+    "fetchedAt": "2026-10-17T06:20:02.969Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1032687,6 +1033322,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T04:14:41.923Z"
+    "fetchedAt": "2026-10-17T06:20:07.122Z"
   }
 }
