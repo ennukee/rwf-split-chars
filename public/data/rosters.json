@@ -326109,12 +326109,12 @@
           "flags": {},
           "talents": "",
           "talentsDetails": [],
-          "gender": "male",
+          "gender": "female",
           "thumbnail": "haomarush/90/203699802-avatar.jpg",
           "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-16T14:10:32.821Z",
-            "updated_at": "2026-10-16T14:10:32.821Z",
+            "created_at": "2026-10-17T09:53:28.327Z",
+            "updated_at": "2026-10-17T09:53:28.327Z",
             "source": "s3",
             "item_level_equipped": 333,
             "item_level_total": 0,
@@ -326242,7 +326242,7 @@
               "shoulder": {
                 "item_id": 271463,
                 "item_level": 334,
-                "enchant": 8031,
+                "enchant": 8001,
                 "icon": "inv_shoulder_plate_raidpaladinulatek_d_01",
                 "name": "Pauldrons of the Consecrated Flame",
                 "item_quality": 4,
@@ -326259,12 +326259,12 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8031
+                  8001
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244021,
-                    "name": "Enchant Shoulders - Silvermoon's Mending",
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
@@ -326522,7 +326522,7 @@
               "feet": {
                 "item_id": 268260,
                 "item_level": 334,
-                "enchant": 7993,
+                "enchant": 7963,
                 "icon": "inv_boot_plate_raidpaladinulatek_d_01",
                 "name": "Scaled Fiend's Warboots",
                 "item_quality": 4,
@@ -326538,12 +326538,12 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  7993
+                  7963
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243983,
-                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
@@ -326555,11 +326555,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 158366,
+                "item_id": 273792,
                 "item_level": 321,
-                "enchant": 7969,
-                "icon": "inv_ring_80_03d",
-                "name": "Charged Sandstone Band",
+                "enchant": 8027,
+                "icon": "inv_121_jewelry_ring02_green",
+                "name": "Band of the Amani Warlord",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -326571,22 +326571,22 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240898
+                  240983
                 ],
                 "gems_detail": [
                   {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
                   }
                 ],
                 "enchants": [
-                  7969
+                  8027
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243959,
-                    "name": "Enchant Ring - Zul'jin's Mast",
+                    "id": 244017,
+                    "name": "Enchant Ring - Silvermoon's Tenacity",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
@@ -326645,6 +326645,31 @@
                 ]
               },
               "trinket1": {
+                "item_id": 270162,
+                "item_level": 321,
+                "icon": "inv_121_trinket_raid_ulatek_ritualvessel",
+                "name": "Soulcoiler Ritual Vessel",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12846
+                ]
+              },
+              "trinket2": {
                 "item_id": 270164,
                 "item_level": 334,
                 "icon": "inv_10_tailoring_bag1_color2",
@@ -326667,30 +326692,6 @@
                   6652,
                   13335,
                   12854
-                ]
-              },
-              "trinket2": {
-                "item_id": 251792,
-                "item_level": 321,
-                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
-                "name": "Glorious Crusader's Keepsake",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  12846
                 ]
               },
               "mainhand": {
@@ -348121,7 +348122,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T08:15:25.669Z"
+    "fetchedAt": "2026-10-17T10:11:13.608Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -699762,7 +699763,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 1
           }
         },
@@ -701789,7 +701790,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T08:15:34.153Z"
+    "fetchedAt": "2026-10-17T10:11:30.717Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -731134,7 +731135,21 @@
           "allScoreColor": "#6fff53"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211552,
+          "id": "318840325863",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-17T09:11:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -744351,7 +744366,21 @@
           "allScoreColor": "#fd7c23"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211559,
+          "id": "319034035942",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 100,
+          "started_at": "2026-10-17T09:18:21Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -747918,7 +747947,21 @@
           "allScoreColor": "#76ff5a"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211559,
+          "id": "319034035942",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 100,
+          "started_at": "2026-10-17T09:18:21Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -759686,7 +759729,21 @@
           "allScoreColor": "#3a7fcd"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211552,
+          "id": "318840325863",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-17T09:11:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -771530,7 +771587,21 @@
           "allScoreColor": "#e65c82"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211552,
+          "id": "318840325863",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-17T09:11:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -866681,7 +866752,21 @@
           "allScoreColor": "#fd7c23"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211552,
+          "id": "318840325863",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-17T09:11:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -867387,7 +867472,21 @@
           "allScoreColor": "#4082ca"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211552,
+          "id": "318840325863",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-17T09:11:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -881740,7 +881839,21 @@
           "allScoreColor": "#d9ffcb"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211552,
+          "id": "318840325863",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-17T09:11:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -913415,7 +913528,21 @@
           "allScoreColor": "#5ec77d"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211559,
+          "id": "319034035942",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 100,
+          "started_at": "2026-10-17T09:18:21Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -925714,7 +925841,21 @@
           "allScoreColor": "#5c63e3"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211559,
+          "id": "319034035942",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 100,
+          "started_at": "2026-10-17T09:18:21Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -961827,7 +961968,21 @@
           "allScoreColor": "#ddffd0"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211552,
+          "id": "318840325863",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] YUUUGE KEYS <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-17T09:11:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -962518,7 +962673,21 @@
           "allScoreColor": "#7aff5d"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1211559,
+          "id": "319034035942",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥resil 1337 soonTM !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 100,
+          "started_at": "2026-10-17T09:18:21Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1033260,6 +1033429,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T08:15:49.838Z"
+    "fetchedAt": "2026-10-17T10:11:38.443Z"
   }
 }
