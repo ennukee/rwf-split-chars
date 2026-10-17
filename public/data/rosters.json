@@ -54909,14 +54909,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 577,
-            "name": "Havoc",
-            "slug": "havoc",
+            "id": 581,
+            "name": "Vengeance",
+            "slug": "vengeance",
             "class_id": 12,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "7.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/us/illidan/Bambinino",
           "realm": {
@@ -54942,12 +54942,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/177/228384433-avatar.jpg",
-          "itemLevelEquipped": 324,
+          "itemLevelEquipped": 326,
           "items": {
-            "created_at": "2026-10-15T00:26:23.474Z",
-            "updated_at": "2026-10-15T00:26:23.474Z",
+            "created_at": "2026-10-17T07:30:38.682Z",
+            "updated_at": "2026-10-17T07:30:38.682Z",
             "source": "s3",
-            "item_level_equipped": 324,
+            "item_level_equipped": 326,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -55139,59 +55139,13 @@
               },
               "chest": {
                 "item_id": 271540,
-                "item_level": 318,
+                "item_level": 334,
                 "icon": "inv_chest_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Coreguard",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -55206,10 +55160,9 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12849,
                   13690,
                   13698,
-                  1571
+                  12854
                 ]
               },
               "waist": {
@@ -55288,7 +55241,7 @@
               },
               "hands": {
                 "item_id": 271538,
-                "item_level": 324,
+                "item_level": 334,
                 "icon": "inv_glove_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Studded Gauntlets",
                 "item_quality": 4,
@@ -55307,12 +55260,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12851,
                   6652,
                   13335,
                   13691,
                   13697,
-                  1577
+                  12854
                 ]
               },
               "legs": {
@@ -55625,8 +55577,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 372.4,
+          "allScoreColor": "#f4ffef"
         },
         "rank": 4,
         "stream": null
@@ -160654,8 +160606,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 693.3,
+          "allScoreColor": "#dbffcd"
         },
         "rank": 4,
         "stream": null
@@ -224397,21 +224349,7 @@
           "allScoreColor": "#3a7fcd"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1210138,
-          "id": "318382877016",
-          "name": "jdotb",
-          "user_id": "89390235",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] keys into rdruid raid",
-          "community_ids": [],
-          "viewer_count": 266,
-          "started_at": "2026-10-16T22:52:10Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -348183,7 +348121,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T06:19:54.948Z"
+    "fetchedAt": "2026-10-17T08:15:25.669Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -701851,7 +701789,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T06:20:02.969Z"
+    "fetchedAt": "2026-10-17T08:15:34.153Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1033322,6 +1033260,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-17T06:20:07.122Z"
+    "fetchedAt": "2026-10-17T08:15:49.838Z"
   }
 }
