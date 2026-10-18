@@ -59493,7 +59493,7 @@
         },
         "keystoneScores": {
           "allScore": 3670.1,
-          "allScoreColor": "#da519e"
+          "allScoreColor": "#d950a1"
         },
         "rank": 8,
         "stream": null
@@ -108453,7 +108453,7 @@
         },
         "keystoneScores": {
           "allScore": 3399.7,
-          "allScoreColor": "#b33add"
+          "allScoreColor": "#b23add"
         },
         "rank": 3,
         "stream": null
@@ -156933,7 +156933,7 @@
         },
         "keystoneScores": {
           "allScore": 3536.3,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 8,
         "stream": null
@@ -158303,8 +158303,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 170,
+          "allScoreColor": "#ffffff"
         },
         "rank": 4,
         "stream": null
@@ -211425,7 +211425,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.4,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
         "stream": null
@@ -229961,7 +229961,7 @@
         },
         "keystoneScores": {
           "allScore": 4136,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
         "stream": null
@@ -234025,7 +234025,7 @@
         },
         "keystoneScores": {
           "allScore": 3865.1,
-          "allScoreColor": "#ec6371"
+          "allScoreColor": "#eb6274"
         },
         "rank": 4,
         "stream": null
@@ -244762,7 +244762,7 @@
         },
         "keystoneScores": {
           "allScore": 3555.4,
-          "allScoreColor": "#cb47bb"
+          "allScoreColor": "#ca46bc"
         },
         "rank": 8,
         "stream": null
@@ -259649,7 +259649,7 @@
         },
         "keystoneScores": {
           "allScore": 3456.7,
-          "allScoreColor": "#bc3ed1"
+          "allScoreColor": "#bb3ed2"
         },
         "rank": 7,
         "stream": null
@@ -285680,7 +285680,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.4,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
         "stream": null
@@ -288400,7 +288400,7 @@
         },
         "keystoneScores": {
           "allScore": 3840.3,
-          "allScoreColor": "#ea6176"
+          "allScoreColor": "#e95f7a"
         },
         "rank": 4,
         "stream": null
@@ -298623,7 +298623,7 @@
         },
         "keystoneScores": {
           "allScore": 4140.4,
-          "allScoreColor": "#fe7e16"
+          "allScoreColor": "#fd7c23"
         },
         "rank": 4,
         "stream": null
@@ -300723,7 +300723,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.4,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
         "stream": null
@@ -315881,7 +315881,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.4,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
         "stream": null
@@ -329760,7 +329760,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.4,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 1,
         "stream": null
@@ -337230,6 +337230,482 @@
           "allScoreColor": "#aaa"
         },
         "rank": 8,
+        "stream": null
+      },
+      {
+        "character": {
+          "id": 309540177,
+          "persona_id": 0,
+          "name": "Sinigorn",
+          "class": {
+            "id": 3,
+            "name": "Hunter",
+            "slug": "hunter"
+          },
+          "race": {
+            "id": 3,
+            "name": "Dwarf",
+            "slug": "dwarf",
+            "faction": "alliance"
+          },
+          "faction": "alliance",
+          "level": 90,
+          "spec": {
+            "id": 254,
+            "name": "Marksmanship",
+            "slug": "marksmanship",
+            "class_id": 3,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 1
+          },
+          "path": "/characters/us/illidan/Sinigorn",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/225/238107105-avatar.jpg",
+          "itemLevelEquipped": 297,
+          "items": {
+            "created_at": "2026-10-18T11:11:51.975Z",
+            "updated_at": "2026-10-18T11:11:51.975Z",
+            "source": "s3",
+            "item_level_equipped": 297,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 272250,
+                "item_level": 295,
+                "icon": "inv_helm_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Gaze",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "neck": {
+                "item_id": 272229,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_neck03_purple",
+                "name": "Serpentine Talisman",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13668
+                ]
+              },
+              "shoulder": {
+                "item_id": 275511,
+                "item_level": 292,
+                "icon": "inv_shoulder_mail_outdooramaniloa_c_01",
+                "name": "Preyhunter's Rugged Shoulderguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  13662
+                ]
+              },
+              "back": {
+                "item_id": 272225,
+                "item_level": 321,
+                "icon": "inv_cape_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Mantle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "chest": {
+                "item_id": 272247,
+                "item_level": 295,
+                "icon": "inv_chest_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Byrnie",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "waist": {
+                "item_id": 272253,
+                "item_level": 305,
+                "icon": "inv_belt_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mail Skirt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "wrist": {
+                "item_id": 272254,
+                "item_level": 295,
+                "icon": "inv_bracer_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mesh Wraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  41,
+                  13696,
+                  13662
+                ]
+              },
+              "hands": {
+                "item_id": 258930,
+                "item_level": 266,
+                "icon": "inv_glove_mail_questbloodelf_b_01",
+                "name": "Tarnished Dawnlit Sentinel's Handguards",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12817,
+                  6652,
+                  13663
+                ]
+              },
+              "legs": {
+                "item_id": 275508,
+                "item_level": 292,
+                "icon": "inv_pant_mail_outdooramaniloa_c_01",
+                "name": "Preyhunter's Rugged Legguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  43,
+                  13662
+                ]
+              },
+              "feet": {
+                "item_id": 272248,
+                "item_level": 292,
+                "icon": "inv_boot_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Footguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  11215,
+                  13662
+                ]
+              },
+              "finger1": {
+                "item_id": 272147,
+                "item_level": 321,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Colubrine Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12846
+                ]
+              },
+              "finger2": {
+                "item_id": 272149,
+                "item_level": 282,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12826,
+                  6652,
+                  13668,
+                  11215
+                ]
+              },
+              "trinket1": {
+                "item_id": 265657,
+                "item_level": 292,
+                "icon": "ability_rogue_sanguinaryvein",
+                "name": "Fiber of Living Agony",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12833
+                ]
+              },
+              "trinket2": {
+                "item_id": 274493,
+                "item_level": 305,
+                "icon": "ability_fomor_boss_rune_green",
+                "name": "Effigy of Ula'tek's Faithful",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652
+                ]
+              },
+              "mainhand": {
+                "item_id": 272278,
+                "item_level": 305,
+                "icon": "inv_bow_1h_outdooramaniloa_c_01",
+                "name": "Recurve Wisp-Shooter",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 99,
         "stream": null
       },
       {
@@ -350819,9 +351295,632 @@
         },
         "rank": 1,
         "stream": null
+      },
+      {
+        "character": {
+          "id": 309661639,
+          "persona_id": 60094949,
+          "name": "Xesevitron",
+          "class": {
+            "id": 4,
+            "name": "Rogue",
+            "slug": "rogue"
+          },
+          "race": {
+            "id": 6,
+            "name": "Tauren",
+            "slug": "tauren",
+            "faction": "horde"
+          },
+          "faction": "horde",
+          "level": 90,
+          "spec": {
+            "id": 261,
+            "name": "Subtlety",
+            "slug": "subtlety",
+            "class_id": 4,
+            "role": "dps",
+            "is_melee": true,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "path": "/characters/us/illidan/Xesevitron",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "male",
+          "thumbnail": "illidan/19/225266451-avatar.jpg",
+          "itemLevelEquipped": 302,
+          "items": {
+            "created_at": "2026-10-18T11:57:35.787Z",
+            "updated_at": "2026-10-18T11:57:35.787Z",
+            "source": "s3",
+            "item_level_equipped": 302,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271510,
+                "item_level": 321,
+                "enchant": 8017,
+                "icon": "inv_helm_leather_raidrogueulatek_d_01",
+                "name": "Chosen Bloodslayer's Spirit Shroud",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13695,
+                  13692,
+                  13698,
+                  12846
+                ]
+              },
+              "neck": {
+                "item_id": 272228,
+                "item_level": 305,
+                "icon": "inv_121_jewelry_neck02_purple",
+                "name": "Whispering Periapt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652,
+                  13668
+                ]
+              },
+              "shoulder": {
+                "item_id": 271508,
+                "item_level": 321,
+                "enchant": 8001,
+                "icon": "inv_shoulder_leather_raidrogueulatek_d_01",
+                "name": "Chosen Bloodslayer's Voodoo Guards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13334,
+                  13694,
+                  6652,
+                  13697,
+                  12846
+                ]
+              },
+              "back": {
+                "item_id": 272225,
+                "item_level": 295,
+                "icon": "inv_cape_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Mantle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "chest": {
+                "item_id": 271513,
+                "item_level": 295,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raidrogueulatek_d_01",
+                "name": "Chosen Bloodslayer's Banded Poncho",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13690,
+                  13698,
+                  12834
+                ]
+              },
+              "waist": {
+                "item_id": 275513,
+                "item_level": 295,
+                "icon": "inv_belt_leather_outdooramaniloa_c_01",
+                "name": "Preyhunter's Sleek Belt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13696,
+                  13662,
+                  12834
+                ]
+              },
+              "wrist": {
+                "item_id": 272246,
+                "item_level": 292,
+                "icon": "inv_bracer_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Wristbands",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  13696,
+                  11215,
+                  13662
+                ]
+              },
+              "hands": {
+                "item_id": 271511,
+                "item_level": 321,
+                "icon": "inv_glove_leather_raidrogueulatek_d_01",
+                "name": "Chosen Bloodslayer's Fanged Grips",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  6652,
+                  13691,
+                  13697,
+                  12846
+                ]
+              },
+              "legs": {
+                "item_id": 272243,
+                "item_level": 308,
+                "enchant": 8159,
+                "icon": "inv_pant_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Cuisses",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
+                "bonuses": [
+                  12842,
+                  13662
+                ]
+              },
+              "feet": {
+                "item_id": 272240,
+                "item_level": 292,
+                "enchant": 7963,
+                "icon": "inv_boot_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Striders",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12833,
+                  6652,
+                  11215,
+                  13662
+                ]
+              },
+              "finger1": {
+                "item_id": 272149,
+                "item_level": 318,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12845
+                ]
+              },
+              "finger2": {
+                "item_id": 272147,
+                "item_level": 272,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Colubrine Band",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12819,
+                  6652,
+                  13668
+                ]
+              },
+              "trinket1": {
+                "item_id": 265657,
+                "item_level": 292,
+                "icon": "ability_rogue_sanguinaryvein",
+                "name": "Fiber of Living Agony",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  11215
+                ]
+              },
+              "trinket2": {
+                "item_id": 274497,
+                "item_level": 308,
+                "icon": "inv_ability_poison_debuff",
+                "name": "Spirit-Rending Poison",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12842
+                ]
+              },
+              "mainhand": {
+                "item_id": 272268,
+                "item_level": 305,
+                "enchant": 8689,
+                "icon": "inv_knife_1h_outdooramaniloa_c_01",
+                "name": "Mask-Etcher",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  40,
+                  12837
+                ]
+              },
+              "offhand": {
+                "item_id": 272268,
+                "item_level": 292,
+                "enchant": 8689,
+                "icon": "inv_knife_1h_outdooramaniloa_c_01",
+                "name": "Mask-Etcher",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12833,
+                  6652,
+                  11215
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 322.9,
+          "allScoreColor": "#f8fff5"
+        },
+        "rank": 3,
+        "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T10:11:46.527Z"
+    "fetchedAt": "2026-10-18T12:17:04.175Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -359877,7 +360976,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -369423,7 +370522,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -370154,7 +371253,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -372047,7 +373160,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -375402,7 +376515,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -389051,7 +390164,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -390425,7 +391538,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -391146,7 +392259,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -398699,7 +399812,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -402209,7 +403322,7 @@
         },
         "keystoneScores": {
           "allScore": 3787.3,
-          "allScoreColor": "#e65c82"
+          "allScoreColor": "#e55b85"
         },
         "rank": 6,
         "stream": null
@@ -402949,7 +404062,7 @@
         },
         "keystoneScores": {
           "allScore": 4131.2,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 7,
         "stream": null
@@ -403680,7 +404793,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -404470,7 +405583,21 @@
           "allScoreColor": "#daffcb"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -406524,7 +407651,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -407991,7 +409118,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -410672,7 +411799,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -411307,7 +412434,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -412703,7 +413830,7 @@
         },
         "keystoneScores": {
           "allScore": 4153.5,
-          "allScoreColor": "#fe7e16"
+          "allScoreColor": "#fd7c23"
         },
         "rank": 4,
         "stream": null
@@ -413404,7 +414531,7 @@
         },
         "keystoneScores": {
           "allScore": 3950.3,
-          "allScoreColor": "#f36c59"
+          "allScoreColor": "#f26a5d"
         },
         "rank": 4,
         "stream": null
@@ -437023,7 +438150,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -438410,7 +439537,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -455184,7 +456311,21 @@
           "allScoreColor": "#9eff83"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -461429,7 +462570,7 @@
         },
         "keystoneScores": {
           "allScore": 3643.2,
-          "allScoreColor": "#d74fa4"
+          "allScoreColor": "#d64ea6"
         },
         "rank": 4,
         "stream": null
@@ -462801,7 +463942,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -467755,7 +468896,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -468461,7 +469602,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -469186,7 +470327,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -481255,10 +482396,24 @@
         },
         "keystoneScores": {
           "allScore": 3487.7,
-          "allScoreColor": "#c040cc"
+          "allScoreColor": "#bf40cd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -501382,7 +502537,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -501998,7 +503167,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -502722,7 +503891,21 @@
           "allScoreColor": "#2a78d5"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -503456,7 +504639,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -505567,7 +506750,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -508403,7 +509600,7 @@
         },
         "keystoneScores": {
           "allScore": 3832.9,
-          "allScoreColor": "#ea6176"
+          "allScoreColor": "#e95f7a"
         },
         "rank": 4,
         "stream": null
@@ -520132,7 +521329,7 @@
         },
         "keystoneScores": {
           "allScore": 3904.8,
-          "allScoreColor": "#f06765"
+          "allScoreColor": "#ee6669"
         },
         "rank": 4,
         "stream": null
@@ -529832,7 +531029,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -536455,7 +537652,7 @@
         },
         "keystoneScores": {
           "allScore": 4007.6,
-          "allScoreColor": "#f6704c"
+          "allScoreColor": "#f56f51"
         },
         "rank": 4,
         "stream": null
@@ -539178,7 +540375,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -541246,7 +542457,21 @@
           "allScoreColor": "#a335ee"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -552118,7 +553343,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -554234,7 +555459,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -555633,7 +556872,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -556302,7 +557555,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -557089,7 +558356,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -565613,7 +566894,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -573864,7 +575159,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.8,
-          "allScoreColor": "#f06765"
+          "allScoreColor": "#ee6669"
         },
         "rank": 4,
         "stream": null
@@ -577170,7 +578465,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -577710,7 +579005,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -579891,7 +581186,7 @@
         },
         "keystoneScores": {
           "allScore": 3788.8,
-          "allScoreColor": "#e65c82"
+          "allScoreColor": "#e55b85"
         },
         "rank": 3,
         "stream": null
@@ -582613,7 +583908,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -585504,7 +586799,7 @@
         },
         "keystoneScores": {
           "allScore": 3922.1,
-          "allScoreColor": "#f06765"
+          "allScoreColor": "#ee6669"
         },
         "rank": 3,
         "stream": null
@@ -587719,7 +589014,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -588403,7 +589712,7 @@
         },
         "keystoneScores": {
           "allScore": 3750.6,
-          "allScoreColor": "#e1588d"
+          "allScoreColor": "#e05790"
         },
         "rank": 4,
         "stream": null
@@ -593811,7 +595120,7 @@
           "type": "live",
           "title": "4,3k rogue no end til 24 resi !ui !website !rogue !coaching !Liquid",
           "community_ids": [],
-          "viewer_count": 192,
+          "viewer_count": 705,
           "started_at": "2026-10-18T09:55:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -604638,7 +605947,7 @@
         },
         "keystoneScores": {
           "allScore": 3515.5,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 5,
         "stream": null
@@ -605940,7 +607249,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -615036,7 +616345,7 @@
         },
         "keystoneScores": {
           "allScore": 4104.1,
-          "allScoreColor": "#fb792d"
+          "allScoreColor": "#fa7735"
         },
         "rank": 4,
         "stream": null
@@ -618452,10 +619761,24 @@
         },
         "keystoneScores": {
           "allScore": 3745.1,
-          "allScoreColor": "#e1588d"
+          "allScoreColor": "#e05790"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -624114,7 +625437,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -631345,7 +632682,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -631871,7 +633208,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -642749,7 +644086,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -643465,7 +644802,7 @@
           "type": "live",
           "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
           "community_ids": [],
-          "viewer_count": 391,
+          "viewer_count": 1398,
           "started_at": "2026-10-18T09:56:44Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -646236,7 +647573,7 @@
         },
         "keystoneScores": {
           "allScore": 4064.3,
-          "allScoreColor": "#f9753e"
+          "allScoreColor": "#f87344"
         },
         "rank": 4,
         "stream": null
@@ -672281,7 +673618,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -673683,7 +675020,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -674403,7 +675740,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -675073,7 +676410,7 @@
         },
         "keystoneScores": {
           "allScore": 3560.9,
-          "allScoreColor": "#cb47bb"
+          "allScoreColor": "#ca46bc"
         },
         "rank": 3,
         "stream": null
@@ -682901,11 +684238,25 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4201.1,
-          "allScoreColor": "#ff8000"
+          "allScore": 4201.2,
+          "allScoreColor": "#fe7e16"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220677,
+          "id": "319048815974",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> I TRACK PARTY CDS WITH KIRAUI-PLUGIN !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 161,
+          "started_at": "2026-10-18T10:09:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -684970,7 +686321,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -685659,7 +687010,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -686809,7 +688160,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -687408,7 +688759,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -687991,7 +689342,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -688519,7 +689870,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -689218,7 +690569,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 848,
+          "viewer_count": 822,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -693404,7 +694755,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.8,
-          "allScoreColor": "#f06765"
+          "allScoreColor": "#ee6669"
         },
         "rank": 4,
         "stream": null
@@ -696767,7 +698118,7 @@
         },
         "keystoneScores": {
           "allScore": 3714.7,
-          "allScoreColor": "#df5693"
+          "allScoreColor": "#de5596"
         },
         "rank": 6,
         "stream": null
@@ -697455,7 +698806,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.6,
-          "allScoreColor": "#f06765"
+          "allScoreColor": "#ee6669"
         },
         "rank": 4,
         "stream": null
@@ -699522,7 +700873,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.8,
-          "allScoreColor": "#f06765"
+          "allScoreColor": "#ee6669"
         },
         "rank": 4,
         "stream": null
@@ -704304,7 +705655,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T10:11:59.853Z"
+    "fetchedAt": "2026-10-18T12:17:17.885Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -708091,7 +709442,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -718887,7 +720238,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -720842,7 +722193,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -725114,7 +726465,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -730210,7 +731561,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -733077,7 +734428,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -744121,7 +745472,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4184.4,
+          "allScore": 4196.1,
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
@@ -744135,7 +745486,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -744824,7 +746175,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -746309,7 +747660,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -746988,8 +748339,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4148.4,
-          "allScoreColor": "#fe7e16"
+          "allScore": 4149.4,
+          "allScoreColor": "#fd7c23"
         },
         "rank": 7,
         "stream": {
@@ -747002,7 +748353,7 @@
           "type": "live",
           "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 96,
           "started_at": "2026-10-18T09:14:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -749902,7 +751253,7 @@
         },
         "keystoneScores": {
           "allScore": 3368.6,
-          "allScoreColor": "#a937e8"
+          "allScoreColor": "#a837e8"
         },
         "rank": 5,
         "stream": null
@@ -750583,7 +751934,7 @@
           "type": "live",
           "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 96,
           "started_at": "2026-10-18T09:14:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -752033,7 +753384,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -752743,7 +754094,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -756199,7 +757550,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -760422,7 +761773,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.2,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 5,
         "stream": null
@@ -766855,7 +768206,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -774252,7 +775603,7 @@
         },
         "keystoneScores": {
           "allScore": 3803.1,
-          "allScoreColor": "#e65c82"
+          "allScoreColor": "#e55b85"
         },
         "rank": 3,
         "stream": null
@@ -778006,7 +779357,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -780798,7 +782149,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -786251,7 +787602,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -786955,7 +788306,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -787656,7 +789007,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -788454,7 +789805,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -794731,7 +796082,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -801895,7 +803246,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -806110,7 +807461,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -806849,7 +808200,7 @@
         },
         "keystoneScores": {
           "allScore": 3656.4,
-          "allScoreColor": "#d74fa4"
+          "allScoreColor": "#d64ea6"
         },
         "rank": 2,
         "stream": {
@@ -806862,7 +808213,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -809726,7 +811077,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -813029,7 +814380,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -815124,7 +816475,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -815782,7 +817133,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -816444,7 +817795,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -821159,7 +822510,7 @@
         },
         "keystoneScores": {
           "allScore": 4078.1,
-          "allScoreColor": "#fa7736"
+          "allScoreColor": "#f9753d"
         },
         "rank": 5,
         "stream": null
@@ -832241,7 +833592,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -832914,7 +834265,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -853228,7 +854579,7 @@
         },
         "keystoneScores": {
           "allScore": 3985.6,
-          "allScoreColor": "#f46e52"
+          "allScoreColor": "#f36d57"
         },
         "rank": 5,
         "stream": null
@@ -857314,7 +858665,7 @@
         },
         "keystoneScores": {
           "allScore": 3734.2,
-          "allScoreColor": "#e1588d"
+          "allScoreColor": "#e05790"
         },
         "rank": 5,
         "stream": null
@@ -860035,7 +861386,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -863484,7 +864835,7 @@
         },
         "keystoneScores": {
           "allScore": 3885.1,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 5,
         "stream": null
@@ -870400,8 +871751,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4148.4,
-          "allScoreColor": "#fe7e16"
+          "allScore": 4149.4,
+          "allScoreColor": "#fd7c23"
         },
         "rank": 3,
         "stream": null
@@ -877347,7 +878698,7 @@
         },
         "keystoneScores": {
           "allScore": 3726.2,
-          "allScoreColor": "#df5693"
+          "allScoreColor": "#de5596"
         },
         "rank": 5,
         "stream": null
@@ -888965,7 +890316,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -889725,7 +891076,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -897571,7 +898922,7 @@
         },
         "keystoneScores": {
           "allScore": 3417.1,
-          "allScoreColor": "#b33add"
+          "allScoreColor": "#b23add"
         },
         "rank": 5,
         "stream": null
@@ -917175,7 +918526,7 @@
           "type": "live",
           "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 96,
           "started_at": "2026-10-18T09:14:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -929488,7 +930839,7 @@
           "type": "live",
           "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 96,
           "started_at": "2026-10-18T09:14:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -938638,7 +939989,7 @@
         },
         "keystoneScores": {
           "allScore": 3893.1,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 5,
         "stream": null
@@ -959387,7 +960738,7 @@
         },
         "keystoneScores": {
           "allScore": 3778.3,
-          "allScoreColor": "#e45a88"
+          "allScoreColor": "#e3598b"
         },
         "rank": 5,
         "stream": null
@@ -962122,7 +963473,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 89,
+          "viewer_count": 96,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -966320,7 +967671,7 @@
           "type": "live",
           "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
           "community_ids": [],
-          "viewer_count": 83,
+          "viewer_count": 96,
           "started_at": "2026-10-18T09:14:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
@@ -978986,7 +980337,7 @@
         },
         "keystoneScores": {
           "allScore": 3652,
-          "allScoreColor": "#d74fa4"
+          "allScoreColor": "#d64ea6"
         },
         "rank": 5,
         "stream": null
@@ -989300,7 +990651,7 @@
         },
         "keystoneScores": {
           "allScore": 3621.1,
-          "allScoreColor": "#d44daa"
+          "allScoreColor": "#d34cac"
         },
         "rank": 5,
         "stream": null
@@ -1000289,7 +1001640,7 @@
         },
         "keystoneScores": {
           "allScore": 3528.4,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 5,
         "stream": null
@@ -1007116,7 +1008467,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1007836,7 +1009187,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1009187,7 +1010538,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1009820,7 +1011171,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1015249,7 +1016600,7 @@
         },
         "keystoneScores": {
           "allScore": 4212.8,
-          "allScoreColor": "#ff8000"
+          "allScoreColor": "#fe7e16"
         },
         "rank": 5,
         "stream": null
@@ -1015881,7 +1017232,7 @@
         },
         "keystoneScores": {
           "allScore": 3899.1,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 5,
         "stream": null
@@ -1017301,7 +1018652,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1024164,7 +1025515,7 @@
         },
         "keystoneScores": {
           "allScore": 3685.9,
-          "allScoreColor": "#dd5399"
+          "allScoreColor": "#dc539b"
         },
         "rank": 5,
         "stream": null
@@ -1024917,7 +1026268,7 @@
         },
         "keystoneScores": {
           "allScore": 3809.4,
-          "allScoreColor": "#e85f7c"
+          "allScoreColor": "#e75d7f"
         },
         "rank": 5,
         "stream": null
@@ -1025669,7 +1027020,7 @@
         },
         "keystoneScores": {
           "allScore": 3893.9,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 5,
         "stream": null
@@ -1027761,7 +1029112,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.2,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 5,
         "stream": {
@@ -1027774,7 +1029125,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1029810,7 +1031161,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4180.4,
+          "allScore": 4194.2,
           "allScoreColor": "#fe7e16"
         },
         "rank": 5,
@@ -1029824,7 +1031175,7 @@
           "type": "live",
           "title": "<Method> 23 RESIL SOON !ui",
           "community_ids": [],
-          "viewer_count": 209,
+          "viewer_count": 182,
           "started_at": "2026-10-18T08:16:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
@@ -1035808,7 +1037159,7 @@
         },
         "keystoneScores": {
           "allScore": 3546.8,
-          "allScoreColor": "#cb47bb"
+          "allScoreColor": "#ca46bc"
         },
         "rank": 5,
         "stream": null
@@ -1037211,6 +1038562,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T10:12:10.435Z"
+    "fetchedAt": "2026-10-18T12:17:23.787Z"
   }
 }
