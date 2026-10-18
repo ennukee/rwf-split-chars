@@ -334348,12 +334348,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/8/238143496-avatar.jpg",
-          "itemLevelEquipped": 299,
+          "itemLevelEquipped": 302,
           "items": {
-            "created_at": "2026-10-16T12:50:36.317Z",
-            "updated_at": "2026-10-16T12:50:36.317Z",
+            "created_at": "2026-10-18T09:19:32.003Z",
+            "updated_at": "2026-10-18T09:19:32.003Z",
             "source": "s3",
-            "item_level_equipped": 299,
+            "item_level_equipped": 302,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -334450,7 +334450,7 @@
               },
               "neck": {
                 "item_id": 272229,
-                "item_level": 292,
+                "item_level": 298,
                 "icon": "inv_121_jewelry_neck03_purple",
                 "name": "Serpentine Talisman",
                 "item_quality": 4,
@@ -334476,10 +334476,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12833,
                   6652,
                   13668,
-                  11215
+                  11215,
+                  12835
                 ]
               },
               "shoulder": {
@@ -334546,7 +334546,7 @@
               },
               "chest": {
                 "item_id": 271558,
-                "item_level": 318,
+                "item_level": 321,
                 "enchant": 7987,
                 "icon": "inv_robe_cloth_raidpriestulatek_d_01",
                 "name": "Cosmic Penitent's Eclipsing Robes",
@@ -334578,7 +334578,7 @@
                   13690,
                   6652,
                   13698,
-                  12845
+                  12846
                 ]
               },
               "waist": {
@@ -334733,11 +334733,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 258909,
-                "item_level": 253,
-                "icon": "inv_70_quest_ring6a",
-                "name": "Tarnished Dawnlit Signet",
-                "item_quality": 2,
+                "item_id": 275529,
+                "item_level": 292,
+                "icon": "inv_121_jewelry_ring01_green",
+                "name": "Preyhunter's Circle",
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -334752,7 +334752,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13900,
+                  12833,
+                  6652,
                   13668
                 ]
               },
@@ -334781,10 +334782,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 251783,
-                "item_level": 292,
-                "icon": "inv_12_trinket_grisgrisofconfidenc",
-                "name": "Lost Idol of the Hash'ey",
+                "item_id": 251792,
+                "item_level": 295,
+                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
+                "name": "Glorious Crusader's Keepsake",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -334800,14 +334801,13 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12833,
-                  6652,
-                  11215
+                  12834,
+                  6652
                 ]
               },
               "trinket2": {
                 "item_id": 248583,
-                "item_level": 305,
+                "item_level": 308,
                 "icon": "inv_archaeology_70_tauren_drum",
                 "name": "Drum of Renewed Bonds",
                 "item_quality": 4,
@@ -334827,7 +334827,7 @@
                 "bonuses": [
                   13183,
                   41,
-                  12837
+                  12838
                 ]
               },
               "mainhand": {
@@ -350821,7 +350821,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T08:15:29.591Z"
+    "fetchedAt": "2026-10-18T10:11:46.527Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -359877,7 +359877,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -369413,7 +369413,21 @@
           "allScoreColor": "#99ff7e"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -372033,7 +372047,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -375388,7 +375402,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -389027,7 +389041,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -390387,7 +390415,21 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -391094,7 +391136,21 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -398643,7 +398699,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -403614,7 +403670,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -406444,7 +406514,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -407897,7 +407981,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -410574,7 +410672,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -411209,7 +411307,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -436915,7 +437013,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -438288,7 +438400,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -462675,7 +462801,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -467619,7 +467745,21 @@
           "allScoreColor": "#0070dd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -468311,7 +468451,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -469022,7 +469176,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -501830,7 +501998,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -503288,7 +503456,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -529654,7 +529822,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -551936,7 +552118,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -576988,7 +577170,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -577528,7 +577710,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -582421,7 +582603,21 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -593605,7 +593801,21 @@
           "allScoreColor": "#5cce75"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220643,
+          "id": "317130765012",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "4,3k rogue no end til 24 resi !ui !website !rogue !coaching !Liquid",
+          "community_ids": [],
+          "viewer_count": 192,
+          "started_at": "2026-10-18T09:55:02Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -631135,7 +631345,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -631661,7 +631871,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -642529,7 +642739,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -643231,7 +643455,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220647,
+          "id": "317085145174",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 Prep !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 391,
+          "started_at": "2026-10-18T09:56:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -672043,7 +672281,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -673445,7 +673683,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -674165,7 +674403,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -684732,7 +684970,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -685421,7 +685659,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -686571,7 +686809,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -687170,7 +687408,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -687753,7 +687991,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -688281,7 +688519,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -688980,7 +689218,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 691,
+          "viewer_count": 848,
           "started_at": "2026-10-18T07:07:01Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -704066,7 +704304,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T08:15:40.335Z"
+    "fetchedAt": "2026-10-18T10:11:59.853Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -707843,7 +708081,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -718625,7 +718877,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -720566,7 +720832,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -724824,7 +725104,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -729916,7 +730210,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -732783,7 +733077,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -743827,7 +744121,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4170.4,
+          "allScore": 4184.4,
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
@@ -743841,7 +744135,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -744530,7 +744824,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -746015,7 +746309,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -746698,7 +746992,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220574,
+          "id": "318854015591",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 83,
+          "started_at": "2026-10-18T09:14:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -750265,7 +750573,21 @@
           "allScoreColor": "#79ff5d"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220574,
+          "id": "318854015591",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 83,
+          "started_at": "2026-10-18T09:14:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -751701,7 +752023,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -752397,7 +752733,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -755839,7 +756189,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -766481,7 +766845,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -777618,7 +777996,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -780396,7 +780788,21 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -785845,7 +786251,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -786549,7 +786955,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -787250,7 +787656,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -788048,7 +788454,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -794325,7 +794731,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -801479,7 +801885,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -805690,7 +806110,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -806442,7 +806862,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -809306,7 +809726,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -812609,7 +813029,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -814694,7 +815114,21 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -815348,7 +815782,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -816010,7 +816444,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -831807,7 +832241,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -832480,7 +832914,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -859591,7 +860025,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -888507,7 +888955,21 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -889253,7 +889715,21 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -916689,7 +917165,21 @@
           "allScoreColor": "#5dca7a"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220574,
+          "id": "318854015591",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 83,
+          "started_at": "2026-10-18T09:14:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -928988,7 +929478,21 @@
           "allScoreColor": "#5c63e3"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220574,
+          "id": "318854015591",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 83,
+          "started_at": "2026-10-18T09:14:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -961618,7 +962122,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 0,
+          "viewer_count": 89,
           "started_at": "2026-10-18T08:13:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -965806,7 +966310,21 @@
           "allScoreColor": "#7cff60"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220574,
+          "id": "318854015591",
+          "name": "roiben_",
+          "user_id": "35048709",
+          "game_id": "18122",
+          "type": "live",
+          "title": "💥keystone gaming !cds <Method>💥!ui !coaching !HOLY !restedxp !meta💥 @roiben_ [ENG/GER]",
+          "community_ids": [],
+          "viewer_count": 83,
+          "started_at": "2026-10-18T09:14:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_roiben_-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1006588,7 +1007106,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1007294,7 +1007826,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1008631,7 +1009177,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1009250,7 +1009810,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1016717,7 +1017291,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1027176,7 +1027764,21 @@
           "allScoreColor": "#fd7c23"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1029208,11 +1029810,25 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4164.3,
+          "allScore": 4180.4,
           "allScoreColor": "#fe7e16"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1220474,
+          "id": "317049423317",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> 23 RESIL SOON !ui",
+          "community_ids": [],
+          "viewer_count": 209,
+          "started_at": "2026-10-18T08:16:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1036595,6 +1037211,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T08:15:50.022Z"
+    "fetchedAt": "2026-10-18T10:12:10.435Z"
   }
 }
