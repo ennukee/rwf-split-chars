@@ -350821,7 +350821,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T02:17:25.375Z"
+    "fetchedAt": "2026-10-18T04:14:16.862Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -429499,14 +429499,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 259,
-            "name": "Assassination",
-            "slug": "assassination",
+            "id": 261,
+            "name": "Subtlety",
+            "slug": "subtlety",
             "class_id": 4,
             "role": "dps",
             "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 2
           },
           "path": "/characters/eu/tarren-mill/Verbacon",
           "realm": {
@@ -429532,12 +429532,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/253/187134205-avatar.jpg",
-          "itemLevelEquipped": 305,
+          "itemLevelEquipped": 303,
           "items": {
-            "created_at": "2026-10-15T21:25:23.159Z",
-            "updated_at": "2026-10-15T21:25:23.159Z",
+            "created_at": "2026-10-18T03:56:33.554Z",
+            "updated_at": "2026-10-18T03:56:33.554Z",
             "source": "s3",
-            "item_level_equipped": 305,
+            "item_level_equipped": 303,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -429550,7 +429550,7 @@
             "items": {
               "head": {
                 "item_id": 271510,
-                "item_level": 318,
+                "item_level": 334,
                 "enchant": 8017,
                 "icon": "inv_helm_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Spirit Shroud",
@@ -429559,7 +429559,17 @@
                 "is_azerite_armor": true,
                 "azerite_powers": [
                   null,
-                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
                   {
                     "id": 580,
                     "spell": {
@@ -429606,17 +429616,16 @@
                 "bonuses": [
                   13334,
                   6652,
-                  12849,
                   13696,
                   13847,
                   13692,
                   13698,
-                  1571
+                  12854
                 ]
               },
               "neck": {
                 "item_id": 268265,
-                "item_level": 318,
+                "item_level": 334,
                 "icon": "inv_121_jewelry_neck03_green",
                 "name": "Aqirbane Reliquary",
                 "item_quality": 4,
@@ -429629,24 +429638,38 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240983,
+                  240906
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  },
+                  {
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13668,
                   13334,
-                  12849,
-                  13987
+                  13987,
+                  12854
                 ]
               },
               "shoulder": {
-                "item_id": 250004,
-                "item_level": 289,
+                "item_id": 271508,
+                "item_level": 321,
                 "enchant": 8001,
-                "icon": "inv_shoulder_leather_raidroguemidnight_d_01",
-                "name": "Venom Casks of the Grim Jest",
+                "icon": "inv_shoulder_leather_raidrogueulatek_d_01",
+                "name": "Chosen Bloodslayer's Voodoo Guards",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -429657,7 +429680,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -429671,18 +429694,19 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13440,
-                  13340,
-                  13574,
-                  12806
+                  13334,
+                  13694,
+                  41,
+                  13697,
+                  12846
                 ]
               },
-              "back": {
-                "item_id": 268253,
-                "item_level": 302,
-                "icon": "inv_cape_leather_raidrogueulatek_d_01",
-                "name": "Silken Voodoo Drape",
+              "chest": {
+                "item_id": 268235,
+                "item_level": 321,
+                "enchant": 7987,
+                "icon": "inv_robe_leather_raiddruidulatek_d_01",
+                "name": "Vestment of the Awakening",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -429693,80 +429717,6 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13662,
-                  13333,
-                  12836
-                ]
-              },
-              "chest": {
-                "item_id": 250009,
-                "item_level": 289,
-                "enchant": 7987,
-                "icon": "inv_chest_leather_raidroguemidnight_d_01",
-                "name": "Fantastic Finery of the Grim Jest",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -429780,17 +429730,15 @@
                   }
                 ],
                 "bonuses": [
-                  12806,
                   6652,
-                  13335,
-                  13336,
-                  13575,
-                  3174
+                  13662,
+                  13334,
+                  12846
                 ]
               },
               "waist": {
                 "item_id": 268256,
-                "item_level": 315,
+                "item_level": 321,
                 "icon": "inv_belt_leather_raiddruidulatek_d_01",
                 "name": "Sash of the Forlorn Vessel",
                 "item_quality": 4,
@@ -429812,14 +429760,14 @@
                   13696,
                   13662,
                   13334,
-                  12844
+                  12846
                 ]
               },
               "wrist": {
-                "item_id": 244576,
-                "item_level": 285,
-                "icon": "inv_bracer_leather_questbloodelf_b_01",
-                "name": "Silvermoon Agent's Deflectors",
+                "item_id": 272246,
+                "item_level": 321,
+                "icon": "inv_bracer_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Wristbands",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -429830,33 +429778,20 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240890
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  12066,
-                  8960,
-                  12384,
-                  8790,
-                  13622,
-                  12666
+                  6652,
+                  13696,
+                  13662,
+                  12846
                 ]
               },
               "hands": {
                 "item_id": 271511,
-                "item_level": 318,
+                "item_level": 321,
                 "icon": "inv_glove_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Fanged Grips",
                 "item_quality": 4,
@@ -429876,18 +429811,18 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12849,
                   13440,
                   13691,
                   13697,
-                  1571
+                  12850
                 ]
               },
               "legs": {
-                "item_id": 268225,
-                "item_level": 315,
-                "icon": "inv_pant_leather_raidmonkulatek_d_01",
-                "name": "Coiled Hex Legguards",
+                "item_id": 271509,
+                "item_level": 321,
+                "enchant": 8159,
+                "icon": "inv_pant_leather_raidrogueulatek_d_01",
+                "name": "Chosen Bloodslayer's Reinforced Pants",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -429898,23 +429833,33 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
                 "bonuses": [
-                  6652,
-                  13662,
                   13334,
-                  12844
+                  6652,
+                  13693,
+                  13698,
+                  12846
                 ]
               },
               "feet": {
-                "item_id": 260372,
-                "item_level": 289,
+                "item_id": 244569,
+                "item_level": 331,
                 "enchant": 7963,
-                "icon": "inv_boot_leather_raidroguemidnight_d_01",
-                "name": "Nullstrider's Boots",
+                "icon": "inv_boot_leather_questbloodelf_b_01",
+                "name": "Silvermoon Agent's Sneakers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -429938,19 +429883,23 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13577,
-                  13335,
-                  10844,
-                  12806
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8790,
+                  13836
                 ]
               },
               "finger1": {
-                "item_id": 268290,
-                "item_level": 298,
+                "item_id": 162544,
+                "item_level": 321,
                 "enchant": 7967,
-                "icon": "inv_12_jewelry_rutaani_ring_blue",
-                "name": "Sporecaller's Blooming Loop",
+                "icon": "inv_ring_80_04c",
+                "name": "Jade Ophidian Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -429962,13 +429911,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240890
+                  240906
                 ],
                 "gems_detail": [
                   {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
                   }
                 ],
                 "enchants": [
@@ -429982,18 +429931,19 @@
                   }
                 ],
                 "bonuses": [
+                  13440,
                   6652,
                   13668,
-                  13335,
-                  13786
+                  12699,
+                  12846
                 ]
               },
               "finger2": {
-                "item_id": 249919,
-                "item_level": 289,
+                "item_id": 272149,
+                "item_level": 321,
                 "enchant": 7967,
-                "icon": "inv_12_jewelry_silvermoonelf_ring_red1",
-                "name": "Sin'dorei Band of Hope",
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -430005,13 +429955,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240890
+                  240906
                 ],
                 "gems_detail": [
                   {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
                   }
                 ],
                 "enchants": [
@@ -430027,13 +429977,12 @@
                 "bonuses": [
                   6652,
                   13668,
-                  13335,
-                  12806
+                  12846
                 ]
               },
               "trinket1": {
                 "item_id": 273797,
-                "item_level": 311,
+                "item_level": 321,
                 "icon": "inv_121_trinket_dungeon_ulatek_banner",
                 "name": "Tattered Amani War Banner",
                 "item_quality": 4,
@@ -430051,15 +430000,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12843,
                   13440,
                   6652,
-                  12699
+                  12699,
+                  12846
                 ]
               },
               "trinket2": {
                 "item_id": 270168,
-                "item_level": 318,
+                "item_level": 321,
                 "icon": "inv_10_dungeonjewelry_dragon_trinket_3djardintrophy_green",
                 "name": "Font of Venomous Rage",
                 "item_quality": 4,
@@ -430079,38 +430028,13 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12849
+                  12850
                 ]
               },
               "mainhand": {
-                "item_id": 271093,
-                "item_level": 321,
-                "icon": "inv_knife_1h_ulatekfang_d_01_poison",
-                "name": "Zatha'tek, Breath of Corruption",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13334,
-                  12846
-                ]
-              },
-              "offhand": {
                 "item_id": 275070,
-                "item_level": 311,
-                "enchant": 8052,
+                "item_level": 321,
+                "enchant": 8689,
                 "icon": "inv_knife_1h_zuljin_d_01",
                 "name": "Sharpened Lightwood Slasher",
                 "item_quality": 4,
@@ -430126,14 +430050,54 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8052
+                  8689
                 ],
-                "enchants_detail": [],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
                 "bonuses": [
-                  12843,
                   13440,
                   6652,
-                  12701
+                  12701,
+                  12846
+                ]
+              },
+              "offhand": {
+                "item_id": 271093,
+                "item_level": 321,
+                "enchant": 8689,
+                "icon": "inv_knife_1h_ulatekfang_d_01_poison",
+                "name": "Zatha'tek, Breath of Corruption",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12846
                 ]
               }
             }
@@ -430161,8 +430125,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1001.2,
-          "allScoreColor": "#c0ffab"
+          "allScore": 1045.9,
+          "allScoreColor": "#beffa8"
         },
         "rank": 4,
         "stream": null
@@ -472873,8 +472837,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 335,
-          "allScoreColor": "#f6fff2"
+          "allScore": 1058.9,
+          "allScoreColor": "#bcffa5"
         },
         "rank": 4,
         "stream": null
@@ -703766,7 +703730,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T02:17:36.942Z"
+    "fetchedAt": "2026-10-18T04:14:31.305Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1036032,6 +1035996,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-18T02:17:40.844Z"
+    "fetchedAt": "2026-10-18T04:14:38.084Z"
   }
 }
