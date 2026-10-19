@@ -13547,12 +13547,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/131/218811523-avatar.jpg",
-          "itemLevelEquipped": 326,
+          "itemLevelEquipped": 327,
           "items": {
-            "created_at": "2026-10-15T00:25:18.853Z",
-            "updated_at": "2026-10-15T00:25:18.853Z",
+            "created_at": "2026-10-19T06:40:28.374Z",
+            "updated_at": "2026-10-19T06:40:28.374Z",
             "source": "s3",
-            "item_level_equipped": 326,
+            "item_level_equipped": 327,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -13899,6 +13899,7 @@
               "hands": {
                 "item_id": 271565,
                 "item_level": 321,
+                "enchant": 8727,
                 "icon": "inv_glove_cloth_raidmageulatek_d_01",
                 "name": "Primal Leywarden's Manashapers",
                 "item_quality": 4,
@@ -13914,8 +13915,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8727
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 280563,
+                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Falco Strikes|r",
+                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez"
+                  }
+                ],
                 "bonuses": [
                   12846,
                   13334,
@@ -14039,11 +14048,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 158366,
-                "item_level": 321,
+                "item_id": 281029,
+                "item_level": 331,
                 "enchant": 7967,
-                "icon": "inv_ring_80_03d",
-                "name": "Charged Sandstone Band",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -14075,11 +14084,10 @@
                   }
                 ],
                 "bonuses": [
-                  13440,
                   6652,
                   13668,
-                  12699,
-                  12846
+                  13334,
+                  12853
                 ]
               },
               "trinket1": {
@@ -14365,13 +14373,13 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
         "keystoneScores": {
-          "allScore": 2955.4,
-          "allScoreColor": "#2a78d5"
+          "allScore": 2996.3,
+          "allScoreColor": "#1c74d9"
         },
         "rank": 6,
         "stream": null
@@ -23484,21 +23492,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1225862,
-          "id": "321868575321",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) timed at least one keystone which means + score, hsr for the rest of the night",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-18T23:37:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -126005,21 +125999,7 @@
           "allScoreColor": "#6361e4"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1225862,
-          "id": "321868575321",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) timed at least one keystone which means + score, hsr for the rest of the night",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-18T23:37:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -156887,21 +156867,7 @@
           "allScoreColor": "#c744c0"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1225862,
-          "id": "321868575321",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) timed at least one keystone which means + score, hsr for the rest of the night",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-18T23:37:05Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -327258,6 +327224,480 @@
       },
       {
         "character": {
+          "id": 309392292,
+          "persona_id": 0,
+          "name": "Sinimark",
+          "class": {
+            "id": 3,
+            "name": "Hunter",
+            "slug": "hunter"
+          },
+          "race": {
+            "id": 3,
+            "name": "Dwarf",
+            "slug": "dwarf",
+            "faction": "alliance"
+          },
+          "faction": "alliance",
+          "level": 90,
+          "spec": {
+            "id": 253,
+            "name": "Beast Mastery",
+            "slug": "beast-mastery",
+            "class_id": 3,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "path": "/characters/us/illidan/Sinimark",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/240/238107120-avatar.jpg",
+          "itemLevelEquipped": 300,
+          "items": {
+            "created_at": "2026-10-19T07:19:41.104Z",
+            "updated_at": "2026-10-19T07:19:41.104Z",
+            "source": "s3",
+            "item_level_equipped": 300,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 272250,
+                "item_level": 305,
+                "icon": "inv_helm_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Gaze",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "neck": {
+                "item_id": 272229,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_neck03_purple",
+                "name": "Serpentine Talisman",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13668
+                ]
+              },
+              "shoulder": {
+                "item_id": 272252,
+                "item_level": 295,
+                "icon": "inv_shoulder_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mantle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "back": {
+                "item_id": 275522,
+                "item_level": 292,
+                "icon": "inv_cape_cloth_outdooramaniloa_c_01",
+                "name": "Preyhunter's Refined Shawl",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  13662
+                ]
+              },
+              "chest": {
+                "item_id": 272247,
+                "item_level": 321,
+                "icon": "inv_chest_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Byrnie",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "waist": {
+                "item_id": 272253,
+                "item_level": 295,
+                "icon": "inv_belt_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mail Skirt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "wrist": {
+                "item_id": 272254,
+                "item_level": 295,
+                "icon": "inv_bracer_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mesh Wraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "hands": {
+                "item_id": 272249,
+                "item_level": 321,
+                "icon": "inv_glove_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Chain Clasps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "legs": {
+                "item_id": 272251,
+                "item_level": 321,
+                "icon": "inv_pant_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Chausses",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "feet": {
+                "item_id": 272248,
+                "item_level": 295,
+                "icon": "inv_boot_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Footguards",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "finger1": {
+                "item_id": 275527,
+                "item_level": 292,
+                "icon": "inv_121_jewelry_ring03_orange",
+                "name": "Preyhunter's Signet",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  13668
+                ]
+              },
+              "finger2": {
+                "item_id": 272149,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13668
+                ]
+              },
+              "trinket1": {
+                "item_id": 251783,
+                "item_level": 305,
+                "icon": "inv_12_trinket_grisgrisofconfidenc",
+                "name": "Lost Idol of the Hash'ey",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652
+                ]
+              },
+              "trinket2": {
+                "item_id": 274497,
+                "item_level": 295,
+                "icon": "inv_ability_poison_debuff",
+                "name": "Spirit-Rending Poison",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652
+                ]
+              },
+              "mainhand": {
+                "item_id": 272278,
+                "item_level": 295,
+                "icon": "inv_bow_1h_outdooramaniloa_c_01",
+                "name": "Recurve Wisp-Shooter",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 8,
+        "stream": null
+      },
+      {
+        "character": {
           "id": 309406335,
           "persona_id": 0,
           "name": "Sinilion",
@@ -351948,7 +352388,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-19T06:29:39.443Z"
+    "fetchedAt": "2026-10-19T08:22:17.814Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -360993,7 +361433,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -373135,7 +373589,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -376476,7 +376944,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -399718,7 +400200,21 @@
           "allScoreColor": "#4ce651"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -407569,12 +408065,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/66/186052162-avatar.jpg",
-          "itemLevelEquipped": 317,
+          "itemLevelEquipped": 319,
           "items": {
-            "created_at": "2026-09-30T15:27:23.385Z",
-            "updated_at": "2026-09-30T15:27:23.385Z",
+            "created_at": "2026-10-19T07:53:31.067Z",
+            "updated_at": "2026-10-19T07:53:31.067Z",
             "source": "s3",
-            "item_level_equipped": 317,
+            "item_level_equipped": 319,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -407730,10 +408226,10 @@
                 ]
               },
               "back": {
-                "item_id": 239656,
-                "item_level": 285,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
+                "item_id": 268248,
+                "item_level": 318,
+                "icon": "inv_cape_leather_raidmonkulatek_d_01",
+                "name": "Amani Summoning Shawl",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -407749,19 +408245,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  12066,
-                  8960,
-                  12384,
-                  8795,
-                  13622
+                  6652,
+                  13662,
+                  13334,
+                  12849
                 ]
               },
               "chest": {
                 "item_id": 271486,
-                "item_level": 324,
+                "item_level": 331,
                 "enchant": 7987,
                 "icon": "inv_robe_mail_raidshamanulatek_d_01",
                 "name": "Fanged Raiment of the Ophidian Oracle",
@@ -407840,7 +408332,7 @@
                   13846,
                   13690,
                   13698,
-                  12851
+                  12853
                 ]
               },
               "waist": {
@@ -408211,7 +408703,6 @@
               "offhand": {
                 "item_id": 237831,
                 "item_level": 331,
-                "enchant": 7528,
                 "icon": "inv_shield_1h_questbloodelf_b_01",
                 "name": "Spellbreaker's Rebuke",
                 "item_quality": 4,
@@ -408226,9 +408717,7 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7528
-                ],
+                "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
@@ -411635,7 +412124,21 @@
           "allScoreColor": "#c6ffb1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -412256,7 +412759,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -463708,7 +464225,21 @@
           "allScoreColor": "#50e258"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -502831,7 +503362,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -504275,7 +504820,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -523823,12 +524382,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/71/189303623-avatar.jpg",
-          "itemLevelEquipped": 300,
+          "itemLevelEquipped": 302,
           "items": {
-            "created_at": "2026-10-15T21:25:28.822Z",
-            "updated_at": "2026-10-15T21:25:28.822Z",
+            "created_at": "2026-10-19T08:10:36.320Z",
+            "updated_at": "2026-10-19T08:10:36.320Z",
             "source": "s3",
-            "item_level_equipped": 300,
+            "item_level_equipped": 302,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -523840,16 +524399,25 @@
             },
             "items": {
               "head": {
-                "item_id": 249970,
-                "item_level": 289,
-                "enchant": 8017,
-                "icon": "inv_plate_raiddeathknightmidnight_d_01_helm",
-                "name": "Relentless Rider's Crown",
+                "item_id": 271474,
+                "item_level": 285,
+                "icon": "inv_helm_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Casque",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
                   {
                     "id": 580,
                     "spell": {
@@ -523891,27 +524459,18 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8017
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244007,
-                    "name": "Enchant Helm - Empowered Rune of Avoidance",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12806,
                   6652,
-                  13335,
-                  12667,
-                  13338,
-                  13575,
-                  3174
+                  13696,
+                  12827,
+                  13692,
+                  13698,
+                  1538
                 ]
               },
               "neck": {
@@ -523950,10 +524509,10 @@
                 ]
               },
               "shoulder": {
-                "item_id": 272260,
+                "item_id": 271472,
                 "item_level": 305,
-                "icon": "inv_shoulder_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Pauldrons",
+                "icon": "inv_shoulder_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Gibbets",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -523964,14 +524523,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12841,
                   6652,
-                  13662
+                  12841,
+                  13694,
+                  13697,
+                  1558
                 ]
               },
               "back": {
@@ -524000,11 +524562,10 @@
                 ]
               },
               "chest": {
-                "item_id": 249973,
-                "item_level": 298,
-                "enchant": 7987,
-                "icon": "inv_plate_raiddeathknightmidnight_d_01_chest",
-                "name": "Relentless Rider's Cuirass",
+                "item_id": 271477,
+                "item_level": 318,
+                "icon": "inv_chest_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Breastplate",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
@@ -524061,26 +524622,18 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
+                  13334,
                   6652,
-                  13335,
-                  13786,
-                  13336,
-                  13575,
-                  3183
+                  12849,
+                  13690,
+                  13698,
+                  1571
                 ]
               },
               "waist": {
@@ -524142,10 +524695,10 @@
                 ]
               },
               "hands": {
-                "item_id": 249971,
-                "item_level": 289,
-                "icon": "inv_plate_raiddeathknightmidnight_d_01_glove",
-                "name": "Relentless Rider's Bonegrasps",
+                "item_id": 271475,
+                "item_level": 308,
+                "icon": "inv_glove_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Deathgrips",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -524156,18 +524709,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "35",
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12806,
+                  12842,
+                  13334,
+                  13691,
                   6652,
-                  13440,
-                  13337,
-                  13574,
-                  3174
+                  13697
                 ]
               },
               "legs": {
@@ -552909,7 +553461,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 0,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -577947,7 +578513,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -578473,7 +579053,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -632117,7 +632711,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -632629,7 +633237,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -672997,7 +673619,21 @@
           "allScoreColor": "#4cff33"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -674385,7 +675021,21 @@
           "allScoreColor": "#4cff33"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -675091,7 +675741,21 @@
           "allScoreColor": "#83ff66"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -685644,7 +686308,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -686319,7 +686997,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -687455,7 +688147,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -688040,7 +688746,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -688609,7 +689329,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -689123,7 +689857,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -689808,7 +690556,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226382,
+          "id": "318865402215",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 658,
+          "started_at": "2026-10-19T06:48:23Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -704889,7 +705651,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-19T06:29:46.423Z"
+    "fetchedAt": "2026-10-19T08:22:30.822Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -730729,7 +731491,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -733582,7 +734358,21 @@
           "allScoreColor": "#d6ffc6"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -744626,7 +745416,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -745301,7 +746105,21 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -746772,7 +747590,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -787138,7 +787970,21 @@
           "allScoreColor": "#2bfb1e"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -787828,7 +788674,21 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -788515,7 +789375,21 @@
           "allScoreColor": "#a1ff86"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -789299,7 +790173,21 @@
           "allScoreColor": "#d6ffc6"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -795562,7 +796450,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -806913,7 +807815,21 @@
           "allScoreColor": "#bfffa9"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -807651,7 +808567,21 @@
           "allScoreColor": "#d44daa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -810501,7 +811431,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -813790,7 +814734,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -816515,7 +817473,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -817163,7 +818135,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -832946,7 +833932,21 @@
           "allScoreColor": "#9cff80"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -833605,7 +834605,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -963395,7 +964409,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226464,
+          "id": "319003924453",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 49,
+          "started_at": "2026-10-19T07:59:36Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1038952,6 +1039980,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-19T06:29:51.622Z"
+    "fetchedAt": "2026-10-19T08:22:37.618Z"
   }
 }
