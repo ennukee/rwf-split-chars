@@ -333339,6 +333339,482 @@
       },
       {
         "character": {
+          "id": 309485128,
+          "persona_id": 0,
+          "name": "Sinimli",
+          "class": {
+            "id": 3,
+            "name": "Hunter",
+            "slug": "hunter"
+          },
+          "race": {
+            "id": 3,
+            "name": "Dwarf",
+            "slug": "dwarf",
+            "faction": "alliance"
+          },
+          "faction": "alliance",
+          "level": 90,
+          "spec": {
+            "id": 254,
+            "name": "Marksmanship",
+            "slug": "marksmanship",
+            "class_id": 3,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 1
+          },
+          "path": "/characters/us/illidan/Sinimli",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/1/238123777-avatar.jpg",
+          "itemLevelEquipped": 296,
+          "items": {
+            "created_at": "2026-10-19T08:27:39.264Z",
+            "updated_at": "2026-10-19T08:27:39.264Z",
+            "source": "s3",
+            "item_level_equipped": 296,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 272250,
+                "item_level": 272,
+                "icon": "inv_helm_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Gaze",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12819,
+                  42,
+                  13696,
+                  13663
+                ]
+              },
+              "neck": {
+                "item_id": 272229,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_neck03_purple",
+                "name": "Serpentine Talisman",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13668
+                ]
+              },
+              "shoulder": {
+                "item_id": 272252,
+                "item_level": 321,
+                "icon": "inv_shoulder_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mantle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "back": {
+                "item_id": 275524,
+                "item_level": 292,
+                "icon": "inv_cape_mail_outdooramaniloa_c_01",
+                "name": "Preyhunter's Rugged Stole",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  13662
+                ]
+              },
+              "chest": {
+                "item_id": 272247,
+                "item_level": 295,
+                "icon": "inv_chest_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Byrnie",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "waist": {
+                "item_id": 272253,
+                "item_level": 295,
+                "icon": "inv_belt_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mail Skirt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  42,
+                  13696,
+                  13662
+                ]
+              },
+              "wrist": {
+                "item_id": 272254,
+                "item_level": 305,
+                "icon": "inv_bracer_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mesh Wraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "hands": {
+                "item_id": 272249,
+                "item_level": 321,
+                "icon": "inv_glove_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Chain Clasps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "legs": {
+                "item_id": 272251,
+                "item_level": 256,
+                "icon": "inv_pant_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Chausses",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13935,
+                  13663
+                ]
+              },
+              "feet": {
+                "item_id": 275510,
+                "item_level": 292,
+                "icon": "inv_boot_mail_outdooramaniloa_c_01",
+                "name": "Preyhunter's Rugged Sabatons",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  13662
+                ]
+              },
+              "finger1": {
+                "item_id": 272147,
+                "item_level": 321,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Colubrine Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12846
+                ]
+              },
+              "finger2": {
+                "item_id": 272149,
+                "item_level": 292,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  13668,
+                  11215
+                ]
+              },
+              "trinket1": {
+                "item_id": 251792,
+                "item_level": 295,
+                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
+                "name": "Glorious Crusader's Keepsake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652
+                ]
+              },
+              "trinket2": {
+                "item_id": 248583,
+                "item_level": 295,
+                "icon": "inv_archaeology_70_tauren_drum",
+                "name": "Drum of Renewed Bonds",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13183,
+                  6652,
+                  11215,
+                  12830
+                ]
+              },
+              "mainhand": {
+                "item_id": 272278,
+                "item_level": 295,
+                "icon": "inv_bow_1h_outdooramaniloa_c_01",
+                "name": "Recurve Wisp-Shooter",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  40
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 8,
+        "stream": null
+      },
+      {
+        "character": {
           "id": 309502595,
           "persona_id": 60062744,
           "name": "Kusshh",
@@ -352388,7 +352864,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-19T08:22:17.814Z"
+    "fetchedAt": "2026-10-19T10:13:13.930Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -361443,7 +361919,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -370979,7 +371455,21 @@
           "allScoreColor": "#99ff7e"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -373599,7 +374089,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -376954,7 +377444,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -390593,7 +391083,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -391953,7 +392457,21 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -392660,7 +393178,21 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -400210,7 +400742,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -405181,7 +405713,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -408011,7 +408557,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -409457,7 +410017,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -412134,7 +412708,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -412769,7 +413343,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -438475,7 +439049,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -439848,7 +440436,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -464235,7 +464837,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -464886,7 +465488,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -465586,7 +466188,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -469179,7 +469781,21 @@
           "allScoreColor": "#0070dd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -469871,7 +470487,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -470582,7 +471212,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -503372,7 +504016,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -504830,7 +505474,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -531189,7 +531833,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -553471,7 +554129,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -578523,7 +579181,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -579063,7 +579721,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -583999,7 +584657,21 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -591177,7 +591849,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 1
           }
         },
@@ -595190,7 +595862,21 @@
           "allScoreColor": "#5cce75"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226601,
+          "id": "317136947156",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Rogue Keys - quitting if no 23 resi today !ui !website !rogue !coaching !Liquid",
+          "community_ids": [],
+          "viewer_count": 386,
+          "started_at": "2026-10-19T09:27:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -632721,7 +633407,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -633247,7 +633933,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -637818,7 +638504,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -644115,7 +644801,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -644817,7 +645517,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1226554,
+          "id": "317136822996",
+          "name": "gingitv",
+          "user_id": "28241419",
+          "game_id": "18122",
+          "type": "live",
+          "title": "DROPS <Echo> WF 60 prac !ui !info !restedxp",
+          "community_ids": [],
+          "viewer_count": 621,
+          "started_at": "2026-10-19T08:57:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -672908,7 +673622,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 1
           }
         },
@@ -673629,7 +674343,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -675031,7 +675745,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -675751,7 +676465,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -686318,7 +687032,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -687007,7 +687721,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -688157,7 +688871,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -688756,7 +689470,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -689339,7 +690053,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -689867,7 +690581,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -690566,7 +691280,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RWF 60 prep with TEAM DRUID TIME ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 658,
+          "viewer_count": 548,
           "started_at": "2026-10-19T06:48:23Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -705651,7 +706365,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-19T08:22:30.822Z"
+    "fetchedAt": "2026-10-19T10:13:26.505Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -731501,7 +732215,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -734368,7 +735082,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -745426,7 +746140,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -746115,7 +746829,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -747600,7 +748314,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -787980,7 +788694,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -788684,7 +789398,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -789385,7 +790099,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -790183,7 +790897,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -790243,8 +790957,8 @@
           "thumbnail": "twisting-nether/125/152143741-avatar.jpg",
           "itemLevelEquipped": 325,
           "items": {
-            "created_at": "2026-10-15T10:54:37.811Z",
-            "updated_at": "2026-10-15T10:54:37.811Z",
+            "created_at": "2026-10-19T09:54:32.886Z",
+            "updated_at": "2026-10-19T09:54:32.886Z",
             "source": "s3",
             "item_level_equipped": 325,
             "item_level_total": 0,
@@ -790499,6 +791213,7 @@
               "hands": {
                 "item_id": 251221,
                 "item_level": 321,
+                "enchant": 8729,
                 "icon": "inv_glove_plate_dungeonharronir_c_01",
                 "name": "Despondent's Gauntlets",
                 "item_quality": 4,
@@ -790513,8 +791228,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8729
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 283996,
+                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Heat Wave|r",
+                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color2"
+                  }
+                ],
                 "bonuses": [
                   13440,
                   6652,
@@ -790555,8 +791278,7 @@
               },
               "feet": {
                 "item_id": 272256,
-                "item_level": 308,
-                "enchant": 7993,
+                "item_level": 321,
                 "icon": "inv_boot_plate_outdooramaniloa_c_01",
                 "name": "Pledgebearer's Sabatons",
                 "item_quality": 4,
@@ -790571,20 +791293,12 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7993
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243983,
-                    "name": "Enchant Boots - Shaladrassil's Roots",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13662,
-                  12838
+                  12846
                 ]
               },
               "finger1": {
@@ -796460,7 +797174,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -807825,7 +808539,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -808577,7 +809291,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -811441,7 +812155,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -814744,7 +815458,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -817483,7 +818197,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -818145,7 +818859,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -833942,7 +834656,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -834615,7 +835329,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -964419,7 +965133,7 @@
           "type": "live",
           "title": "Thaner <Method> - Yo !ui !vpn",
           "community_ids": [],
-          "viewer_count": 49,
+          "viewer_count": 64,
           "started_at": "2026-10-19T07:59:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
@@ -1039980,6 +1040694,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-19T08:22:37.618Z"
+    "fetchedAt": "2026-10-19T10:13:37.975Z"
   }
 }
