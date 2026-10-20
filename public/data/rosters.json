@@ -20529,14 +20529,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 251,
-            "name": "Frost",
-            "slug": "frost",
+            "id": 250,
+            "name": "Blood",
+            "slug": "blood",
             "class_id": 6,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "3.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/us/illidan/Mellamolip",
           "realm": {
@@ -20564,8 +20564,8 @@
           "thumbnail": "illidan/195/224131523-avatar.jpg",
           "itemLevelEquipped": 327,
           "items": {
-            "created_at": "2026-10-12T11:11:11.718Z",
-            "updated_at": "2026-10-12T11:11:11.718Z",
+            "created_at": "2026-10-20T01:25:47.877Z",
+            "updated_at": "2026-10-20T01:25:47.877Z",
             "source": "s3",
             "item_level_equipped": 327,
             "item_level_total": 0,
@@ -21117,11 +21117,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 268209,
+                "item_id": 268213,
                 "item_level": 334,
-                "enchant": 3847,
-                "icon": "inv_axe_1h_ulatek_d_01",
-                "name": "Aman'muso, Warlord's Vengeance",
+                "enchant": 6241,
+                "icon": "inv_axe_2h_ulatek_d_01",
+                "name": "Maze-roa, Warlord's Fury",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -21135,42 +21135,13 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  3847
+                  6241
                 ],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13334,
                   12854
-                ]
-              },
-              "offhand": {
-                "item_id": 268202,
-                "item_level": 321,
-                "enchant": 3368,
-                "icon": "inv_sword_1h_ulatek_d_01",
-                "name": "Jaw of the Shackled Goddess",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  3368
-                ],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13334,
-                  13847,
-                  12846
                 ]
               }
             }
@@ -23492,7 +23463,21 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1229467,
+          "id": "322044433755",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) are we raiding tonight @nokomanida",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-20T01:13:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -24184,21 +24169,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -24808,21 +24779,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -32753,21 +32710,7 @@
           "allScoreColor": "#72ff56"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -34114,21 +34057,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -39029,21 +38958,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -41977,21 +41892,7 @@
           "allScoreColor": "#0070dd"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -46048,21 +45949,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -49514,21 +49401,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -53619,21 +53492,7 @@
           "allScoreColor": "#56da64"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -55700,21 +55559,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -58926,21 +58771,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -60915,21 +60746,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -62253,21 +62070,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -64467,21 +64270,7 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -69673,21 +69462,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -71079,21 +70854,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1227819,
-          "id": "318063763300",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "couple raids | !ui !eu <Liquid>",
-          "community_ids": [],
-          "viewer_count": 210,
-          "started_at": "2026-10-19T17:30:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -72312,21 +72073,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -74971,21 +74718,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1227819,
-          "id": "318063763300",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "couple raids | !ui !eu <Liquid>",
-          "community_ids": [],
-          "viewer_count": 210,
-          "started_at": "2026-10-19T17:30:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -79542,21 +79275,7 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -81754,12 +81473,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/232/231875304-avatar.jpg",
-          "itemLevelEquipped": 332,
+          "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-13T05:20:29.293Z",
-            "updated_at": "2026-10-13T05:20:29.293Z",
+            "created_at": "2026-10-20T01:08:41.000Z",
+            "updated_at": "2026-10-20T01:08:41.000Z",
             "source": "s3",
-            "item_level_equipped": 332,
+            "item_level_equipped": 333,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -81838,7 +81557,7 @@
               },
               "neck": {
                 "item_id": 268265,
-                "item_level": 321,
+                "item_level": 344,
                 "icon": "inv_121_jewelry_neck03_green",
                 "name": "Aqirbane Reliquary",
                 "item_quality": 4,
@@ -81853,7 +81572,7 @@
                 "domination_shards": [],
                 "gems": [
                   240983,
-                  240900
+                  240890
                 ],
                 "gems_detail": [
                   {
@@ -81862,9 +81581,9 @@
                     "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
                   },
                   {
-                    "id": 240900,
-                    "name": "16 Mast & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
                   }
                 ],
                 "enchants": [],
@@ -81872,9 +81591,9 @@
                 "bonuses": [
                   6652,
                   13668,
-                  13334,
-                  13987,
-                  12846
+                  13335,
+                  13848,
+                  13987
                 ]
               },
               "shoulder": {
@@ -88577,21 +88296,7 @@
           "allScoreColor": "#33ff1a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -89273,21 +88978,7 @@
           "allScoreColor": "#2aff10"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -95253,21 +94944,7 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -96498,21 +96175,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -104043,21 +103706,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1227819,
-          "id": "318063763300",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "couple raids | !ui !eu <Liquid>",
-          "community_ids": [],
-          "viewer_count": 210,
-          "started_at": "2026-10-19T17:30:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -111449,21 +111098,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -116863,21 +116498,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1227819,
-          "id": "318063763300",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "couple raids | !ui !eu <Liquid>",
-          "community_ids": [],
-          "viewer_count": 210,
-          "started_at": "2026-10-19T17:30:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -120305,21 +119926,7 @@
           "allScoreColor": "#bdffa7"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -120830,21 +120437,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -121488,21 +121081,7 @@
           "allScoreColor": "#daffcb"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -122262,8 +121841,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 505,
-          "allScoreColor": "#e9ffe0"
+          "allScore": 714.1,
+          "allScoreColor": "#daffcb"
         },
         "rank": 4,
         "stream": null
@@ -126990,7 +126569,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -126999,7 +126578,21 @@
           "allScoreColor": "#6361e4"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1229467,
+          "id": "322044433755",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) are we raiding tonight @nokomanida",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-20T01:13:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -129678,21 +129271,672 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
+      },
+      {
+        "character": {
+          "id": 241057830,
+          "persona_id": 56010620,
+          "name": "Mazzh",
+          "class": {
+            "id": 3,
+            "name": "Hunter",
+            "slug": "hunter"
+          },
+          "race": {
+            "id": 35,
+            "name": "Vulpera",
+            "slug": "vulpera",
+            "faction": "horde"
+          },
+          "faction": "horde",
+          "level": 90,
+          "spec": {
+            "id": 254,
+            "name": "Marksmanship",
+            "slug": "marksmanship",
+            "class_id": 3,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 1
+          },
+          "path": "/characters/us/demon-soul/Mazzh",
+          "realm": {
+            "id": 311,
+            "connectedRealmId": 165,
+            "wowRealmId": 1286,
+            "wowConnectedRealmId": 157,
+            "name": "Demon Soul",
+            "altName": null,
+            "slug": "demon-soul",
+            "altSlug": "demon-soul",
+            "locale": "en_US",
+            "isConnected": true,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "demon-soul/83/201244499-avatar.jpg",
+          "itemLevelEquipped": 329,
+          "items": {
+            "created_at": "2026-10-14T05:38:29.580Z",
+            "updated_at": "2026-10-14T05:38:29.580Z",
+            "source": "s3",
+            "item_level_equipped": 329,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271492,
+                "item_level": 321,
+                "enchant": 8017,
+                "icon": "inv_helm_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Weeping Fangs",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12846,
+                  13334,
+                  6652,
+                  13696,
+                  13692,
+                  13698,
+                  1574
+                ]
+              },
+              "neck": {
+                "item_id": 268265,
+                "item_level": 334,
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908,
+                  240967
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  },
+                  {
+                    "id": 240967,
+                    "name": "23 Primary / +0.15% critical strike effectiveness per unique Midnight gem color",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_orange"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  13987,
+                  13696,
+                  12854
+                ]
+              },
+              "shoulder": {
+                "item_id": 244580,
+                "item_level": 331,
+                "enchant": 8001,
+                "icon": "inv_shoulder_mail_questbloodelf_b_01",
+                "name": "Farstrider's Brilliant Plumes",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  12715,
+                  8791,
+                  13836
+                ]
+              },
+              "back": {
+                "item_id": 159288,
+                "item_level": 321,
+                "icon": "inv_cape_mail_zandalardungeon_c_01",
+                "name": "Cloak of the Restless Tribes",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13662,
+                  12699,
+                  12846
+                ]
+              },
+              "chest": {
+                "item_id": 271876,
+                "item_level": 334,
+                "icon": "inv_chest_mail_raidevokerulatek_d_01",
+                "name": "Awoken Dreadfang Cuirass",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  13334,
+                  13846,
+                  12854
+                ]
+              },
+              "waist": {
+                "item_id": 244581,
+                "item_level": 331,
+                "icon": "inv_belt_mail_questbloodelf_b_01",
+                "name": "Farstrider's Trophy Belt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  13695,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13836,
+                  13696
+                ]
+              },
+              "wrist": {
+                "item_id": 244584,
+                "item_level": 331,
+                "icon": "inv_bracer_mail_questbloodelf_b_01",
+                "name": "Farstrider's Plated Bracers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  13695,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13836,
+                  13696
+                ]
+              },
+              "hands": {
+                "item_id": 271493,
+                "item_level": 321,
+                "icon": "inv_glove_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Hidepiercers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12846,
+                  6652,
+                  13440,
+                  13691,
+                  13697,
+                  1574
+                ]
+              },
+              "legs": {
+                "item_id": 271491,
+                "item_level": 321,
+                "icon": "inv_pant_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Coiled Legwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  13693,
+                  6652,
+                  13698,
+                  12846
+                ]
+              },
+              "feet": {
+                "item_id": 268258,
+                "item_level": 334,
+                "enchant": 7963,
+                "icon": "inv_boot_mail_raidevokerulatek_d_01",
+                "name": "Boots of the Reckless Wayfarer",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13662,
+                  13335,
+                  12854
+                ]
+              },
+              "finger1": {
+                "item_id": 268249,
+                "item_level": 334,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13335,
+                  12854
+                ]
+              },
+              "finger2": {
+                "item_id": 162544,
+                "item_level": 321,
+                "enchant": 7967,
+                "icon": "inv_ring_80_04c",
+                "name": "Jade Ophidian Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13440,
+                  6652,
+                  13668,
+                  12699,
+                  12846
+                ]
+              },
+              "trinket1": {
+                "item_id": 270175,
+                "item_level": 334,
+                "icon": "inv_121_trinket_raid_ulatek_heart",
+                "name": "Voracious Heart of Ula'tek",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12854
+                ]
+              },
+              "trinket2": {
+                "item_id": 270168,
+                "item_level": 334,
+                "icon": "inv_10_dungeonjewelry_dragon_trinket_3djardintrophy_green",
+                "name": "Font of Venomous Rage",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  41,
+                  13334,
+                  13696,
+                  12854
+                ]
+              },
+              "mainhand": {
+                "item_id": 268207,
+                "item_level": 334,
+                "enchant": 8689,
+                "icon": "inv_bow_1h_ulatek_d_01",
+                "name": "Caustic Repose Greatbow",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13334,
+                  13708,
+                  12854
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 2811.2,
+          "allScoreColor": "#4e8ebd"
+        },
+        "rank": 4,
+        "stream": null
       },
       {
         "character": {
@@ -134408,21 +134652,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -135094,21 +135324,7 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -137135,21 +137351,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -138330,8 +138532,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2856.4,
-          "allScoreColor": "#4687c5"
+          "allScore": 2871.4,
+          "allScoreColor": "#4183c9"
         },
         "rank": 8,
         "stream": null
@@ -140351,21 +140553,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -140991,21 +141179,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -141646,21 +141820,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1227819,
-          "id": "318063763300",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "couple raids | !ui !eu <Liquid>",
-          "community_ids": [],
-          "viewer_count": 210,
-          "started_at": "2026-10-19T17:30:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -157936,7 +158096,21 @@
           "allScoreColor": "#c744c0"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1229467,
+          "id": "322044433755",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) are we raiding tonight @nokomanida",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-20T01:13:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -159991,21 +160165,7 @@
           "allScoreColor": "#94ff78"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -168792,21 +168952,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -175605,21 +175751,7 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -176371,21 +176503,7 @@
           "allScoreColor": "#2aff10"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -179085,21 +179203,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -185150,21 +185254,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -189859,21 +189949,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -213122,7 +213198,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -214528,21 +214604,7 @@
           "allScoreColor": "#4cff33"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -215852,21 +215914,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -227775,7 +227823,7 @@
           "type": "live",
           "title": "[DROPS] ulatek must die tonight",
           "community_ids": [],
-          "viewer_count": 68,
+          "viewer_count": 285,
           "started_at": "2026-10-20T00:14:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -237601,21 +237649,7 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -239016,21 +239050,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -266056,21 +266076,7 @@
           "allScoreColor": "#1eff00"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -268188,21 +268194,7 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -273840,21 +273832,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -274493,21 +274471,7 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -275147,21 +275111,7 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -277779,21 +277729,7 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -278497,21 +278433,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -291513,21 +291435,7 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228560,
-          "id": "319630369623",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "3x RAID GAUNTLET. PUZZLE GAME STREAM TOMORROW !ui",
-          "community_ids": [],
-          "viewer_count": 474,
-          "started_at": "2026-10-19T19:59:42Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -292937,21 +292845,7 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -293681,21 +293575,7 @@
           "allScoreColor": "#5ad270"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228577,
-          "id": "321879027033",
-          "name": "driney",
-          "user_id": "45937451",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> alt runs !discord",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-19T20:02:12Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_driney-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -297849,8 +297729,8 @@
           "thumbnail": "illidan/100/237883748-avatar.jpg",
           "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-19T21:45:30.928Z",
-            "updated_at": "2026-10-19T21:45:30.928Z",
+            "created_at": "2026-10-20T01:08:31.515Z",
+            "updated_at": "2026-10-20T01:08:31.515Z",
             "source": "s3",
             "item_level_equipped": 333,
             "item_level_total": 0,
@@ -297866,6 +297746,7 @@
               "head": {
                 "item_id": 271555,
                 "item_level": 344,
+                "enchant": 8017,
                 "icon": "inv_helm_cloth_raidpriestulatek_d_01",
                 "name": "Cosmic Penitent's Truesight",
                 "item_quality": 4,
@@ -297907,8 +297788,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13335,
@@ -297999,10 +297888,10 @@
                 ]
               },
               "back": {
-                "item_id": 239656,
-                "item_level": 331,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
+                "item_id": 268253,
+                "item_level": 344,
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -298018,13 +297907,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8790,
-                  13836
+                  6652,
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "chest": {
@@ -298372,11 +298258,10 @@
                 ]
               },
               "mainhand": {
-                "item_id": 268205,
-                "item_level": 334,
-                "enchant": 8689,
-                "icon": "inv_staff_2h_ulatek_d_02",
-                "name": "Venomancer's Winged Channeler",
+                "item_id": 271092,
+                "item_level": 344,
+                "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
+                "name": "Jan'thrazet, the Soul Fang",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -298389,21 +298274,37 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8689
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  41,
+                  6652,
                   13335,
-                  12854,
-                  13696
+                  13848
+                ]
+              },
+              "offhand": {
+                "item_id": 268197,
+                "item_level": 321,
+                "icon": "inv_offhand_1h_ulatek_d_01",
+                "name": "Spine of the Hissing Abyss",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12846
                 ]
               }
             }
@@ -305237,21 +305138,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -305842,21 +305729,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -306532,21 +306405,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -307198,21 +307057,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -307690,21 +307535,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -308202,21 +308033,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -308874,21 +308691,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -313661,12 +313464,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "dragonblight/42/185397802-avatar.jpg",
-          "itemLevelEquipped": 332,
+          "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-11T07:02:22.457Z",
-            "updated_at": "2026-10-11T07:02:22.457Z",
+            "created_at": "2026-10-20T01:08:39.630Z",
+            "updated_at": "2026-10-20T01:08:39.630Z",
             "source": "s3",
-            "item_level_equipped": 332,
+            "item_level_equipped": 333,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -314051,11 +313854,11 @@
                 ]
               },
               "legs": {
-                "item_id": 271500,
-                "item_level": 334,
+                "item_id": 268237,
+                "item_level": 344,
                 "enchant": 7935,
                 "icon": "inv_pant_mail_raidevokerulatek_d_01",
-                "name": "Earthen Pillars of Calamity",
+                "name": "Cuisses of the Uncoiled Union",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -314066,7 +313869,6 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -314080,11 +313882,10 @@
                   }
                 ],
                 "bonuses": [
-                  13335,
-                  13693,
                   6652,
-                  13698,
-                  12854
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "feet": {
@@ -314259,11 +314060,10 @@
                 ]
               },
               "mainhand": {
-                "item_id": 268205,
-                "item_level": 334,
-                "enchant": 8689,
-                "icon": "inv_staff_2h_ulatek_d_02",
-                "name": "Venomancer's Winged Channeler",
+                "item_id": 271092,
+                "item_level": 344,
+                "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
+                "name": "Jan'thrazet, the Soul Fang",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -314276,20 +314076,37 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8689
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  42,
+                  6652,
                   13335,
-                  12854
+                  13848
+                ]
+              },
+              "offhand": {
+                "item_id": 268197,
+                "item_level": 331,
+                "icon": "inv_offhand_1h_ulatek_d_01",
+                "name": "Spine of the Hissing Abyss",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13335,
+                  12853
                 ]
               }
             }
@@ -314321,21 +314138,7 @@
           "allScoreColor": "#a8ff8e"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228528,
-          "id": "321924105946",
-          "name": "sanghelioswow",
-          "user_id": "49757456",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Guild raids. 2nd and 3rd kills of CA and Ulatek on evoker!",
-          "community_ids": [],
-          "viewer_count": 69,
-          "started_at": "2026-10-19T19:49:08Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanghelioswow-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -315125,12 +314928,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/122/223017850-avatar.jpg",
-          "itemLevelEquipped": 327,
+          "itemLevelEquipped": 329,
           "items": {
-            "created_at": "2026-10-15T00:26:22.329Z",
-            "updated_at": "2026-10-15T00:26:22.329Z",
+            "created_at": "2026-10-20T01:25:42.764Z",
+            "updated_at": "2026-10-20T01:25:42.764Z",
             "source": "s3",
-            "item_level_equipped": 327,
+            "item_level_equipped": 329,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -315519,11 +315322,11 @@
                 ]
               },
               "feet": {
-                "item_id": 272240,
-                "item_level": 321,
+                "item_id": 244569,
+                "item_level": 331,
                 "enchant": 7963,
-                "icon": "inv_boot_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Striders",
+                "icon": "inv_boot_leather_questbloodelf_b_01",
+                "name": "Silvermoon Agent's Sneakers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -315547,9 +315350,13 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13662,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8791,
+                  13836
                 ]
               },
               "finger1": {
@@ -315640,10 +315447,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270167,
-                "item_level": 321,
-                "icon": "inv_tradeskillitem_sorcererswater",
-                "name": "Wavecaller's Seastone",
+                "item_id": 281215,
+                "item_level": 334,
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -315661,8 +315468,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  11215,
-                  12846
+                  12854
                 ]
               },
               "trinket2": {
@@ -315781,8 +315587,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2857,
-          "allScoreColor": "#4687c5"
+          "allScore": 2902,
+          "allScoreColor": "#3b7fcd"
         },
         "rank": 4,
         "stream": null
@@ -317304,21 +317110,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -330838,21 +330630,7 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -331549,21 +331327,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -332265,21 +332029,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -332897,21 +332647,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -333485,21 +333221,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -334066,21 +333788,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -337841,21 +337549,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -341222,21 +340916,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -350336,21 +350016,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -351024,21 +350690,675 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
+      },
+      {
+        "character": {
+          "id": 309634688,
+          "persona_id": 60103342,
+          "name": "Mazzacre",
+          "class": {
+            "id": 3,
+            "name": "Hunter",
+            "slug": "hunter"
+          },
+          "race": {
+            "id": 3,
+            "name": "Dwarf",
+            "slug": "dwarf",
+            "faction": "alliance"
+          },
+          "faction": "alliance",
+          "level": 90,
+          "spec": {
+            "id": 253,
+            "name": "Beast Mastery",
+            "slug": "beast-mastery",
+            "class_id": 3,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "path": "/characters/us/illidan/Mazzacre",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/71/238167623-avatar.jpg",
+          "itemLevelEquipped": 295,
+          "items": {
+            "created_at": "2026-10-20T00:28:35.310Z",
+            "updated_at": "2026-10-20T00:28:35.310Z",
+            "source": "s3",
+            "item_level_equipped": 295,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271492,
+                "item_level": 321,
+                "enchant": 8017,
+                "icon": "inv_helm_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Weeping Fangs",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13334,
+                  41,
+                  13696,
+                  13692,
+                  13698,
+                  12846
+                ]
+              },
+              "neck": {
+                "item_id": 272228,
+                "item_level": 272,
+                "icon": "inv_121_jewelry_neck02_purple",
+                "name": "Whispering Periapt",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12819,
+                  6652,
+                  13668
+                ]
+              },
+              "shoulder": {
+                "item_id": 271490,
+                "item_level": 292,
+                "enchant": 8001,
+                "icon": "inv_shoulder_mail_raidhunterulatek_d_01",
+                "name": "Jaws of the Skulking Viper",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12833,
+                  13694,
+                  13697,
+                  1545
+                ]
+              },
+              "back": {
+                "item_id": 272225,
+                "item_level": 305,
+                "icon": "inv_cape_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Mantle",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652,
+                  13662
+                ]
+              },
+              "chest": {
+                "item_id": 271495,
+                "item_level": 302,
+                "enchant": 7987,
+                "icon": "inv_chest_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Scuteplate",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13846,
+                  13333,
+                  42,
+                  12836,
+                  13690,
+                  13698,
+                  1555
+                ]
+              },
+              "waist": {
+                "item_id": 272253,
+                "item_level": 295,
+                "icon": "inv_belt_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mail Skirt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "wrist": {
+                "item_id": 272254,
+                "item_level": 295,
+                "icon": "inv_bracer_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Mesh Wraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "hands": {
+                "item_id": 272249,
+                "item_level": 295,
+                "icon": "inv_glove_mail_outdooramaniloa_c_01",
+                "name": "Galerider's Chain Clasps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "legs": {
+                "item_id": 271491,
+                "item_level": 298,
+                "enchant": 8159,
+                "icon": "inv_pant_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Coiled Legwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12835,
+                  13693,
+                  13698,
+                  1551
+                ]
+              },
+              "feet": {
+                "item_id": 271440,
+                "item_level": 315,
+                "enchant": 7963,
+                "icon": "inv_boot_mail_raidshamanulatek_d_01",
+                "name": "Greaves of the Noxious Depths",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13662,
+                  13334,
+                  10844,
+                  12844
+                ]
+              },
+              "finger1": {
+                "item_id": 258909,
+                "item_level": 253,
+                "enchant": 7967,
+                "icon": "inv_70_quest_ring6a",
+                "name": "Tarnished Dawnlit Signet",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13900,
+                  13668
+                ]
+              },
+              "finger2": {
+                "item_id": 258909,
+                "item_level": 253,
+                "enchant": 7967,
+                "icon": "inv_70_quest_ring6a",
+                "name": "Tarnished Dawnlit Signet",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13900,
+                  13668
+                ]
+              },
+              "trinket1": {
+                "item_id": 265657,
+                "item_level": 295,
+                "icon": "ability_rogue_sanguinaryvein",
+                "name": "Fiber of Living Agony",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652
+                ]
+              },
+              "trinket2": {
+                "item_id": 250228,
+                "item_level": 298,
+                "icon": "inv_alchemy_90_stone_green",
+                "name": "Resonant Bellowstone",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12835,
+                  6652,
+                  12699,
+                  11215
+                ]
+              },
+              "mainhand": {
+                "item_id": 272278,
+                "item_level": 321,
+                "enchant": 8689,
+                "icon": "inv_bow_1h_outdooramaniloa_c_01",
+                "name": "Recurve Wisp-Shooter",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12846
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 345,
+          "allScoreColor": "#f6fff2"
+        },
+        "rank": 4,
+        "stream": null
       },
       {
         "character": {
@@ -351715,21 +352035,7 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1228025,
-          "id": "321923251162",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing raids",
-          "community_ids": [],
-          "viewer_count": 150,
-          "started_at": "2026-10-19T17:58:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -355311,7 +355617,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T00:34:39.731Z"
+    "fetchedAt": "2026-10-20T02:17:35.411Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -406959,8 +407265,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3819.3,
-          "allScoreColor": "#e65c82"
+          "allScore": 3836.2,
+          "allScoreColor": "#e85f7c"
         },
         "rank": 6,
         "stream": null
@@ -418152,12 +418458,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/125/186794621-avatar.jpg",
-          "itemLevelEquipped": 334,
+          "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-10-19T20:52:33.817Z",
-            "updated_at": "2026-10-19T20:52:33.817Z",
+            "created_at": "2026-10-20T01:02:49.284Z",
+            "updated_at": "2026-10-20T01:02:49.284Z",
             "source": "s3",
-            "item_level_equipped": 334,
+            "item_level_equipped": 335,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -418171,6 +418477,7 @@
               "head": {
                 "item_id": 271874,
                 "item_level": 344,
+                "enchant": 8017,
                 "icon": "inv_helm_cloth_raidwarlockulatek_d_01",
                 "name": "Venomkeeper's Horrific Cowl",
                 "item_quality": 4,
@@ -418229,10 +418536,26 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "gems": [
+                  240894
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240894,
+                    "name": "16 Haste & 7 Vers",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_frost_green"
+                  }
+                ],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13695,
@@ -418692,11 +419015,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 245770,
-                "item_level": 331,
+                "item_id": 271092,
+                "item_level": 344,
                 "enchant": 8689,
-                "icon": "inv_staff_2h_dungeonharronir_c_02",
-                "name": "Aln'hara Cane",
+                "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
+                "name": "Jan'thrazet, the Soul Fang",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -418720,13 +419043,38 @@
                   }
                 ],
                 "bonuses": [
+                  6652,
+                  13335,
+                  13848
+                ]
+              },
+              "offhand": {
+                "item_id": 245769,
+                "item_level": 331,
+                "icon": "inv_offhand_1h_dungeonharronir_c_01",
+                "name": "Aln'hara Lantern",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
                   12214,
                   12497,
                   13751,
-                  14004,
+                  14001,
                   13771,
                   8960,
-                  8793,
+                  8792,
                   13836
                 ]
               }
@@ -466701,7 +467049,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3643.2,
+          "allScore": 3644.8,
           "allScoreColor": "#d44daa"
         },
         "rank": 4,
@@ -487395,14 +487743,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 1473,
-            "name": "Augmentation",
-            "slug": "augmentation",
+            "id": 1467,
+            "name": "Devastation",
+            "slug": "devastation",
             "class_id": 13,
             "role": "dps",
             "is_melee": false,
-            "patch": "10.1.5",
-            "ordinal": 2
+            "patch": "10.0.0",
+            "ordinal": 0
           },
           "path": "/characters/eu/tarren-mill/Helenirakka",
           "realm": {
@@ -487428,12 +487776,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/17/189035537-avatar.jpg",
-          "itemLevelEquipped": 337,
+          "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-19T20:52:32.756Z",
-            "updated_at": "2026-10-19T20:52:32.756Z",
+            "created_at": "2026-10-20T01:02:42.573Z",
+            "updated_at": "2026-10-20T01:02:42.573Z",
             "source": "s3",
-            "item_level_equipped": 337,
+            "item_level_equipped": 336,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -487991,31 +488339,6 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270169,
-                "item_level": 344,
-                "icon": "inv_archaeology_orcclans_crackedidol",
-                "name": "Hex Lord's Dooming Idol",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13335,
-                  13848
-                ]
-              },
-              "trinket2": {
                 "item_id": 270168,
                 "item_level": 344,
                 "icon": "inv_10_dungeonjewelry_dragon_trinket_3djardintrophy_green",
@@ -488038,6 +488361,31 @@
                   6652,
                   13335,
                   13848
+                ]
+              },
+              "trinket2": {
+                "item_id": 281215,
+                "item_level": 334,
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  42,
+                  13334,
+                  12854
                 ]
               },
               "mainhand": {
@@ -572280,8 +572628,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2999.9,
-          "allScoreColor": "#1c74d9"
+          "allScore": 3142.3,
+          "allScoreColor": "#5864e2"
         },
         "rank": 4,
         "stream": null
@@ -578461,8 +578809,8 @@
           "thumbnail": "tarren-mill/75/189904459-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-15T09:32:24.273Z",
-            "updated_at": "2026-10-15T09:32:24.273Z",
+            "created_at": "2026-10-20T01:02:38.475Z",
+            "updated_at": "2026-10-20T01:02:38.475Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -578881,11 +579229,11 @@
                 ]
               },
               "legs": {
-                "item_id": 271500,
-                "item_level": 334,
+                "item_id": 268237,
+                "item_level": 344,
                 "enchant": 7937,
                 "icon": "inv_pant_mail_raidevokerulatek_d_01",
-                "name": "Earthen Pillars of Calamity",
+                "name": "Cuisses of the Uncoiled Union",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -578896,7 +579244,6 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -578910,12 +579257,10 @@
                   }
                 ],
                 "bonuses": [
-                  12854,
-                  13335,
-                  13693,
                   6652,
-                  13698,
-                  13696
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "feet": {
@@ -599642,7 +599987,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2801.5,
+          "allScore": 2813.7,
           "allScoreColor": "#4e8ebd"
         },
         "rank": 4,
@@ -713841,7 +714186,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T00:34:49.330Z"
+    "fetchedAt": "2026-10-20T02:17:47.625Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -882182,8 +882527,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2536,
-          "allScoreColor": "#5fba8d"
+          "allScore": 2923.5,
+          "allScoreColor": "#337bd1"
         },
         "rank": 3,
         "stream": null
@@ -1049033,6 +1049378,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T00:34:55.592Z"
+    "fetchedAt": "2026-10-20T02:17:59.791Z"
   }
 }
