@@ -91038,14 +91038,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 268,
-            "name": "Brewmaster",
-            "slug": "brewmaster",
+            "id": 270,
+            "name": "Mistweaver",
+            "slug": "mistweaver",
             "class_id": 10,
-            "role": "tank",
-            "is_melee": true,
+            "role": "healer",
+            "is_melee": false,
             "patch": "5.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/us/illidan/Glaxop",
           "realm": {
@@ -91073,8 +91073,8 @@
           "thumbnail": "illidan/65/231986753-avatar.jpg",
           "itemLevelEquipped": 305,
           "items": {
-            "created_at": "2026-10-18T00:35:42.931Z",
-            "updated_at": "2026-10-18T00:35:42.931Z",
+            "created_at": "2026-10-20T08:15:53.209Z",
+            "updated_at": "2026-10-20T08:15:53.209Z",
             "source": "s3",
             "item_level_equipped": 305,
             "item_level_total": 0,
@@ -91379,6 +91379,7 @@
               "hands": {
                 "item_id": 271520,
                 "item_level": 321,
+                "enchant": 8727,
                 "icon": "inv_glove_leather_raidmonkulatek_d_01",
                 "name": "Monkey King's Fighting Fists",
                 "item_quality": 4,
@@ -91394,8 +91395,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8727
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 280563,
+                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Falco Strikes|r",
+                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13691,
@@ -91512,11 +91521,10 @@
                 ]
               },
               "finger2": {
-                "item_id": 273792,
-                "item_level": 308,
-                "enchant": 8025,
-                "icon": "inv_121_jewelry_ring02_green",
-                "name": "Band of the Amani Warlord",
+                "item_id": 268266,
+                "item_level": 318,
+                "icon": "inv_70_raid_ring8c",
+                "name": "Alluring Bubbleband",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -91527,32 +91535,15 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240890
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  }
-                ],
-                "enchants": [
-                  8025
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244015,
-                    "name": "Enchant Ring - Silvermoon's Alacrity",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  13439,
                   6652,
                   13668,
-                  12699,
-                  12838
+                  13335,
+                  12849
                 ]
               },
               "trinket1": {
@@ -91606,11 +91597,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 272272,
+                "item_id": 245770,
                 "item_level": 295,
-                "enchant": 8689,
-                "icon": "inv_polearm_2h_outdooramaniloa_c_01",
-                "name": "Harrowed Partisan",
+                "enchant": 8039,
+                "icon": "inv_staff_2h_dungeonharronir_c_02",
+                "name": "Aln'hara Cane",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -91624,18 +91615,24 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8689
+                  8039
                 ],
                 "enchants_detail": [
                   {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
                   }
                 ],
                 "bonuses": [
-                  12834,
-                  6652
+                  12214,
+                  13655,
+                  12497,
+                  12066,
+                  12693,
+                  8960,
+                  8790,
+                  13622
                 ]
               }
             }
@@ -276532,12 +276529,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/11/236661515-avatar.jpg",
-          "itemLevelEquipped": 313,
+          "itemLevelEquipped": 316,
           "items": {
-            "created_at": "2026-10-15T00:27:28.175Z",
-            "updated_at": "2026-10-15T00:27:28.175Z",
+            "created_at": "2026-10-20T07:16:31.179Z",
+            "updated_at": "2026-10-20T07:16:31.179Z",
             "source": "s3",
-            "item_level_equipped": 313,
+            "item_level_equipped": 316,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -276656,10 +276653,10 @@
                 ]
               },
               "chest": {
-                "item_id": 268223,
+                "item_id": 271876,
                 "item_level": 321,
-                "icon": "inv_chest_mail_raidhunterulatek_d_01",
-                "name": "Ophidian Fangmail",
+                "icon": "inv_chest_mail_raidevokerulatek_d_01",
+                "name": "Awoken Dreadfang Cuirass",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -276678,6 +276675,7 @@
                   6652,
                   13662,
                   13334,
+                  13846,
                   12846
                 ]
               },
@@ -276865,10 +276863,10 @@
                 ]
               },
               "finger2": {
-                "item_id": 249369,
-                "item_level": 266,
-                "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
-                "name": "Bond of Light",
+                "item_id": 268249,
+                "item_level": 321,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -276887,8 +276885,7 @@
                   6652,
                   13668,
                   13334,
-                  12795,
-                  11215
+                  12846
                 ]
               },
               "trinket1": {
@@ -334262,12 +334259,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/75/238133067-avatar.jpg",
-          "itemLevelEquipped": 307,
+          "itemLevelEquipped": 321,
           "items": {
-            "created_at": "2026-10-18T00:36:38.862Z",
-            "updated_at": "2026-10-18T00:36:38.862Z",
+            "created_at": "2026-10-20T07:14:31.584Z",
+            "updated_at": "2026-10-20T07:14:31.584Z",
             "source": "s3",
-            "item_level_equipped": 307,
+            "item_level_equipped": 321,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -334280,13 +334277,14 @@
             "items": {
               "head": {
                 "item_id": 271510,
-                "item_level": 311,
+                "item_level": 344,
                 "icon": "inv_helm_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Spirit Shroud",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
+                  null,
                   null,
                   {
                     "id": 580,
@@ -334310,17 +334308,6 @@
                     },
                     "tier": 999
                   },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
                   null
                 ],
                 "corruption": {
@@ -334335,13 +334322,14 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12843,
-                  43,
+                  6652,
+                  13335,
                   13696,
-                  13440,
+                  13847,
+                  13848,
                   13692,
                   13698,
-                  1564
+                  1597
                 ]
               },
               "neck": {
@@ -334359,8 +334347,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240892
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -334373,59 +334369,13 @@
               },
               "shoulder": {
                 "item_id": 271508,
-                "item_level": 311,
+                "item_level": 321,
                 "icon": "inv_shoulder_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Voodoo Guards",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -334438,19 +334388,18 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  12843,
-                  13440,
+                  12850,
+                  13335,
                   13694,
-                  13697,
-                  1564
+                  6652,
+                  13697
                 ]
               },
               "back": {
-                "item_id": 272226,
-                "item_level": 295,
-                "icon": "inv_cape_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Shroud",
+                "item_id": 268253,
+                "item_level": 344,
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -334466,67 +334415,21 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
                   6652,
-                  13662
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "chest": {
                 "item_id": 271513,
-                "item_level": 311,
-                "enchant": 7987,
+                "item_level": 334,
                 "icon": "inv_chest_leather_raidrogueulatek_d_01",
                 "name": "Chosen Bloodslayer's Banded Poncho",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -334536,23 +334439,14 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  12843,
-                  13440,
+                  13335,
                   13690,
+                  6652,
                   13698,
-                  1564
+                  12854
                 ]
               },
               "waist": {
@@ -334616,11 +334510,11 @@
                 ]
               },
               "hands": {
-                "item_id": 258922,
-                "item_level": 269,
-                "icon": "inv_glove_leather_questbloodelf_b_01",
-                "name": "Tarnished Dawnlit Corsair's Gloves",
-                "item_quality": 3,
+                "item_id": 268234,
+                "item_level": 324,
+                "icon": "inv_glove_leather_raiddemonhunterulatek_d_01",
+                "name": "Ruthless Slaughtergrips",
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -334636,8 +334530,9 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13663,
-                  12818
+                  13662,
+                  13335,
+                  12851
                 ]
               },
               "legs": {
@@ -334681,6 +334576,7 @@
               "feet": {
                 "item_id": 159327,
                 "item_level": 311,
+                "enchant": 7963,
                 "icon": "inv_boot_leather_zandalardungeon_c_01",
                 "name": "Sand-Shined Snakeskin Sandals",
                 "item_quality": 4,
@@ -334695,8 +334591,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12843,
                   13440,
@@ -334820,10 +334724,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 246307,
-                "item_level": 305,
-                "icon": "inv_12_profession_inscriptions_darkmoondominions_void",
-                "name": "Darkmoon Dominion: Void",
+                "item_id": 270173,
+                "item_level": 344,
+                "icon": "inv_121_trinket_raid_ulatek_trolltablet",
+                "name": "Zul'jin's Guillotine Technique",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -334839,15 +334743,46 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  8960,
-                  12497,
-                  13751,
-                  14001
+                  41,
+                  13335,
+                  13848
                 ]
               },
               "mainhand": {
+                "item_id": 268204,
+                "item_level": 321,
+                "enchant": 8689,
+                "icon": "inv_knife_1h_ulatek_d_01",
+                "name": "Ancient Construct's Venomshiv",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13335,
+                  12850
+                ]
+              },
+              "offhand": {
                 "item_id": 251180,
                 "item_level": 311,
                 "enchant": 8689,
@@ -334880,41 +334815,6 @@
                   13440,
                   6652,
                   12701
-                ]
-              },
-              "offhand": {
-                "item_id": 251180,
-                "item_level": 298,
-                "enchant": 8689,
-                "icon": "inv_knife_1h_rutaani_b_01",
-                "name": "Thornblade",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8689
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
-                "bonuses": [
-                  12835,
-                  6652,
-                  12701,
-                  11215
                 ]
               }
             }
@@ -355561,7 +355461,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T06:22:15.589Z"
+    "fetchedAt": "2026-10-20T08:17:38.749Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -714164,7 +714064,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T06:22:33.344Z"
+    "fetchedAt": "2026-10-20T08:17:50.512Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -717947,7 +717847,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -728719,7 +728633,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -730660,7 +730588,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -734907,7 +734849,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -739989,7 +739945,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -742814,7 +742784,21 @@
           "allScoreColor": "#d6ffc6"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -743451,7 +743435,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -754440,7 +754438,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -755115,7 +755127,21 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -756586,7 +756612,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -760910,7 +760950,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -761606,7 +761660,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -765057,7 +765125,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -776907,7 +776989,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -788083,7 +788179,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -790853,7 +790963,21 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -796301,7 +796425,21 @@
           "allScoreColor": "#2bfb1e"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -796990,7 +797128,21 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -797677,7 +797829,21 @@
           "allScoreColor": "#a1ff86"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -798437,7 +798603,21 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -804748,7 +804928,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -811898,7 +812092,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -816120,7 +816328,21 @@
           "allScoreColor": "#bfffa9"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -816859,7 +817081,21 @@
           "allScoreColor": "#d44daa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -819664,7 +819900,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -823004,7 +823254,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -825118,7 +825382,21 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -825762,7 +826040,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -826419,7 +826711,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -842215,7 +842521,21 @@
           "allScoreColor": "#9cff80"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -842924,7 +843244,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -870025,7 +870359,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -899789,7 +900137,21 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -900518,7 +900880,21 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -972723,7 +973099,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230056,
+          "id": "318877734503",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Yo !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 23,
+          "started_at": "2026-10-20T08:04:33Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1018506,7 +1018896,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1019212,7 +1019616,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1020596,7 +1021014,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1021215,7 +1021647,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1028793,7 +1029239,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1039276,7 +1039736,21 @@
           "allScoreColor": "#fb792d"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1041310,7 +1041784,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230047,
+          "id": "317142698836",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Only 23s no depletes resil soon !ui",
+          "community_ids": [],
+          "viewer_count": 111,
+          "started_at": "2026-10-20T07:58:46Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1049349,6 +1049837,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T06:22:43.424Z"
+    "fetchedAt": "2026-10-20T08:18:04.372Z"
   }
 }
