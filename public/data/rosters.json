@@ -59524,7 +59524,7 @@
         },
         "keystoneScores": {
           "allScore": 3670.1,
-          "allScoreColor": "#d74fa4"
+          "allScoreColor": "#d64ea6"
         },
         "rank": 8,
         "stream": null
@@ -108519,7 +108519,7 @@
         },
         "keystoneScores": {
           "allScore": 3399.7,
-          "allScoreColor": "#ae39e2"
+          "allScoreColor": "#ae38e3"
         },
         "rank": 3,
         "stream": null
@@ -158062,7 +158062,7 @@
         },
         "keystoneScores": {
           "allScore": 3553.3,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 8,
         "stream": null
@@ -212499,7 +212499,7 @@
         },
         "keystoneScores": {
           "allScore": 4187.1,
-          "allScoreColor": "#fe7e16"
+          "allScoreColor": "#fd7c23"
         },
         "rank": 4,
         "stream": null
@@ -232196,7 +232196,7 @@
         },
         "keystoneScores": {
           "allScore": 4136,
-          "allScoreColor": "#fb792d"
+          "allScoreColor": "#fa7735"
         },
         "rank": 4,
         "stream": null
@@ -236260,7 +236260,7 @@
         },
         "keystoneScores": {
           "allScore": 3865.1,
-          "allScoreColor": "#ea6176"
+          "allScoreColor": "#e95f7a"
         },
         "rank": 4,
         "stream": null
@@ -246997,7 +246997,7 @@
         },
         "keystoneScores": {
           "allScore": 3555.4,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 8,
         "stream": null
@@ -261884,7 +261884,7 @@
         },
         "keystoneScores": {
           "allScore": 3456.7,
-          "allScoreColor": "#b73cd7"
+          "allScoreColor": "#b73cd8"
         },
         "rank": 7,
         "stream": null
@@ -286650,7 +286650,7 @@
         },
         "keystoneScores": {
           "allScore": 4187.1,
-          "allScoreColor": "#fe7e16"
+          "allScoreColor": "#fd7c23"
         },
         "rank": 4,
         "stream": null
@@ -289416,7 +289416,7 @@
         },
         "keystoneScores": {
           "allScore": 3840.3,
-          "allScoreColor": "#e85f7c"
+          "allScoreColor": "#e75d7f"
         },
         "rank": 4,
         "stream": null
@@ -298987,7 +298987,7 @@
         },
         "keystoneScores": {
           "allScore": 4142.2,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
         "stream": null
@@ -301086,7 +301086,7 @@
         },
         "keystoneScores": {
           "allScore": 4187.1,
-          "allScoreColor": "#fe7e16"
+          "allScoreColor": "#fd7c23"
         },
         "rank": 4,
         "stream": null
@@ -316274,7 +316274,7 @@
         },
         "keystoneScores": {
           "allScore": 4187.1,
-          "allScoreColor": "#fe7e16"
+          "allScoreColor": "#fd7c23"
         },
         "rank": 4,
         "stream": null
@@ -326019,12 +326019,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/120/238106488-avatar.jpg",
-          "itemLevelEquipped": 300,
+          "itemLevelEquipped": 306,
           "items": {
-            "created_at": "2026-10-15T00:27:33.907Z",
-            "updated_at": "2026-10-15T00:27:33.907Z",
+            "created_at": "2026-10-20T12:47:45.797Z",
+            "updated_at": "2026-10-20T12:47:45.797Z",
             "source": "s3",
-            "item_level_equipped": 300,
+            "item_level_equipped": 306,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -326037,59 +326037,13 @@
             "items": {
               "head": {
                 "item_id": 271492,
-                "item_level": 295,
+                "item_level": 321,
                 "icon": "inv_helm_mail_raidhunterulatek_d_01",
                 "name": "Skulking Viper's Weeping Fangs",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -326102,12 +326056,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  12846,
                   13696,
-                  12834,
                   13692,
                   13698,
-                  1548
+                  1574
                 ]
               },
               "neck": {
@@ -326308,7 +326261,7 @@
               },
               "legs": {
                 "item_id": 272251,
-                "item_level": 295,
+                "item_level": 321,
                 "icon": "inv_pant_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Chausses",
                 "item_quality": 4,
@@ -326326,9 +326279,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
                   6652,
-                  13662
+                  13662,
+                  12846
                 ]
               },
               "feet": {
@@ -326357,10 +326310,10 @@
                 ]
               },
               "finger1": {
-                "item_id": 256972,
-                "item_level": 285,
-                "icon": "inv_ring_revendreth_01_silver",
-                "name": "Evertwisting Swiftvine",
+                "item_id": 272149,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -326376,9 +326329,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13668,
-                  12827
+                  12834,
+                  42,
+                  13668
                 ]
               },
               "finger2": {
@@ -326408,7 +326361,7 @@
               },
               "trinket1": {
                 "item_id": 248583,
-                "item_level": 295,
+                "item_level": 321,
                 "icon": "inv_archaeology_70_tauren_drum",
                 "name": "Drum of Renewed Bonds",
                 "item_quality": 4,
@@ -326427,13 +326380,13 @@
                 "enchants_detail": [],
                 "bonuses": [
                   13183,
-                  12834,
-                  6652
+                  6652,
+                  12846
                 ]
               },
               "trinket2": {
                 "item_id": 265657,
-                "item_level": 295,
+                "item_level": 305,
                 "icon": "ability_rogue_sanguinaryvein",
                 "name": "Fiber of Living Agony",
                 "item_quality": 4,
@@ -326451,8 +326404,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
-                  6652
+                  6652,
+                  12837
                 ]
               },
               "mainhand": {
@@ -330568,7 +330521,7 @@
         },
         "keystoneScores": {
           "allScore": 4187.1,
-          "allScoreColor": "#fe7e16"
+          "allScoreColor": "#fd7c23"
         },
         "rank": 1,
         "stream": null
@@ -355470,7 +355423,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T12:19:54.626Z"
+    "fetchedAt": "2026-10-20T14:13:22.760Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -364539,7 +364492,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -376811,7 +376778,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -380202,7 +380183,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -403609,7 +403604,21 @@
           "allScoreColor": "#4ce651"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -407119,7 +407128,7 @@
         },
         "keystoneScores": {
           "allScore": 3836.2,
-          "allScoreColor": "#e85f7c"
+          "allScoreColor": "#e75d7f"
         },
         "rank": 6,
         "stream": null
@@ -407858,7 +407867,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4187.2,
+          "allScore": 4199.8,
           "allScoreColor": "#fe7e16"
         },
         "rank": 7,
@@ -415506,7 +415515,21 @@
           "allScoreColor": "#c6ffb1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -416126,7 +416149,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -417553,7 +417590,7 @@
         },
         "keystoneScores": {
           "allScore": 4153.5,
-          "allScoreColor": "#fd7c23"
+          "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
         "stream": null
@@ -418254,7 +418291,7 @@
         },
         "keystoneScores": {
           "allScore": 3950.3,
-          "allScoreColor": "#f16a5f"
+          "allScoreColor": "#f06863"
         },
         "rank": 4,
         "stream": null
@@ -466903,7 +466940,7 @@
         },
         "keystoneScores": {
           "allScore": 3644.8,
-          "allScoreColor": "#d44daa"
+          "allScoreColor": "#d34cac"
         },
         "rank": 4,
         "stream": null
@@ -468265,7 +468302,21 @@
           "allScoreColor": "#50e258"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -486892,7 +486943,7 @@
         },
         "keystoneScores": {
           "allScore": 3487.7,
-          "allScoreColor": "#bc3ed1"
+          "allScoreColor": "#bb3ed2"
         },
         "rank": 4,
         "stream": null
@@ -507035,7 +507086,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -508484,7 +508549,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -513408,7 +513487,7 @@
         },
         "keystoneScores": {
           "allScore": 3832.9,
-          "allScoreColor": "#e85f7c"
+          "allScoreColor": "#e75d7f"
         },
         "rank": 4,
         "stream": null
@@ -525140,7 +525219,7 @@
         },
         "keystoneScores": {
           "allScore": 3904.8,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 4,
         "stream": null
@@ -541503,7 +541582,7 @@
         },
         "keystoneScores": {
           "allScore": 4007.6,
-          "allScoreColor": "#f46e52"
+          "allScoreColor": "#f36d57"
         },
         "rank": 4,
         "stream": null
@@ -557008,7 +557087,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 0,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -578597,7 +578690,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.8,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 4,
         "stream": null
@@ -581863,7 +581956,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -582388,7 +582495,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -586562,7 +586683,7 @@
         },
         "keystoneScores": {
           "allScore": 3788.8,
-          "allScoreColor": "#e45a88"
+          "allScoreColor": "#e3598b"
         },
         "rank": 3,
         "stream": null
@@ -592850,7 +592971,7 @@
         },
         "keystoneScores": {
           "allScore": 3922.1,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 3,
         "stream": null
@@ -595776,7 +595897,7 @@
         },
         "keystoneScores": {
           "allScore": 3750.6,
-          "allScoreColor": "#df5693"
+          "allScoreColor": "#de5596"
         },
         "rank": 4,
         "stream": null
@@ -612855,7 +612976,7 @@
         },
         "keystoneScores": {
           "allScore": 3515.5,
-          "allScoreColor": "#c442c6"
+          "allScoreColor": "#c342c7"
         },
         "rank": 5,
         "stream": null
@@ -623218,7 +623339,7 @@
         },
         "keystoneScores": {
           "allScore": 4104.1,
-          "allScoreColor": "#fa7736"
+          "allScoreColor": "#f9753d"
         },
         "rank": 4,
         "stream": null
@@ -626616,7 +626737,7 @@
         },
         "keystoneScores": {
           "allScore": 3745.1,
-          "allScoreColor": "#df5693"
+          "allScoreColor": "#de5596"
         },
         "rank": 4,
         "stream": null
@@ -639419,7 +639540,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -639927,7 +640062,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -648023,7 +648172,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -654297,7 +654446,7 @@
         },
         "keystoneScores": {
           "allScore": 4064.3,
-          "allScoreColor": "#f77345"
+          "allScoreColor": "#f6714a"
         },
         "rank": 4,
         "stream": null
@@ -681557,7 +681706,21 @@
           "allScoreColor": "#4cff33"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -682945,7 +683108,21 @@
           "allScoreColor": "#4cff33"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -683651,7 +683828,21 @@
           "allScoreColor": "#83ff66"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -684317,7 +684508,7 @@
         },
         "keystoneScores": {
           "allScore": 3560.9,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 3,
         "stream": null
@@ -692083,7 +692274,7 @@
         },
         "keystoneScores": {
           "allScore": 4225.6,
-          "allScoreColor": "#ff8000"
+          "allScoreColor": "#fe7e16"
         },
         "rank": 3,
         "stream": null
@@ -694141,7 +694332,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -694816,7 +695021,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -695952,7 +696171,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -696538,7 +696771,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -697106,7 +697353,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -697611,7 +697872,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -698308,7 +698583,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1230526,
+          "id": "319018474725",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ 3x ULA MYTHIC BOOST ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 311,
+          "started_at": "2026-10-20T13:26:09Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -702482,7 +702771,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.8,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 4,
         "stream": null
@@ -705878,7 +706167,7 @@
         },
         "keystoneScores": {
           "allScore": 3728.6,
-          "allScoreColor": "#dd5399"
+          "allScoreColor": "#dc539b"
         },
         "rank": 6,
         "stream": null
@@ -706566,7 +706855,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.6,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 4,
         "stream": null
@@ -708633,7 +708922,7 @@
         },
         "keystoneScores": {
           "allScore": 3920.8,
-          "allScoreColor": "#ee656b"
+          "allScoreColor": "#ed646f"
         },
         "rank": 4,
         "stream": null
@@ -714067,7 +714356,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T12:20:07.219Z"
+    "fetchedAt": "2026-10-20T14:13:32.420Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -739892,21 +740181,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -742731,21 +743006,7 @@
           "allScoreColor": "#d6ffc6"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -743382,21 +743643,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -744036,7 +744283,7 @@
           "type": "live",
           "title": "[DROPS] Double Passive Trinket Enjoyer <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 81,
+          "viewer_count": 101,
           "started_at": "2026-10-20T11:13:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -754399,21 +754646,7 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -755088,21 +755321,7 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -756573,21 +756792,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -769755,7 +769960,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.2,
-          "allScoreColor": "#fb792d"
+          "allScoreColor": "#fa7735"
         },
         "rank": 5,
         "stream": null
@@ -771765,7 +771970,7 @@
           "type": "live",
           "title": "[DROPS] Double Passive Trinket Enjoyer <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 81,
+          "viewer_count": 101,
           "started_at": "2026-10-20T11:13:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -784355,7 +784560,7 @@
         },
         "keystoneScores": {
           "allScore": 3803.1,
-          "allScoreColor": "#e45a88"
+          "allScoreColor": "#e3598b"
         },
         "rank": 3,
         "stream": {
@@ -784368,7 +784573,7 @@
           "type": "live",
           "title": "[DROPS] Double Passive Trinket Enjoyer <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 81,
+          "viewer_count": 101,
           "started_at": "2026-10-20T11:13:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -796330,21 +796535,7 @@
           "allScoreColor": "#2bfb1e"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -797033,21 +797224,7 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -797734,21 +797911,7 @@
           "allScoreColor": "#a1ff86"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -798508,21 +798671,7 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -804833,21 +804982,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -816219,21 +816354,7 @@
           "allScoreColor": "#bfffa9"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -816969,24 +817090,10 @@
         },
         "keystoneScores": {
           "allScore": 3656.4,
-          "allScoreColor": "#d44daa"
+          "allScoreColor": "#d34cac"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -819791,21 +819898,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -823145,21 +823238,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -825917,21 +825996,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -826588,21 +826653,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -831336,7 +831387,7 @@
         },
         "keystoneScores": {
           "allScore": 4078.1,
-          "allScoreColor": "#f9753e"
+          "allScoreColor": "#f87344"
         },
         "rank": 5,
         "stream": null
@@ -842398,21 +842449,7 @@
           "allScoreColor": "#9cff80"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -843121,21 +843158,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -863412,7 +863435,7 @@
         },
         "keystoneScores": {
           "allScore": 3985.6,
-          "allScoreColor": "#f36c59"
+          "allScoreColor": "#f26a5d"
         },
         "rank": 5,
         "stream": null
@@ -867525,7 +867548,7 @@
         },
         "keystoneScores": {
           "allScore": 3734.2,
-          "allScoreColor": "#dd5399"
+          "allScoreColor": "#dc539b"
         },
         "rank": 5,
         "stream": null
@@ -874379,7 +874402,7 @@
         },
         "keystoneScores": {
           "allScore": 3885.1,
-          "allScoreColor": "#ec6371"
+          "allScoreColor": "#eb6274"
         },
         "rank": 5,
         "stream": null
@@ -881356,7 +881379,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4183.8,
+          "allScore": 4195.6,
           "allScoreColor": "#fe7e16"
         },
         "rank": 3,
@@ -881370,7 +881393,7 @@
           "type": "live",
           "title": "[DROPS] Double Passive Trinket Enjoyer <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 81,
+          "viewer_count": 101,
           "started_at": "2026-10-20T11:13:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -882099,7 +882122,7 @@
           "type": "live",
           "title": "[DROPS] Double Passive Trinket Enjoyer <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 81,
+          "viewer_count": 101,
           "started_at": "2026-10-20T11:13:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -888381,7 +888404,7 @@
         },
         "keystoneScores": {
           "allScore": 3726.2,
-          "allScoreColor": "#dd5399"
+          "allScoreColor": "#dc539b"
         },
         "rank": 5,
         "stream": null
@@ -896527,7 +896550,7 @@
           "type": "live",
           "title": "[DROPS] Double Passive Trinket Enjoyer <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 81,
+          "viewer_count": 101,
           "started_at": "2026-10-20T11:13:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -908611,7 +908634,7 @@
         },
         "keystoneScores": {
           "allScore": 3417.1,
-          "allScoreColor": "#ae39e2"
+          "allScoreColor": "#ae38e3"
         },
         "rank": 5,
         "stream": null
@@ -949600,7 +949623,7 @@
         },
         "keystoneScores": {
           "allScore": 3893.1,
-          "allScoreColor": "#ec6371"
+          "allScoreColor": "#eb6274"
         },
         "rank": 5,
         "stream": null
@@ -970243,7 +970266,7 @@
         },
         "keystoneScores": {
           "allScore": 3809,
-          "allScoreColor": "#e65c82"
+          "allScoreColor": "#e55b85"
         },
         "rank": 5,
         "stream": null
@@ -972976,21 +972999,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1230056,
-          "id": "318877734503",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Yo !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 146,
-          "started_at": "2026-10-20T08:04:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -976471,7 +976480,7 @@
           "type": "live",
           "title": "[DROPS] Double Passive Trinket Enjoyer <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 81,
+          "viewer_count": 101,
           "started_at": "2026-10-20T11:13:22Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -989186,7 +989195,7 @@
         },
         "keystoneScores": {
           "allScore": 3652,
-          "allScoreColor": "#d44daa"
+          "allScoreColor": "#d34cac"
         },
         "rank": 5,
         "stream": null
@@ -999611,7 +999620,7 @@
         },
         "keystoneScores": {
           "allScore": 3621.1,
-          "allScoreColor": "#d14baf"
+          "allScoreColor": "#d04ab1"
         },
         "rank": 5,
         "stream": null
@@ -1011966,7 +1011975,7 @@
         },
         "keystoneScores": {
           "allScore": 3528.4,
-          "allScoreColor": "#c442c6"
+          "allScoreColor": "#c342c7"
         },
         "rank": 5,
         "stream": null
@@ -1027032,7 +1027041,7 @@
         },
         "keystoneScores": {
           "allScore": 4239.1,
-          "allScoreColor": "#ff8000"
+          "allScoreColor": "#fe7e16"
         },
         "rank": 5,
         "stream": null
@@ -1027664,7 +1027673,7 @@
         },
         "keystoneScores": {
           "allScore": 3899.1,
-          "allScoreColor": "#ec6371"
+          "allScoreColor": "#eb6274"
         },
         "rank": 5,
         "stream": null
@@ -1035956,7 +1035965,7 @@
         },
         "keystoneScores": {
           "allScore": 3685.9,
-          "allScoreColor": "#da519e"
+          "allScoreColor": "#d950a1"
         },
         "rank": 5,
         "stream": null
@@ -1036709,7 +1036718,7 @@
         },
         "keystoneScores": {
           "allScore": 3809.4,
-          "allScoreColor": "#e65c82"
+          "allScoreColor": "#e55b85"
         },
         "rank": 5,
         "stream": null
@@ -1037462,7 +1037471,7 @@
         },
         "keystoneScores": {
           "allScore": 3893.9,
-          "allScoreColor": "#ec6371"
+          "allScoreColor": "#eb6274"
         },
         "rank": 5,
         "stream": null
@@ -1039554,7 +1039563,7 @@
         },
         "keystoneScores": {
           "allScore": 4139.2,
-          "allScoreColor": "#fb792d"
+          "allScoreColor": "#fa7735"
         },
         "rank": 5,
         "stream": null
@@ -1049379,7 +1049388,7 @@
         },
         "keystoneScores": {
           "allScore": 3546.8,
-          "allScoreColor": "#c744c0"
+          "allScoreColor": "#c744c2"
         },
         "rank": 5,
         "stream": null
@@ -1050782,6 +1050791,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-20T12:20:23.430Z"
+    "fetchedAt": "2026-10-20T14:13:39.307Z"
   }
 }
