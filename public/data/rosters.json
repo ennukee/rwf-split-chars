@@ -48029,8 +48029,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3156.9,
-          "allScoreColor": "#6361e4"
+          "allScore": 3176.5,
+          "allScoreColor": "#6d5de5"
         },
         "rank": 8,
         "stream": null
@@ -353523,6 +353523,521 @@
       },
       {
         "character": {
+          "id": 309634717,
+          "persona_id": 60109123,
+          "name": "Mazzgical",
+          "class": {
+            "id": 8,
+            "name": "Mage",
+            "slug": "mage"
+          },
+          "race": {
+            "id": 29,
+            "name": "Void Elf",
+            "slug": "void-elf",
+            "faction": "alliance"
+          },
+          "faction": "alliance",
+          "level": 90,
+          "spec": {
+            "id": 62,
+            "name": "Arcane",
+            "slug": "arcane",
+            "class_id": 8,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "path": "/characters/us/illidan/Mazzgical",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/69/238167621-avatar.jpg",
+          "itemLevelEquipped": 295,
+          "items": {
+            "created_at": "2026-10-21T06:54:58.835Z",
+            "updated_at": "2026-10-21T06:54:58.835Z",
+            "source": "s3",
+            "item_level_equipped": 295,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 258915,
+                "item_level": 266,
+                "icon": "inv_helm_cloth_questbloodelf_b_01",
+                "name": "Tarnished Dawnlit Spellbinder's Crown",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12817,
+                  6652,
+                  13696,
+                  13663
+                ]
+              },
+              "neck": {
+                "item_id": 272228,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_neck02_purple",
+                "name": "Whispering Periapt",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13668
+                ]
+              },
+              "shoulder": {
+                "item_id": 272236,
+                "item_level": 305,
+                "icon": "inv_shoulder_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Mantlet",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652,
+                  13662
+                ]
+              },
+              "back": {
+                "item_id": 257021,
+                "item_level": 282,
+                "icon": "inv_cape_leather_dungeonharronir_c_01",
+                "name": "Verdant Tracker's Cover",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12826,
+                  6652,
+                  13662
+                ]
+              },
+              "chest": {
+                "item_id": 272231,
+                "item_level": 272,
+                "icon": "inv_robe_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Doublet",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12819,
+                  6652,
+                  13663
+                ]
+              },
+              "waist": {
+                "item_id": 159255,
+                "item_level": 311,
+                "icon": "inv_belt_cloth_zandalardungeon_c_01",
+                "name": "Ouroborial Sash",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12843,
+                  13440,
+                  6652,
+                  13696,
+                  13662,
+                  12699
+                ]
+              },
+              "wrist": {
+                "item_id": 258919,
+                "item_level": 266,
+                "icon": "inv_bracer_cloth_questbloodelf_b_01",
+                "name": "Tarnished Dawnlit Spellbinder's Bands",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12817,
+                  6652,
+                  13696,
+                  13663
+                ]
+              },
+              "hands": {
+                "item_id": 271565,
+                "item_level": 308,
+                "icon": "inv_glove_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Manashapers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12842,
+                  13334,
+                  13691,
+                  43,
+                  13697
+                ]
+              },
+              "legs": {
+                "item_id": 271563,
+                "item_level": 321,
+                "icon": "inv_pant_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Tailored Legwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  6652,
+                  14049,
+                  13693,
+                  13698,
+                  12850
+                ]
+              },
+              "feet": {
+                "item_id": 251219,
+                "item_level": 298,
+                "icon": "inv_boot_cloth_dungeonharronir_c_01",
+                "name": "Riftworn Stompers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12835,
+                  6652,
+                  13662,
+                  12699,
+                  11215
+                ]
+              },
+              "finger1": {
+                "item_id": 272149,
+                "item_level": 272,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12819,
+                  40,
+                  13668
+                ]
+              },
+              "finger2": {
+                "item_id": 251148,
+                "item_level": 311,
+                "icon": "inv_12_jewelry_zulaman_troll_ring_green2",
+                "name": "Pilfered Precious Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12843,
+                  13440,
+                  6652,
+                  13668,
+                  12699
+                ]
+              },
+              "trinket1": {
+                "item_id": 274493,
+                "item_level": 295,
+                "icon": "ability_fomor_boss_rune_green",
+                "name": "Effigy of Ula'tek's Faithful",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652
+                ]
+              },
+              "trinket2": {
+                "item_id": 251783,
+                "item_level": 305,
+                "icon": "inv_12_trinket_grisgrisofconfidenc",
+                "name": "Lost Idol of the Hash'ey",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652
+                ]
+              },
+              "mainhand": {
+                "item_id": 273778,
+                "item_level": 311,
+                "icon": "inv_knife_1h_zuljin_d_01",
+                "name": "Polished Lightwood Channeler",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12843,
+                  13440,
+                  6652,
+                  12701
+                ]
+              },
+              "offhand": {
+                "item_id": 251191,
+                "item_level": 311,
+                "icon": "inv_offhand_1h_dungeonharronir_c_01",
+                "name": "Luminescent Sprout",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12843,
+                  13440,
+                  6652,
+                  12699
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 1,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 1355,
+          "allScoreColor": "#a1ff86"
+        },
+        "rank": 99,
+        "stream": null
+      },
+      {
+        "character": {
           "id": 309641718,
           "persona_id": 0,
           "name": "Gorilladisco",
@@ -358308,7 +358823,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-21T06:22:31.125Z"
+    "fetchedAt": "2026-10-21T08:17:31.209Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -366722,7 +367237,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 1
           }
         },
@@ -367387,7 +367902,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -379733,7 +380248,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -383104,7 +383619,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -406463,7 +406978,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -418374,7 +418889,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -419008,7 +419523,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -471847,7 +472362,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -510471,7 +510986,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -511934,7 +512449,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -561250,7 +561765,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -586058,7 +586573,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -586598,7 +587113,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -643755,7 +644270,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -644277,7 +644792,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -685971,7 +686486,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -687376,7 +687891,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -688096,7 +688611,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -698601,7 +699116,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -699307,7 +699822,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -700458,7 +700973,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -701058,7 +701573,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -701641,7 +702156,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -702160,7 +702675,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -702871,7 +703386,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ 24x Vault 24x the fun -> RWF60 PREP ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 371,
+          "viewer_count": 716,
           "started_at": "2026-10-21T05:44:05Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -718483,7 +718998,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-21T06:22:45.558Z"
+    "fetchedAt": "2026-10-21T08:17:35.606Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -744308,7 +744823,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -747133,7 +747662,21 @@
           "allScoreColor": "#d6ffc6"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -747770,7 +748313,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -759399,7 +759956,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -760074,7 +760645,21 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -761545,7 +762130,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -800703,7 +801302,21 @@
           "allScoreColor": "#2bfb1e"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -801392,7 +802005,21 @@
           "allScoreColor": "#bdffa7"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -802079,7 +802706,21 @@
           "allScoreColor": "#a1ff86"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -802839,7 +803480,21 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -809150,7 +809805,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -820522,7 +821191,21 @@
           "allScoreColor": "#bfffa9"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -821261,7 +821944,21 @@
           "allScoreColor": "#d34cac"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -824066,7 +824763,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -824868,8 +825579,8 @@
           "thumbnail": "twisting-nether/12/185337868-avatar.jpg",
           "itemLevelEquipped": 322,
           "items": {
-            "created_at": "2026-10-06T12:08:12.734Z",
-            "updated_at": "2026-10-06T12:08:12.734Z",
+            "created_at": "2026-10-21T07:28:35.500Z",
+            "updated_at": "2026-10-21T07:28:35.500Z",
             "source": "s3",
             "item_level_equipped": 322,
             "item_level_total": 0,
@@ -825106,6 +825817,7 @@
               "hands": {
                 "item_id": 271502,
                 "item_level": 321,
+                "enchant": 8727,
                 "icon": "inv_glove_mail_raidevokerulatek_d_01",
                 "name": "Calamitous Echo's Ebon Greathorns",
                 "item_quality": 4,
@@ -825121,8 +825833,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8727
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 280563,
+                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Falco Strikes|r",
+                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez"
+                  }
+                ],
                 "bonuses": [
                   12846,
                   6652,
@@ -827406,7 +828126,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -830164,7 +830898,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -830821,7 +831569,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -847267,7 +848029,21 @@
           "allScoreColor": "#9cff80"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -847976,7 +848752,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -979930,7 +980720,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1233702,
+          "id": "318889588583",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - Weekly activities !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 47,
+          "started_at": "2026-10-21T07:51:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1059014,6 +1059818,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-21T06:22:53.228Z"
+    "fetchedAt": "2026-10-21T08:17:42.246Z"
   }
 }
