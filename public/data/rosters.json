@@ -144930,7 +144930,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -200125,7 +200125,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -225614,21 +225614,7 @@
           "allScoreColor": "#3b7fcd"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1236126,
-          "id": "321950023130",
-          "name": "jdotb",
-          "user_id": "89390235",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] ulatek deadge",
-          "community_ids": [],
-          "viewer_count": 152,
-          "started_at": "2026-10-21T20:41:49Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -341494,7 +341480,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -358228,7 +358214,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-22T04:14:34.630Z"
+    "fetchedAt": "2026-10-22T06:22:17.451Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -718667,7 +718653,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-22T04:14:54.833Z"
+    "fetchedAt": "2026-10-22T06:22:30.869Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1061491,6 +1061477,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-22T04:15:17.361Z"
+    "fetchedAt": "2026-10-22T06:22:44.567Z"
   }
 }
