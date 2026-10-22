@@ -358214,7 +358214,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-22T06:22:17.451Z"
+    "fetchedAt": "2026-10-22T08:17:56.263Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -367339,7 +367339,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -379613,7 +379627,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -382949,7 +382977,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -406216,7 +406258,21 @@
           "allScoreColor": "#4ce651"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -409783,12 +409839,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "kazzak/233/218796265-avatar.jpg",
-          "itemLevelEquipped": 333,
+          "itemLevelEquipped": 334,
           "items": {
-            "created_at": "2026-10-17T20:15:40.974Z",
-            "updated_at": "2026-10-17T20:15:40.974Z",
+            "created_at": "2026-10-22T07:21:42.615Z",
+            "updated_at": "2026-10-22T07:21:42.615Z",
             "source": "s3",
-            "item_level_equipped": 333,
+            "item_level_equipped": 334,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -410109,13 +410165,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240900
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240900,
+                    "name": "16 Mast & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
                   13667,
+                  13695,
                   12497,
                   13751,
                   14001,
@@ -410228,11 +410293,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 240949,
-                "item_level": 331,
+                "item_id": 281029,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -410264,13 +410329,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8791,
-                  13836
+                  6652,
+                  13668,
+                  13334,
+                  12854
                 ]
               },
               "finger2": {
@@ -410318,7 +410380,7 @@
               },
               "trinket1": {
                 "item_id": 270175,
-                "item_level": 334,
+                "item_level": 340,
                 "icon": "inv_121_trinket_raid_ulatek_heart",
                 "name": "Voracious Heart of Ula'tek",
                 "item_quality": 4,
@@ -410338,12 +410400,12 @@
                 "bonuses": [
                   41,
                   13334,
-                  12854
+                  12856
                 ]
               },
               "trinket2": {
                 "item_id": 270165,
-                "item_level": 334,
+                "item_level": 340,
                 "icon": "inv_121_trinket_raid_ulatek_golemhearts_green",
                 "name": "Keeper's Seething Core",
                 "item_quality": 4,
@@ -410363,12 +410425,12 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12854
+                  12856
                 ]
               },
               "mainhand": {
                 "item_id": 271093,
-                "item_level": 334,
+                "item_level": 340,
                 "enchant": 8689,
                 "icon": "inv_knife_1h_ulatekfang_d_01_poison",
                 "name": "Zatha'tek, Breath of Corruption",
@@ -410397,7 +410459,7 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12854
+                  12856
                 ]
               },
               "offhand": {
@@ -410469,7 +410531,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -418125,7 +418201,21 @@
           "allScoreColor": "#c6ffb1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -418745,7 +418835,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -420166,7 +420270,21 @@
           "allScoreColor": "#fc7a2c"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -435741,7 +435859,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -436379,7 +436511,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -438388,7 +438534,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -439810,7 +439970,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -470315,7 +470489,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -472323,7 +472511,21 @@
           "allScoreColor": "#50e258"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -510904,7 +511106,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -512354,7 +512570,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -535733,7 +535963,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -536440,7 +536684,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -546613,7 +546871,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -561487,7 +561759,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 0,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -586389,7 +586675,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -586915,7 +587215,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -588269,7 +588583,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -605783,7 +606111,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -608624,7 +608966,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -644024,7 +644380,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -644534,7 +644904,21 @@
           "allScoreColor": "#c3ffae"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -662929,7 +663313,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -665032,7 +665430,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -682079,7 +682491,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -686251,7 +686677,21 @@
           "allScoreColor": "#4cff33"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -687642,7 +688082,21 @@
           "allScoreColor": "#4cff33"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -688319,7 +688773,21 @@
           "allScoreColor": "#83ff66"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -690387,7 +690855,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237795,
+          "id": "319097326310",
+          "name": "arxes",
+          "user_id": "43541954",
+          "game_id": "18122",
+          "type": "live",
+          "title": "HIGH KEY SLAM !ui !echo",
+          "community_ids": [],
+          "viewer_count": 7,
+          "started_at": "2026-10-22T08:09:42Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_arxes-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -698889,7 +699371,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -699581,7 +700077,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -700718,7 +701228,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -701304,7 +701828,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -701873,7 +702411,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -702378,7 +702930,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -703075,7 +703641,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237695,
+          "id": "318901110759",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ KINDA LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 715,
+          "started_at": "2026-10-22T06:51:37Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -718653,7 +719233,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-22T06:22:30.869Z"
+    "fetchedAt": "2026-10-22T08:18:05.152Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -722436,7 +723016,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -733268,7 +733862,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -735209,7 +735817,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -739476,7 +740098,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -744558,7 +745194,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -747397,7 +748047,21 @@
           "allScoreColor": "#d6ffc6"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -748036,7 +748700,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -759800,7 +760478,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -760483,7 +761175,21 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -761954,7 +762660,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -766278,7 +766998,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -766974,7 +767708,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -770474,7 +771222,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -781880,7 +782642,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -793047,7 +793823,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -795817,7 +796607,21 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -801321,7 +802125,21 @@
           "allScoreColor": "#2bfb1e"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -802009,7 +802827,21 @@
           "allScoreColor": "#bdffa7"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -802698,7 +803530,21 @@
           "allScoreColor": "#a1ff86"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -803458,7 +804304,21 @@
           "allScoreColor": "#bbffa4"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -809769,7 +810629,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -816271,7 +817145,21 @@
           "allScoreColor": "#a1ff86"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237796,
+          "id": "318102143971",
+          "name": "natewasthere",
+          "user_id": "46377162",
+          "game_id": "18122",
+          "type": "live",
+          "title": "✅ DROPS 🔴 RANK 1 IDIOTS ARE BACK ⭐RWF ETERNAL ⭐ !Giveaway",
+          "community_ids": [],
+          "viewer_count": 1,
+          "started_at": "2026-10-22T08:10:43Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natewasthere-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -816912,7 +817800,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -821135,7 +822037,21 @@
           "allScoreColor": "#bfffa9"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -821871,7 +822787,21 @@
           "allScoreColor": "#d34cac"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -823221,7 +824151,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -825355,7 +826299,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -828008,7 +828966,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 7,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237796,
+          "id": "318102143971",
+          "name": "natewasthere",
+          "user_id": "46377162",
+          "game_id": "18122",
+          "type": "live",
+          "title": "✅ DROPS 🔴 RANK 1 IDIOTS ARE BACK ⭐RWF ETERNAL ⭐ !Giveaway",
+          "community_ids": [],
+          "viewer_count": 1,
+          "started_at": "2026-10-22T08:10:43Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_natewasthere-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -828713,7 +829685,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -830827,7 +831813,21 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -831471,7 +832471,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -832128,7 +833142,21 @@
           "allScoreColor": "#f4ffef"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -848600,7 +849628,21 @@
           "allScoreColor": "#9cff80"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -849310,7 +850352,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -877799,7 +878855,21 @@
           "allScoreColor": "#deffd0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -908338,7 +909408,21 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -909067,7 +910151,21 @@
           "allScoreColor": "#c1ffac"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -982125,7 +983223,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237728,
+          "id": "318901209831",
+          "name": "thanertv",
+          "user_id": "485791058",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Thaner <Method> - High keys. 2 more weeks before forever POG !ui !vpn",
+          "community_ids": [],
+          "viewer_count": 86,
+          "started_at": "2026-10-22T07:12:15Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1028648,7 +1029760,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1029354,7 +1030480,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1030737,7 +1031877,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1031356,7 +1032510,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1038932,7 +1040100,21 @@
           "allScoreColor": "#a3ff89"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1049415,7 +1050597,21 @@
           "allScoreColor": "#fa7735"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1052176,7 +1053372,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1237773,
+          "id": "317073498965",
+          "name": "clickzyo",
+          "user_id": "86604094",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Abusing 23 resil from my friends hehe !ui",
+          "community_ids": [],
+          "viewer_count": 77,
+          "started_at": "2026-10-22T07:59:00Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clickzyo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1061477,6 +1062687,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-22T06:22:44.567Z"
+    "fetchedAt": "2026-10-22T08:18:20.722Z"
   }
 }
