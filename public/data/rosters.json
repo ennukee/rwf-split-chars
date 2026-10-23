@@ -65976,12 +65976,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/224/231697376-avatar.jpg",
-          "itemLevelEquipped": 323,
+          "itemLevelEquipped": 326,
           "items": {
-            "created_at": "2026-10-21T15:48:44.564Z",
-            "updated_at": "2026-10-21T15:48:44.564Z",
+            "created_at": "2026-10-23T05:20:53.265Z",
+            "updated_at": "2026-10-23T05:20:53.265Z",
             "source": "s3",
-            "item_level_equipped": 323,
+            "item_level_equipped": 326,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -66153,8 +66153,7 @@
               },
               "chest": {
                 "item_id": 271540,
-                "item_level": 308,
-                "enchant": 7987,
+                "item_level": 334,
                 "icon": "inv_chest_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Coreguard",
                 "item_quality": 4,
@@ -66170,22 +66169,14 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  12838,
+                  12854,
+                  13335,
                   13690,
-                  13698,
-                  1561
+                  42,
+                  13698
                 ]
               },
               "waist": {
@@ -66249,11 +66240,11 @@
                 ]
               },
               "hands": {
-                "item_id": 268234,
+                "item_id": 271538,
                 "item_level": 334,
                 "enchant": 8730,
                 "icon": "inv_glove_leather_raiddemonhunterulatek_d_01",
-                "name": "Ruthless Slaughtergrips",
+                "name": "Abyssal Doomhound's Studded Gauntlets",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -66264,6 +66255,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -66278,9 +66270,11 @@
                 ],
                 "bonuses": [
                   6652,
-                  13662,
                   13335,
-                  12854
+                  12854,
+                  13691,
+                  13697,
+                  1587
                 ]
               },
               "legs": {
@@ -66471,10 +66465,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 265657,
-                "item_level": 321,
-                "icon": "ability_rogue_sanguinaryvein",
-                "name": "Fiber of Living Agony",
+                "item_id": 270164,
+                "item_level": 334,
+                "icon": "inv_10_tailoring_bag1_color2",
+                "name": "Gebbo's Bottomless Bag",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -66491,7 +66485,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12846
+                  13335,
+                  12854
                 ]
               },
               "mainhand": {
@@ -66592,8 +66587,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 335,
+          "allScoreColor": "#f6fff2"
         },
         "rank": 4,
         "stream": null
@@ -76312,14 +76307,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 577,
-            "name": "Havoc",
-            "slug": "havoc",
+            "id": 581,
+            "name": "Vengeance",
+            "slug": "vengeance",
             "class_id": 12,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "7.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/us/alexstrasza/Youngdip",
           "realm": {
@@ -76345,12 +76340,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "alexstrasza/144/231840912-avatar.jpg",
-          "itemLevelEquipped": 316,
+          "itemLevelEquipped": 317,
           "items": {
-            "created_at": "2026-10-22T13:19:50.357Z",
-            "updated_at": "2026-10-22T13:19:50.357Z",
+            "created_at": "2026-10-23T05:20:52.752Z",
+            "updated_at": "2026-10-23T05:20:52.752Z",
             "source": "s3",
-            "item_level_equipped": 316,
+            "item_level_equipped": 317,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -76517,7 +76512,7 @@
               },
               "back": {
                 "item_id": 272225,
-                "item_level": 295,
+                "item_level": 305,
                 "icon": "inv_cape_cloth_outdooramaniloa_c_01",
                 "name": "Pyrewalker's Mantle",
                 "item_quality": 4,
@@ -76535,7 +76530,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
+                  12841,
                   6652,
                   13662
                 ]
@@ -76980,8 +76975,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 335,
+          "allScoreColor": "#f6fff2"
         },
         "rank": 4,
         "stream": null
@@ -167587,7 +167582,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -214043,14 +214038,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 577,
-            "name": "Havoc",
-            "slug": "havoc",
+            "id": 581,
+            "name": "Vengeance",
+            "slug": "vengeance",
             "class_id": 12,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "7.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/us/illidan/Frozenigloo",
           "realm": {
@@ -214076,12 +214071,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/63/236610623-avatar.jpg",
-          "itemLevelEquipped": 321,
+          "itemLevelEquipped": 324,
           "items": {
-            "created_at": "2026-10-21T15:51:47.477Z",
-            "updated_at": "2026-10-21T15:51:47.477Z",
+            "created_at": "2026-10-23T05:19:01.350Z",
+            "updated_at": "2026-10-23T05:19:01.350Z",
             "source": "s3",
-            "item_level_equipped": 321,
+            "item_level_equipped": 324,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -214162,14 +214157,59 @@
               },
               "shoulder": {
                 "item_id": 271535,
-                "item_level": 318,
-                "enchant": 8001,
+                "item_level": 334,
                 "icon": "inv_shoulder_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Jaws",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -214179,22 +214219,15 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8001
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243991,
-                    "name": "Enchant Shoulders - Amirdrassil's Grace",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12849,
-                  13334,
-                  13694,
                   6652,
-                  13697
+                  13335,
+                  12854,
+                  13694,
+                  13697,
+                  1587
                 ]
               },
               "back": {
@@ -214542,10 +214575,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 251792,
-                "item_level": 305,
-                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
-                "name": "Glorious Crusader's Keepsake",
+                "item_id": 270164,
+                "item_level": 334,
+                "icon": "inv_10_tailoring_bag1_color2",
+                "name": "Gebbo's Bottomless Bag",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -214561,8 +214594,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12841,
-                  6652
+                  6652,
+                  13335,
+                  12854
                 ]
               },
               "trinket2": {
@@ -214687,8 +214721,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 335,
+          "allScoreColor": "#f6fff2"
         },
         "rank": 4,
         "stream": null
@@ -227952,21 +227986,7 @@
           "allScoreColor": "#3c80cd"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1239936,
-          "id": "321961629274",
-          "name": "jdotb",
-          "user_id": "89390235",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] 21-22 hpal keys",
-          "community_ids": [],
-          "viewer_count": 154,
-          "started_at": "2026-10-22T19:22:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -305299,12 +305319,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "zuljin/215/268274903-avatar.jpg",
-          "itemLevelEquipped": 322,
+          "itemLevelEquipped": 323,
           "items": {
-            "created_at": "2026-10-21T09:25:41.390Z",
-            "updated_at": "2026-10-21T09:25:41.390Z",
+            "created_at": "2026-10-23T05:31:46.722Z",
+            "updated_at": "2026-10-23T05:31:46.722Z",
             "source": "s3",
-            "item_level_equipped": 322,
+            "item_level_equipped": 323,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -305363,7 +305383,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  41,
                   13668,
                   12846
                 ]
@@ -305528,7 +305548,7 @@
                 "enchants_detail": [],
                 "bonuses": [
                   12846,
-                  6652,
+                  40,
                   13691,
                   13697,
                   1574
@@ -305687,7 +305707,7 @@
               },
               "mainhand": {
                 "item_id": 245770,
-                "item_level": 331,
+                "item_level": 337,
                 "icon": "inv_staff_2h_dungeonharronir_c_02",
                 "name": "Aln'hara Cane",
                 "item_quality": 4,
@@ -305707,6 +305727,7 @@
                 "bonuses": [
                   12214,
                   13667,
+                  13852,
                   12497,
                   13751,
                   14004,
@@ -365203,7 +365224,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-23T04:15:24.952Z"
+    "fetchedAt": "2026-10-23T06:22:39.602Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -375419,7 +375440,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -387819,7 +387854,21 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -391172,7 +391221,21 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -414468,7 +414531,21 @@
           "allScoreColor": "#48ea4b"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -426364,7 +426441,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -426984,7 +427075,21 @@
           "allScoreColor": "#a5ff8a"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -481827,7 +481932,21 @@
           "allScoreColor": "#4de652"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -520699,7 +520818,21 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -522149,7 +522282,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -571059,7 +571206,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 0,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -595877,7 +596038,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -596403,7 +596578,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -653403,7 +653592,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -653910,7 +654113,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -695777,7 +695994,21 @@
           "allScoreColor": "#51ff37"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -697168,7 +697399,21 @@
           "allScoreColor": "#51ff37"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -697845,7 +698090,21 @@
           "allScoreColor": "#85ff68"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -706966,7 +707225,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -707658,7 +707931,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -708796,7 +709083,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -709382,7 +709683,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -709952,7 +710267,21 @@
           "allScoreColor": "#a5ff8a"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -710481,7 +710810,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -711178,7 +711521,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1241749,
+          "id": "319109829478",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ LAST DAY OF BETA♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 116,
+          "started_at": "2026-10-23T06:09:32Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -726785,7 +727142,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-23T04:15:46.634Z"
+    "fetchedAt": "2026-10-23T06:22:51.338Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1070299,6 +1070656,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-23T04:16:00.979Z"
+    "fetchedAt": "2026-10-23T06:23:02.768Z"
   }
 }
