@@ -128674,12 +128674,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/103/233764199-avatar.jpg",
-          "itemLevelEquipped": 330,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-21T15:51:35.475Z",
-            "updated_at": "2026-10-21T15:51:35.475Z",
+            "created_at": "2026-10-23T02:43:55.019Z",
+            "updated_at": "2026-10-23T02:43:55.019Z",
             "source": "s3",
-            "item_level_equipped": 330,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -128834,10 +128834,10 @@
                 ]
               },
               "back": {
-                "item_id": 251190,
-                "item_level": 321,
-                "icon": "inv_cape_mail_dungeonharronir_c_01",
-                "name": "Bloodthorn Burnous",
+                "item_id": 268248,
+                "item_level": 334,
+                "icon": "inv_cape_leather_raidmonkulatek_d_01",
+                "name": "Amani Summoning Shawl",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -128853,11 +128853,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
                   13662,
-                  12699,
-                  12846
+                  13335,
+                  12854
                 ]
               },
               "chest": {
@@ -187331,8 +187330,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 335,
+          "allScoreColor": "#f6fff2"
         },
         "rank": 4,
         "stream": null
@@ -227963,7 +227962,7 @@
           "type": "live",
           "title": "[DROPS] 21-22 hpal keys",
           "community_ids": [],
-          "viewer_count": 162,
+          "viewer_count": 154,
           "started_at": "2026-10-22T19:22:40Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -248386,7 +248385,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -257853,7 +257852,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -365204,7 +365203,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-23T02:19:34.176Z"
+    "fetchedAt": "2026-10-23T04:15:24.952Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -399917,14 +399916,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 102,
-            "name": "Balance",
-            "slug": "balance",
+            "id": 104,
+            "name": "Guardian",
+            "slug": "guardian",
             "class_id": 11,
-            "role": "dps",
-            "is_melee": false,
+            "role": "tank",
+            "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 2
           },
           "path": "/characters/eu/tarren-mill/Wexibeam",
           "realm": {
@@ -399950,12 +399949,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/140/182404492-avatar.jpg",
-          "itemLevelEquipped": 330,
+          "itemLevelEquipped": 329,
           "items": {
-            "created_at": "2026-10-20T17:31:49.463Z",
-            "updated_at": "2026-10-20T17:31:49.463Z",
+            "created_at": "2026-10-23T03:27:43.505Z",
+            "updated_at": "2026-10-23T03:27:43.505Z",
             "source": "s3",
-            "item_level_equipped": 330,
+            "item_level_equipped": 329,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -400156,14 +400155,50 @@
               },
               "chest": {
                 "item_id": 271531,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 7987,
                 "icon": "inv_robe_leather_raiddruidulatek_d_01",
                 "name": "Enigmatic Dreamwatcher's Lunar Raiment",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -400185,10 +400220,12 @@
                 ],
                 "bonuses": [
                   13334,
-                  6652,
+                  12854,
+                  42,
+                  14049,
                   13690,
                   13698,
-                  12846
+                  1587
                 ]
               },
               "waist": {
@@ -400437,10 +400474,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270167,
-                "item_level": 334,
-                "icon": "inv_tradeskillitem_sorcererswater",
-                "name": "Wavecaller's Seastone",
+                "item_id": 248583,
+                "item_level": 321,
+                "icon": "inv_archaeology_70_tauren_drum",
+                "name": "Drum of Renewed Bonds",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -400456,16 +400493,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  13183,
                   6652,
-                  13335,
-                  12854
+                  12846
                 ]
               },
               "trinket2": {
-                "item_id": 270169,
-                "item_level": 344,
-                "icon": "inv_archaeology_orcclans_crackedidol",
-                "name": "Hex Lord's Dooming Idol",
+                "item_id": 273796,
+                "item_level": 321,
+                "icon": "inv_121_trinket_dungeon_ulatek_vile",
+                "name": "Vile Vial of Volatile Venom",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -400481,17 +400518,18 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  13440,
                   6652,
-                  13335,
-                  13848
+                  12699,
+                  12846
                 ]
               },
               "mainhand": {
-                "item_id": 271092,
+                "item_id": 268199,
                 "item_level": 334,
-                "enchant": 8689,
-                "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
-                "name": "Jan'thrazet, the Soul Fang",
+                "enchant": 8039,
+                "icon": "inv_staff_2h_ulatek_d_01",
+                "name": "Tidepiercer's Bubble Popper",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -400505,50 +400543,19 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8689
+                  8039
                 ],
                 "enchants_detail": [
                   {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
                   }
                 ],
                 "bonuses": [
                   6652,
-                  13334,
+                  13335,
                   12854
-                ]
-              },
-              "offhand": {
-                "item_id": 245769,
-                "item_level": 331,
-                "icon": "inv_offhand_1h_dungeonharronir_c_01",
-                "name": "Aln'hara Lantern",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  13771,
-                  8960,
-                  8793,
-                  13836
                 ]
               }
             }
@@ -400571,7 +400578,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -438246,7 +438253,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2708.4,
+          "allScore": 2720.2,
           "allScoreColor": "#5a9fab"
         },
         "rank": 4,
@@ -610565,12 +610572,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/144/185873552-avatar.jpg",
-          "itemLevelEquipped": 334,
+          "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-10-19T20:51:48.642Z",
-            "updated_at": "2026-10-19T20:51:48.642Z",
+            "created_at": "2026-10-23T03:09:49.283Z",
+            "updated_at": "2026-10-23T03:09:49.283Z",
             "source": "s3",
-            "item_level_equipped": 334,
+            "item_level_equipped": 335,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -610870,10 +610877,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 272246,
-                "item_level": 321,
-                "icon": "inv_bracer_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Wristbands",
+                "item_id": 244576,
+                "item_level": 331,
+                "icon": "inv_bracer_leather_questbloodelf_b_01",
+                "name": "Silvermoon Agent's Deflectors",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -610889,10 +610896,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13696,
-                  13662,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13836,
+                  13696
                 ]
               },
               "hands": {
@@ -611039,11 +611052,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 251513,
-                "item_level": 331,
+                "item_id": 281029,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring3_silver",
-                "name": "Loa Worshiper's Band",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -611075,13 +611088,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  8960,
-                  12497,
-                  13751,
-                  14001,
-                  13836
+                  6652,
+                  13668,
+                  13334,
+                  12854
                 ]
               },
               "trinket1": {
@@ -711937,12 +711947,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/102/190909542-avatar.jpg",
-          "itemLevelEquipped": 323,
+          "itemLevelEquipped": 324,
           "items": {
-            "created_at": "2026-10-22T14:37:40.624Z",
-            "updated_at": "2026-10-22T14:37:40.624Z",
+            "created_at": "2026-10-23T03:27:42.051Z",
+            "updated_at": "2026-10-23T03:27:42.051Z",
             "source": "s3",
-            "item_level_equipped": 323,
+            "item_level_equipped": 324,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -712382,11 +712392,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 272150,
-                "item_level": 321,
+                "item_id": 281029,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_jewelry_ring_181",
-                "name": "Ouroboric Signet",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -712398,13 +712408,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240906
+                  240908
                 ],
                 "gems_detail": [
                   {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [
@@ -712418,9 +712428,10 @@
                   }
                 ],
                 "bonuses": [
-                  42,
+                  40,
                   13668,
-                  12846
+                  13334,
+                  12854
                 ]
               },
               "trinket1": {
@@ -712558,13 +712569,13 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
         "keystoneScores": {
-          "allScore": 1715.5,
-          "allScoreColor": "#7cff5f"
+          "allScore": 2050.5,
+          "allScoreColor": "#41ff28"
         },
         "rank": 4,
         "stream": null
@@ -726774,7 +726785,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-23T02:19:54.949Z"
+    "fetchedAt": "2026-10-23T04:15:46.634Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1070288,6 +1070299,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-23T02:20:06.703Z"
+    "fetchedAt": "2026-10-23T04:16:00.979Z"
   }
 }
