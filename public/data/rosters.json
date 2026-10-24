@@ -89701,7 +89701,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -127511,7 +127511,7 @@
         "character": {
           "id": 238838096,
           "persona_id": 54291670,
-          "name": "Mázz",
+          "name": "Mázz-238838096",
           "class": {
             "id": 8,
             "name": "Mage",
@@ -127535,7 +127535,7 @@
             "patch": "1.0.0",
             "ordinal": 0
           },
-          "path": "/characters/us/area-52/Mázz",
+          "path": "/characters/us/area-52/Mázz-238838096",
           "realm": {
             "id": 264,
             "connectedRealmId": 136,
@@ -131638,7 +131638,7 @@
         "character": {
           "id": 241057830,
           "persona_id": 56010620,
-          "name": "Mazzh",
+          "name": "Mazzh-241057830",
           "class": {
             "id": 3,
             "name": "Hunter",
@@ -131662,7 +131662,7 @@
             "patch": "1.0.0",
             "ordinal": 1
           },
-          "path": "/characters/us/demon-soul/Mazzh",
+          "path": "/characters/us/demon-soul/Mazzh-241057830",
           "realm": {
             "id": 311,
             "connectedRealmId": 165,
@@ -150016,7 +150016,7 @@
         "character": {
           "id": 247625099,
           "persona_id": 45753773,
-          "name": "Màzz",
+          "name": "Màzz-247625099",
           "class": {
             "id": 8,
             "name": "Mage",
@@ -150040,7 +150040,7 @@
             "patch": "1.0.0",
             "ordinal": 0
           },
-          "path": "/characters/us/area-52/Màzz",
+          "path": "/characters/us/area-52/Màzz-247625099",
           "realm": {
             "id": 264,
             "connectedRealmId": 136,
@@ -227751,7 +227751,7 @@
           "type": "live",
           "title": "[DROPS] venomstone god",
           "community_ids": [],
-          "viewer_count": 237,
+          "viewer_count": 145,
           "started_at": "2026-10-23T21:17:17Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -367767,7 +367767,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-24T02:17:18.844Z"
+    "fetchedAt": "2026-10-24T04:13:43.223Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -729346,7 +729346,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-24T02:17:23.666Z"
+    "fetchedAt": "2026-10-24T04:13:48.852Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -765036,12 +765036,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/101/187520101-avatar.jpg",
-          "itemLevelEquipped": 333,
+          "itemLevelEquipped": 334,
           "items": {
-            "created_at": "2026-10-23T11:16:01.996Z",
-            "updated_at": "2026-10-23T11:16:01.996Z",
+            "created_at": "2026-10-24T02:26:37.801Z",
+            "updated_at": "2026-10-24T02:26:37.801Z",
             "source": "s3",
-            "item_level_equipped": 333,
+            "item_level_equipped": 334,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -765477,11 +765477,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 251136,
-                "item_level": 321,
+                "item_id": 240949,
+                "item_level": 331,
                 "enchant": 7967,
-                "icon": "inv_12_jewelry_voidelf_ring_teal",
-                "name": "Signet of Snarling Servitude",
+                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
+                "name": "Masterwork Sin'dorei Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -765513,11 +765513,13 @@
                   }
                 ],
                 "bonuses": [
-                  13440,
-                  6652,
-                  13668,
-                  12699,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8791,
+                  13836
                 ]
               },
               "finger2": {
@@ -765649,7 +765651,7 @@
               },
               "offhand": {
                 "item_id": 268263,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_offhand_1h_ulatek_d_01",
                 "name": "Frostscale's Mystic Frond",
                 "item_quality": 4,
@@ -765669,7 +765671,7 @@
                 "bonuses": [
                   41,
                   13335,
-                  12854
+                  12856
                 ]
               }
             }
@@ -1074044,6 +1074046,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-24T02:17:28.511Z"
+    "fetchedAt": "2026-10-24T04:13:53.852Z"
   }
 }
