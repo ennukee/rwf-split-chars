@@ -225660,7 +225660,7 @@
           "type": "live",
           "title": "[DROPS] hpal 22s",
           "community_ids": [],
-          "viewer_count": 189,
+          "viewer_count": 193,
           "started_at": "2026-10-24T19:04:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -366578,7 +366578,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-25T02:18:51.498Z"
+    "fetchedAt": "2026-10-25T04:14:18.286Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -734297,7 +734297,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-25T02:18:55.745Z"
+    "fetchedAt": "2026-10-25T04:14:21.307Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -867292,12 +867292,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "drakthul/12/187169036-avatar.jpg",
-          "itemLevelEquipped": 318,
+          "itemLevelEquipped": 319,
           "items": {
-            "created_at": "2026-10-21T12:28:45.177Z",
-            "updated_at": "2026-10-21T12:28:45.177Z",
+            "created_at": "2026-10-25T02:42:40.477Z",
+            "updated_at": "2026-10-25T02:42:40.477Z",
             "source": "s3",
-            "item_level_equipped": 318,
+            "item_level_equipped": 319,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -867713,11 +867713,10 @@
                 ]
               },
               "feet": {
-                "item_id": 273777,
-                "item_level": 292,
-                "enchant": 8019,
-                "icon": "inv_boot_plate_outdooramaniloa_c_01",
-                "name": "Poison-Proof Stompers",
+                "item_id": 193728,
+                "item_level": 311,
+                "icon": "inv_plate_dragondungeon_c_01_boot",
+                "name": "Scaleguard's Stalwart Greatboots",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -867730,19 +867729,11 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8019
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244009,
-                    "name": "Enchant Boots - Farstrider's Hunt",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12833,
-                  13439,
+                  12843,
+                  13440,
                   6652,
                   13662,
                   12699
@@ -867970,8 +867961,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2132.6,
-          "allScoreColor": "#2aff10"
+          "allScore": 2231.9,
+          "allScoreColor": "#3cf338"
         },
         "rank": 5,
         "stream": null
@@ -1078303,6 +1078294,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-25T02:19:01.300Z"
+    "fetchedAt": "2026-10-25T04:14:26.090Z"
   }
 }
