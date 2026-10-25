@@ -24432,14 +24432,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 71,
-            "name": "Arms",
-            "slug": "arms",
+            "id": 72,
+            "name": "Fury",
+            "slug": "fury",
             "class_id": 1,
             "role": "dps",
             "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/us/illidan/Peteexecutes",
           "realm": {
@@ -24467,8 +24467,8 @@
           "thumbnail": "illidan/31/224008991-avatar.jpg",
           "itemLevelEquipped": 323,
           "items": {
-            "created_at": "2026-10-21T10:17:38.342Z",
-            "updated_at": "2026-10-21T10:17:38.342Z",
+            "created_at": "2026-10-25T01:39:52.893Z",
+            "updated_at": "2026-10-25T01:39:52.893Z",
             "source": "s3",
             "item_level_equipped": 323,
             "item_level_total": 0,
@@ -25062,6 +25062,31 @@
                   6652,
                   12701
                 ]
+              },
+              "offhand": {
+                "item_id": 280799,
+                "item_level": 321,
+                "icon": "inv_sword_2h_raidmidnight_d_01",
+                "name": "Lu'selama, Light's Justice",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12846
+                ]
               }
             }
           },
@@ -25103,7 +25128,21 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1247982,
+          "id": "321996234842",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) yall just ever open a brick of cheese and eat from the brick",
+          "community_ids": [],
+          "viewer_count": 2,
+          "started_at": "2026-10-25T01:32:19Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -39788,21 +39827,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -40441,21 +40466,7 @@
           "allScoreColor": "#bcffa5"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -43401,21 +43412,7 @@
           "allScoreColor": "#9dff82"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -45681,21 +45678,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -46425,21 +46408,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -55963,21 +55932,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -79555,21 +79510,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -82415,21 +82356,7 @@
           "allScoreColor": "#1c74d9"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -84493,21 +84420,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -87854,21 +87767,7 @@
           "allScoreColor": "#daffcc"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -94685,21 +94584,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -95331,21 +95216,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -106926,21 +106797,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -107592,21 +107449,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -108292,21 +108135,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -114323,21 +114152,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -114934,21 +114749,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -115678,21 +115479,7 @@
           "allScoreColor": "#63ff47"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -118322,21 +118109,7 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -120387,21 +120160,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -128574,7 +128333,21 @@
           "allScoreColor": "#5864e2"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1247982,
+          "id": "321996234842",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) yall just ever open a brick of cheese and eat from the brick",
+          "community_ids": [],
+          "viewer_count": 2,
+          "started_at": "2026-10-25T01:32:19Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -136115,21 +135888,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -143448,21 +143207,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -144160,21 +143905,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -152297,21 +152028,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -158409,21 +158126,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -159764,7 +159467,21 @@
           "allScoreColor": "#c242c8"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1247982,
+          "id": "321996234842",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) yall just ever open a brick of cheese and eat from the brick",
+          "community_ids": [],
+          "viewer_count": 2,
+          "started_at": "2026-10-25T01:32:19Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -161819,21 +161536,7 @@
           "allScoreColor": "#96ff7a"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -177051,21 +176754,7 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -177817,21 +177506,7 @@
           "allScoreColor": "#32ff1a"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -180529,21 +180204,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -189433,21 +189094,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -190819,21 +190466,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -192211,21 +191844,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -192902,21 +192521,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -193684,21 +193289,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -195738,21 +195329,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -196465,21 +196042,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -198537,21 +198100,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -205627,21 +205176,7 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -206316,21 +205851,7 @@
           "allScoreColor": "#f4fff0"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -209594,21 +209115,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -210894,21 +210401,7 @@
           "allScoreColor": "#3aff21"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -212307,21 +211800,7 @@
           "allScoreColor": "#fe7e15"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -217063,21 +216542,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -225509,21 +224974,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246757,
-          "id": "317090217685",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Blizzcon Champ r1 rio in 4 weeks or quit | !ui !reflect !restedxp !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 119,
-          "started_at": "2026-10-24T18:06:35Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -226209,7 +225660,7 @@
           "type": "live",
           "title": "[DROPS] hpal 22s",
           "community_ids": [],
-          "viewer_count": 181,
+          "viewer_count": 189,
           "started_at": "2026-10-24T19:04:45Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -226908,21 +226359,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -228827,21 +228264,7 @@
           "allScoreColor": "#e0ffd4"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -230055,21 +229478,7 @@
           "allScoreColor": "#f87342"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -231423,21 +230832,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -234769,21 +234164,7 @@
           "allScoreColor": "#dcffce"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -236176,21 +235557,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -271417,21 +270784,7 @@
           "allScoreColor": "#599eac"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -273370,21 +272723,7 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -274007,21 +273346,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -282912,21 +282237,7 @@
           "allScoreColor": "#fe7e15"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -286291,21 +285602,7 @@
           "allScoreColor": "#e45a88"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1245890,
-          "id": "320799283806",
-          "name": "yipztv",
-          "user_id": "37356637",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> all 24s today for sure\\",
-          "community_ids": [],
-          "viewer_count": 132,
-          "started_at": "2026-10-24T13:23:16Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yipztv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -314320,21 +313617,7 @@
           "allScoreColor": "#fe7e15"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246749,
-          "id": "320896069852",
-          "name": "hopefulx",
-          "user_id": "123889650",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> 23 RESIL TIME FOR 24 | !ui",
-          "community_ids": [],
-          "viewer_count": 487,
-          "started_at": "2026-10-24T18:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hopefulx-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -315101,21 +314384,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -329974,21 +329243,7 @@
           "allScoreColor": "#fe7e15"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -330685,21 +329940,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -331438,21 +330679,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -332137,21 +331364,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -332724,21 +331937,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -333298,21 +332497,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -334329,21 +333514,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -337549,21 +336720,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -341975,21 +341132,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1246764,
-          "id": "321944436697",
-          "name": "boomiexd",
-          "user_id": "120619098",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> healing keys",
-          "community_ids": [],
-          "viewer_count": 241,
-          "started_at": "2026-10-24T18:08:07Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_boomiexd-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -367435,7 +366578,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-25T00:36:48.898Z"
+    "fetchedAt": "2026-10-25T02:18:51.498Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -700795,12 +699938,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/66/190635842-avatar.jpg",
-          "itemLevelEquipped": 311,
+          "itemLevelEquipped": 317,
           "items": {
-            "created_at": "2026-10-24T04:51:46.145Z",
-            "updated_at": "2026-10-24T04:51:46.145Z",
+            "created_at": "2026-10-25T01:39:40.457Z",
+            "updated_at": "2026-10-25T01:39:40.457Z",
             "source": "s3",
-            "item_level_equipped": 311,
+            "item_level_equipped": 317,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -700812,16 +699955,26 @@
             },
             "items": {
               "head": {
-                "item_id": 281239,
-                "item_level": 305,
+                "item_id": 271456,
+                "item_level": 321,
                 "enchant": 8017,
                 "icon": "inv_helm_plate_raidwarriorulatek_d_01",
-                "name": "Corroded Hulk's Skullcap",
+                "name": "Tempered Horns of the Jade Warlord",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
                   {
                     "id": 580,
                     "spell": {
@@ -700863,6 +700016,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -700876,13 +700030,12 @@
                   }
                 ],
                 "bonuses": [
+                  12846,
                   6652,
                   13696,
-                  13662,
-                  13333,
-                  11215,
-                  14049,
-                  12837
+                  13692,
+                  13698,
+                  1574
                 ]
               },
               "neck": {
@@ -700919,10 +700072,11 @@
                 ]
               },
               "shoulder": {
-                "item_id": 272260,
-                "item_level": 308,
-                "icon": "inv_shoulder_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Pauldrons",
+                "item_id": 271454,
+                "item_level": 321,
+                "enchant": 8001,
+                "icon": "inv_shoulder_plate_raidwarriorulatek_d_01",
+                "name": "Raging Pauldrons of the Jade Warlord",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -700933,20 +700087,31 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12842,
-                  13662
+                  12846,
+                  13694,
+                  13697,
+                  1574
                 ]
               },
               "back": {
-                "item_id": 251190,
-                "item_level": 311,
-                "icon": "inv_cape_mail_dungeonharronir_c_01",
-                "name": "Bloodthorn Burnous",
+                "item_id": 268253,
+                "item_level": 321,
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -700962,11 +700127,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12843,
-                  13440,
                   6652,
                   13662,
-                  12699
+                  13334,
+                  12850
                 ]
               },
               "chest": {
@@ -701081,7 +700245,7 @@
               },
               "wrist": {
                 "item_id": 272262,
-                "item_level": 308,
+                "item_level": 321,
                 "icon": "inv_bracer_plate_outdooramaniloa_c_01",
                 "name": "Pledgebearer's Splints",
                 "item_quality": 4,
@@ -701099,9 +700263,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12842,
                   13696,
-                  13662
+                  13662,
+                  12846
                 ]
               },
               "hands": {
@@ -701140,7 +700304,7 @@
               },
               "legs": {
                 "item_id": 271455,
-                "item_level": 318,
+                "item_level": 321,
                 "enchant": 8163,
                 "icon": "inv_pant_plate_raidwarriorulatek_d_01",
                 "name": "Greaves of the Jade Warlord",
@@ -701171,15 +700335,14 @@
                   13334,
                   6652,
                   13708,
-                  12849,
                   13693,
                   13698,
-                  1571
+                  12850
                 ]
               },
               "feet": {
                 "item_id": 268260,
-                "item_level": 311,
+                "item_level": 321,
                 "enchant": 7963,
                 "icon": "inv_boot_plate_raidpaladinulatek_d_01",
                 "name": "Scaled Fiend's Warboots",
@@ -701209,13 +700372,13 @@
                   6652,
                   13662,
                   13334,
-                  12843,
-                  11215
+                  11215,
+                  12846
                 ]
               },
               "finger1": {
                 "item_id": 272148,
-                "item_level": 305,
+                "item_level": 321,
                 "enchant": 7967,
                 "icon": "inv_121_jewelry_ring03_purple",
                 "name": "Anguine Gyre",
@@ -701250,14 +700413,14 @@
                   }
                 ],
                 "bonuses": [
-                  12841,
                   6652,
-                  13668
+                  13668,
+                  12846
                 ]
               },
               "finger2": {
                 "item_id": 272147,
-                "item_level": 295,
+                "item_level": 308,
                 "enchant": 7967,
                 "icon": "inv_121_jewelry_ring01_purple",
                 "name": "Colubrine Band",
@@ -701292,9 +700455,9 @@
                   }
                 ],
                 "bonuses": [
-                  12834,
                   6652,
-                  13668
+                  13668,
+                  12838
                 ]
               },
               "trinket1": {
@@ -701412,8 +700575,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 723.5,
-          "allScoreColor": "#daffcc"
+          "allScore": 1103.5,
+          "allScoreColor": "#baffa2"
         },
         "rank": 4,
         "stream": null
@@ -735134,7 +734297,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-25T00:36:56.817Z"
+    "fetchedAt": "2026-10-25T02:18:55.745Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1066108,8 +1065271,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4223.9,
-          "allScoreColor": "#fd7c22"
+          "allScore": 4243.8,
+          "allScoreColor": "#fe7e15"
         },
         "rank": 5,
         "stream": null
@@ -1079140,6 +1078303,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-25T00:37:00.958Z"
+    "fetchedAt": "2026-10-25T02:19:01.300Z"
   }
 }
