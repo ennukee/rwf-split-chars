@@ -25128,7 +25128,21 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1251407,
+          "id": "322011054298",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) some raiding with the consequence lads into mythic with the same lads on ret into probably more keys",
+          "community_ids": [],
+          "viewer_count": 1,
+          "started_at": "2026-10-26T00:47:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -76758,7 +76772,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -92687,12 +92701,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/65/231986753-avatar.jpg",
-          "itemLevelEquipped": 313,
+          "itemLevelEquipped": 317,
           "items": {
-            "created_at": "2026-10-22T13:19:52.473Z",
-            "updated_at": "2026-10-22T13:19:52.473Z",
+            "created_at": "2026-10-26T01:11:59.358Z",
+            "updated_at": "2026-10-26T01:11:59.358Z",
             "source": "s3",
-            "item_level_equipped": 313,
+            "item_level_equipped": 317,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -93201,11 +93215,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 245770,
-                "item_level": 285,
-                "enchant": 8039,
-                "icon": "inv_staff_2h_dungeonharronir_c_02",
-                "name": "Aln'hara Cane",
+                "item_id": 268199,
+                "item_level": 318,
+                "enchant": 8689,
+                "icon": "inv_staff_2h_ulatek_d_01",
+                "name": "Tidepiercer's Bubble Popper",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -93219,24 +93233,19 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8039
+                  8689
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244029,
-                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13655,
-                  12497,
-                  12066,
-                  12693,
-                  8960,
-                  8790,
-                  13622
+                  6652,
+                  13335,
+                  12849
                 ]
               }
             }
@@ -128344,7 +128353,21 @@
           "allScoreColor": "#5864e2"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1251407,
+          "id": "322011054298",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) some raiding with the consequence lads into mythic with the same lads on ret into probably more keys",
+          "community_ids": [],
+          "viewer_count": 1,
+          "started_at": "2026-10-26T00:47:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -159446,7 +159469,21 @@
           "allScoreColor": "#c644c3"
         },
         "rank": 8,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1251407,
+          "id": "322011054298",
+          "name": "partypetee",
+          "user_id": "73351540",
+          "game_id": "18122",
+          "type": "live",
+          "title": "(liquid inhouse crafter) some raiding with the consequence lads into mythic with the same lads on ret into probably more keys",
+          "community_ids": [],
+          "viewer_count": 1,
+          "started_at": "2026-10-26T00:47:51Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -225716,7 +225753,7 @@
           "type": "live",
           "title": "[DROPS] hunt for resilient 22",
           "community_ids": [],
-          "viewer_count": 171,
+          "viewer_count": 194,
           "started_at": "2026-10-25T21:27:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -361419,6 +361456,584 @@
       },
       {
         "character": {
+          "id": 309721270,
+          "persona_id": 0,
+          "name": "Mazztermind",
+          "class": {
+            "id": 8,
+            "name": "Mage",
+            "slug": "mage"
+          },
+          "race": {
+            "id": 26,
+            "name": "Pandaren",
+            "slug": "pandaren",
+            "faction": "horde"
+          },
+          "faction": "horde",
+          "level": 90,
+          "spec": {
+            "id": 62,
+            "name": "Arcane",
+            "slug": "arcane",
+            "class_id": 8,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "path": "/characters/us/illidan/Mazztermind",
+          "realm": {
+            "id": 369,
+            "connectedRealmId": 207,
+            "wowRealmId": 57,
+            "wowConnectedRealmId": 57,
+            "name": "Illidan",
+            "altName": null,
+            "slug": "illidan",
+            "altSlug": "illidan",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "illidan/111/238196079-avatar.jpg",
+          "itemLevelEquipped": 309,
+          "items": {
+            "created_at": "2026-10-26T01:19:44.645Z",
+            "updated_at": "2026-10-26T01:19:44.645Z",
+            "source": "s3",
+            "item_level_equipped": 309,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271564,
+                "item_level": 321,
+                "icon": "inv_helm_cloth_raidmageulatek_d_01",
+                "name": "Crown of the Primal Leywarden",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  13692,
+                  6652,
+                  13696,
+                  13698,
+                  12846
+                ]
+              },
+              "neck": {
+                "item_id": 240950,
+                "item_level": 305,
+                "icon": "inv_12_profession_jewelcrafting_necklace2_gold",
+                "name": "Masterwork Sin'dorei Amulet",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8790
+                ]
+              },
+              "shoulder": {
+                "item_id": 271562,
+                "item_level": 321,
+                "icon": "inv_shoulder_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Manaflux",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12846,
+                  13694,
+                  13697,
+                  1574
+                ]
+              },
+              "back": {
+                "item_id": 272226,
+                "item_level": 295,
+                "icon": "inv_cape_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Shroud",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "chest": {
+                "item_id": 271567,
+                "item_level": 321,
+                "icon": "inv_robe_cloth_raidmageulatek_d_01",
+                "name": "Crest of the Primal Leywarden",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  13690,
+                  6652,
+                  13698,
+                  12846
+                ]
+              },
+              "waist": {
+                "item_id": 272237,
+                "item_level": 295,
+                "icon": "inv_belt_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Obi",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13696,
+                  13662
+                ]
+              },
+              "wrist": {
+                "item_id": 239648,
+                "item_level": 305,
+                "icon": "inv_bracer_cloth_questbloodelf_b_01",
+                "name": "Martyr's Bindings",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8792,
+                  13696
+                ]
+              },
+              "hands": {
+                "item_id": 271565,
+                "item_level": 321,
+                "icon": "inv_glove_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Manashapers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  6652,
+                  13691,
+                  13697,
+                  12846
+                ]
+              },
+              "legs": {
+                "item_id": 271563,
+                "item_level": 318,
+                "icon": "inv_pant_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Tailored Legwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13334,
+                  6652,
+                  12849,
+                  14049,
+                  13693,
+                  13698,
+                  1571
+                ]
+              },
+              "feet": {
+                "item_id": 239654,
+                "item_level": 305,
+                "icon": "inv_boot_cloth_questbloodelf_b_01",
+                "name": "Martyr's Slippers",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8792
+                ]
+              },
+              "finger1": {
+                "item_id": 272147,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Colubrine Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13668
+                ]
+              },
+              "finger2": {
+                "item_id": 272148,
+                "item_level": 321,
+                "icon": "inv_121_jewelry_ring03_purple",
+                "name": "Anguine Gyre",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12846
+                ]
+              },
+              "trinket1": {
+                "item_id": 281215,
+                "item_level": 298,
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13333,
+                  12835,
+                  11215
+                ]
+              },
+              "trinket2": {
+                "item_id": 248583,
+                "item_level": 295,
+                "icon": "inv_archaeology_70_tauren_drum",
+                "name": "Drum of Renewed Bonds",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13183,
+                  12834,
+                  6652
+                ]
+              },
+              "mainhand": {
+                "item_id": 281056,
+                "item_level": 321,
+                "icon": "inv_sword_1h_raidmidnight_d_01",
+                "name": "Sanctified Knight's Phoenixblade",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  42,
+                  13334,
+                  12846
+                ]
+              },
+              "offhand": {
+                "item_id": 268197,
+                "item_level": 321,
+                "icon": "inv_offhand_1h_ulatek_d_01",
+                "name": "Spine of the Hissing Abyss",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13334,
+                  12846
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 1,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 376.1,
+          "allScoreColor": "#f3ffed"
+        },
+        "rank": 8,
+        "stream": null
+      },
+      {
+        "character": {
           "id": 309721271,
           "persona_id": 0,
           "name": "Mazziveguy",
@@ -368849,7 +369464,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T00:35:49.395Z"
+    "fetchedAt": "2026-10-26T02:22:43.310Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -706775,8 +707390,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1103.5,
-          "allScoreColor": "#baffa2"
+          "allScore": 1470.3,
+          "allScoreColor": "#98ff7d"
         },
         "rank": 4,
         "stream": null
@@ -732399,7 +733014,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3813.3,
+          "allScore": 3827.6,
           "allScoreColor": "#e2588d"
         },
         "rank": 6,
@@ -745715,7 +746330,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T00:35:54.479Z"
+    "fetchedAt": "2026-10-26T02:22:48.006Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1090818,6 +1091433,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T00:35:59.013Z"
+    "fetchedAt": "2026-10-26T02:22:52.197Z"
   }
 }
