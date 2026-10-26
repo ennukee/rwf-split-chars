@@ -72234,12 +72234,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/132/231441284-avatar.jpg",
-          "itemLevelEquipped": 321,
+          "itemLevelEquipped": 322,
           "items": {
-            "created_at": "2026-10-15T00:26:26.128Z",
-            "updated_at": "2026-10-15T00:26:26.128Z",
+            "created_at": "2026-10-26T13:55:04.020Z",
+            "updated_at": "2026-10-26T13:55:04.020Z",
             "source": "s3",
-            "item_level_equipped": 321,
+            "item_level_equipped": 322,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -72425,10 +72425,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 272262,
-                "item_level": 321,
-                "icon": "inv_bracer_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Splints",
+                "item_id": 237834,
+                "item_level": 331,
+                "icon": "inv_plate_questbloodelf_b_01_bracer",
+                "name": "Spellbreaker's Bracers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -72444,10 +72444,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13696,
-                  13662,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13836,
+                  13696
                 ]
               },
               "hands": {
@@ -72674,11 +72680,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 272280,
-                "item_level": 321,
-                "enchant": 6241,
-                "icon": "inv_axe_2h_outdooramaniloa_c_01",
-                "name": "Exhumed Soul-Cleaver",
+                "item_id": 237842,
+                "item_level": 331,
+                "enchant": 3368,
+                "icon": "inv_axe_2h_dungeonharronir_c_01",
+                "name": "Bloomforged Greataxe",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -72692,12 +72698,18 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  6241
+                  3368
                 ],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  12846
+                  12214,
+                  12497,
+                  13751,
+                  14004,
+                  13771,
+                  8960,
+                  8791,
+                  13836
                 ]
               }
             }
@@ -183474,12 +183486,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/240/236149488-avatar.jpg",
-          "itemLevelEquipped": 302,
+          "itemLevelEquipped": 306,
           "items": {
-            "created_at": "2026-10-18T00:35:44.904Z",
-            "updated_at": "2026-10-18T00:35:44.904Z",
+            "created_at": "2026-10-26T13:56:07.915Z",
+            "updated_at": "2026-10-26T13:56:07.915Z",
             "source": "s3",
-            "item_level_equipped": 302,
+            "item_level_equipped": 306,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -183491,29 +183503,78 @@
             },
             "items": {
               "head": {
-                "item_id": 272234,
+                "item_id": 271555,
                 "item_level": 321,
-                "icon": "inv_helm_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Miter",
+                "icon": "inv_helm_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Truesight",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12846,
                   6652,
                   13696,
-                  13662,
-                  12846
+                  13692,
+                  13698,
+                  1574
                 ]
               },
               "neck": {
@@ -183542,10 +183603,10 @@
                 ]
               },
               "shoulder": {
-                "item_id": 272236,
-                "item_level": 295,
-                "icon": "inv_shoulder_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Mantlet",
+                "item_id": 271553,
+                "item_level": 321,
+                "icon": "inv_shoulder_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Echoing Screams",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -183556,21 +183617,24 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
+                  12846,
                   6652,
-                  13662
+                  13694,
+                  13697,
+                  1574
                 ]
               },
               "back": {
-                "item_id": 272225,
+                "item_id": 275522,
                 "item_level": 292,
                 "icon": "inv_cape_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Mantle",
+                "name": "Preyhunter's Refined Shawl",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -183588,15 +183652,14 @@
                 "bonuses": [
                   12833,
                   6652,
-                  11215,
                   13662
                 ]
               },
               "chest": {
-                "item_id": 272231,
+                "item_id": 271558,
                 "item_level": 321,
-                "icon": "inv_robe_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Doublet",
+                "icon": "inv_robe_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Eclipsing Robes",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -183607,14 +183670,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12846,
                   6652,
-                  13662,
-                  12846
+                  13690,
+                  13698,
+                  1574
                 ]
               },
               "waist": {
@@ -183670,10 +183736,10 @@
                 ]
               },
               "hands": {
-                "item_id": 272233,
+                "item_id": 271556,
                 "item_level": 321,
-                "icon": "inv_glove_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Gloves",
+                "icon": "inv_glove_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Celestial Grips",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -183684,21 +183750,24 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  12846,
                   6652,
-                  13662,
-                  12846
+                  13691,
+                  13697,
+                  1574
                 ]
               },
               "legs": {
-                "item_id": 272235,
-                "item_level": 295,
+                "item_id": 275502,
+                "item_level": 292,
                 "icon": "inv_pant_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Treads",
+                "name": "Preyhunter's Refined Tights",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -183714,7 +183783,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
+                  12833,
                   6652,
                   13662
                 ]
@@ -183770,10 +183839,10 @@
                 ]
               },
               "finger2": {
-                "item_id": 256972,
-                "item_level": 279,
-                "icon": "inv_ring_revendreth_01_silver",
-                "name": "Evertwisting Swiftvine",
+                "item_id": 272150,
+                "item_level": 295,
+                "icon": "inv_jewelry_ring_181",
+                "name": "Ouroboric Signet",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -183789,7 +183858,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12825,
+                  12834,
                   6652,
                   13668
                 ]
@@ -183845,7 +183914,7 @@
               },
               "mainhand": {
                 "item_id": 272273,
-                "item_level": 305,
+                "item_level": 321,
                 "icon": "inv_staff_2h_outdooramaniloa_c_01",
                 "name": "Enshrined Ceremonial Scepter",
                 "item_quality": 4,
@@ -183863,8 +183932,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12841,
-                  6652
+                  6652,
+                  12846
                 ]
               }
             }
@@ -344338,14 +344407,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 66,
-            "name": "Protection",
-            "slug": "protection",
+            "id": 70,
+            "name": "Retribution",
+            "slug": "retribution",
             "class_id": 2,
-            "role": "tank",
+            "role": "dps",
             "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 2
           },
           "path": "/characters/us/illidan/Ostrichdisco",
           "realm": {
@@ -356632,12 +356701,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/229/238184933-avatar.jpg",
-          "itemLevelEquipped": 299,
+          "itemLevelEquipped": 306,
           "items": {
-            "created_at": "2026-10-21T15:52:00.219Z",
-            "updated_at": "2026-10-21T15:52:00.219Z",
+            "created_at": "2026-10-26T13:55:52.603Z",
+            "updated_at": "2026-10-26T13:55:52.603Z",
             "source": "s3",
-            "item_level_equipped": 299,
+            "item_level_equipped": 306,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -356650,7 +356719,7 @@
             "items": {
               "head": {
                 "item_id": 272250,
-                "item_level": 295,
+                "item_level": 321,
                 "icon": "inv_helm_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Gaze",
                 "item_quality": 4,
@@ -356668,10 +356737,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
                   6652,
                   13696,
-                  13662
+                  13662,
+                  12846
                 ]
               },
               "neck": {
@@ -356837,7 +356906,7 @@
               },
               "hands": {
                 "item_id": 271493,
-                "item_level": 282,
+                "item_level": 295,
                 "icon": "inv_glove_mail_raidhunterulatek_d_01",
                 "name": "Skulking Viper's Hidepiercers",
                 "item_quality": 4,
@@ -356857,15 +356926,14 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12826,
                   13691,
                   13697,
-                  1535
+                  12830
                 ]
               },
               "legs": {
                 "item_id": 271491,
-                "item_level": 282,
+                "item_level": 295,
                 "icon": "inv_pant_mail_raidhunterulatek_d_01",
                 "name": "Skulking Viper's Coiled Legwraps",
                 "item_quality": 4,
@@ -356885,15 +356953,14 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12826,
                   13693,
                   13698,
-                  1535
+                  12830
                 ]
               },
               "feet": {
                 "item_id": 272248,
-                "item_level": 305,
+                "item_level": 321,
                 "icon": "inv_boot_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Footguards",
                 "item_quality": 4,
@@ -356911,9 +356978,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12841,
                   6652,
-                  13662
+                  13662,
+                  12846
                 ]
               },
               "finger1": {
@@ -356967,10 +357034,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 251785,
-                "item_level": 295,
-                "icon": "inv_12_trinket_void_reaperslibram",
-                "name": "Void-Reaper's Libram",
+                "item_id": 265657,
+                "item_level": 321,
+                "icon": "ability_rogue_sanguinaryvein",
+                "name": "Fiber of Living Agony",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -356986,13 +357053,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
-                  6652
+                  12846
                 ]
               },
               "trinket2": {
                 "item_id": 248583,
-                "item_level": 295,
+                "item_level": 321,
                 "icon": "inv_archaeology_70_tauren_drum",
                 "name": "Drum of Renewed Bonds",
                 "item_quality": 4,
@@ -357011,8 +357077,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   13183,
-                  12834,
-                  6652
+                  6652,
+                  12846
                 ]
               },
               "mainhand": {
@@ -357743,12 +357809,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/233/238184937-avatar.jpg",
-          "itemLevelEquipped": 295,
+          "itemLevelEquipped": 309,
           "items": {
-            "created_at": "2026-10-21T15:51:58.205Z",
-            "updated_at": "2026-10-21T15:51:58.205Z",
+            "created_at": "2026-10-26T13:55:52.366Z",
+            "updated_at": "2026-10-26T13:55:52.366Z",
             "source": "s3",
-            "item_level_equipped": 295,
+            "item_level_equipped": 309,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -357812,10 +357878,10 @@
               },
               "shoulder": {
                 "item_id": 272252,
-                "item_level": 272,
+                "item_level": 315,
                 "icon": "inv_shoulder_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Mantle",
-                "item_quality": 3,
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -357830,17 +357896,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12819,
-                  41,
-                  13663
+                  13662,
+                  12844
                 ]
               },
               "back": {
-                "item_id": 266208,
-                "item_level": 253,
-                "icon": "inv_cape_leather_questbloodelf_b_01",
-                "name": "Tarnished Dawnlit Corsair's Shroud",
-                "item_quality": 2,
+                "item_id": 239656,
+                "item_level": 305,
+                "icon": "inv_cape_cloth_questbloodelf_b_01",
+                "name": "Adherent's Silken Shroud",
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -357855,8 +357920,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13900,
-                  13663
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8791
                 ]
               },
               "chest": {
@@ -357885,10 +357954,10 @@
                 ]
               },
               "waist": {
-                "item_id": 272253,
+                "item_id": 244581,
                 "item_level": 305,
-                "icon": "inv_belt_mail_outdooramaniloa_c_01",
-                "name": "Galerider's Mail Skirt",
+                "icon": "inv_belt_mail_questbloodelf_b_01",
+                "name": "Farstrider's Trophy Belt",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -357904,17 +357973,22 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12841,
-                  6652,
-                  13696,
-                  13662
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13696
                 ]
               },
               "wrist": {
-                "item_id": 272254,
-                "item_level": 295,
-                "icon": "inv_bracer_mail_outdooramaniloa_c_01",
-                "name": "Galerider's Mesh Wraps",
+                "item_id": 244584,
+                "item_level": 305,
+                "icon": "inv_bracer_mail_questbloodelf_b_01",
+                "name": "Farstrider's Plated Bracers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -357930,15 +358004,20 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
-                  6652,
-                  13695,
-                  13662
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13696
                 ]
               },
               "hands": {
                 "item_id": 272249,
-                "item_level": 308,
+                "item_level": 315,
                 "icon": "inv_glove_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Chain Clasps",
                 "item_quality": 4,
@@ -357956,13 +358035,13 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12842,
-                  13662
+                  13662,
+                  12844
                 ]
               },
               "legs": {
                 "item_id": 272251,
-                "item_level": 305,
+                "item_level": 321,
                 "icon": "inv_pant_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Chausses",
                 "item_quality": 4,
@@ -357980,9 +358059,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12841,
                   6652,
-                  13662
+                  13662,
+                  12846
                 ]
               },
               "feet": {
@@ -358085,10 +358164,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 251784,
-                "item_level": 295,
-                "icon": "inv_12_trinket_sylvanwakrapuku",
-                "name": "Sylvan Wakrapuku",
+                "item_id": 248583,
+                "item_level": 305,
+                "icon": "inv_archaeology_70_tauren_drum",
+                "name": "Drum of Renewed Bonds",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -358104,15 +358183,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
+                  13183,
+                  12841,
                   6652
                 ]
               },
               "mainhand": {
-                "item_id": 257009,
-                "item_level": 279,
-                "icon": "inv_bow_1h_dungeonharronir_c_01",
-                "name": "Deep Hunter's Arc",
+                "item_id": 272278,
+                "item_level": 321,
+                "icon": "inv_bow_1h_outdooramaniloa_c_01",
+                "name": "Recurve Wisp-Shooter",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -358128,8 +358208,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12825,
-                  6652
+                  41,
+                  12846
                 ]
               }
             }
@@ -369372,7 +369452,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T13:42:31.432Z"
+    "fetchedAt": "2026-10-26T15:01:18.631Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -380445,7 +380525,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -390907,7 +390987,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -392874,7 +392954,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -396287,7 +396367,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -420170,7 +420250,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -425933,7 +426013,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -433020,7 +433100,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -433716,7 +433796,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -480491,7 +480571,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -489711,7 +489791,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -508215,7 +508295,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -529332,7 +529412,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -530043,7 +530123,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -530792,7 +530872,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -531531,7 +531611,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -533564,7 +533644,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -569601,7 +569681,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -571661,7 +571741,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -583179,7 +583259,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -585217,7 +585297,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -586622,7 +586702,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -587305,7 +587385,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -588040,7 +588120,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -596568,7 +596648,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -608148,7 +608228,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -608794,7 +608874,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -622848,7 +622928,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -629824,7 +629904,7 @@
           "type": "live",
           "title": "Last 2 days of being op 😭😭😭!nerf !ui !website !rogue !coaching !Liquid",
           "community_ids": [],
-          "viewer_count": 462,
+          "viewer_count": 424,
           "started_at": "2026-10-26T10:51:59Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -646412,15 +646492,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -647144,15 +647224,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -649140,15 +649220,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -649741,15 +649821,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -651211,15 +651291,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -651871,15 +651951,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -654042,15 +654122,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -654741,7 +654821,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -660289,7 +660369,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -665038,15 +665118,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -667815,7 +667895,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -668479,7 +668559,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -680988,15 +681068,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -681736,15 +681816,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -682409,15 +682489,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -683879,22 +683959,22 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4262.1,
+          "allScore": 4263.7,
           "allScoreColor": "#fe7e15"
         },
         "rank": 4,
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -694120,15 +694200,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -694736,15 +694816,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -695506,15 +695586,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -696223,15 +696303,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -700340,15 +700420,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -707988,15 +708068,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1252393,
-          "id": "319152489830",
+          "id": "319153875302",
           "name": "hearthjacks",
           "user_id": "147588219",
           "game_id": "18122",
           "type": "live",
           "title": "<Echo> Next week's meta comp POV :D",
           "community_ids": [],
-          "viewer_count": 58,
-          "started_at": "2026-10-26T12:21:17Z",
+          "viewer_count": 36,
+          "started_at": "2026-10-26T14:51:04Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
         }
@@ -710212,7 +710292,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -711617,7 +711697,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -712322,7 +712402,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -719398,7 +719478,7 @@
           "type": "live",
           "title": "<Echo> m+ and raids !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 136,
+          "viewer_count": 143,
           "started_at": "2026-10-26T11:07:09Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -721479,7 +721559,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -722185,7 +722265,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -723518,7 +723598,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -724195,7 +724275,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -724908,7 +724988,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -725528,7 +725608,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -726239,7 +726319,7 @@
           "type": "live",
           "title": "!DROPS <Echo> ♾️ RETAIL TIME!! -> 4x Mythic Ula Boost ♾️ | !UI | !shop !moumint !aion2 !restedxp",
           "community_ids": [],
-          "viewer_count": 639,
+          "viewer_count": 598,
           "started_at": "2026-10-26T09:18:41Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -747089,7 +747169,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T13:42:35.759Z"
+    "fetchedAt": "2026-10-26T15:01:30.062Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1064219,7 +1064299,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4263.4,
+          "allScore": 4263.7,
           "allScoreColor": "#fe7e15"
         },
         "rank": 5,
@@ -1092192,6 +1092272,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T13:42:42.252Z"
+    "fetchedAt": "2026-10-26T15:01:35.463Z"
   }
 }
