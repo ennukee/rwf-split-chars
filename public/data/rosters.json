@@ -25128,21 +25128,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1251407,
-          "id": "322011054298",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) rat vault spam",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-26T00:47:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -128353,21 +128339,7 @@
           "allScoreColor": "#5864e2"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1251407,
-          "id": "322011054298",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) rat vault spam",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-26T00:47:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -159469,21 +159441,7 @@
           "allScoreColor": "#c644c3"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1251407,
-          "id": "322011054298",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) rat vault spam",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-26T00:47:51Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -368793,7 +368751,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T06:29:44.666Z"
+    "fetchedAt": "2026-10-26T08:23:43.339Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -541000,14 +540958,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 1468,
-            "name": "Preservation",
-            "slug": "preservation",
+            "id": 1467,
+            "name": "Devastation",
+            "slug": "devastation",
             "class_id": 13,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "10.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/eu/tarren-mill/Ftmballerup",
           "realm": {
@@ -541035,8 +540993,8 @@
           "thumbnail": "tarren-mill/74/189450058-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-20T20:27:33.411Z",
-            "updated_at": "2026-10-20T20:27:33.411Z",
+            "created_at": "2026-10-26T07:15:52.952Z",
+            "updated_at": "2026-10-26T07:15:52.952Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -541439,8 +541397,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
+                  13334,
                   6652,
-                  13335,
                   12854,
                   14049,
                   13691,
@@ -686721,14 +686679,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 264,
-            "name": "Restoration",
-            "slug": "restoration",
+            "id": 262,
+            "name": "Elemental",
+            "slug": "elemental",
             "class_id": 7,
-            "role": "healer",
+            "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "path": "/characters/eu/tarren-mill/Ftmraccoon",
           "realm": {
@@ -686756,8 +686714,8 @@
           "thumbnail": "tarren-mill/124/190738556-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-25T05:37:45.937Z",
-            "updated_at": "2026-10-25T05:37:45.937Z",
+            "created_at": "2026-10-26T07:15:57.236Z",
+            "updated_at": "2026-10-26T07:15:57.236Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -687419,7 +687377,6 @@
               "offhand": {
                 "item_id": 268262,
                 "item_level": 334,
-                "enchant": 7528,
                 "icon": "inv_shield_1h_ulatek_d_01",
                 "name": "Bubblefin Splash Guard",
                 "item_quality": 4,
@@ -687434,9 +687391,7 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7528
-                ],
+                "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
@@ -745659,7 +745614,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T06:29:52.818Z"
+    "fetchedAt": "2026-10-26T08:23:48.933Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1090762,6 +1090717,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T06:29:59.595Z"
+    "fetchedAt": "2026-10-26T08:23:53.830Z"
   }
 }
