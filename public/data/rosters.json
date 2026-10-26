@@ -357072,6 +357072,627 @@
       },
       {
         "character": {
+          "id": 309689832,
+          "persona_id": 60132536,
+          "name": "Pupperoni",
+          "class": {
+            "id": 8,
+            "name": "Mage",
+            "slug": "mage"
+          },
+          "race": {
+            "id": 29,
+            "name": "Void Elf",
+            "slug": "void-elf",
+            "faction": "alliance"
+          },
+          "faction": "alliance",
+          "level": 90,
+          "spec": {
+            "id": 62,
+            "name": "Arcane",
+            "slug": "arcane",
+            "class_id": 8,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 0
+          },
+          "path": "/characters/us/alexstrasza/Pupperoni",
+          "realm": {
+            "id": 252,
+            "connectedRealmId": 126,
+            "wowRealmId": 1070,
+            "wowConnectedRealmId": 1070,
+            "name": "Alexstrasza",
+            "altName": null,
+            "slug": "alexstrasza",
+            "altSlug": "alexstrasza",
+            "locale": "en_US",
+            "isConnected": true,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "alexstrasza/158/238187166-avatar.jpg",
+          "itemLevelEquipped": 302,
+          "items": {
+            "created_at": "2026-10-26T08:50:54.402Z",
+            "updated_at": "2026-10-26T08:50:54.402Z",
+            "source": "s3",
+            "item_level_equipped": 302,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271564,
+                "item_level": 295,
+                "enchant": 8014,
+                "icon": "inv_helm_cloth_raidmageulatek_d_01",
+                "name": "Crown of the Primal Leywarden",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8014
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244004,
+                    "name": "Enchant Helm - Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_green"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13696,
+                  13692,
+                  13698,
+                  12830
+                ]
+              },
+              "neck": {
+                "item_id": 268265,
+                "item_level": 295,
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240916,
+                  240916
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240916,
+                    "name": "16 Vers & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_blue"
+                  },
+                  {
+                    "id": 240916,
+                    "name": "16 Vers & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_blue"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13332,
+                  11215,
+                  13987,
+                  12830
+                ]
+              },
+              "shoulder": {
+                "item_id": 271562,
+                "item_level": 295,
+                "enchant": 8001,
+                "icon": "inv_shoulder_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Manaflux",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12834,
+                  13694,
+                  13697,
+                  1548
+                ]
+              },
+              "back": {
+                "item_id": 272226,
+                "item_level": 305,
+                "icon": "inv_cape_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Shroud",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652,
+                  13662
+                ]
+              },
+              "chest": {
+                "item_id": 271567,
+                "item_level": 321,
+                "enchant": 7987,
+                "icon": "inv_robe_cloth_raidmageulatek_d_01",
+                "name": "Crest of the Primal Leywarden",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12846,
+                  13690,
+                  13698,
+                  1574
+                ]
+              },
+              "waist": {
+                "item_id": 272237,
+                "item_level": 321,
+                "icon": "inv_belt_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Obi",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13696,
+                  13662,
+                  12846
+                ]
+              },
+              "wrist": {
+                "item_id": 272238,
+                "item_level": 308,
+                "icon": "inv_bracer_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Wraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12842,
+                  13696,
+                  13662
+                ]
+              },
+              "hands": {
+                "item_id": 272233,
+                "item_level": 295,
+                "icon": "inv_glove_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Gloves",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652,
+                  13662
+                ]
+              },
+              "legs": {
+                "item_id": 271563,
+                "item_level": 305,
+                "enchant": 7935,
+                "icon": "inv_pant_cloth_raidmageulatek_d_01",
+                "name": "Primal Leywarden's Tailored Legwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7935
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13693,
+                  13698,
+                  12837
+                ]
+              },
+              "feet": {
+                "item_id": 272232,
+                "item_level": 321,
+                "enchant": 7963,
+                "icon": "inv_boot_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Buskins",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "finger1": {
+                "item_id": 258909,
+                "item_level": 260,
+                "enchant": 7967,
+                "icon": "inv_70_quest_ring6a",
+                "name": "Tarnished Dawnlit Signet",
+                "item_quality": 3,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240916
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240916,
+                    "name": "16 Vers & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_blue"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13901,
+                  6652,
+                  13668
+                ]
+              },
+              "finger2": {
+                "item_id": 249920,
+                "item_level": 276,
+                "enchant": 7967,
+                "icon": "inv_12_jewelry_devouringhost_ring_bronze",
+                "name": "Eye of Midnight",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240916,
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240916,
+                    "name": "16 Vers & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_blue"
+                  },
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  11215,
+                  12798
+                ]
+              },
+              "trinket1": {
+                "item_id": 270164,
+                "item_level": 298,
+                "icon": "inv_10_tailoring_bag1_color2",
+                "name": "Gebbo's Bottomless Bag",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13333,
+                  11215,
+                  12835
+                ]
+              },
+              "trinket2": {
+                "item_id": 251784,
+                "item_level": 295,
+                "icon": "inv_12_trinket_sylvanwakrapuku",
+                "name": "Sylvan Wakrapuku",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12834,
+                  6652
+                ]
+              },
+              "mainhand": {
+                "item_id": 272271,
+                "item_level": 321,
+                "enchant": 8689,
+                "icon": "inv_wand_1h_outdooramaniloa_c_01",
+                "name": "Spiritbound Focus",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  12846
+                ]
+              },
+              "offhand": {
+                "item_id": 272275,
+                "item_level": 321,
+                "icon": "inv_offhand_1h_outdooramaniloa_c_01",
+                "name": "Soulsinger's Horn",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12846
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 170,
+          "allScoreColor": "#ffffff"
+        },
+        "rank": 4,
+        "stream": null
+      },
+      {
+        "character": {
           "id": 309689833,
           "persona_id": 0,
           "name": "Kspundo",
@@ -368751,7 +369372,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T08:23:43.339Z"
+    "fetchedAt": "2026-10-26T10:15:33.720Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -379814,7 +380435,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -392215,7 +392850,21 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -395614,7 +396263,21 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -419483,7 +420146,21 @@
           "allScoreColor": "#48ea4a"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -432305,7 +432982,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -432987,7 +433678,21 @@
           "allScoreColor": "#a5ff8a"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -488954,7 +489659,21 @@
           "allScoreColor": "#4ce651"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -529244,7 +529963,21 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -530704,7 +531437,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -582296,7 +583043,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 0,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -607181,7 +607942,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -607813,7 +608588,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -666652,7 +667441,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -667302,7 +668105,21 @@
           "allScoreColor": "#c4ffb0"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -708881,7 +709698,21 @@
           "allScoreColor": "#51ff37"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -710272,7 +711103,21 @@
           "allScoreColor": "#51ff37"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -710963,7 +711808,21 @@
           "allScoreColor": "#85ff68"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -720092,7 +720951,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -720784,7 +721657,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -722103,7 +722990,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -722766,7 +723667,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -723465,7 +724380,21 @@
           "allScoreColor": "#a5ff8a"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -724071,7 +725000,21 @@
           "allScoreColor": "#a7ff8d"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -724768,7 +725711,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 2,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1252110,
+          "id": "318954428903",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "!DROPS <Echo> ♾️ RETAIL TIME!! ♾️ | !UI | !shop !moumint !aion2 !restedxp",
+          "community_ids": [],
+          "viewer_count": 513,
+          "started_at": "2026-10-26T09:18:41Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -745614,7 +746571,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T08:23:48.933Z"
+    "fetchedAt": "2026-10-26T10:15:42.516Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1090717,6 +1091674,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-26T08:23:53.830Z"
+    "fetchedAt": "2026-10-26T10:15:50.458Z"
   }
 }
