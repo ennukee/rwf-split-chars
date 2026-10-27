@@ -185919,14 +185919,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 581,
-            "name": "Vengeance",
-            "slug": "vengeance",
+            "id": 577,
+            "name": "Havoc",
+            "slug": "havoc",
             "class_id": 12,
-            "role": "tank",
+            "role": "dps",
             "is_melee": true,
             "patch": "7.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/us/alexstrasza/Jiminybilini",
           "realm": {
@@ -185952,12 +185952,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "alexstrasza/92/236368732-avatar.jpg",
-          "itemLevelEquipped": 309,
+          "itemLevelEquipped": 319,
           "items": {
-            "created_at": "2026-10-26T23:30:15.296Z",
-            "updated_at": "2026-10-26T23:30:15.296Z",
+            "created_at": "2026-10-27T18:14:00.598Z",
+            "updated_at": "2026-10-27T18:14:00.598Z",
             "source": "s3",
-            "item_level_equipped": 309,
+            "item_level_equipped": 319,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -185969,30 +185969,78 @@
             },
             "items": {
               "head": {
-                "item_id": 272242,
-                "item_level": 292,
-                "icon": "inv_helm_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Cowl",
+                "item_id": 271537,
+                "item_level": 321,
+                "enchant": 8017,
+                "icon": "inv_helm_leather_raiddemonhunterulatek_d_01",
+                "name": "Abyssal Doomhound's Relentless Stare",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12833,
+                  12850,
                   6652,
+                  13335,
                   13696,
-                  11215,
-                  13662
+                  13692,
+                  13698,
+                  1574
                 ]
               },
               "neck": {
@@ -186028,10 +186076,11 @@
                 ]
               },
               "shoulder": {
-                "item_id": 272244,
-                "item_level": 305,
-                "icon": "inv_shoulder_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Spaulders",
+                "item_id": 271535,
+                "item_level": 334,
+                "enchant": 8001,
+                "icon": "inv_shoulder_leather_raiddemonhunterulatek_d_01",
+                "name": "Abyssal Doomhound's Jaws",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -186042,14 +186091,25 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12841,
-                  40,
-                  13662
+                  12854,
+                  13335,
+                  13694,
+                  6652,
+                  13697
                 ]
               },
               "back": {
@@ -186078,11 +186138,11 @@
                 ]
               },
               "chest": {
-                "item_id": 272239,
+                "item_id": 271540,
                 "item_level": 308,
                 "enchant": 7987,
-                "icon": "inv_chest_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Brigandine",
+                "icon": "inv_chest_leather_raiddemonhunterulatek_d_01",
+                "name": "Abyssal Doomhound's Coreguard",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -186093,6 +186153,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -186107,8 +186168,10 @@
                 ],
                 "bonuses": [
                   6652,
-                  13662,
-                  12842
+                  12842,
+                  13690,
+                  13698,
+                  1561
                 ]
               },
               "waist": {
@@ -186191,11 +186254,11 @@
                 ]
               },
               "hands": {
-                "item_id": 272241,
+                "item_id": 271538,
                 "item_level": 308,
                 "enchant": 8730,
-                "icon": "inv_glove_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Grips",
+                "icon": "inv_glove_leather_raiddemonhunterulatek_d_01",
+                "name": "Abyssal Doomhound's Studded Gauntlets",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -186206,6 +186269,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -186220,16 +186284,18 @@
                 ],
                 "bonuses": [
                   6652,
-                  13662,
-                  12842
+                  12842,
+                  13691,
+                  13697,
+                  1561
                 ]
               },
               "legs": {
-                "item_id": 272243,
-                "item_level": 308,
+                "item_id": 271536,
+                "item_level": 334,
                 "enchant": 8159,
-                "icon": "inv_pant_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Cuisses",
+                "icon": "inv_pant_leather_raiddemonhunterulatek_d_01",
+                "name": "Abyssal Doomhound's Legwraps",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -186240,6 +186306,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -186253,16 +186320,19 @@
                   }
                 ],
                 "bonuses": [
+                  12854,
+                  13335,
+                  13693,
                   6652,
-                  13662,
-                  12842
+                  13698
                 ]
               },
               "feet": {
-                "item_id": 272240,
-                "item_level": 308,
-                "icon": "inv_boot_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Striders",
+                "item_id": 244772,
+                "item_level": 331,
+                "enchant": 7963,
+                "icon": "inv_boot_leather_questbloodelf_b_01",
+                "name": "Aetherlume Runners",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -186275,17 +186345,29 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  6652,
-                  13662,
-                  12842
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  11136,
+                  13836
                 ]
               },
               "finger1": {
                 "item_id": 272149,
-                "item_level": 305,
+                "item_level": 308,
                 "enchant": 7967,
                 "icon": "inv_121_jewelry_ring02_purple",
                 "name": "Hex Loop",
@@ -186320,17 +186402,17 @@
                   }
                 ],
                 "bonuses": [
-                  12841,
                   6652,
-                  13668
+                  13668,
+                  12842
                 ]
               },
               "finger2": {
-                "item_id": 272150,
-                "item_level": 295,
+                "item_id": 268249,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_jewelry_ring_181",
-                "name": "Ouroboric Signet",
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -186362,9 +186444,10 @@
                   }
                 ],
                 "bonuses": [
-                  12834,
                   6652,
-                  13668
+                  13668,
+                  13335,
+                  12854
                 ]
               },
               "trinket1": {
@@ -186418,7 +186501,7 @@
               },
               "mainhand": {
                 "item_id": 237840,
-                "item_level": 331,
+                "item_level": 337,
                 "enchant": 8689,
                 "icon": "inv_glaive_1h_questbloodelf_b_01",
                 "name": "Spellbreaker's Warglaive",
@@ -186446,6 +186529,7 @@
                 ],
                 "bonuses": [
                   12214,
+                  13852,
                   12497,
                   13751,
                   14001,
@@ -377419,7 +377503,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T18:11:20.841Z"
+    "fetchedAt": "2026-10-27T20:10:53.158Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -399485,21 +399569,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -413119,7 +413189,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -414416,7 +414486,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -434505,7 +434575,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4253.1,
+          "allScore": 4256.3,
           "allScoreColor": "#fe7e15"
         },
         "rank": 7,
@@ -435986,21 +436056,7 @@
           "allScoreColor": "#daffcc"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -454474,7 +454530,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -490185,21 +490241,7 @@
           "allScoreColor": "#a0ff85"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -497979,7 +498021,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -518684,21 +518726,7 @@
           "allScoreColor": "#e85e7d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -539907,21 +539935,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -541353,21 +541367,7 @@
           "allScoreColor": "#337bd1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -544116,21 +544116,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -580218,21 +580204,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -582271,21 +582243,7 @@
           "allScoreColor": "#9544eb"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -595882,21 +595840,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -597287,21 +597231,7 @@
           "allScoreColor": "#f4fff0"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -597970,21 +597900,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -598705,21 +598621,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -607143,21 +607045,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -633734,21 +633622,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -634499,7 +634373,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -635240,7 +635114,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -635974,7 +635848,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -636697,7 +636571,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -637373,7 +637247,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -653209,7 +653083,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -657420,7 +657294,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -658152,7 +658026,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -660162,7 +660036,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -660763,7 +660637,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -662233,7 +662107,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -662893,7 +662767,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -665114,7 +664988,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -665796,21 +665670,7 @@
           "allScoreColor": "#da529d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -671130,21 +670990,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -675847,7 +675693,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -686075,7 +685921,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -691815,7 +691661,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -692563,7 +692409,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -693236,7 +693082,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -694721,7 +694567,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -704922,7 +704768,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -705573,7 +705419,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -706343,7 +706189,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -707060,7 +706906,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -711177,7 +711023,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -718816,7 +718662,7 @@
           "type": "live",
           "title": "<Echo> Raid :p",
           "community_ids": [],
-          "viewer_count": 48,
+          "viewer_count": 85,
           "started_at": "2026-10-27T17:26:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -730181,21 +730027,7 @@
           "allScoreColor": "#fe7e15"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255600,
-          "id": "319106256485",
-          "name": "stovepov",
-          "user_id": "31890957",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> freddo cappuccino and white monster !ui !addons !exboss !tracking",
-          "community_ids": [],
-          "viewer_count": 147,
-          "started_at": "2026-10-27T12:11:26Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -733702,7 +733534,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -737784,7 +737616,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -738483,7 +738315,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -739190,7 +739022,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -739844,7 +739676,7 @@
           "type": "live",
           "title": "<Echo> Raid chilling",
           "community_ids": [],
-          "viewer_count": 50,
+          "viewer_count": 46,
           "started_at": "2026-10-27T16:35:19Z",
           "language": "ru",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wexixd-{width}x{height}.jpg"
@@ -744687,7 +744519,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3855.9,
+          "allScore": 3871.3,
           "allScoreColor": "#e65c82"
         },
         "rank": 6,
@@ -759660,7 +759492,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T18:11:25.533Z"
+    "fetchedAt": "2026-10-27T20:11:01.333Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -789739,21 +789571,7 @@
           "allScoreColor": "#75ff59"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255647,
-          "id": "319164872806",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-27T12:41:57Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -818276,21 +818094,7 @@
           "allScoreColor": "#4183c9"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255647,
-          "id": "319164872806",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-27T12:41:57Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -830446,21 +830250,7 @@
           "allScoreColor": "#df5693"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255647,
-          "id": "319164872806",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-27T12:41:57Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -930194,21 +929984,7 @@
           "allScoreColor": "#fe7e15"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255647,
-          "id": "319164872806",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-27T12:41:57Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -930923,21 +930699,7 @@
           "allScoreColor": "#4687c5"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255647,
-          "id": "319164872806",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-27T12:41:57Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -945404,21 +945166,7 @@
           "allScoreColor": "#daffcc"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255647,
-          "id": "319164872806",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-27T12:41:57Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1026362,21 +1026110,7 @@
           "allScoreColor": "#deffd1"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1255647,
-          "id": "319164872806",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 75,
-          "started_at": "2026-10-27T12:41:57Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1095857,12 +1095591,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/107/197207147-avatar.jpg",
-          "itemLevelEquipped": 328,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-20T22:16:36.480Z",
-            "updated_at": "2026-10-20T22:16:36.480Z",
+            "created_at": "2026-10-27T20:06:09.459Z",
+            "updated_at": "2026-10-27T20:06:09.459Z",
             "source": "s3",
-            "item_level_equipped": 328,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -1095959,7 +1095693,7 @@
               },
               "neck": {
                 "item_id": 268265,
-                "item_level": 334,
+                "item_level": 344,
                 "icon": "inv_121_jewelry_neck03_green",
                 "name": "Aqirbane Reliquary",
                 "item_quality": 4,
@@ -1095972,30 +1095706,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240983,
-                  240908
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
-                  },
-                  {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13668,
-                  13334,
-                  13987,
-                  12854
+                  13335,
+                  13848,
+                  13987
                 ]
               },
               "shoulder": {
@@ -1096034,10 +1095754,10 @@
                 ]
               },
               "back": {
-                "item_id": 239656,
-                "item_level": 331,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
+                "item_id": 268253,
+                "item_level": 344,
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1096053,15 +1095773,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8791,
-                  13836
+                  6652,
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "chest": {
@@ -1096176,10 +1095891,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 251200,
-                "item_level": 321,
-                "icon": "inv_bracer_mail_dungeonharronir_c_01",
-                "name": "Saptorbane Guards",
+                "item_id": 244584,
+                "item_level": 331,
+                "icon": "inv_bracer_mail_questbloodelf_b_01",
+                "name": "Farstrider's Plated Bracers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1096195,12 +1095910,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
-                  6652,
-                  13696,
-                  13662,
-                  12699,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8791,
+                  13836,
+                  13696
                 ]
               },
               "hands": {
@@ -1108692,6 +1108411,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T18:11:30.665Z"
+    "fetchedAt": "2026-10-27T20:11:07.562Z"
   }
 }
