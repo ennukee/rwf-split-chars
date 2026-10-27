@@ -25023,14 +25023,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 72,
-            "name": "Fury",
-            "slug": "fury",
+            "id": 71,
+            "name": "Arms",
+            "slug": "arms",
             "class_id": 1,
             "role": "dps",
             "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/us/illidan/Peteexecutes",
           "realm": {
@@ -25056,12 +25056,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/31/224008991-avatar.jpg",
-          "itemLevelEquipped": 323,
+          "itemLevelEquipped": 324,
           "items": {
-            "created_at": "2026-10-26T23:29:58.016Z",
-            "updated_at": "2026-10-26T23:29:58.016Z",
+            "created_at": "2026-10-27T07:19:02.582Z",
+            "updated_at": "2026-10-27T07:19:02.582Z",
             "source": "s3",
-            "item_level_equipped": 323,
+            "item_level_equipped": 324,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -25234,10 +25234,10 @@
                 ]
               },
               "back": {
-                "item_id": 272230,
+                "item_id": 268253,
                 "item_level": 321,
-                "icon": "inv_cape_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Pall",
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -25255,7 +25255,8 @@
                 "bonuses": [
                   6652,
                   13662,
-                  12846
+                  13334,
+                  12850
                 ]
               },
               "chest": {
@@ -25571,7 +25572,7 @@
               },
               "trinket1": {
                 "item_id": 270173,
-                "item_level": 318,
+                "item_level": 324,
                 "icon": "inv_121_trinket_raid_ulatek_trolltablet",
                 "name": "Zul'jin's Guillotine Technique",
                 "item_quality": 4,
@@ -25591,12 +25592,12 @@
                 "bonuses": [
                   6652,
                   13334,
-                  12849
+                  12851
                 ]
               },
               "trinket2": {
                 "item_id": 270168,
-                "item_level": 318,
+                "item_level": 321,
                 "icon": "inv_10_dungeonjewelry_dragon_trinket_3djardintrophy_green",
                 "name": "Font of Venomous Rage",
                 "item_quality": 4,
@@ -25616,12 +25617,12 @@
                 "bonuses": [
                   41,
                   13334,
-                  12849
+                  12850
                 ]
               },
               "mainhand": {
                 "item_id": 251134,
-                "item_level": 318,
+                "item_level": 321,
                 "enchant": 8689,
                 "icon": "inv_axe_2h_dungeonharronir_c_01",
                 "name": "Xathuux's Cleave",
@@ -25648,38 +25649,10 @@
                   }
                 ],
                 "bonuses": [
-                  12849,
                   13440,
                   6652,
-                  12701
-                ]
-              },
-              "offhand": {
-                "item_id": 280799,
-                "item_level": 321,
-                "enchant": 8051,
-                "icon": "inv_sword_2h_raidmidnight_d_01",
-                "name": "Lu'selama, Light's Justice",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8051
-                ],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13334,
-                  12846
+                  12701,
+                  12850
                 ]
               }
             }
@@ -25718,25 +25691,11 @@
           }
         },
         "keystoneScores": {
-          "allScore": 321.9,
-          "allScoreColor": "#f8fff5"
+          "allScore": 700.9,
+          "allScoreColor": "#daffcc"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1254611,
-          "id": "322022640090",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) mythic one night a week prog raid into more rat alt vault runs",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-27T00:22:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -129772,21 +129731,7 @@
           "allScoreColor": "#5864e2"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1254611,
-          "id": "322022640090",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) mythic one night a week prog raid into more rat alt vault runs",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-27T00:22:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -160922,21 +160867,7 @@
           "allScoreColor": "#c644c3"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1254611,
-          "id": "322022640090",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) mythic one night a week prog raid into more rat alt vault runs",
-          "community_ids": [],
-          "viewer_count": 3,
-          "started_at": "2026-10-27T00:22:03Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -377372,7 +377303,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T06:22:41.938Z"
+    "fetchedAt": "2026-10-27T08:18:07.596Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -758885,7 +758816,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T06:22:49.273Z"
+    "fetchedAt": "2026-10-27T08:18:14.785Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1104018,6 +1103949,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T06:22:54.358Z"
+    "fetchedAt": "2026-10-27T08:18:20.495Z"
   }
 }
