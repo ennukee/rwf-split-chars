@@ -25732,7 +25732,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) mythic one night a week prog raid into more rat alt vault runs",
           "community_ids": [],
-          "viewer_count": 1,
+          "viewer_count": 6,
           "started_at": "2026-10-27T00:22:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -129772,7 +129772,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) mythic one night a week prog raid into more rat alt vault runs",
           "community_ids": [],
-          "viewer_count": 1,
+          "viewer_count": 6,
           "started_at": "2026-10-27T00:22:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -160922,7 +160922,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) mythic one night a week prog raid into more rat alt vault runs",
           "community_ids": [],
-          "viewer_count": 1,
+          "viewer_count": 6,
           "started_at": "2026-10-27T00:22:03Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -227784,7 +227784,7 @@
           "type": "live",
           "title": "[DROPS] hunt for resilient 22",
           "community_ids": [],
-          "viewer_count": 163,
+          "viewer_count": 184,
           "started_at": "2026-10-26T21:41:00Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -377376,7 +377376,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T00:34:18.328Z"
+    "fetchedAt": "2026-10-27T02:20:01.506Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -728771,12 +728771,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/199/188579527-avatar.jpg",
-          "itemLevelEquipped": 327,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-24T06:15:51.231Z",
-            "updated_at": "2026-10-24T06:15:51.231Z",
+            "created_at": "2026-10-27T01:54:07.898Z",
+            "updated_at": "2026-10-27T01:54:07.898Z",
             "source": "s3",
-            "item_level_equipped": 327,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -728976,14 +728976,60 @@
               },
               "chest": {
                 "item_id": 271477,
-                "item_level": 321,
+                "item_level": 344,
                 "enchant": 7987,
                 "icon": "inv_chest_plate_raiddeathknightulatek_d_01",
                 "name": "Baleful Grave-Knight's Breastplate",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -729004,11 +729050,12 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
-                  13690,
                   6652,
+                  13335,
+                  13848,
+                  13690,
                   13698,
-                  12846
+                  1597
                 ]
               },
               "waist": {
@@ -729100,11 +729147,10 @@
                 ]
               },
               "hands": {
-                "item_id": 272257,
-                "item_level": 321,
-                "enchant": 8730,
-                "icon": "inv_glove_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Gauntlets",
+                "item_id": 271475,
+                "item_level": 334,
+                "icon": "inv_glove_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Deathgrips",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -729115,22 +729161,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8730
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 283998,
-                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Eye of the Lynx|r",
-                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color3"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13662,
-                  12846
+                  13335,
+                  13691,
+                  43,
+                  13697,
+                  12854
                 ]
               },
               "legs": {
@@ -729303,10 +729344,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 281215,
-                "item_level": 334,
-                "icon": "inv_misc_questionmark",
-                "name": "Twisted Horror's Tendril",
+                "item_id": 270175,
+                "item_level": 344,
+                "icon": "inv_121_trinket_raid_ulatek_heart",
+                "name": "Voracious Heart of Ula'tek",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -729323,13 +729364,13 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13334,
-                  12854
+                  13335,
+                  13848
                 ]
               },
               "trinket2": {
                 "item_id": 270173,
-                "item_level": 334,
+                "item_level": 344,
                 "icon": "inv_121_trinket_raid_ulatek_trolltablet",
                 "name": "Zul'jin's Guillotine Technique",
                 "item_quality": 4,
@@ -729347,9 +729388,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  42,
-                  13334,
-                  12854
+                  6652,
+                  13335,
+                  13848
                 ]
               },
               "mainhand": {
@@ -740923,8 +740964,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3827.6,
-          "allScoreColor": "#e2588d"
+          "allScore": 3840.1,
+          "allScoreColor": "#e45a88"
         },
         "rank": 6,
         "stream": null
@@ -754239,7 +754280,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T00:34:22.974Z"
+    "fetchedAt": "2026-10-27T02:20:07.229Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1099372,6 +1099413,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-27T00:34:30.044Z"
+    "fetchedAt": "2026-10-27T02:20:14.566Z"
   }
 }
