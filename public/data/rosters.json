@@ -61318,7 +61318,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -229510,21 +229510,7 @@
           "allScoreColor": "#4283c8"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1259978,
-          "id": "322160892123",
-          "name": "jdotb",
-          "user_id": "89390235",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] hpal 22s | new !guild soon",
-          "community_ids": [],
-          "viewer_count": 177,
-          "started_at": "2026-10-28T17:12:36Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -383938,7 +383924,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T04:12:07.569Z"
+    "fetchedAt": "2026-10-29T06:16:59.469Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -767194,7 +767180,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T04:12:11.515Z"
+    "fetchedAt": "2026-10-29T06:17:08.580Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -784721,12 +784707,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/180/176048820-avatar.jpg",
-          "itemLevelEquipped": 332,
+          "itemLevelEquipped": 337,
           "items": {
-            "created_at": "2026-10-27T11:22:07.095Z",
-            "updated_at": "2026-10-27T11:22:07.095Z",
+            "created_at": "2026-10-29T04:19:59.059Z",
+            "updated_at": "2026-10-29T04:19:59.059Z",
             "source": "s3",
-            "item_level_equipped": 332,
+            "item_level_equipped": 337,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -784738,48 +784724,18 @@
             },
             "items": {
               "head": {
-                "item_id": 271874,
+                "item_id": 271555,
                 "item_level": 344,
                 "enchant": 7961,
-                "icon": "inv_helm_cloth_raidwarlockulatek_d_01",
-                "name": "Venomkeeper's Horrific Cowl",
+                "icon": "inv_helm_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Truesight",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
+                  null,
+                  null,
+                  null,
                   {
                     "id": 580,
                     "spell": {
@@ -784799,8 +784755,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "tier": "36",
+                "gems": [
+                  240892
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  }
+                ],
                 "enchants": [
                   7961
                 ],
@@ -784812,17 +784777,20 @@
                   }
                 ],
                 "bonuses": [
-                  40,
-                  13696,
-                  13662,
                   13335,
+                  40,
+                  13846,
+                  13696,
                   13848,
-                  13846
+                  13692,
+                  13698,
+                  1597,
+                  13695
                 ]
               },
               "neck": {
                 "item_id": 268250,
-                "item_level": 321,
+                "item_level": 334,
                 "icon": "inv_121_jewelry_neck02_green",
                 "name": "Sentinel's Vitriolic Chain",
                 "item_quality": 4,
@@ -784851,12 +784819,12 @@
                   6652,
                   13668,
                   13335,
-                  12850
+                  12854
                 ]
               },
               "shoulder": {
                 "item_id": 271553,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 8031,
                 "icon": "inv_shoulder_cloth_raidpriestulatek_d_01",
                 "name": "Cosmic Penitent's Echoing Screams",
@@ -784884,11 +784852,11 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
+                  13335,
                   13694,
                   6652,
                   13697,
-                  12846
+                  12854
                 ]
               },
               "back": {
@@ -784919,7 +784887,7 @@
               },
               "chest": {
                 "item_id": 271558,
-                "item_level": 324,
+                "item_level": 334,
                 "enchant": 7987,
                 "icon": "inv_robe_cloth_raidpriestulatek_d_01",
                 "name": "Cosmic Penitent's Eclipsing Robes",
@@ -784947,11 +784915,11 @@
                   }
                 ],
                 "bonuses": [
-                  12851,
                   13335,
                   13690,
                   6652,
-                  13698
+                  13698,
+                  12854
                 ]
               },
               "waist": {
@@ -785021,7 +784989,7 @@
               },
               "hands": {
                 "item_id": 271556,
-                "item_level": 321,
+                "item_level": 344,
                 "icon": "inv_glove_cloth_raidpriestulatek_d_01",
                 "name": "Cosmic Penitent's Celestial Grips",
                 "item_quality": 4,
@@ -785040,16 +785008,17 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12850,
-                  13335,
-                  13691,
                   6652,
-                  13697
+                  13335,
+                  13848,
+                  13691,
+                  13697,
+                  1597
                 ]
               },
               "legs": {
                 "item_id": 271554,
-                "item_level": 331,
+                "item_level": 334,
                 "enchant": 7937,
                 "icon": "inv_pant_cloth_raidpriestulatek_d_01",
                 "name": "Enveloping Legwraps of the Cosmic Penitent",
@@ -785081,7 +785050,7 @@
                   13335,
                   13693,
                   13698,
-                  12853
+                  12854
                 ]
               },
               "feet": {
@@ -785121,7 +785090,7 @@
               },
               "finger1": {
                 "item_id": 281029,
-                "item_level": 318,
+                "item_level": 334,
                 "enchant": 8025,
                 "icon": "inv_misc_questionmark",
                 "name": "Band of the Swarmcaller",
@@ -785159,7 +785128,7 @@
                   6652,
                   13668,
                   13334,
-                  12849
+                  12854
                 ]
               },
               "finger2": {
@@ -1115386,6 +1115355,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T04:12:18.888Z"
+    "fetchedAt": "2026-10-29T06:17:14.454Z"
   }
 }
