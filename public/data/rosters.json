@@ -25641,7 +25641,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) no more upkeep crafting yipee",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 2,
           "started_at": "2026-10-28T19:25:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -55729,21 +55729,7 @@
           "allScoreColor": "#50e159"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -72315,21 +72301,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -75015,21 +74987,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -94349,12 +94307,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/65/231986753-avatar.jpg",
-          "itemLevelEquipped": 318,
+          "itemLevelEquipped": 319,
           "items": {
-            "created_at": "2026-10-28T08:37:04.305Z",
-            "updated_at": "2026-10-28T08:37:04.305Z",
+            "created_at": "2026-10-29T03:55:06.903Z",
+            "updated_at": "2026-10-29T03:55:06.903Z",
             "source": "s3",
-            "item_level_equipped": 318,
+            "item_level_equipped": 319,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -94676,8 +94634,7 @@
               },
               "legs": {
                 "item_id": 271518,
-                "item_level": 321,
-                "enchant": 7937,
+                "item_level": 334,
                 "icon": "inv_pant_leather_raidmonkulatek_d_01",
                 "name": "Pantaloons of the Monkey King",
                 "item_quality": 4,
@@ -94693,27 +94650,20 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7937
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 240155,
-                    "name": "41 Int & +% Mana",
-                    "icon": "inv_12_tailoring_spellthread_violet_spellthread"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12846,
-                  6652,
+                  12854,
+                  13335,
                   13693,
-                  13698,
-                  1574
+                  6652,
+                  13698
                 ]
               },
               "feet": {
                 "item_id": 272240,
                 "item_level": 321,
+                "enchant": 7993,
                 "icon": "inv_boot_leather_outdooramaniloa_c_01",
                 "name": "Miststalker's Striders",
                 "item_quality": 4,
@@ -94728,8 +94678,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13662,
@@ -94781,6 +94739,7 @@
               "finger2": {
                 "item_id": 268266,
                 "item_level": 334,
+                "enchant": 8025,
                 "icon": "inv_70_raid_ring8c",
                 "name": "Alluring Bubbleband",
                 "item_quality": 4,
@@ -94793,10 +94752,26 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  8025
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244015,
+                    "name": "Enchant Ring - Silvermoon's Alacrity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13668,
@@ -94805,10 +94780,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 268292,
+                "item_id": 251792,
                 "item_level": 298,
-                "icon": "inv_1207_fungarianraid_trinket",
-                "name": "Sporelord's Mycelial Insignia",
+                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
+                "name": "Glorious Crusader's Keepsake",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -94825,8 +94800,7 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13335,
-                  13786
+                  12835
                 ]
               },
               "trinket2": {
@@ -94857,6 +94831,7 @@
               "mainhand": {
                 "item_id": 272270,
                 "item_level": 308,
+                "enchant": 8689,
                 "icon": "inv_mace_1h_outdooramaniloa_c_01",
                 "name": "Bonedust Pestle",
                 "item_quality": 4,
@@ -94871,8 +94846,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8689
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 273072,
+                    "name": "Rite of the Hash'ey",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   12838
@@ -99560,21 +99543,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -130991,7 +130960,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) no more upkeep crafting yipee",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 2,
           "started_at": "2026-10-28T19:25:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -144662,21 +144631,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -145299,21 +145254,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -162279,7 +162220,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) no more upkeep crafting yipee",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 2,
           "started_at": "2026-10-28T19:25:14Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -172602,21 +172543,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -188855,21 +188782,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -216343,21 +216256,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -229621,7 +229520,7 @@
           "type": "live",
           "title": "[DROPS] hpal 22s | new !guild soon",
           "community_ids": [],
-          "viewer_count": 218,
+          "viewer_count": 177,
           "started_at": "2026-10-28T17:12:36Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -272869,21 +272768,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -273549,21 +273434,7 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -274252,21 +274123,7 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -291730,21 +291587,7 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260924,
-          "id": "319728272343",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "PASSION RAIDING GETTING STRONGER FOREVER !ui",
-          "community_ids": [],
-          "viewer_count": 440,
-          "started_at": "2026-10-28T20:04:38Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -341153,12 +340996,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/225/238143457-avatar.jpg",
-          "itemLevelEquipped": 317,
+          "itemLevelEquipped": 320,
           "items": {
-            "created_at": "2026-10-22T13:20:39.361Z",
-            "updated_at": "2026-10-22T13:20:39.361Z",
+            "created_at": "2026-10-29T02:20:08.331Z",
+            "updated_at": "2026-10-29T02:20:08.331Z",
             "source": "s3",
-            "item_level_equipped": 317,
+            "item_level_equipped": 320,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -341360,6 +341203,7 @@
               "chest": {
                 "item_id": 271558,
                 "item_level": 334,
+                "enchant": 7987,
                 "icon": "inv_robe_cloth_raidpriestulatek_d_01",
                 "name": "Cosmic Penitent's Eclipsing Robes",
                 "item_quality": 4,
@@ -341375,8 +341219,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12854,
                   13335,
@@ -341501,6 +341353,7 @@
               "feet": {
                 "item_id": 268218,
                 "item_level": 334,
+                "enchant": 7993,
                 "icon": "inv_boot_cloth_raidpriestulatek_d_01",
                 "name": "Nek'zali's Spiritwalkers",
                 "item_quality": 4,
@@ -341515,8 +341368,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7993
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243983,
+                    "name": "Enchant Boots - Shaladrassil's Roots",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13662,
@@ -341525,11 +341386,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 272148,
-                "item_level": 295,
-                "enchant": 7997,
-                "icon": "inv_121_jewelry_ring03_purple",
-                "name": "Anguine Gyre",
+                "item_id": 268249,
+                "item_level": 334,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -341551,19 +341412,20 @@
                   }
                 ],
                 "enchants": [
-                  7997
+                  7967
                 ],
                 "enchants_detail": [
                   {
-                    "id": 243987,
-                    "name": "Enchant Ring - Nature's Fury",
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  12834,
                   6652,
-                  13668
+                  13668,
+                  13335,
+                  12854
                 ]
               },
               "finger2": {
@@ -341611,7 +341473,7 @@
               },
               "trinket1": {
                 "item_id": 270164,
-                "item_level": 321,
+                "item_level": 334,
                 "icon": "inv_10_tailoring_bag1_color2",
                 "name": "Gebbo's Bottomless Bag",
                 "item_quality": 4,
@@ -341631,7 +341493,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12850
+                  12854
                 ]
               },
               "trinket2": {
@@ -384076,7 +383938,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T02:13:53.085Z"
+    "fetchedAt": "2026-10-29T04:12:07.569Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -751003,8 +750865,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3894.8,
-          "allScoreColor": "#e75d7f"
+          "allScore": 3911.6,
+          "allScoreColor": "#e95f7a"
         },
         "rank": 6,
         "stream": null
@@ -767332,7 +767194,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T02:13:56.933Z"
+    "fetchedAt": "2026-10-29T04:12:11.515Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -939779,7 +939641,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 2981.4,
+          "allScore": 2983.5,
           "allScoreColor": "#2b78d5"
         },
         "rank": 3,
@@ -1115524,6 +1115386,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T02:14:05.592Z"
+    "fetchedAt": "2026-10-29T04:12:18.888Z"
   }
 }
