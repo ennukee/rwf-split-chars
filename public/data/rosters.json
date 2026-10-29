@@ -25631,21 +25631,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260712,
-          "id": "322043222874",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) no more upkeep crafting yipee",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-28T19:25:14Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -31100,8 +31086,8 @@
           "thumbnail": "illidan/48/224743984-avatar.jpg",
           "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-28T08:36:58.861Z",
-            "updated_at": "2026-10-28T08:36:58.861Z",
+            "created_at": "2026-10-29T06:33:06.271Z",
+            "updated_at": "2026-10-29T06:33:06.271Z",
             "source": "s3",
             "item_level_equipped": 331,
             "item_level_total": 0,
@@ -31126,17 +31112,7 @@
                 "azerite_powers": [
                   null,
                   null,
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
+                  null,
                   {
                     "id": 580,
                     "spell": {
@@ -31177,7 +31153,8 @@
                   13696,
                   13692,
                   13698,
-                  1587
+                  1587,
+                  13695
                 ]
               },
               "neck": {
@@ -130950,21 +130927,7 @@
           "allScoreColor": "#5565e2"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260712,
-          "id": "322043222874",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) no more upkeep crafting yipee",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-28T19:25:14Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -162206,25 +162169,11 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3569.6,
-          "allScoreColor": "#c342c7"
+          "allScore": 3598.1,
+          "allScoreColor": "#c744c2"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1260712,
-          "id": "322043222874",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) no more upkeep crafting yipee",
-          "community_ids": [],
-          "viewer_count": 2,
-          "started_at": "2026-10-28T19:25:14Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -383924,7 +383873,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T06:16:59.469Z"
+    "fetchedAt": "2026-10-29T08:13:32.879Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -767180,7 +767129,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T06:17:08.580Z"
+    "fetchedAt": "2026-10-29T08:13:41.803Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1115355,6 +1115304,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-29T06:17:14.454Z"
+    "fetchedAt": "2026-10-29T08:13:46.998Z"
   }
 }
