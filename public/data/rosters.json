@@ -385424,7 +385424,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T12:14:51.227Z"
+    "fetchedAt": "2026-10-30T14:10:22.461Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -407597,7 +407597,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -444100,7 +444114,21 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -445559,12 +445587,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/66/186052162-avatar.jpg",
-          "itemLevelEquipped": 321,
+          "itemLevelEquipped": 323,
           "items": {
-            "created_at": "2026-10-29T11:18:57.817Z",
-            "updated_at": "2026-10-29T11:18:57.817Z",
+            "created_at": "2026-10-30T13:53:10.790Z",
+            "updated_at": "2026-10-30T13:53:10.790Z",
             "source": "s3",
-            "item_level_equipped": 321,
+            "item_level_equipped": 323,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -445747,7 +445775,7 @@
               },
               "chest": {
                 "item_id": 271486,
-                "item_level": 331,
+                "item_level": 334,
                 "enchant": 7987,
                 "icon": "inv_robe_mail_raidshamanulatek_d_01",
                 "name": "Fanged Raiment of the Ophidian Oracle",
@@ -445826,12 +445854,12 @@
                   13846,
                   13690,
                   13698,
-                  12853
+                  12854
                 ]
               },
               "waist": {
                 "item_id": 268216,
-                "item_level": 318,
+                "item_level": 324,
                 "icon": "inv_belt_mail_raidevokerulatek_d_01",
                 "name": "Cursed Reliquary Cincture",
                 "item_quality": 4,
@@ -445853,7 +445881,7 @@
                   13696,
                   13662,
                   13334,
-                  12849
+                  12851
                 ]
               },
               "shirt": {
@@ -446067,11 +446095,10 @@
                 ]
               },
               "finger2": {
-                "item_id": 268290,
-                "item_level": 298,
-                "enchant": 7967,
-                "icon": "inv_12_jewelry_rutaani_ring_blue",
-                "name": "Sporecaller's Blooming Loop",
+                "item_id": 281029,
+                "item_level": 318,
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -446082,31 +446109,15 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240890
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240890,
-                    "name": "16 Haste & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13668,
-                  13335,
-                  13786
+                  13334,
+                  12849
                 ]
               },
               "trinket1": {
@@ -446197,6 +446208,7 @@
               "offhand": {
                 "item_id": 237831,
                 "item_level": 331,
+                "enchant": 7528,
                 "icon": "inv_shield_1h_questbloodelf_b_01",
                 "name": "Spellbreaker's Rebuke",
                 "item_quality": 4,
@@ -446211,7 +446223,9 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
+                "enchants": [
+                  7528
+                ],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
@@ -498265,7 +498279,21 @@
           "allScoreColor": "#a1ff87"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -526731,7 +526759,21 @@
           "allScoreColor": "#e75d7f"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -547987,7 +548029,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -549419,7 +549475,21 @@
           "allScoreColor": "#347cd1"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -552157,7 +552227,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -589014,7 +589098,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -591053,7 +591151,21 @@
           "allScoreColor": "#8f49ea"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -604639,7 +604751,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -606045,7 +606171,21 @@
           "allScoreColor": "#f5fff0"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -606714,7 +606854,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -607435,7 +607589,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -615913,7 +616081,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -642543,7 +642725,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -649471,7 +649667,7 @@
           "type": "live",
           "title": "Some Delves and keys into 8/8 raid : O!nerf !ui !website !rogue !coaching !Liquid",
           "community_ids": [],
-          "viewer_count": 421,
+          "viewer_count": 530,
           "started_at": "2026-10-30T10:55:35Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -673760,7 +673956,21 @@
           "allScoreColor": "#d950a1"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -679080,7 +679290,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -737875,7 +738099,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1267058,
+          "id": "319142131173",
+          "name": "stovepov",
+          "user_id": "31890957",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> ZUGON'S TIME TO SHINE !ui !addons !exboss !tracking",
+          "community_ids": [],
+          "viewer_count": 53,
+          "started_at": "2026-10-30T13:34:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -768654,7 +768892,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T12:14:57.573Z"
+    "fetchedAt": "2026-10-30T14:10:27.164Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -799032,7 +799270,7 @@
           "type": "live",
           "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 90,
           "started_at": "2026-10-30T12:08:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -827649,7 +827887,7 @@
           "type": "live",
           "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 90,
           "started_at": "2026-10-30T12:08:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -839745,7 +839983,7 @@
           "type": "live",
           "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 90,
           "started_at": "2026-10-30T12:08:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -939823,7 +940061,7 @@
           "type": "live",
           "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 90,
           "started_at": "2026-10-30T12:08:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -940552,7 +940790,7 @@
           "type": "live",
           "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 90,
           "started_at": "2026-10-30T12:08:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -955016,7 +955254,7 @@
           "type": "live",
           "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 90,
           "started_at": "2026-10-30T12:08:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -1036044,7 +1036282,7 @@
           "type": "live",
           "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 4,
+          "viewer_count": 90,
           "started_at": "2026-10-30T12:08:52Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -1117064,6 +1117302,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T12:15:04.408Z"
+    "fetchedAt": "2026-10-30T14:10:34.912Z"
   }
 }
