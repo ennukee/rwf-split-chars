@@ -267567,7 +267567,7 @@
           "totalBosses": 1,
           "progress": {
             "normal": 0,
-            "heroic": 0,
+            "heroic": 1,
             "mythic": 0
           }
         },
@@ -385289,7 +385289,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T08:12:55.429Z"
+    "fetchedAt": "2026-10-30T10:10:00.178Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -768505,7 +768505,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T08:12:59.625Z"
+    "fetchedAt": "2026-10-30T10:10:06.871Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -823430,8 +823430,8 @@
           "thumbnail": "twisting-nether/27/188901915-avatar.jpg",
           "itemLevelEquipped": 324,
           "items": {
-            "created_at": "2026-10-27T11:23:06.364Z",
-            "updated_at": "2026-10-27T11:23:06.364Z",
+            "created_at": "2026-10-30T08:57:02.102Z",
+            "updated_at": "2026-10-30T08:57:02.102Z",
             "source": "s3",
             "item_level_equipped": 324,
             "item_level_total": 0,
@@ -823678,10 +823678,10 @@
                 "bonuses": []
               },
               "wrist": {
-                "item_id": 159300,
+                "item_id": 268240,
                 "item_level": 324,
-                "icon": "inv_bracer_leather_zandalardungeon_c_01",
-                "name": "Kula's Butchering Wristwraps",
+                "icon": "inv_misc_questionmark",
+                "name": "Restless Spirit Shackles",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -823697,11 +823697,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
                   13696,
                   13662,
-                  12699,
+                  13334,
                   12851
                 ]
               },
@@ -1116797,6 +1116796,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T08:13:03.167Z"
+    "fetchedAt": "2026-10-30T10:10:13.470Z"
   }
 }
