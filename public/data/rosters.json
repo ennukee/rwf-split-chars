@@ -229317,7 +229317,7 @@
           "type": "live",
           "title": "[DROPS] 23 farm",
           "community_ids": [],
-          "viewer_count": 111,
+          "viewer_count": 109,
           "started_at": "2026-10-30T01:33:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -385364,7 +385364,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T04:11:42.162Z"
+    "fetchedAt": "2026-10-30T06:16:44.682Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -756416,8 +756416,8 @@
           "thumbnail": "tarren-mill/152/191062680-avatar.jpg",
           "itemLevelEquipped": 311,
           "items": {
-            "created_at": "2026-10-07T11:08:01.160Z",
-            "updated_at": "2026-10-07T11:08:01.160Z",
+            "created_at": "2026-10-30T04:38:57.480Z",
+            "updated_at": "2026-10-30T04:38:57.480Z",
             "source": "s3",
             "item_level_equipped": 311,
             "item_level_total": 0,
@@ -756736,11 +756736,10 @@
                 ]
               },
               "legs": {
-                "item_id": 271545,
-                "item_level": 302,
-                "enchant": 7935,
-                "icon": "inv_pant_cloth_raidwarlockulatek_d_01",
-                "name": "Damned Necrolyte's Leg Bindings",
+                "item_id": 281235,
+                "item_level": 308,
+                "icon": "inv_pant_cloth_raidmageulatek_d_01",
+                "name": "Voidweaver's Leggings",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -756751,24 +756750,17 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7935
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 240133,
-                    "name": "41 Int & 115 Sta",
-                    "icon": "inv_tailoring_spellthread_orange_spellthread"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13693,
-                  13698,
-                  12836
+                  13662,
+                  13333,
+                  11215,
+                  14049,
+                  12838
                 ]
               },
               "feet": {
@@ -768588,7 +768580,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T04:11:49.765Z"
+    "fetchedAt": "2026-10-30T06:16:48.733Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1113893,8 +1113885,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 376.1,
+          "allScoreColor": "#f3ffed"
         },
         "rank": 5,
         "stream": null
@@ -1116880,6 +1116872,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T04:11:57.154Z"
+    "fetchedAt": "2026-10-30T06:16:53.524Z"
   }
 }
