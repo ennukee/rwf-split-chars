@@ -44811,8 +44811,8 @@
           "thumbnail": "zuljin/73/252428617-avatar.jpg",
           "itemLevelEquipped": 337,
           "items": {
-            "created_at": "2026-10-26T23:30:53.735Z",
-            "updated_at": "2026-10-26T23:30:53.735Z",
+            "created_at": "2026-10-30T10:39:03.397Z",
+            "updated_at": "2026-10-30T10:39:03.397Z",
             "source": "s3",
             "item_level_equipped": 337,
             "item_level_total": 0,
@@ -45049,7 +45049,8 @@
                   12497,
                   13751,
                   14001,
-                  12715,
+                  8960,
+                  12384,
                   8791,
                   13836
                 ]
@@ -45472,10 +45473,10 @@
                 ]
               },
               "offhand": {
-                "item_id": 245769,
-                "item_level": 337,
-                "icon": "inv_offhand_1h_dungeonharronir_c_01",
-                "name": "Aln'hara Lantern",
+                "item_id": 272275,
+                "item_level": 341,
+                "icon": "inv_offhand_1h_outdooramaniloa_c_01",
+                "name": "Soulsinger's Horn",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -45491,16 +45492,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  13852,
-                  12497,
-                  13751,
-                  14001,
-                  13771,
-                  8960,
-                  8791,
-                  13836
+                  12856
                 ]
               }
             }
@@ -192056,14 +192048,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 258,
-            "name": "Shadow",
-            "slug": "shadow",
+            "id": 257,
+            "name": "Holy",
+            "slug": "holy",
             "class_id": 5,
-            "role": "dps",
+            "role": "healer",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 2
+            "ordinal": 1
           },
           "path": "/characters/us/illidan/Xeserpya",
           "realm": {
@@ -192089,12 +192081,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/148/236140948-avatar.jpg",
-          "itemLevelEquipped": 338,
+          "itemLevelEquipped": 337,
           "items": {
-            "created_at": "2026-10-29T12:12:03.861Z",
-            "updated_at": "2026-10-29T12:12:03.861Z",
+            "created_at": "2026-10-30T10:39:03.748Z",
+            "updated_at": "2026-10-30T10:39:03.748Z",
             "source": "s3",
-            "item_level_equipped": 338,
+            "item_level_equipped": 337,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -192282,8 +192274,54 @@
                 "name": "Cosmic Penitent's Eclipsing Robes",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -192305,10 +192343,11 @@
                 ],
                 "bonuses": [
                   13335,
+                  40,
+                  12854,
                   13690,
-                  6652,
                   13698,
-                  12854
+                  1587
                 ]
               },
               "waist": {
@@ -192351,6 +192390,27 @@
                   13836,
                   13696
                 ]
+              },
+              "shirt": {
+                "item_id": 268274,
+                "item_level": 1,
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Blinky's Collar",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": []
               },
               "wrist": {
                 "item_id": 239648,
@@ -192453,11 +192513,12 @@
                   }
                 ],
                 "bonuses": [
-                  13335,
-                  13693,
                   6652,
+                  13335,
+                  12854,
+                  13693,
                   13698,
-                  12854
+                  1587
                 ]
               },
               "feet": {
@@ -192608,10 +192669,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 270169,
-                "item_level": 344,
-                "icon": "inv_archaeology_orcclans_crackedidol",
-                "name": "Hex Lord's Dooming Idol",
+                "item_id": 270162,
+                "item_level": 334,
+                "icon": "inv_121_trinket_raid_ulatek_ritualvessel",
+                "name": "Soulcoiler Ritual Vessel",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -192629,7 +192690,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  13848
+                  12854
                 ]
               },
               "mainhand": {
@@ -216705,12 +216766,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/223/236620511-avatar.jpg",
-          "itemLevelEquipped": 335,
+          "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-24T20:22:41.205Z",
-            "updated_at": "2026-10-24T20:22:41.205Z",
+            "created_at": "2026-10-30T10:39:04.860Z",
+            "updated_at": "2026-10-30T10:39:04.860Z",
             "source": "s3",
-            "item_level_equipped": 335,
+            "item_level_equipped": 336,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -217086,7 +217147,7 @@
               },
               "hands": {
                 "item_id": 271529,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 8730,
                 "icon": "inv_glove_leather_raiddruidulatek_d_01",
                 "name": "Enigmatic Dreamwatcher's Gauntlets",
@@ -217114,11 +217175,10 @@
                   }
                 ],
                 "bonuses": [
-                  12846,
-                  6652,
+                  12854,
                   13691,
                   13697,
-                  1574
+                  1587
                 ]
               },
               "legs": {
@@ -264832,8 +264892,8 @@
           "thumbnail": "illidan/21/237460501-avatar.jpg",
           "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-29T12:12:05.506Z",
-            "updated_at": "2026-10-29T12:12:05.506Z",
+            "created_at": "2026-10-30T10:39:04.599Z",
+            "updated_at": "2026-10-30T10:39:04.599Z",
             "source": "s3",
             "item_level_equipped": 338,
             "item_level_total": 0,
@@ -265365,10 +265425,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270169,
-                "item_level": 344,
-                "icon": "inv_archaeology_orcclans_crackedidol",
-                "name": "Hex Lord's Dooming Idol",
+                "item_id": 270167,
+                "item_level": 334,
+                "icon": "inv_tradeskillitem_sorcererswater",
+                "name": "Wavecaller's Seastone",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -265384,9 +265444,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  42,
+                  6652,
                   13335,
-                  13848
+                  12854
                 ]
               },
               "trinket2": {
@@ -314134,8 +314194,8 @@
           "thumbnail": "dragonblight/42/185397802-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-24T20:22:40.796Z",
-            "updated_at": "2026-10-24T20:22:40.796Z",
+            "created_at": "2026-10-30T10:39:06.187Z",
+            "updated_at": "2026-10-30T10:39:06.187Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -314233,10 +314293,10 @@
                 ]
               },
               "neck": {
-                "item_id": 240950,
-                "item_level": 331,
-                "icon": "inv_12_profession_jewelcrafting_necklace2_gold",
-                "name": "Masterwork Sin'dorei Amulet",
+                "item_id": 272229,
+                "item_level": 341,
+                "icon": "inv_121_jewelry_neck03_purple",
+                "name": "Serpentine Talisman",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -314260,13 +314320,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8791,
-                  13836
+                  13668,
+                  12856
                 ]
               },
               "shoulder": {
@@ -378219,583 +378274,6 @@
       },
       {
         "character": {
-          "id": 309793477,
-          "persona_id": 52785114,
-          "name": "Sinipop-309793477",
-          "class": {
-            "id": 5,
-            "name": "Priest",
-            "slug": "priest"
-          },
-          "race": {
-            "id": 70,
-            "name": "Dracthyr",
-            "slug": "dracthyr",
-            "faction": "horde"
-          },
-          "faction": "horde",
-          "level": 90,
-          "spec": {
-            "id": 258,
-            "name": "Shadow",
-            "slug": "shadow",
-            "class_id": 5,
-            "role": "dps",
-            "is_melee": false,
-            "patch": "1.0.0",
-            "ordinal": 2
-          },
-          "path": "/characters/us/zuljin/Sinipop-309793477",
-          "realm": {
-            "id": 491,
-            "connectedRealmId": 240,
-            "wowRealmId": 61,
-            "wowConnectedRealmId": 61,
-            "name": "Zul'jin",
-            "altName": null,
-            "slug": "zuljin",
-            "altSlug": "zuljin",
-            "locale": "en_US",
-            "isConnected": false,
-            "realmType": "live"
-          },
-          "region": {
-            "name": "United States & Oceania",
-            "slug": "us",
-            "short_name": "US"
-          },
-          "flags": {},
-          "talents": "",
-          "talentsDetails": [],
-          "gender": "female",
-          "thumbnail": "zuljin/16/266640912-avatar.jpg",
-          "itemLevelEquipped": 300,
-          "items": {
-            "created_at": "2026-10-26T23:30:52.659Z",
-            "updated_at": "2026-10-26T23:30:52.659Z",
-            "source": "s3",
-            "item_level_equipped": 300,
-            "item_level_total": 0,
-            "artifact_traits": 0,
-            "corruption": {
-              "added": 0,
-              "resisted": 0,
-              "total": 0,
-              "cloakRank": 0,
-              "spells": []
-            },
-            "items": {
-              "head": {
-                "item_id": 271555,
-                "item_level": 334,
-                "icon": "inv_helm_cloth_raidpriestulatek_d_01",
-                "name": "Cosmic Penitent's Truesight",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  null,
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13335,
-                  12854,
-                  13696,
-                  13692,
-                  13698,
-                  1587
-                ]
-              },
-              "neck": {
-                "item_id": 268265,
-                "item_level": 334,
-                "icon": "inv_121_jewelry_neck03_green",
-                "name": "Aqirbane Reliquary",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240983,
-                  240898
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
-                  },
-                  {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
-                  }
-                ],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13668,
-                  13334,
-                  13987,
-                  12854
-                ]
-              },
-              "shoulder": {
-                "item_id": 277790,
-                "item_level": 292,
-                "icon": "inv_shoulder_cloth_outdooramaniloa_c_01",
-                "name": "Venom-Cursed Dragonhawk's Wingspan",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12833,
-                  41,
-                  13662
-                ]
-              },
-              "back": {
-                "item_id": 272226,
-                "item_level": 321,
-                "icon": "inv_cape_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Shroud",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13662,
-                  12846
-                ]
-              },
-              "chest": {
-                "item_id": 271558,
-                "item_level": 321,
-                "enchant": 7987,
-                "icon": "inv_robe_cloth_raidpriestulatek_d_01",
-                "name": "Cosmic Penitent's Eclipsing Robes",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  7987
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243977,
-                    "name": "Enchant Chest - Mark of the Worldsoul",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  12846,
-                  6652,
-                  13690,
-                  13698,
-                  1574
-                ]
-              },
-              "waist": {
-                "item_id": 193691,
-                "item_level": 308,
-                "icon": "inv_belt_dragondungeon_c_01",
-                "name": "Sky Saddle Cord",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13439,
-                  6652,
-                  13696,
-                  13662,
-                  12699,
-                  12838
-                ]
-              },
-              "hands": {
-                "item_id": 271556,
-                "item_level": 334,
-                "icon": "inv_glove_cloth_raidpriestulatek_d_01",
-                "name": "Cosmic Penitent's Celestial Grips",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12854,
-                  13335,
-                  13691,
-                  6652,
-                  13697
-                ]
-              },
-              "legs": {
-                "item_id": 271554,
-                "item_level": 324,
-                "icon": "inv_pant_cloth_raidpriestulatek_d_01",
-                "name": "Enveloping Legwraps of the Cosmic Penitent",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "36",
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12851,
-                  13335,
-                  13693,
-                  6652,
-                  13698
-                ]
-              },
-              "feet": {
-                "item_id": 272232,
-                "item_level": 321,
-                "icon": "inv_boot_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Buskins",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13662,
-                  12846
-                ]
-              },
-              "finger1": {
-                "item_id": 268252,
-                "item_level": 334,
-                "enchant": 7967,
-                "icon": "inv_121_jewelry_ring03_red",
-                "name": "Apex Brute's Claw Ring",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240898
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  6652,
-                  13668,
-                  13335,
-                  12854
-                ]
-              },
-              "finger2": {
-                "item_id": 268249,
-                "item_level": 334,
-                "enchant": 7967,
-                "icon": "inv_121_jewelry_ring01_purple",
-                "name": "Vile Alchemist's Band",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240898
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  41,
-                  13668,
-                  13335,
-                  12854
-                ]
-              },
-              "trinket1": {
-                "item_id": 251792,
-                "item_level": 321,
-                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
-                "name": "Glorious Crusader's Keepsake",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  12846
-                ]
-              },
-              "trinket2": {
-                "item_id": 249346,
-                "item_level": 298,
-                "icon": "inv_12_trinket_raid_voidspire_int1_voiddragoneye",
-                "name": "Vaelgor's Final Stare",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  13335,
-                  13654
-                ]
-              },
-              "mainhand": {
-                "item_id": 245770,
-                "item_level": 318,
-                "enchant": 8039,
-                "icon": "inv_staff_2h_dungeonharronir_c_02",
-                "name": "Aln'hara Cane",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [
-                  8039
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244029,
-                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14004,
-                  13771,
-                  8960,
-                  8791,
-                  13835
-                ]
-              }
-            }
-          },
-          "expansionData": null,
-          "patronLevel": null
-        },
-        "raidProgress": {
-          "raid": {
-            "type": "raid",
-            "id": 17059,
-            "difficulty": "heroic",
-            "name": "The Unbinding of Kith'ix",
-            "short_name": "UOK",
-            "wowInstanceId": 3095,
-            "slug": "the-unbinding-of-kithix",
-            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
-            "expansion_id": 11
-          },
-          "totalBosses": 1,
-          "progress": {
-            "normal": 0,
-            "heroic": 0,
-            "mythic": 0
-          }
-        },
-        "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
-        },
-        "rank": 4,
-        "stream": null
-      },
-      {
-        "character": {
           "id": 309804535,
           "persona_id": 57824260,
           "name": "Chocolatier",
@@ -385287,9 +384765,666 @@
         },
         "rank": 1,
         "stream": null
+      },
+      {
+        "character": {
+          "id": 309839735,
+          "persona_id": 52785114,
+          "name": "Sinipop",
+          "class": {
+            "id": 5,
+            "name": "Priest",
+            "slug": "priest"
+          },
+          "race": {
+            "id": 70,
+            "name": "Dracthyr",
+            "slug": "dracthyr",
+            "faction": "horde"
+          },
+          "faction": "horde",
+          "level": 90,
+          "spec": {
+            "id": 258,
+            "name": "Shadow",
+            "slug": "shadow",
+            "class_id": 5,
+            "role": "dps",
+            "is_melee": false,
+            "patch": "1.0.0",
+            "ordinal": 2
+          },
+          "path": "/characters/us/zuljin/Sinipop",
+          "realm": {
+            "id": 491,
+            "connectedRealmId": 240,
+            "wowRealmId": 61,
+            "wowConnectedRealmId": 61,
+            "name": "Zul'jin",
+            "altName": null,
+            "slug": "zuljin",
+            "altSlug": "zuljin",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "female",
+          "thumbnail": "zuljin/16/266640912-avatar.jpg",
+          "itemLevelEquipped": 323,
+          "items": {
+            "created_at": "2026-10-30T10:39:12.190Z",
+            "updated_at": "2026-10-30T10:39:12.190Z",
+            "source": "s3",
+            "item_level_equipped": 323,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271555,
+                "item_level": 334,
+                "enchant": 8017,
+                "icon": "inv_helm_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Truesight",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13335,
+                  12854,
+                  13696,
+                  13692,
+                  13698,
+                  1587
+                ]
+              },
+              "neck": {
+                "item_id": 268265,
+                "item_level": 334,
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983,
+                  240898
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  },
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13334,
+                  13987,
+                  12854
+                ]
+              },
+              "shoulder": {
+                "item_id": 277790,
+                "item_level": 308,
+                "icon": "inv_shoulder_cloth_outdooramaniloa_c_01",
+                "name": "Venom-Cursed Dragonhawk's Wingspan",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  41,
+                  13662,
+                  12838
+                ]
+              },
+              "back": {
+                "item_id": 272226,
+                "item_level": 321,
+                "icon": "inv_cape_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Shroud",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "chest": {
+                "item_id": 271558,
+                "item_level": 321,
+                "enchant": 7987,
+                "icon": "inv_robe_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Eclipsing Robes",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12846,
+                  6652,
+                  13690,
+                  13698,
+                  1574
+                ]
+              },
+              "waist": {
+                "item_id": 193691,
+                "item_level": 308,
+                "icon": "inv_belt_dragondungeon_c_01",
+                "name": "Sky Saddle Cord",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13696,
+                  13662,
+                  12699,
+                  12838
+                ]
+              },
+              "shirt": {
+                "item_id": 268274,
+                "item_level": 1,
+                "icon": "inv_jewelry_necklace_22",
+                "name": "Blinky's Collar",
+                "item_quality": 2,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": []
+              },
+              "wrist": {
+                "item_id": 239648,
+                "item_level": 331,
+                "icon": "inv_bracer_cloth_questbloodelf_b_01",
+                "name": "Martyr's Bindings",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240898
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  13695,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8793,
+                  13836,
+                  13696
+                ]
+              },
+              "hands": {
+                "item_id": 271556,
+                "item_level": 334,
+                "icon": "inv_glove_cloth_raidpriestulatek_d_01",
+                "name": "Cosmic Penitent's Celestial Grips",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12854,
+                  13335,
+                  13691,
+                  6652,
+                  13697
+                ]
+              },
+              "legs": {
+                "item_id": 271554,
+                "item_level": 324,
+                "enchant": 7935,
+                "icon": "inv_pant_cloth_raidpriestulatek_d_01",
+                "name": "Enveloping Legwraps of the Cosmic Penitent",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7935
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 240133,
+                    "name": "41 Int & 115 Sta",
+                    "icon": "inv_tailoring_spellthread_orange_spellthread"
+                  }
+                ],
+                "bonuses": [
+                  12851,
+                  13335,
+                  13693,
+                  6652,
+                  13698
+                ]
+              },
+              "feet": {
+                "item_id": 272232,
+                "item_level": 321,
+                "icon": "inv_boot_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Buskins",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13662,
+                  12846
+                ]
+              },
+              "finger1": {
+                "item_id": 268252,
+                "item_level": 334,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring03_red",
+                "name": "Apex Brute's Claw Ring",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240898
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13335,
+                  12854
+                ]
+              },
+              "finger2": {
+                "item_id": 268249,
+                "item_level": 334,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240898
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240898,
+                    "name": "16 Mast & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  41,
+                  13668,
+                  13335,
+                  12854
+                ]
+              },
+              "trinket1": {
+                "item_id": 251792,
+                "item_level": 321,
+                "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
+                "name": "Glorious Crusader's Keepsake",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12846
+                ]
+              },
+              "trinket2": {
+                "item_id": 270169,
+                "item_level": 308,
+                "icon": "inv_archaeology_orcclans_crackedidol",
+                "name": "Hex Lord's Dooming Idol",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13333,
+                  12838
+                ]
+              },
+              "mainhand": {
+                "item_id": 245770,
+                "item_level": 318,
+                "enchant": 8039,
+                "icon": "inv_staff_2h_dungeonharronir_c_02",
+                "name": "Aln'hara Cane",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8039
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244029,
+                    "name": "Enchant Weapon - Acuity of the Ren'dorei",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14004,
+                  13771,
+                  8960,
+                  8791,
+                  13835
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 4,
+        "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T10:10:00.178Z"
+    "fetchedAt": "2026-10-30T12:14:51.227Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -649326,7 +649461,21 @@
           "allScoreColor": "#59d56c"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266789,
+          "id": "317161731414",
+          "name": "kushlul",
+          "user_id": "160256813",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Some Delves and keys into 8/8 raid : O!nerf !ui !website !rogue !coaching !Liquid",
+          "community_ids": [],
+          "viewer_count": 421,
+          "started_at": "2026-10-30T10:55:35Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -768505,7 +768654,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T10:10:06.871Z"
+    "fetchedAt": "2026-10-30T12:14:57.573Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -798873,7 +799022,21 @@
           "allScoreColor": "#78ff5b"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266904,
+          "id": "319200477286",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-30T12:08:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -823428,12 +823591,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/27/188901915-avatar.jpg",
-          "itemLevelEquipped": 324,
+          "itemLevelEquipped": 326,
           "items": {
-            "created_at": "2026-10-30T08:57:02.102Z",
-            "updated_at": "2026-10-30T08:57:02.102Z",
+            "created_at": "2026-10-30T10:30:03.560Z",
+            "updated_at": "2026-10-30T10:30:03.560Z",
             "source": "s3",
-            "item_level_equipped": 324,
+            "item_level_equipped": 326,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -823490,7 +823653,7 @@
               },
               "neck": {
                 "item_id": 268265,
-                "item_level": 321,
+                "item_level": 328,
                 "icon": "inv_121_jewelry_neck03_green",
                 "name": "Aqirbane Reliquary",
                 "item_quality": 4,
@@ -823526,7 +823689,7 @@
                   13668,
                   13334,
                   13987,
-                  12850
+                  12852
                 ]
               },
               "shoulder": {
@@ -823629,10 +823792,10 @@
                 ]
               },
               "waist": {
-                "item_id": 271436,
-                "item_level": 321,
-                "icon": "inv_belt_leather_raiddemonhunterulatek_d_01",
-                "name": "Slitherscale Girdle",
+                "item_id": 244573,
+                "item_level": 331,
+                "icon": "inv_belt_leather_questbloodelf_b_01",
+                "name": "Silvermoon Agent's Utility Belt",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -823648,12 +823811,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13696,
-                  13662,
-                  13334,
-                  10844,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8793,
+                  13836,
+                  13696
                 ]
               },
               "shirt": {
@@ -823948,11 +824115,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 245770,
-                "item_level": 331,
+                "item_id": 271092,
+                "item_level": 341,
                 "enchant": 8039,
-                "icon": "inv_staff_2h_dungeonharronir_c_02",
-                "name": "Aln'hara Cane",
+                "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
+                "name": "Jan'thrazet, the Soul Fang",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -823976,15 +824143,32 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14004,
-                  13771,
-                  8960,
-                  8793,
-                  13836
+                  6652,
+                  13334,
+                  12856
+                ]
+              },
+              "offhand": {
+                "item_id": 272275,
+                "item_level": 334,
+                "icon": "inv_offhand_1h_outdooramaniloa_c_01",
+                "name": "Soulsinger's Horn",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12854
                 ]
               }
             }
@@ -827455,7 +827639,21 @@
           "allScoreColor": "#4283c8"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266904,
+          "id": "319200477286",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-30T12:08:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -839537,7 +839735,21 @@
           "allScoreColor": "#de5596"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266904,
+          "id": "319200477286",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-30T12:08:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -939601,7 +939813,21 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266904,
+          "id": "319200477286",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-30T12:08:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -940316,7 +940542,21 @@
           "allScoreColor": "#4787c4"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266904,
+          "id": "319200477286",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-30T12:08:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -954766,7 +955006,21 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266904,
+          "id": "319200477286",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-30T12:08:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1035780,7 +1036034,21 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1266904,
+          "id": "319200477286",
+          "name": "sjeletyven1",
+          "user_id": "95473492",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROPS] SJELEMENTAL +23/24 Keys <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "community_ids": [],
+          "viewer_count": 4,
+          "started_at": "2026-10-30T12:08:52Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1116796,6 +1117064,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-30T10:10:13.470Z"
+    "fetchedAt": "2026-10-30T12:15:04.408Z"
   }
 }
