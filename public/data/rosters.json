@@ -26544,21 +26544,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1269154,
-          "id": "322196981979",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) member when i didnt work 80 hrs a week",
-          "community_ids": [],
-          "viewer_count": 4,
-          "started_at": "2026-10-31T00:58:18Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -132246,21 +132232,7 @@
           "allScoreColor": "#5565e2"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1269154,
-          "id": "322196981979",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) member when i didnt work 80 hrs a week",
-          "community_ids": [],
-          "viewer_count": 4,
-          "started_at": "2026-10-31T00:58:18Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -162725,21 +162697,7 @@
           "allScoreColor": "#ca46bc"
         },
         "rank": 8,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1269154,
-          "id": "322196981979",
-          "name": "partypetee",
-          "user_id": "73351540",
-          "game_id": "18122",
-          "type": "live",
-          "title": "(liquid inhouse crafter) member when i didnt work 80 hrs a week",
-          "community_ids": [],
-          "viewer_count": 4,
-          "started_at": "2026-10-31T00:58:18Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -385550,7 +385508,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T06:12:54.882Z"
+    "fetchedAt": "2026-10-31T08:10:27.374Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -542166,12 +542124,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/28/194401052-avatar.jpg",
-          "itemLevelEquipped": 296,
+          "itemLevelEquipped": 301,
           "items": {
-            "created_at": "2026-10-04T17:51:42.092Z",
-            "updated_at": "2026-10-04T17:51:42.092Z",
+            "created_at": "2026-10-31T06:38:03.452Z",
+            "updated_at": "2026-10-31T06:38:03.452Z",
             "source": "s3",
-            "item_level_equipped": 296,
+            "item_level_equipped": 301,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -542184,7 +542142,7 @@
             "items": {
               "head": {
                 "item_id": 271537,
-                "item_level": 315,
+                "item_level": 321,
                 "icon": "inv_helm_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Relentless Stare",
                 "item_quality": 4,
@@ -542192,7 +542150,17 @@
                 "is_azerite_armor": true,
                 "azerite_powers": [
                   null,
-                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
                   {
                     "id": 580,
                     "spell": {
@@ -542231,19 +542199,18 @@
                 "bonuses": [
                   13334,
                   6652,
-                  12844,
                   13696,
                   13847,
                   13692,
                   13698,
-                  1568
+                  12846
                 ]
               },
               "neck": {
-                "item_id": 249368,
-                "item_level": 289,
-                "icon": "inv_12_jewelry_silvermoonelf_necklace_blue1",
-                "name": "Eternal Voidsong Chain",
+                "item_id": 275531,
+                "item_level": 298,
+                "icon": "inv_121_jewelry_neck03_orange",
+                "name": "Preyhunter's Choker",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -542254,28 +542221,19 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240983
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13668,
-                  13335,
-                  12806
+                  12835
                 ]
               },
               "shoulder": {
                 "item_id": 271535,
-                "item_level": 302,
+                "item_level": 308,
                 "enchant": 8001,
                 "icon": "inv_shoulder_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Jaws",
@@ -542306,14 +542264,14 @@
                   6652,
                   13694,
                   13697,
-                  12836
+                  12838
                 ]
               },
               "back": {
-                "item_id": 239656,
-                "item_level": 285,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
+                "item_id": 275524,
+                "item_level": 292,
+                "icon": "inv_cape_mail_outdooramaniloa_c_01",
+                "name": "Preyhunter's Rugged Stole",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -542329,14 +542287,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  12066,
-                  8960,
-                  12384,
-                  8793,
-                  13622
+                  12833,
+                  6652,
+                  13662
                 ]
               },
               "chest": {
@@ -542404,10 +542357,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 244576,
-                "item_level": 285,
-                "icon": "inv_bracer_leather_questbloodelf_b_01",
-                "name": "Silvermoon Agent's Deflectors",
+                "item_id": 275512,
+                "item_level": 292,
+                "icon": "inv_bracer_leather_outdooramaniloa_c_01",
+                "name": "Preyhunter's Sleek Armlets",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -542418,56 +542371,41 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240892
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240892,
-                    "name": "16 Haste & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
-                  }
-                ],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  12066,
-                  8960,
-                  12384,
-                  8793,
-                  13622,
-                  12666
-                ]
-              },
-              "hands": {
-                "item_id": 250034,
-                "item_level": 289,
-                "icon": "inv_glove_leather_raiddemonhuntermidnight_d_01",
-                "name": "Devouring Reaver's Essence Grips",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "tier": "35",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13335,
-                  13337,
+                  12833,
                   6652,
-                  13574,
-                  12806
+                  13696,
+                  13662
+                ]
+              },
+              "hands": {
+                "item_id": 272241,
+                "item_level": 292,
+                "icon": "inv_glove_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Grips",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12833,
+                  6652,
+                  11215,
+                  13662
                 ]
               },
               "legs": {
@@ -542542,11 +542480,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 249369,
-                "item_level": 289,
+                "item_id": 281029,
+                "item_level": 321,
                 "enchant": 7967,
-                "icon": "inv_12_jewelry_silvermoonelf_ring_blue1",
-                "name": "Bond of Light",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -542558,13 +542496,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240892
+                  240906
                 ],
                 "gems_detail": [
                   {
-                    "id": 240892,
-                    "name": "16 Haste & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
                   }
                 ],
                 "enchants": [
@@ -542580,8 +542518,9 @@
                 "bonuses": [
                   6652,
                   13668,
-                  13335,
-                  12806
+                  13334,
+                  11215,
+                  12846
                 ]
               },
               "finger2": {
@@ -542653,10 +542592,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 249343,
-                "item_level": 298,
-                "icon": "inv_12_trinket_raid_dreamrift_gazeofthealnseer",
-                "name": "Gaze of the Alnseer",
+                "item_id": 281215,
+                "item_level": 302,
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -542673,8 +542612,9 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13335,
-                  13654
+                  13333,
+                  11215,
+                  12836
                 ]
               },
               "mainhand": {
@@ -771147,7 +771087,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T06:13:00.637Z"
+    "fetchedAt": "2026-10-31T08:10:35.945Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1121300,6 +1121240,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T06:13:05.551Z"
+    "fetchedAt": "2026-10-31T08:10:40.217Z"
   }
 }
