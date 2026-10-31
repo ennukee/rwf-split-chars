@@ -16634,8 +16634,8 @@
           "thumbnail": "illidan/131/218811523-avatar.jpg",
           "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-10-30T18:26:05.830Z",
-            "updated_at": "2026-10-30T18:26:05.830Z",
+            "created_at": "2026-10-31T05:29:17.051Z",
+            "updated_at": "2026-10-31T05:29:17.051Z",
             "source": "s3",
             "item_level_equipped": 331,
             "item_level_total": 0,
@@ -16658,17 +16658,7 @@
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
+                  null,
                   {
                     "id": 580,
                     "spell": {
@@ -16726,6 +16716,7 @@
                 "bonuses": [
                   13334,
                   6652,
+                  13846,
                   13696,
                   13692,
                   13698,
@@ -16879,7 +16870,7 @@
               },
               "chest": {
                 "item_id": 271567,
-                "item_level": 331,
+                "item_level": 334,
                 "enchant": 7987,
                 "icon": "inv_robe_cloth_raidmageulatek_d_01",
                 "name": "Crest of the Primal Leywarden",
@@ -16909,7 +16900,7 @@
                 "bonuses": [
                   13690,
                   13698,
-                  12853
+                  12854
                 ]
               },
               "waist": {
@@ -26563,7 +26554,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) member when i didnt work 80 hrs a week",
           "community_ids": [],
-          "viewer_count": 3,
+          "viewer_count": 4,
           "started_at": "2026-10-31T00:58:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -132265,7 +132256,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) member when i didnt work 80 hrs a week",
           "community_ids": [],
-          "viewer_count": 3,
+          "viewer_count": 4,
           "started_at": "2026-10-31T00:58:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -162744,7 +162735,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) member when i didnt work 80 hrs a week",
           "community_ids": [],
-          "viewer_count": 3,
+          "viewer_count": 4,
           "started_at": "2026-10-31T00:58:18Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -385559,7 +385550,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T04:10:09.751Z"
+    "fetchedAt": "2026-10-31T06:12:54.882Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -771156,7 +771147,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T04:10:18.522Z"
+    "fetchedAt": "2026-10-31T06:13:00.637Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1121309,6 +1121300,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T04:10:23.571Z"
+    "fetchedAt": "2026-10-31T06:13:05.551Z"
   }
 }
