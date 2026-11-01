@@ -56524,21 +56524,7 @@
           "allScoreColor": "#50e159"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -73082,21 +73068,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -75782,21 +75754,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -95738,14 +95696,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 270,
-            "name": "Mistweaver",
-            "slug": "mistweaver",
+            "id": 268,
+            "name": "Brewmaster",
+            "slug": "brewmaster",
             "class_id": 10,
-            "role": "healer",
-            "is_melee": false,
+            "role": "tank",
+            "is_melee": true,
             "patch": "5.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/us/illidan/Glaxop",
           "realm": {
@@ -95771,12 +95729,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/65/231986753-avatar.jpg",
-          "itemLevelEquipped": 319,
+          "itemLevelEquipped": 323,
           "items": {
-            "created_at": "2026-10-29T03:55:06.903Z",
-            "updated_at": "2026-10-29T03:55:06.903Z",
+            "created_at": "2026-11-01T00:11:18.621Z",
+            "updated_at": "2026-11-01T00:11:18.621Z",
             "source": "s3",
-            "item_level_equipped": 319,
+            "item_level_equipped": 323,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -95788,94 +95746,36 @@
             },
             "items": {
               "head": {
-                "item_id": 271519,
-                "item_level": 308,
-                "enchant": 7961,
-                "icon": "inv_helm_leather_raidmonkulatek_d_01",
-                "name": "Monkey King's Unyielding Visage",
+                "item_id": 272242,
+                "item_level": 321,
+                "icon": "inv_helm_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Cowl",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7961
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243951,
-                    "name": "Enchant Helm - Empowered Hex of Leeching",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13439,
                   13696,
-                  13692,
-                  13698,
-                  12838
+                  13662,
+                  12846
                 ]
               },
               "neck": {
-                "item_id": 273781,
-                "item_level": 308,
-                "icon": "inv_121_jewelry_neck03_teal",
-                "name": "Strand of Warding Fangs",
+                "item_id": 272229,
+                "item_level": 321,
+                "icon": "inv_121_jewelry_neck03_purple",
+                "name": "Serpentine Talisman",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -95899,19 +95799,16 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13439,
-                  6652,
+                  41,
                   13668,
-                  12699,
-                  12838
+                  12846
                 ]
               },
               "shoulder": {
-                "item_id": 272244,
-                "item_level": 321,
-                "enchant": 8031,
-                "icon": "inv_shoulder_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Spaulders",
+                "item_id": 271517,
+                "item_level": 334,
+                "icon": "inv_shoulder_leather_raidmonkulatek_d_01",
+                "name": "Tassels of the Monkey King",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -95922,22 +95819,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8031
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 244021,
-                    "name": "Enchant Shoulders - Silvermoon's Mending",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13662,
-                  12846
+                  12854,
+                  13694,
+                  13697,
+                  1587
                 ]
               },
               "back": {
@@ -96245,7 +96136,7 @@
               },
               "trinket1": {
                 "item_id": 251792,
-                "item_level": 298,
+                "item_level": 321,
                 "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
                 "name": "Glorious Crusader's Keepsake",
                 "item_quality": 4,
@@ -96264,7 +96155,7 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12835
+                  12846
                 ]
               },
               "trinket2": {
@@ -101007,21 +100898,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -146022,21 +145899,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -146644,21 +146507,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -173225,21 +173074,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -190009,21 +189844,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -217426,21 +217247,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -273936,21 +273743,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -274616,21 +274409,7 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -275319,21 +275098,7 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -292779,21 +292544,7 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271871,
-          "id": "318503863256",
-          "name": "imfiredup",
-          "user_id": "44923106",
-          "game_id": "18122",
-          "type": "live",
-          "title": "SLEEPY BEAR SLEEPY STREAM #HelixPartner !helix",
-          "community_ids": [],
-          "viewer_count": 205,
-          "started_at": "2026-10-31T21:09:27Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -386283,7 +386034,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T22:07:33.207Z"
+    "fetchedAt": "2026-11-01T00:28:14.113Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -443119,7 +442870,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 3894.1,
+          "allScore": 3895.2,
           "allScoreColor": "#e75d7f"
         },
         "rank": 6,
@@ -666993,21 +666744,7 @@
           "allScoreColor": "#d7ffc7"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -667684,21 +667421,7 @@
           "allScoreColor": "#bdffa6"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -669707,21 +669430,7 @@
           "allScoreColor": "#7bff5e"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -670308,21 +670017,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -671795,21 +671490,7 @@
           "allScoreColor": "#f6714a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -672498,21 +672179,7 @@
           "allScoreColor": "#d7ffc7"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -674777,21 +674444,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -686174,21 +685827,7 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -702187,21 +701826,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -702841,21 +702466,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -703522,21 +703133,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -705014,25 +704611,11 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4300.7,
+          "allScore": 4302.3,
           "allScoreColor": "#ff8000"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -715309,21 +714892,7 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -715962,21 +715531,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -716738,21 +716293,7 @@
           "allScoreColor": "#9d3ded"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -717457,21 +716998,7 @@
           "allScoreColor": "#f5fff0"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -721618,21 +721145,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -729148,21 +728661,7 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271202,
-          "id": "319025918695",
-          "name": "hearthjacks",
-          "user_id": "147588219",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Echo> Keys",
-          "community_ids": [],
-          "viewer_count": 122,
-          "started_at": "2026-10-31T17:53:33Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -754992,7 +754491,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4029.3,
+          "allScore": 4043.3,
           "allScoreColor": "#f26a5d"
         },
         "rank": 6,
@@ -772087,7 +771586,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T22:07:36.715Z"
+    "fetchedAt": "2026-11-01T00:28:17.969Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -802454,21 +801953,7 @@
           "allScoreColor": "#78ff5b"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1270078,
-          "id": "319152427109",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Ret Mythic Raid <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 106,
-          "started_at": "2026-10-31T10:05:47Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -831071,21 +830556,7 @@
           "allScoreColor": "#4283c8"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1270078,
-          "id": "319152427109",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Ret Mythic Raid <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 106,
-          "started_at": "2026-10-31T10:05:47Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -843167,21 +842638,7 @@
           "allScoreColor": "#de5596"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1270078,
-          "id": "319152427109",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Ret Mythic Raid <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 106,
-          "started_at": "2026-10-31T10:05:47Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -925155,21 +924612,7 @@
           "allScoreColor": "#ee6669"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271248,
-          "id": "319157349349",
-          "name": "jawalehutt",
-          "user_id": "487507221",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Hpal high keys / No rogue day 210",
-          "community_ids": [],
-          "viewer_count": 16,
-          "started_at": "2026-10-31T18:02:39Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -932846,21 +932289,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271248,
-          "id": "319157349349",
-          "name": "jawalehutt",
-          "user_id": "487507221",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Hpal high keys / No rogue day 210",
-          "community_ids": [],
-          "viewer_count": 16,
-          "started_at": "2026-10-31T18:02:39Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -934184,21 +933613,7 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271248,
-          "id": "319157349349",
-          "name": "jawalehutt",
-          "user_id": "487507221",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Hpal high keys / No rogue day 210",
-          "community_ids": [],
-          "viewer_count": 16,
-          "started_at": "2026-10-31T18:02:39Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -943311,21 +942726,7 @@
           "allScoreColor": "#ff8000"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1270078,
-          "id": "319152427109",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Ret Mythic Raid <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 106,
-          "started_at": "2026-10-31T10:05:47Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -944040,21 +943441,7 @@
           "allScoreColor": "#4787c4"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1270078,
-          "id": "319152427109",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Ret Mythic Raid <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 106,
-          "started_at": "2026-10-31T10:05:47Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -958504,21 +957891,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1270078,
-          "id": "319152427109",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Ret Mythic Raid <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 106,
-          "started_at": "2026-10-31T10:05:47Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1039524,21 +1038897,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1270078,
-          "id": "319152427109",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Ret Mythic Raid <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 106,
-          "started_at": "2026-10-31T10:05:47Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1040285,21 +1039644,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271248,
-          "id": "319157349349",
-          "name": "jawalehutt",
-          "user_id": "487507221",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Hpal high keys / No rogue day 210",
-          "community_ids": [],
-          "viewer_count": 16,
-          "started_at": "2026-10-31T18:02:39Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1086170,21 +1085515,7 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271248,
-          "id": "319157349349",
-          "name": "jawalehutt",
-          "user_id": "487507221",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Hpal high keys / No rogue day 210",
-          "community_ids": [],
-          "viewer_count": 16,
-          "started_at": "2026-10-31T18:02:39Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1090348,25 +1089679,11 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4300.7,
+          "allScore": 4302.3,
           "allScoreColor": "#ff8000"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1271248,
-          "id": "319157349349",
-          "name": "jawalehutt",
-          "user_id": "487507221",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Hpal high keys / No rogue day 210",
-          "community_ids": [],
-          "viewer_count": 16,
-          "started_at": "2026-10-31T18:02:39Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1122461,6 +1121778,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-10-31T22:07:40.769Z"
+    "fetchedAt": "2026-11-01T00:28:25.589Z"
   }
 }
