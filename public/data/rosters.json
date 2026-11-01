@@ -386042,7 +386042,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-01T06:14:18.215Z"
+    "fetchedAt": "2026-11-01T08:10:43.203Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -440120,14 +440120,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 66,
-            "name": "Protection",
-            "slug": "protection",
+            "id": 70,
+            "name": "Retribution",
+            "slug": "retribution",
             "class_id": 2,
-            "role": "tank",
+            "role": "dps",
             "is_melee": true,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 2
           },
           "path": "/characters/eu/tarren-mill/Swagpld",
           "realm": {
@@ -440153,12 +440153,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/96/184047712-avatar.jpg",
-          "itemLevelEquipped": 301,
+          "itemLevelEquipped": 299,
           "items": {
-            "created_at": "2026-10-28T02:11:05.971Z",
-            "updated_at": "2026-10-28T02:11:05.971Z",
+            "created_at": "2026-11-01T07:39:10.465Z",
+            "updated_at": "2026-11-01T07:39:10.465Z",
             "source": "s3",
-            "item_level_equipped": 301,
+            "item_level_equipped": 299,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -440253,10 +440253,10 @@
                 ]
               },
               "neck": {
-                "item_id": 272228,
-                "item_level": 295,
-                "icon": "inv_121_jewelry_neck02_purple",
-                "name": "Whispering Periapt",
+                "item_id": 272229,
+                "item_level": 305,
+                "icon": "inv_121_jewelry_neck03_purple",
+                "name": "Serpentine Talisman",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -440267,21 +440267,13 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240916
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240916,
-                    "name": "16 Vers & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_blue"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
-                  40,
+                  12841,
+                  6652,
                   13668
                 ]
               },
@@ -440519,8 +440511,7 @@
               },
               "finger1": {
                 "item_id": 272149,
-                "item_level": 295,
-                "enchant": 7967,
+                "item_level": 305,
                 "icon": "inv_121_jewelry_ring02_purple",
                 "name": "Hex Loop",
                 "item_quality": 4,
@@ -440533,28 +440524,12 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240983
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240983,
-                    "name": "32 Primary",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12834,
+                  12841,
                   6652,
                   13668
                 ]
@@ -440604,10 +440579,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 193762,
-                "item_level": 292,
-                "icon": "inv_10_dungeonjewelry_primalist_trinket_2_fire",
-                "name": "Blazebinder's Hoof",
+                "item_id": 274493,
+                "item_level": 305,
+                "icon": "ability_fomor_boss_rune_green",
+                "name": "Effigy of Ula'tek's Faithful",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -440623,10 +440598,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12833,
-                  13439,
-                  6652,
-                  12699
+                  12841,
+                  41
                 ]
               },
               "trinket2": {
@@ -440655,11 +440628,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 272267,
-                "item_level": 321,
+                "item_id": 272280,
+                "item_level": 292,
                 "enchant": 8689,
-                "icon": "inv_axe_1h_outdooramaniloa_c_01",
-                "name": "Unconfined Labrys",
+                "icon": "inv_axe_2h_outdooramaniloa_c_01",
+                "name": "Exhumed Soul-Cleaver",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -440683,32 +440656,9 @@
                   }
                 ],
                 "bonuses": [
+                  12833,
                   6652,
-                  12846
-                ]
-              },
-              "offhand": {
-                "item_id": 272276,
-                "item_level": 321,
-                "icon": "inv_shield_1h_outdooramaniloa_c_01",
-                "name": "Wailing Bulwark",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  6652,
-                  12846
+                  11215
                 ]
               }
             }
@@ -458403,14 +458353,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 252,
-            "name": "Unholy",
-            "slug": "unholy",
+            "id": 250,
+            "name": "Blood",
+            "slug": "blood",
             "class_id": 6,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "3.0.0",
-            "ordinal": 2
+            "ordinal": 0
           },
           "path": "/characters/eu/tarren-mill/Verbraidbuff",
           "realm": {
@@ -458436,12 +458386,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/148/186885268-avatar.jpg",
-          "itemLevelEquipped": 299,
+          "itemLevelEquipped": 312,
           "items": {
-            "created_at": "2026-10-22T14:36:42.964Z",
-            "updated_at": "2026-10-22T14:36:42.964Z",
+            "created_at": "2026-11-01T06:31:24.423Z",
+            "updated_at": "2026-11-01T06:31:24.423Z",
             "source": "s3",
-            "item_level_equipped": 299,
+            "item_level_equipped": 312,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -458453,29 +458403,87 @@
             },
             "items": {
               "head": {
-                "item_id": 272258,
+                "item_id": 271474,
                 "item_level": 295,
-                "icon": "inv_helm_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Mask",
+                "enchant": 8017,
+                "icon": "inv_helm_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Casque",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12834,
                   6652,
                   13696,
-                  13662
+                  12834,
+                  13692,
+                  13698,
+                  1548
                 ]
               },
               "neck": {
@@ -458493,8 +458501,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -458504,10 +458520,11 @@
                 ]
               },
               "shoulder": {
-                "item_id": 272260,
-                "item_level": 305,
-                "icon": "inv_shoulder_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Pauldrons",
+                "item_id": 271472,
+                "item_level": 321,
+                "enchant": 8001,
+                "icon": "inv_shoulder_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Gibbets",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458518,21 +458535,32 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12841,
+                  12846,
                   6652,
-                  13662
+                  13694,
+                  13697,
+                  1574
                 ]
               },
               "back": {
-                "item_id": 239656,
-                "item_level": 285,
-                "icon": "inv_cape_cloth_questbloodelf_b_01",
-                "name": "Adherent's Silken Shroud",
+                "item_id": 272225,
+                "item_level": 321,
+                "icon": "inv_cape_cloth_outdooramaniloa_c_01",
+                "name": "Pyrewalker's Mantle",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458548,19 +458576,15 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  12066,
-                  8960,
-                  12384,
-                  8791,
-                  13622
+                  6652,
+                  13662,
+                  12846
                 ]
               },
               "chest": {
                 "item_id": 272255,
                 "item_level": 295,
+                "enchant": 7987,
                 "icon": "inv_chest_plate_outdooramaniloa_c_01",
                 "name": "Pledgebearer's Cuirass",
                 "item_quality": 4,
@@ -458575,8 +458599,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   12834,
                   6652,
@@ -458584,10 +458616,10 @@
                 ]
               },
               "waist": {
-                "item_id": 268289,
-                "item_level": 298,
-                "icon": "inv_belt_plate_raidpaladinmidnight_d_01",
-                "name": "Girdle of Devouring Rot",
+                "item_id": 275489,
+                "item_level": 321,
+                "icon": "inv_belt_plate_outdooramaniloa_c_01",
+                "name": "Preyhunter's Polished Greatbelt",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458599,23 +458631,22 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240908
+                  240890
                 ],
                 "gems_detail": [
                   {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
                   }
                 ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13577,
-                  13335,
-                  13786,
-                  13534
+                  13695,
+                  13662,
+                  12846
                 ]
               },
               "wrist": {
@@ -458644,10 +458675,10 @@
                 ]
               },
               "hands": {
-                "item_id": 275491,
-                "item_level": 292,
-                "icon": "inv_glove_plate_outdooramaniloa_c_01",
-                "name": "Preyhunter's Polished Handguards",
+                "item_id": 271475,
+                "item_level": 321,
+                "icon": "inv_glove_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Deathgrips",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458658,21 +458689,24 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12833,
-                  6652,
-                  13662
+                  12850,
+                  13691,
+                  13697,
+                  1574
                 ]
               },
               "legs": {
-                "item_id": 272259,
-                "item_level": 295,
-                "icon": "inv_pant_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Poleyns",
+                "item_id": 271473,
+                "item_level": 321,
+                "enchant": 8159,
+                "icon": "inv_pant_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Greaves",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458683,14 +458717,24 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  8159
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244641,
+                    "name": "41 Agi/Str & 115 Sta",
+                    "icon": "inv_12_profession_leatherworking_amani_armor_kit"
+                  }
+                ],
                 "bonuses": [
-                  12834,
-                  6652,
-                  13662
+                  12846,
+                  13693,
+                  13698,
+                  1574
                 ]
               },
               "feet": {
@@ -458730,7 +458774,8 @@
               },
               "finger1": {
                 "item_id": 272148,
-                "item_level": 305,
+                "item_level": 321,
+                "enchant": 7967,
                 "icon": "inv_121_jewelry_ring03_purple",
                 "name": "Anguine Gyre",
                 "item_quality": 4,
@@ -458743,21 +458788,38 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12841,
                   6652,
-                  13668
+                  13668,
+                  12846
                 ]
               },
               "finger2": {
-                "item_id": 272150,
-                "item_level": 295,
-                "icon": "inv_jewelry_ring_181",
-                "name": "Ouroboric Signet",
+                "item_id": 275529,
+                "item_level": 321,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring01_green",
+                "name": "Preyhunter's Circle",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458768,21 +458830,37 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "gems": [
+                  240906
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
-                  12834,
                   6652,
-                  13668
+                  13668,
+                  12846
                 ]
               },
               "trinket1": {
-                "item_id": 249344,
-                "item_level": 289,
-                "icon": "inv_12_trinket_raid_voidspire_physdps1_armyoflightbanner",
-                "name": "Light Company Guidon",
+                "item_id": 250215,
+                "item_level": 311,
+                "icon": "inv_alchemy_90_flask_red",
+                "name": "Freightrunner's Flask",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458798,16 +458876,17 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  41,
-                  13335,
-                  12806
+                  12843,
+                  13440,
+                  42,
+                  12699
                 ]
               },
               "trinket2": {
-                "item_id": 268292,
-                "item_level": 298,
-                "icon": "inv_1207_fungarianraid_trinket",
-                "name": "Sporelord's Mycelial Insignia",
+                "item_id": 270173,
+                "item_level": 318,
+                "icon": "inv_121_trinket_raid_ulatek_trolltablet",
+                "name": "Zul'jin's Guillotine Technique",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -458824,13 +458903,14 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13335,
-                  13786
+                  13334,
+                  12849
                 ]
               },
               "mainhand": {
                 "item_id": 268213,
                 "item_level": 321,
+                "enchant": 6241,
                 "icon": "inv_axe_2h_ulatek_d_01",
                 "name": "Maze-roa, Warlord's Fury",
                 "item_quality": 4,
@@ -458845,7 +458925,9 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
+                "enchants": [
+                  6241
+                ],
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
@@ -458878,8 +458960,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 670,
-          "allScoreColor": "#dfffd2"
+          "allScore": 1400,
+          "allScoreColor": "#9fff84"
         },
         "rank": 4,
         "stream": null
@@ -771594,7 +771676,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-01T06:14:22.065Z"
+    "fetchedAt": "2026-11-01T08:10:47.996Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1121791,6 +1121873,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-01T06:14:25.354Z"
+    "fetchedAt": "2026-11-01T08:10:50.887Z"
   }
 }
