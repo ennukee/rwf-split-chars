@@ -329504,12 +329504,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/125/238106493-avatar.jpg",
-          "itemLevelEquipped": 328,
+          "itemLevelEquipped": 329,
           "items": {
-            "created_at": "2026-10-26T23:30:23.016Z",
-            "updated_at": "2026-10-26T23:30:23.016Z",
+            "created_at": "2026-11-01T15:33:22.128Z",
+            "updated_at": "2026-11-01T15:33:22.128Z",
             "source": "s3",
-            "item_level_equipped": 328,
+            "item_level_equipped": 329,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -329896,48 +329896,6 @@
                 ]
               },
               "finger1": {
-                "item_id": 272148,
-                "item_level": 321,
-                "enchant": 7967,
-                "icon": "inv_121_jewelry_ring03_purple",
-                "name": "Anguine Gyre",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [
-                  240908
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
-                "bonuses": [
-                  6652,
-                  13668,
-                  12846
-                ]
-              },
-              "finger2": {
                 "item_id": 240949,
                 "item_level": 331,
                 "enchant": 7967,
@@ -329981,6 +329939,47 @@
                   14001,
                   8791,
                   13836
+                ]
+              },
+              "finger2": {
+                "item_id": 272149,
+                "item_level": 334,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13668,
+                  12854
                 ]
               },
               "trinket1": {
@@ -387382,7 +387381,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-01T14:08:02.525Z"
+    "fetchedAt": "2026-11-01T16:08:31.253Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -668167,7 +668166,21 @@
           "allScoreColor": "#d7ffc7"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -668844,7 +668857,21 @@
           "allScoreColor": "#bdffa6"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -670853,7 +670880,21 @@
           "allScoreColor": "#7bff5e"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -671440,7 +671481,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -672913,7 +672968,21 @@
           "allScoreColor": "#f6714a"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -673602,7 +673671,21 @@
           "allScoreColor": "#d7ffc7"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -675867,7 +675950,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -687250,7 +687347,21 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -703249,7 +703360,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -703889,7 +704014,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -704556,7 +704695,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -706034,11 +706187,25 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4302.3,
+          "allScore": 4302.9,
           "allScoreColor": "#ff8000"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -716315,7 +716482,21 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -716954,7 +717135,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -717716,7 +717911,21 @@
           "allScoreColor": "#9d3ded"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -718421,7 +718630,21 @@
           "allScoreColor": "#f5fff0"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -722568,7 +722791,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -730084,7 +730321,21 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273797,
+          "id": "319037431655",
+          "name": "hearthjacks",
+          "user_id": "147588219",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Echo> Keys",
+          "community_ids": [],
+          "viewer_count": 180,
+          "started_at": "2026-11-01T14:15:49Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -773009,7 +773260,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-01T14:08:07.863Z"
+    "fetchedAt": "2026-11-01T16:08:36.930Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -796043,21 +796294,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -809162,8 +809399,8 @@
           "thumbnail": "twisting-nether/101/187520101-avatar.jpg",
           "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-10-28T11:24:10.300Z",
-            "updated_at": "2026-10-28T11:24:10.300Z",
+            "created_at": "2026-11-01T14:14:22.281Z",
+            "updated_at": "2026-11-01T14:14:22.281Z",
             "source": "s3",
             "item_level_equipped": 335,
             "item_level_total": 0,
@@ -809243,7 +809480,7 @@
               },
               "neck": {
                 "item_id": 268265,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_121_jewelry_neck03_green",
                 "name": "Aqirbane Reliquary",
                 "item_quality": 4,
@@ -809279,7 +809516,7 @@
                   13668,
                   13334,
                   13987,
-                  12854
+                  12856
                 ]
               },
               "shoulder": {
@@ -833352,21 +833589,7 @@
           "allScoreColor": "#a4ff89"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -862421,21 +862644,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -863856,21 +864065,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -866832,21 +867027,7 @@
           "allScoreColor": "#9cff81"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -926208,7 +926389,21 @@
           "allScoreColor": "#ee6669"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273808,
+          "id": "319037477223",
+          "name": "jawalehutt",
+          "user_id": "487507221",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Hpal resil 35 | god comp day 1010",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-11-01T14:19:07Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -934012,7 +934207,21 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273808,
+          "id": "319037477223",
+          "name": "jawalehutt",
+          "user_id": "487507221",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Hpal resil 35 | god comp day 1010",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-11-01T14:19:07Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -935401,7 +935610,21 @@
           "allScoreColor": "#9aff7e"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273808,
+          "id": "319037477223",
+          "name": "jawalehutt",
+          "user_id": "487507221",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Hpal resil 35 | god comp day 1010",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-11-01T14:19:07Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -949499,21 +949722,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -957073,21 +957282,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -957784,21 +957979,7 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -958474,21 +958655,7 @@
           "allScoreColor": "#97ff7c"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -979677,21 +979844,7 @@
           "allScoreColor": "#ddffcf"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -980475,21 +980628,7 @@
           "allScoreColor": "#f5fff0"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -983948,21 +984087,7 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -984688,21 +984813,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -993798,21 +993909,7 @@
           "allScoreColor": "#7bff5e"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1018001,21 +1018098,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1273458,
-          "id": "318199544036",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "FIRST RAID NEW GUILD. !RWF <Method> !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 677,
-          "started_at": "2026-11-01T11:19:21Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1041663,7 +1041746,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273808,
+          "id": "319037477223",
+          "name": "jawalehutt",
+          "user_id": "487507221",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Hpal resil 35 | god comp day 1010",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-11-01T14:19:07Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1087531,7 +1087628,21 @@
           "allScoreColor": "#a6ff8c"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273808,
+          "id": "319037477223",
+          "name": "jawalehutt",
+          "user_id": "487507221",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Hpal resil 35 | god comp day 1010",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-11-01T14:19:07Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1091707,11 +1091818,25 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4302.3,
+          "allScore": 4302.9,
           "allScoreColor": "#ff8000"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1273808,
+          "id": "319037477223",
+          "name": "jawalehutt",
+          "user_id": "487507221",
+          "game_id": "18122",
+          "type": "live",
+          "title": "<Method> Hpal resil 35 | god comp day 1010",
+          "community_ids": [],
+          "viewer_count": 43,
+          "started_at": "2026-11-01T14:19:07Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jawalehutt-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1127043,6 +1127168,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-01T14:08:12.523Z"
+    "fetchedAt": "2026-11-01T16:08:42.834Z"
   }
 }
