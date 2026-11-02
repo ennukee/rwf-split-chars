@@ -26607,7 +26607,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) some fo76 into wow, trying to do more maps as well",
           "community_ids": [],
-          "viewer_count": 3,
+          "viewer_count": 5,
           "started_at": "2026-11-01T22:03:51Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -44867,12 +44867,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "zuljin/73/252428617-avatar.jpg",
-          "itemLevelEquipped": 337,
+          "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-30T10:39:03.397Z",
-            "updated_at": "2026-10-30T10:39:03.397Z",
+            "created_at": "2026-11-02T06:33:09.507Z",
+            "updated_at": "2026-11-02T06:33:09.507Z",
             "source": "s3",
-            "item_level_equipped": 337,
+            "item_level_equipped": 338,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -45287,11 +45287,11 @@
                 ]
               },
               "legs": {
-                "item_id": 244582,
-                "item_level": 331,
+                "item_id": 268237,
+                "item_level": 344,
                 "enchant": 7935,
-                "icon": "inv_pant_mail_questbloodelf_b_01",
-                "name": "Farstrider's Reinforced Faulds",
+                "icon": "inv_pant_mail_raidevokerulatek_d_01",
+                "name": "Cuisses of the Uncoiled Union",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -45315,14 +45315,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  12715,
-                  8791,
-                  13836
+                  6652,
+                  13662,
+                  13335,
+                  13848
                 ]
               },
               "feet": {
@@ -57930,8 +57926,8 @@
           "thumbnail": "illidan/46/228662062-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-28T08:37:01.203Z",
-            "updated_at": "2026-10-28T08:37:01.203Z",
+            "created_at": "2026-11-02T06:33:09.399Z",
+            "updated_at": "2026-11-02T06:33:09.399Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -58021,7 +58017,7 @@
               },
               "neck": {
                 "item_id": 272229,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_121_jewelry_neck03_purple",
                 "name": "Serpentine Talisman",
                 "item_quality": 4,
@@ -58034,13 +58030,21 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   13668,
-                  12854
+                  12856
                 ]
               },
               "shoulder": {
@@ -87395,8 +87399,8 @@
           "thumbnail": "illidan/25/228275225-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-28T08:36:59.580Z",
-            "updated_at": "2026-10-28T08:36:59.580Z",
+            "created_at": "2026-11-02T06:33:08.152Z",
+            "updated_at": "2026-11-02T06:33:08.152Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -87765,6 +87769,7 @@
               "feet": {
                 "item_id": 268255,
                 "item_level": 344,
+                "enchant": 7963,
                 "icon": "inv_boot_cloth_raidmageulatek_d_01",
                 "name": "Cackling Soultreads",
                 "item_quality": 4,
@@ -87779,8 +87784,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13662,
@@ -92816,12 +92829,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/185/231930553-avatar.jpg",
-          "itemLevelEquipped": 337,
+          "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-28T08:37:04.598Z",
-            "updated_at": "2026-10-28T08:37:04.598Z",
+            "created_at": "2026-11-02T06:33:08.277Z",
+            "updated_at": "2026-11-02T06:33:08.277Z",
             "source": "s3",
-            "item_level_equipped": 337,
+            "item_level_equipped": 338,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -92833,27 +92846,22 @@
             },
             "items": {
               "head": {
-                "item_id": 237832,
-                "item_level": 331,
+                "item_id": 271465,
+                "item_level": 334,
                 "enchant": 7961,
-                "icon": "inv_plate_questbloodelf_b_01_helm",
-                "name": "Spellbreaker's Cover",
+                "icon": "inv_helm_plate_raidpaladinulatek_d_01",
+                "name": "Warhelm of the Consecrated Flame",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  null,
-                  null,
-                  null,
-                  null,
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -92867,16 +92875,11 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8793,
-                  13836,
-                  13696
+                  12854,
+                  13696,
+                  13692,
+                  13698,
+                  1587
                 ]
               },
               "neck": {
@@ -93422,7 +93425,7 @@
               },
               "trinket2": {
                 "item_id": 270164,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_10_tailoring_bag1_color2",
                 "name": "Gebbo's Bottomless Bag",
                 "item_quality": 4,
@@ -93442,7 +93445,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12854
+                  12856
                 ]
               },
               "mainhand": {
@@ -93481,7 +93484,7 @@
               },
               "offhand": {
                 "item_id": 268196,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_shield_1h_ulatek_d_01",
                 "name": "Venom-Slashed Scuteward",
                 "item_quality": 4,
@@ -93501,7 +93504,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12854
+                  12856
                 ]
               }
             }
@@ -99528,12 +99531,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/169/232185769-avatar.jpg",
-          "itemLevelEquipped": 335,
+          "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-22T13:19:50.706Z",
-            "updated_at": "2026-10-22T13:19:50.706Z",
+            "created_at": "2026-11-02T06:33:09.517Z",
+            "updated_at": "2026-11-02T06:33:09.517Z",
             "source": "s3",
-            "item_level_equipped": 335,
+            "item_level_equipped": 336,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -99708,7 +99711,7 @@
               },
               "back": {
                 "item_id": 272230,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 3605,
                 "icon": "inv_cape_plate_outdooramaniloa_c_01",
                 "name": "Pledgebearer's Pall",
@@ -99729,9 +99732,8 @@
                 ],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
                   13662,
-                  12846
+                  12854
                 ]
               },
               "chest": {
@@ -100067,7 +100069,7 @@
               },
               "trinket1": {
                 "item_id": 270162,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_121_trinket_raid_ulatek_ritualvessel",
                 "name": "Soulcoiler Ritual Vessel",
                 "item_quality": 4,
@@ -100087,7 +100089,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12854
+                  12856
                 ]
               },
               "trinket2": {
@@ -113988,8 +113990,8 @@
           "thumbnail": "illidan/102/233151846-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-25T10:06:41.193Z",
-            "updated_at": "2026-10-25T10:06:41.193Z",
+            "created_at": "2026-11-02T06:33:09.305Z",
+            "updated_at": "2026-11-02T06:33:09.305Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -114326,6 +114328,7 @@
                 "bonuses": [
                   12214,
                   13667,
+                  13695,
                   12497,
                   13751,
                   14001,
@@ -114484,11 +114487,10 @@
                 ]
               },
               "finger2": {
-                "item_id": 240949,
-                "item_level": 331,
-                "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "item_id": 272148,
+                "item_level": 334,
+                "icon": "inv_121_jewelry_ring03_purple",
+                "name": "Anguine Gyre",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -114499,34 +114501,13 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240906
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8790,
-                  13836
+                  13668,
+                  12854
                 ]
               },
               "trinket1": {
@@ -132819,7 +132800,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) some fo76 into wow, trying to do more maps as well",
           "community_ids": [],
-          "viewer_count": 3,
+          "viewer_count": 5,
           "started_at": "2026-11-01T22:03:51Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -163301,7 +163282,7 @@
           "type": "live",
           "title": "(liquid inhouse crafter) some fo76 into wow, trying to do more maps as well",
           "community_ids": [],
-          "viewer_count": 3,
+          "viewer_count": 5,
           "started_at": "2026-11-01T22:03:51Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_partypetee-{width}x{height}.jpg"
@@ -178405,8 +178386,8 @@
           "thumbnail": "illidan/46/236015406-avatar.jpg",
           "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-10-28T08:38:01.034Z",
-            "updated_at": "2026-10-28T08:38:01.034Z",
+            "created_at": "2026-11-02T06:33:09.054Z",
+            "updated_at": "2026-11-02T06:33:09.054Z",
             "source": "s3",
             "item_level_equipped": 335,
             "item_level_total": 0,
@@ -178866,11 +178847,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 268266,
+                "item_id": 272147,
                 "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_70_raid_ring8c",
-                "name": "Alluring Bubbleband",
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Colubrine Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -178902,9 +178883,7 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
                   13668,
-                  13334,
                   12854
                 ]
               },
@@ -215883,8 +215862,8 @@
           "thumbnail": "illidan/127/236199039-avatar.jpg",
           "itemLevelEquipped": 339,
           "items": {
-            "created_at": "2026-10-28T08:38:05.086Z",
-            "updated_at": "2026-10-28T08:38:05.086Z",
+            "created_at": "2026-11-02T06:33:08.353Z",
+            "updated_at": "2026-11-02T06:33:08.353Z",
             "source": "s3",
             "item_level_equipped": 339,
             "item_level_total": 0,
@@ -215898,37 +215877,17 @@
             },
             "items": {
               "head": {
-                "item_id": 281239,
+                "item_id": 271456,
                 "item_level": 334,
                 "enchant": 8017,
                 "icon": "inv_helm_plate_raidwarriorulatek_d_01",
-                "name": "Corroded Hulk's Skullcap",
+                "name": "Tempered Horns of the Jade Warlord",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": true,
                 "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
+                  null,
+                  null,
                   {
                     "id": 580,
                     "spell": {
@@ -215959,6 +215918,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -215973,11 +215933,13 @@
                 ],
                 "bonuses": [
                   6652,
-                  13696,
-                  13662,
                   13335,
+                  12854,
                   14049,
-                  12854
+                  13696,
+                  13692,
+                  13698,
+                  1587
                 ]
               },
               "neck": {
@@ -216022,22 +215984,37 @@
                 ]
               },
               "shoulder": {
-                "item_id": 271454,
-                "item_level": 334,
+                "item_id": 237835,
+                "item_level": 331,
                 "enchant": 8001,
-                "icon": "inv_shoulder_plate_raidwarriorulatek_d_01",
-                "name": "Raging Pauldrons of the Jade Warlord",
+                "icon": "inv_plate_questbloodelf_b_01_shoulder",
+                "name": "Spellbreaker's Mantle",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  null,
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
-                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -216051,11 +216028,15 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  13335,
-                  13694,
-                  13697,
-                  12854
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8960,
+                  12384,
+                  8790,
+                  13836
                 ]
               },
               "back": {
@@ -216316,11 +216297,11 @@
                 ]
               },
               "feet": {
-                "item_id": 237828,
-                "item_level": 331,
+                "item_id": 268245,
+                "item_level": 334,
                 "enchant": 7963,
-                "icon": "inv_plate_questbloodelf_b_01_boot",
-                "name": "Spellbreaker's March",
+                "icon": "inv_boot_plate_raidwarriorulatek_d_01",
+                "name": "Entombed Cultist's Sabatons",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -216344,15 +216325,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8790,
-                  13836
+                  6652,
+                  13662,
+                  13335,
+                  12854
                 ]
               },
               "finger1": {
@@ -218574,8 +218550,8 @@
           "thumbnail": "illidan/223/236620511-avatar.jpg",
           "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-10-30T10:39:04.860Z",
-            "updated_at": "2026-10-30T10:39:04.860Z",
+            "created_at": "2026-11-02T06:33:09.393Z",
+            "updated_at": "2026-11-02T06:33:09.393Z",
             "source": "s3",
             "item_level_equipped": 336,
             "item_level_total": 0,
@@ -219104,11 +219080,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 240949,
-                "item_level": 331,
+                "item_id": 281029,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "icon": "inv_misc_questionmark",
+                "name": "Band of the Swarmcaller",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -219120,13 +219096,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240910
+                  240906
                 ],
                 "gems_detail": [
                   {
-                    "id": 240910,
-                    "name": "16 Crit & 7 Vers",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_frost_red"
+                    "id": 240906,
+                    "name": "16 Crit & 7 Haste",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
                   }
                 ],
                 "enchants": [
@@ -219140,13 +219116,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8792,
-                  13836
+                  6652,
+                  13668,
+                  13334,
+                  12854
                 ]
               },
               "trinket1": {
@@ -239664,8 +239637,8 @@
           "thumbnail": "illidan/50/236314930-avatar.jpg",
           "itemLevelEquipped": 339,
           "items": {
-            "created_at": "2026-10-15T00:27:21.896Z",
-            "updated_at": "2026-10-15T00:27:21.896Z",
+            "created_at": "2026-11-02T06:33:09.555Z",
+            "updated_at": "2026-11-02T06:33:09.555Z",
             "source": "s3",
             "item_level_equipped": 339,
             "item_level_total": 0,
@@ -240202,11 +240175,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 240949,
-                "item_level": 331,
+                "item_id": 272147,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Colubrine Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -240238,13 +240211,8 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8790,
-                  13836
+                  13668,
+                  12854
                 ]
               },
               "trinket1": {
@@ -301683,8 +301651,8 @@
           "thumbnail": "illidan/239/237923823-avatar.jpg",
           "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-26T23:30:20.524Z",
-            "updated_at": "2026-10-26T23:30:20.524Z",
+            "created_at": "2026-11-02T06:33:09.437Z",
+            "updated_at": "2026-11-02T06:33:09.437Z",
             "source": "s3",
             "item_level_equipped": 338,
             "item_level_total": 0,
@@ -301954,13 +301922,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240902
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240902,
+                    "name": "16 Mast & 7 Vers",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_frost_purple"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
                   13667,
+                  13695,
                   12497,
                   13751,
                   14001,
@@ -302118,11 +302095,10 @@
                 ]
               },
               "finger2": {
-                "item_id": 240949,
-                "item_level": 331,
-                "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "item_id": 272149,
+                "item_level": 334,
+                "icon": "inv_121_jewelry_ring02_purple",
+                "name": "Hex Loop",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -302134,33 +302110,20 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240906
+                  240902
                 ],
                 "gems_detail": [
                   {
-                    "id": 240906,
-                    "name": "16 Crit & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_red"
+                    "id": 240902,
+                    "name": "16 Mast & 7 Vers",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_frost_purple"
                   }
                 ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8791,
-                  13836
+                  13668,
+                  12854
                 ]
               },
               "trinket1": {
@@ -302189,10 +302152,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 270173,
-                "item_level": 344,
-                "icon": "inv_121_trinket_raid_ulatek_trolltablet",
-                "name": "Zul'jin's Guillotine Technique",
+                "item_id": 281215,
+                "item_level": 334,
+                "icon": "inv_misc_questionmark",
+                "name": "Twisted Horror's Tendril",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -302210,7 +302173,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  13848
+                  12854
                 ]
               },
               "mainhand": {
@@ -302372,8 +302335,8 @@
           "thumbnail": "illidan/228/237922788-avatar.jpg",
           "itemLevelEquipped": 338,
           "items": {
-            "created_at": "2026-10-26T23:30:20.530Z",
-            "updated_at": "2026-10-26T23:30:20.530Z",
+            "created_at": "2026-11-02T06:33:09.505Z",
+            "updated_at": "2026-11-02T06:33:09.505Z",
             "source": "s3",
             "item_level_equipped": 338,
             "item_level_total": 0,
@@ -302694,13 +302657,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240914
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240914,
+                    "name": "16 Vers & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_blue"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
                   13667,
+                  13695,
                   12497,
                   13751,
                   14001,
@@ -302815,11 +302787,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 240949,
-                "item_level": 331,
+                "item_id": 268252,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
-                "name": "Masterwork Sin'dorei Band",
+                "icon": "inv_121_jewelry_ring03_red",
+                "name": "Apex Brute's Claw Ring",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -302851,13 +302823,10 @@
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8790,
-                  13836
+                  6652,
+                  13668,
+                  13334,
+                  12854
                 ]
               },
               "finger2": {
@@ -367031,7 +367000,7 @@
           "allScore": 334.6,
           "allScoreColor": "#f6fff2"
         },
-        "rank": 8,
+        "rank": 4,
         "stream": null
       },
       {
@@ -378817,7 +378786,7 @@
           "allScore": 0,
           "allScoreColor": "#aaa"
         },
-        "rank": 8,
+        "rank": 4,
         "stream": null
       },
       {
@@ -388910,7 +388879,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-02T06:19:46.404Z"
+    "fetchedAt": "2026-11-02T08:13:35.166Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -774592,7 +774561,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-02T06:19:52.083Z"
+    "fetchedAt": "2026-11-02T08:13:42.692Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -1128416,6 +1128385,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-02T06:19:56.239Z"
+    "fetchedAt": "2026-11-02T08:13:48.117Z"
   }
 }
