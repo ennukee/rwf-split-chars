@@ -31232,14 +31232,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 268,
-            "name": "Brewmaster",
-            "slug": "brewmaster",
+            "id": 269,
+            "name": "Windwalker",
+            "slug": "windwalker",
             "class_id": 10,
-            "role": "tank",
+            "role": "dps",
             "is_melee": true,
             "patch": "5.0.0",
-            "ordinal": 0
+            "ordinal": 2
           },
           "path": "/characters/us/illidan/Trilltwo",
           "realm": {
@@ -56520,7 +56520,21 @@
           "allScoreColor": "#50e159"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -73072,7 +73086,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -74520,7 +74548,7 @@
           "type": "live",
           "title": "we're just crumbs in a world of loafs #realshit | !ui !eu <Liquid>",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 87,
           "started_at": "2026-11-02T17:44:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -75772,7 +75800,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -78449,7 +78491,7 @@
           "type": "live",
           "title": "we're just crumbs in a world of loafs #realshit | !ui !eu <Liquid>",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 87,
           "started_at": "2026-11-02T17:44:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -101500,7 +101542,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -102941,12 +102997,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "arygos/170/244579242-avatar.jpg",
-          "itemLevelEquipped": 323,
+          "itemLevelEquipped": 326,
           "items": {
-            "created_at": "2026-10-23T13:31:48.941Z",
-            "updated_at": "2026-10-23T13:31:48.941Z",
+            "created_at": "2026-11-02T22:05:15.236Z",
+            "updated_at": "2026-11-02T22:05:15.236Z",
             "source": "s3",
-            "item_level_equipped": 323,
+            "item_level_equipped": 326,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -102958,14 +103014,60 @@
             },
             "items": {
               "head": {
-                "item_id": 268219,
-                "item_level": 321,
-                "icon": "inv_helm_leather_raidrogueulatek_d_01",
-                "name": "Shadow Hunter's Warmask",
+                "item_id": 271875,
+                "item_level": 344,
+                "icon": "inv_helm_leather_raiddruidulatek_d_01",
+                "name": "Gaze of the Coiled Watcher",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -102977,11 +103079,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  43,
                   13696,
                   13662,
                   13335,
-                  12850
+                  13848,
+                  13847
                 ]
               },
               "neck": {
@@ -103168,7 +103271,7 @@
               },
               "waist": {
                 "item_id": 268256,
-                "item_level": 321,
+                "item_level": 344,
                 "icon": "inv_belt_leather_raiddruidulatek_d_01",
                 "name": "Sash of the Forlorn Vessel",
                 "item_quality": 4,
@@ -103189,8 +103292,8 @@
                   6652,
                   13696,
                   13662,
-                  13334,
-                  12846
+                  13335,
+                  13848
                 ]
               },
               "shirt": {
@@ -103277,7 +103380,7 @@
               },
               "legs": {
                 "item_id": 271518,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 8159,
                 "icon": "inv_pant_leather_raidmonkulatek_d_01",
                 "name": "Pantaloons of the Monkey King",
@@ -103305,11 +103408,11 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
-                  6652,
+                  12854,
+                  13335,
                   13693,
-                  13698,
-                  12846
+                  6652,
+                  13698
                 ]
               },
               "feet": {
@@ -103353,11 +103456,11 @@
                 ]
               },
               "finger1": {
-                "item_id": 251136,
-                "item_level": 308,
+                "item_id": 268290,
+                "item_level": 298,
                 "enchant": 7967,
-                "icon": "inv_12_jewelry_voidelf_ring_teal",
-                "name": "Signet of Snarling Servitude",
+                "icon": "inv_12_jewelry_rutaani_ring_blue",
+                "name": "Sporecaller's Blooming Loop",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -103369,13 +103472,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240892
+                  240890
                 ],
                 "gems_detail": [
                   {
-                    "id": 240892,
-                    "name": "16 Haste & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
                   }
                 ],
                 "enchants": [
@@ -103389,11 +103492,10 @@
                   }
                 ],
                 "bonuses": [
-                  13439,
                   6652,
                   13668,
-                  12699,
-                  12838
+                  13335,
+                  13786
                 ]
               },
               "finger2": {
@@ -105600,15 +105702,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -108418,15 +108520,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -109111,7 +109213,7 @@
           "type": "live",
           "title": "we're just crumbs in a world of loafs #realshit | !ui !eu <Liquid>",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 87,
           "started_at": "2026-11-02T17:44:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -116532,15 +116634,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -117205,15 +117307,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -121295,7 +121397,7 @@
           "type": "live",
           "title": "we're just crumbs in a world of loafs #realshit | !ui !eu <Liquid>",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 87,
           "started_at": "2026-11-02T17:44:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -127528,15 +127630,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -133548,15 +133650,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -143885,15 +143987,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -146609,7 +146711,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -147217,7 +147333,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -147840,7 +147970,7 @@
           "type": "live",
           "title": "we're just crumbs in a world of loafs #realshit | !ui !eu <Liquid>",
           "community_ids": [],
-          "viewer_count": 84,
+          "viewer_count": 87,
           "started_at": "2026-11-02T17:44:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -154612,15 +154742,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -174428,7 +174558,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -189801,15 +189945,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -191210,7 +191354,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -211924,15 +212082,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -218624,7 +218782,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -228074,15 +228246,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -229274,15 +229446,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -229959,15 +230131,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -231918,7 +232090,7 @@
           "type": "live",
           "title": "[DROPS] hunt for 23 resil",
           "community_ids": [],
-          "viewer_count": 175,
+          "viewer_count": 190,
           "started_at": "2026-11-02T18:06:42Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jdotb-{width}x{height}.jpg"
@@ -243073,15 +243245,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -263386,15 +263558,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -264116,15 +264288,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -274585,15 +274757,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -275224,7 +275396,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -275890,7 +276076,21 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -276579,7 +276779,21 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -289456,15 +289670,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -290125,15 +290339,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -290796,15 +291010,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -291444,15 +291658,15 @@
         "stream": {
           "is_featured_stream": false,
           "activity_record_id": 1278157,
-          "id": "318218086884",
+          "id": "318219411940",
           "name": "gotoi",
           "user_id": "23241549",
           "game_id": "18122",
           "type": "live",
           "title": "Shay - <Liquid> LAST 2 LAST 2 LAST 2 LAST 2",
           "community_ids": [],
-          "viewer_count": 7,
-          "started_at": "2026-11-02T19:55:53Z",
+          "viewer_count": 32,
+          "started_at": "2026-11-02T21:08:48Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gotoi-{width}x{height}.jpg"
         }
@@ -294081,7 +294295,21 @@
           "allScoreColor": "#c5ffb1"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1278240,
+          "id": "318520812120",
+          "name": "imfiredup",
+          "user_id": "44923106",
+          "game_id": "18122",
+          "type": "live",
+          "title": "5 RAID DAY EXTRAVAGANZA PREPPING FOR MAGNUS MATCH LATER !ui",
+          "community_ids": [],
+          "viewer_count": 515,
+          "started_at": "2026-11-02T20:13:57Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imfiredup-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -333025,12 +333253,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/77/238109261-avatar.jpg",
-          "itemLevelEquipped": 330,
+          "itemLevelEquipped": 333,
           "items": {
-            "created_at": "2026-10-28T08:38:14.917Z",
-            "updated_at": "2026-10-28T08:38:14.917Z",
+            "created_at": "2026-11-02T21:03:19.499Z",
+            "updated_at": "2026-11-02T21:03:19.499Z",
             "source": "s3",
-            "item_level_equipped": 330,
+            "item_level_equipped": 333,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -333447,7 +333675,7 @@
               },
               "finger1": {
                 "item_id": 272149,
-                "item_level": 308,
+                "item_level": 334,
                 "enchant": 7967,
                 "icon": "inv_121_jewelry_ring02_purple",
                 "name": "Hex Loop",
@@ -333461,16 +333689,8 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240908
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [
                   7967
                 ],
@@ -333482,17 +333702,15 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
                   13668,
-                  12838
+                  12854
                 ]
               },
               "finger2": {
-                "item_id": 272148,
-                "item_level": 321,
-                "enchant": 7967,
-                "icon": "inv_121_jewelry_ring03_purple",
-                "name": "Anguine Gyre",
+                "item_id": 240949,
+                "item_level": 331,
+                "icon": "inv_12_profession_jewelcrafting_ring4_gold",
+                "name": "Masterwork Sin'dorei Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -333503,30 +333721,18 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240898
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
-                  }
-                ],
-                "enchants": [
-                  7967
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243957,
-                    "name": "Enchant Ring - Eyes of the Eagle",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  13668,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8791,
+                  13836
                 ]
               },
               "trinket1": {
@@ -353601,12 +353807,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/84/238137940-avatar.jpg",
-          "itemLevelEquipped": 305,
+          "itemLevelEquipped": 314,
           "items": {
-            "created_at": "2026-10-29T12:12:06.861Z",
-            "updated_at": "2026-10-29T12:12:06.861Z",
+            "created_at": "2026-11-02T20:55:19.050Z",
+            "updated_at": "2026-11-02T20:55:19.050Z",
             "source": "s3",
-            "item_level_equipped": 305,
+            "item_level_equipped": 314,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -353654,7 +353860,7 @@
               },
               "neck": {
                 "item_id": 275530,
-                "item_level": 292,
+                "item_level": 302,
                 "icon": "inv_121_jewelry_neck02_orange",
                 "name": "Preyhunter's Clasp",
                 "item_quality": 4,
@@ -353680,9 +353886,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12833,
                   6652,
-                  13668
+                  13668,
+                  12836
                 ]
               },
               "shoulder": {
@@ -353786,7 +353992,7 @@
               },
               "waist": {
                 "item_id": 159442,
-                "item_level": 311,
+                "item_level": 321,
                 "icon": "inv_belt_plate_zandalardungeon_c_01",
                 "name": "Sand-Scoured Greatbelt",
                 "item_quality": 4,
@@ -353804,12 +354010,12 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12843,
                   13440,
                   6652,
                   13696,
                   13662,
-                  12699
+                  12699,
+                  12846
                 ]
               },
               "wrist": {
@@ -353839,8 +354045,7 @@
               },
               "hands": {
                 "item_id": 271466,
-                "item_level": 292,
-                "enchant": 8730,
+                "item_level": 321,
                 "icon": "inv_glove_plate_raidpaladinulatek_d_01",
                 "name": "Gauntlets of the Consecrated Flame",
                 "item_quality": 4,
@@ -353856,23 +354061,14 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8730
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 283998,
-                    "name": "|cnIQ4:Ancient Hash'ey Battle Art: Eye of the Lynx|r",
-                    "icon": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color3"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
+                  12846,
                   6652,
-                  12833,
-                  13439,
                   13691,
                   13697,
-                  1545
+                  1574
                 ]
               },
               "legs": {
@@ -353913,7 +354109,7 @@
               },
               "feet": {
                 "item_id": 268260,
-                "item_level": 315,
+                "item_level": 321,
                 "enchant": 7963,
                 "icon": "inv_boot_plate_raidpaladinulatek_d_01",
                 "name": "Scaled Fiend's Warboots",
@@ -353944,12 +354140,12 @@
                   13662,
                   13334,
                   11215,
-                  12844
+                  12846
                 ]
               },
               "finger1": {
                 "item_id": 251148,
-                "item_level": 311,
+                "item_level": 315,
                 "enchant": 7967,
                 "icon": "inv_12_jewelry_zulaman_troll_ring_green2",
                 "name": "Pilfered Precious Band",
@@ -353984,16 +354180,16 @@
                   }
                 ],
                 "bonuses": [
-                  12843,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12844
                 ]
               },
               "finger2": {
                 "item_id": 272149,
-                "item_level": 295,
+                "item_level": 321,
                 "enchant": 7967,
                 "icon": "inv_121_jewelry_ring02_purple",
                 "name": "Hex Loop",
@@ -354028,40 +354224,13 @@
                   }
                 ],
                 "bonuses": [
-                  12834,
-                  6652,
+                  12850,
                   13668
                 ]
               },
               "trinket1": {
-                "item_id": 250259,
-                "item_level": 305,
-                "icon": "inv_misc_herb_nightmarevine",
-                "name": "Sapling of the Dawnroot",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  13439,
-                  6652,
-                  12699,
-                  12837
-                ]
-              },
-              "trinket2": {
                 "item_id": 265657,
-                "item_level": 298,
+                "item_level": 305,
                 "icon": "ability_rogue_sanguinaryvein",
                 "name": "Fiber of Living Agony",
                 "item_quality": 4,
@@ -354080,15 +354249,14 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12835
+                  12837
                 ]
               },
-              "mainhand": {
-                "item_id": 273782,
-                "item_level": 308,
-                "enchant": 8689,
-                "icon": "inv_polearm_2h_outdooramaniloa_c_01",
-                "name": "Vile Writhefang Glaive",
+              "trinket2": {
+                "item_id": 274493,
+                "item_level": 321,
+                "icon": "ability_fomor_boss_rune_green",
+                "name": "Effigy of Ula'tek's Faithful",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -354101,21 +354269,42 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  8689
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  13439,
                   6652,
-                  12701,
-                  12838
+                  12846
+                ]
+              },
+              "mainhand": {
+                "item_id": 237842,
+                "item_level": 331,
+                "icon": "inv_axe_2h_dungeonharronir_c_01",
+                "name": "Bloomforged Greataxe",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14004,
+                  13771,
+                  8960,
+                  8790,
+                  13836
                 ]
               }
             }
@@ -366177,12 +366366,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/183/238143415-avatar.jpg",
-          "itemLevelEquipped": 318,
+          "itemLevelEquipped": 320,
           "items": {
-            "created_at": "2026-10-28T08:38:18.554Z",
-            "updated_at": "2026-10-28T08:38:18.554Z",
+            "created_at": "2026-11-02T20:10:14.957Z",
+            "updated_at": "2026-11-02T20:10:14.957Z",
             "source": "s3",
-            "item_level_equipped": 318,
+            "item_level_equipped": 320,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -366343,10 +366532,10 @@
                 ]
               },
               "waist": {
-                "item_id": 272245,
+                "item_id": 275513,
                 "item_level": 321,
                 "icon": "inv_belt_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Cinch",
+                "name": "Preyhunter's Sleek Belt",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -366370,7 +366559,7 @@
               },
               "wrist": {
                 "item_id": 275512,
-                "item_level": 308,
+                "item_level": 321,
                 "icon": "inv_bracer_leather_outdooramaniloa_c_01",
                 "name": "Preyhunter's Sleek Armlets",
                 "item_quality": 4,
@@ -366391,14 +366580,14 @@
                   6652,
                   13696,
                   13662,
-                  12842
+                  12846
                 ]
               },
               "hands": {
-                "item_id": 272241,
-                "item_level": 308,
+                "item_id": 275515,
+                "item_level": 321,
                 "icon": "inv_glove_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Grips",
+                "name": "Preyhunter's Sleek Gauntlets",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -366415,9 +366604,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  11215,
                   13662,
-                  12838
+                  12846
                 ]
               },
               "legs": {
@@ -366485,6 +366673,7 @@
               "finger1": {
                 "item_id": 275527,
                 "item_level": 321,
+                "enchant": 7967,
                 "icon": "inv_121_jewelry_ring03_orange",
                 "name": "Preyhunter's Signet",
                 "item_quality": 4,
@@ -366499,8 +366688,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13668,
@@ -366510,6 +366707,7 @@
               "finger2": {
                 "item_id": 275526,
                 "item_level": 321,
+                "enchant": 7967,
                 "icon": "inv_121_jewelry_ring01_teal",
                 "name": "Preyhunter's Band",
                 "item_quality": 4,
@@ -366524,8 +366722,16 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13668,
@@ -366533,10 +366739,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 251783,
+                "item_id": 265657,
                 "item_level": 321,
-                "icon": "inv_12_trinket_grisgrisofconfidenc",
-                "name": "Lost Idol of the Hash'ey",
+                "icon": "ability_rogue_sanguinaryvein",
+                "name": "Fiber of Living Agony",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -366552,7 +366758,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  42,
+                  6652,
                   12846
                 ]
               },
@@ -380369,6 +380575,703 @@
       },
       {
         "character": {
+          "id": 309758117,
+          "persona_id": 7950912,
+          "name": "Griefener",
+          "class": {
+            "id": 10,
+            "name": "Monk",
+            "slug": "monk"
+          },
+          "race": {
+            "id": 8,
+            "name": "Troll",
+            "slug": "troll",
+            "faction": "horde"
+          },
+          "faction": "horde",
+          "level": 90,
+          "spec": {
+            "id": 269,
+            "name": "Windwalker",
+            "slug": "windwalker",
+            "class_id": 10,
+            "role": "dps",
+            "is_melee": true,
+            "patch": "5.0.0",
+            "ordinal": 2
+          },
+          "path": "/characters/us/malganis/Griefener",
+          "realm": {
+            "id": 396,
+            "connectedRealmId": 216,
+            "wowRealmId": 59,
+            "wowConnectedRealmId": 3684,
+            "name": "Mal'Ganis",
+            "altName": null,
+            "slug": "malganis",
+            "altSlug": "malganis",
+            "locale": "en_US",
+            "isConnected": false,
+            "realmType": "live"
+          },
+          "region": {
+            "name": "United States & Oceania",
+            "slug": "us",
+            "short_name": "US"
+          },
+          "flags": {},
+          "talents": "",
+          "talentsDetails": [],
+          "gender": "male",
+          "thumbnail": "malganis/25/250720793-avatar.jpg",
+          "itemLevelEquipped": 317,
+          "items": {
+            "created_at": "2026-11-02T21:30:11.373Z",
+            "updated_at": "2026-11-02T21:30:11.373Z",
+            "source": "s3",
+            "item_level_equipped": 317,
+            "item_level_total": 0,
+            "artifact_traits": 0,
+            "corruption": {
+              "added": 0,
+              "resisted": 0,
+              "total": 0,
+              "cloakRank": 0,
+              "spells": []
+            },
+            "items": {
+              "head": {
+                "item_id": 271519,
+                "item_level": 308,
+                "enchant": 8017,
+                "icon": "inv_helm_leather_raidmonkulatek_d_01",
+                "name": "Monkey King's Unyielding Visage",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8017
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244007,
+                    "name": "Enchant Helm - Empowered Rune of Avoidance",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13696,
+                  12838,
+                  13692,
+                  13698,
+                  1561
+                ]
+              },
+              "neck": {
+                "item_id": 268265,
+                "item_level": 334,
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983,
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  },
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13668,
+                  13334,
+                  13987,
+                  13696,
+                  12854
+                ]
+              },
+              "shoulder": {
+                "item_id": 271517,
+                "item_level": 334,
+                "enchant": 8001,
+                "icon": "inv_shoulder_leather_raidmonkulatek_d_01",
+                "name": "Tassels of the Monkey King",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8001
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243991,
+                    "name": "Enchant Shoulders - Amirdrassil's Grace",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13335,
+                  12854,
+                  13694,
+                  13697,
+                  1587
+                ]
+              },
+              "back": {
+                "item_id": 250010,
+                "item_level": 289,
+                "icon": "inv_cape_leather_raidmonkmidnight_d_01",
+                "name": "Windwrap of Ra-den's Chosen",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13440,
+                  12806
+                ]
+              },
+              "chest": {
+                "item_id": 271522,
+                "item_level": 321,
+                "enchant": 7987,
+                "icon": "inv_chest_leather_raidmonkulatek_d_01",
+                "name": "Battle Gi of the Monkey King",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  12846,
+                  6652,
+                  13690,
+                  13698,
+                  1574
+                ]
+              },
+              "waist": {
+                "item_id": 268227,
+                "item_level": 308,
+                "icon": "inv_belt_leather_raidrogueulatek_d_01",
+                "name": "Unpossessed Skullsash",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13696,
+                  13662,
+                  13333,
+                  12838
+                ]
+              },
+              "wrist": {
+                "item_id": 244576,
+                "item_level": 285,
+                "icon": "inv_bracer_leather_questbloodelf_b_01",
+                "name": "Silvermoon Agent's Deflectors",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12214,
+                  13667,
+                  12497,
+                  12066,
+                  13454,
+                  8960,
+                  8790,
+                  13622,
+                  12666
+                ]
+              },
+              "hands": {
+                "item_id": 271520,
+                "item_level": 324,
+                "icon": "inv_glove_leather_raidmonkulatek_d_01",
+                "name": "Monkey King's Fighting Fists",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12851,
+                  6652,
+                  13335,
+                  13691,
+                  13697,
+                  1577
+                ]
+              },
+              "legs": {
+                "item_id": 271518,
+                "item_level": 334,
+                "icon": "inv_pant_leather_raidmonkulatek_d_01",
+                "name": "Pantaloons of the Monkey King",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "tier": "36",
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12854,
+                  13335,
+                  13693,
+                  6652,
+                  13698
+                ]
+              },
+              "feet": {
+                "item_id": 251153,
+                "item_level": 308,
+                "enchant": 7963,
+                "icon": "inv_boot_leather_dungeonharronir_c_01",
+                "name": "Arctic Explorer's Legwraps",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  7963
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  13439,
+                  6652,
+                  13662,
+                  12699,
+                  12838
+                ]
+              },
+              "finger1": {
+                "item_id": 268252,
+                "item_level": 334,
+                "enchant": 7967,
+                "icon": "inv_121_jewelry_ring03_red",
+                "name": "Apex Brute's Claw Ring",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13335,
+                  12854
+                ]
+              },
+              "finger2": {
+                "item_id": 272150,
+                "item_level": 308,
+                "enchant": 7967,
+                "icon": "inv_jewelry_ring_181",
+                "name": "Ouroboric Signet",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240892
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  12838
+                ]
+              },
+              "trinket1": {
+                "item_id": 193701,
+                "item_level": 298,
+                "icon": "inv_misc_enggizmos_18",
+                "name": "Algeth'ar Puzzle Box",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  13440,
+                  6652,
+                  12699,
+                  13654
+                ]
+              },
+              "trinket2": {
+                "item_id": 270166,
+                "item_level": 334,
+                "icon": "inv_11_0_raid_gruesomesyringe_blue",
+                "name": "Vashnik's Sanguine Rancor",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13335,
+                  12854
+                ]
+              },
+              "mainhand": {
+                "item_id": 272272,
+                "item_level": 334,
+                "enchant": 8041,
+                "icon": "inv_polearm_2h_outdooramaniloa_c_01",
+                "name": "Harrowed Partisan",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [
+                  8041
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 244031,
+                    "name": "Enchant Weapon - Arcane Mast",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
+                  }
+                ],
+                "bonuses": [
+                  12854
+                ]
+              }
+            }
+          },
+          "expansionData": null,
+          "patronLevel": null
+        },
+        "raidProgress": {
+          "raid": {
+            "type": "raid",
+            "id": 17059,
+            "difficulty": "heroic",
+            "name": "The Unbinding of Kith'ix",
+            "short_name": "UOK",
+            "wowInstanceId": 3095,
+            "slug": "the-unbinding-of-kithix",
+            "icon_url": "/images/wow/icons/large/inv_1215_raid_achievement_kithix.jpg",
+            "expansion_id": 11
+          },
+          "totalBosses": 1,
+          "progress": {
+            "normal": 0,
+            "heroic": 0,
+            "mythic": 0
+          }
+        },
+        "keystoneScores": {
+          "allScore": 0,
+          "allScoreColor": "#aaa"
+        },
+        "rank": 99,
+        "stream": null
+      },
+      {
+        "character": {
           "id": 309768683,
           "persona_id": 0,
           "name": "Mazzterchef",
@@ -390456,7 +391359,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-02T20:08:26.761Z"
+    "fetchedAt": "2026-11-02T22:09:04.120Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -412706,7 +413609,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -449512,7 +450415,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -504954,7 +505857,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -533268,7 +534171,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -555215,7 +556118,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -556644,7 +557547,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -559551,7 +560454,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -597117,7 +598020,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -599169,7 +600072,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -613009,7 +613912,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -614400,7 +615303,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -615083,7 +615986,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -615818,7 +616721,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -624293,7 +625196,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -650747,7 +651650,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -682712,7 +683615,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -688593,7 +689496,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -748149,7 +749052,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4274.9,
+          "allScore": 4285.1,
           "allScoreColor": "#fe7e16"
         },
         "rank": 3,
@@ -748163,7 +749066,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 173,
+          "viewer_count": 142,
           "started_at": "2026-11-02T16:51:49Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -762653,8 +763556,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4058.9,
-          "allScoreColor": "#f36c59"
+          "allScore": 4072.1,
+          "allScoreColor": "#f46e52"
         },
         "rank": 6,
         "stream": null
@@ -779686,7 +780589,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-02T20:08:35.629Z"
+    "fetchedAt": "2026-11-02T22:09:10.927Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -787236,7 +788139,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -797190,7 +798093,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -802748,21 +803651,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -817292,7 +818181,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -822800,7 +823689,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -829119,7 +830008,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -840113,21 +841002,7 @@
           "allScoreColor": "#a4ff89"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -857974,7 +858849,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -859427,7 +860302,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -860154,7 +861029,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -869799,21 +870674,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -871234,21 +872095,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -874210,21 +875057,7 @@
           "allScoreColor": "#9cff81"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -895709,7 +896542,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -896392,7 +897225,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -897807,7 +898640,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -898535,7 +899368,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -926099,7 +926932,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -932898,7 +933731,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -943578,7 +944411,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -951244,8 +952077,8 @@
           "thumbnail": "twisting-nether/91/194524507-avatar.jpg",
           "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-11-01T08:37:21.247Z",
-            "updated_at": "2026-11-01T08:37:21.247Z",
+            "created_at": "2026-11-02T21:38:32.460Z",
+            "updated_at": "2026-11-02T21:38:32.460Z",
             "source": "s3",
             "item_level_equipped": 335,
             "item_level_total": 0,
@@ -951343,7 +952176,7 @@
               },
               "neck": {
                 "item_id": 268265,
-                "item_level": 341,
+                "item_level": 344,
                 "icon": "inv_121_jewelry_neck03_green",
                 "name": "Aqirbane Reliquary",
                 "item_quality": 4,
@@ -951357,29 +952190,29 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240967,
-                  240916
+                  240969,
+                  240914
                 ],
                 "gems_detail": [
                   {
-                    "id": 240967,
-                    "name": "23 Primary / +0.15% critical strike effectiveness per unique Midnight gem color",
-                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_orange"
+                    "id": 240969,
+                    "name": "23 Primary / +1% Maximum Mana per unique Midnight gem color",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_blue"
                   },
                   {
-                    "id": 240916,
-                    "name": "16 Vers & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_blue"
+                    "id": 240914,
+                    "name": "16 Vers & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_blue"
                   }
                 ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
+                  42,
                   13668,
-                  13334,
-                  13987,
-                  12856
+                  13335,
+                  13848,
+                  13987
                 ]
               },
               "shoulder": {
@@ -951883,7 +952716,7 @@
               },
               "mainhand": {
                 "item_id": 271092,
-                "item_level": 341,
+                "item_level": 344,
                 "enchant": 8689,
                 "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
                 "name": "Jan'thrazet, the Soul Fang",
@@ -951910,9 +952743,9 @@
                   }
                 ],
                 "bonuses": [
-                  42,
-                  13334,
-                  12856
+                  6652,
+                  13335,
+                  13848
                 ]
               },
               "offhand": {
@@ -957003,21 +957836,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -964577,21 +965396,7 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -965288,21 +966093,7 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -965978,21 +966769,7 @@
           "allScoreColor": "#97ff7c"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -987181,21 +987958,7 @@
           "allScoreColor": "#ddffcf"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -987979,21 +988742,7 @@
           "allScoreColor": "#f5fff0"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -991452,21 +992201,7 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -992192,21 +992927,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -999920,7 +1000641,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1001316,21 +1002037,7 @@
           "allScoreColor": "#7bff5e"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1002740,7 +1003447,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1006898,7 +1007605,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1012338,7 +1013045,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1013816,7 +1014523,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1025575,21 +1026282,7 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1277702,
-          "id": "318214401763",
-          "name": "fragnance",
-          "user_id": "25084072",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Killing Time Until Forever | !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
-          "community_ids": [],
-          "viewer_count": 170,
-          "started_at": "2026-11-02T18:26:40Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1044373,7 +1045066,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1051967,7 +1052660,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1065714,7 +1066407,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1067084,7 +1067777,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1068426,7 +1069119,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1072795,7 +1073488,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1073447,7 +1074140,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1074204,7 +1074897,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1074912,7 +1075605,7 @@
           "type": "live",
           "title": "2 days until the promised land poggDelve <Method> :> !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 29,
+          "viewer_count": 32,
           "started_at": "2026-11-02T17:53:13Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1081024,7 +1081717,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1083253,7 +1083946,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1083916,7 +1084609,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1121797,7 +1122490,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1122970,7 +1123663,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1125322,7 +1126015,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1125919,7 +1126612,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1126546,7 +1127239,7 @@
           "type": "live",
           "title": "<Method> :)",
           "community_ids": [],
-          "viewer_count": 23,
+          "viewer_count": 12,
           "started_at": "2026-11-02T18:42:21Z",
           "language": "no",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_julefingen-{width}x{height}.jpg"
@@ -1135079,6 +1135772,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-02T20:08:40.359Z"
+    "fetchedAt": "2026-11-02T22:09:18.410Z"
   }
 }
