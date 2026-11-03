@@ -398665,7 +398665,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-03T14:08:51.725Z"
+    "fetchedAt": "2026-11-03T16:09:25.634Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -420933,7 +420933,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -457767,7 +457767,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -467620,14 +467620,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 577,
-            "name": "Havoc",
-            "slug": "havoc",
+            "id": 581,
+            "name": "Vengeance",
+            "slug": "vengeance",
             "class_id": 12,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "7.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/eu/tarren-mill/Nicememes",
           "realm": {
@@ -467655,8 +467655,8 @@
           "thumbnail": "tarren-mill/80/183774544-avatar.jpg",
           "itemLevelEquipped": 313,
           "items": {
-            "created_at": "2026-11-03T06:42:17.394Z",
-            "updated_at": "2026-11-03T06:42:17.394Z",
+            "created_at": "2026-11-03T15:45:28.032Z",
+            "updated_at": "2026-11-03T15:45:28.032Z",
             "source": "s3",
             "item_level_equipped": 313,
             "item_level_total": 0,
@@ -467831,6 +467831,7 @@
               "chest": {
                 "item_id": 271540,
                 "item_level": 318,
+                "enchant": 7987,
                 "icon": "inv_chest_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Coreguard",
                 "item_quality": 4,
@@ -467882,8 +467883,16 @@
                 "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7987
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243977,
+                    "name": "Enchant Chest - Mark of the Worldsoul",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   13334,
                   6652,
@@ -468277,8 +468286,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 335,
+          "allScoreColor": "#f6fff2"
         },
         "rank": 4,
         "stream": null
@@ -499813,14 +499822,14 @@
           "faction": "horde",
           "level": 90,
           "spec": {
-            "id": 577,
-            "name": "Havoc",
-            "slug": "havoc",
+            "id": 581,
+            "name": "Vengeance",
+            "slug": "vengeance",
             "class_id": 12,
-            "role": "dps",
+            "role": "tank",
             "is_melee": true,
             "patch": "7.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/eu/tarren-mill/Nicememespp",
           "realm": {
@@ -499846,12 +499855,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/79/187298639-avatar.jpg",
-          "itemLevelEquipped": 336,
+          "itemLevelEquipped": 337,
           "items": {
-            "created_at": "2026-11-03T06:42:18.812Z",
-            "updated_at": "2026-11-03T06:42:18.812Z",
+            "created_at": "2026-11-03T15:44:24.134Z",
+            "updated_at": "2026-11-03T15:44:24.134Z",
             "source": "s3",
-            "item_level_equipped": 336,
+            "item_level_equipped": 337,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -500260,7 +500269,7 @@
               },
               "legs": {
                 "item_id": 271536,
-                "item_level": 334,
+                "item_level": 344,
                 "enchant": 8159,
                 "icon": "inv_pant_leather_raiddemonhunterulatek_d_01",
                 "name": "Abyssal Doomhound's Legwraps",
@@ -500288,11 +500297,12 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
                   6652,
+                  13335,
+                  13848,
                   13693,
                   13698,
-                  12854
+                  1597
                 ]
               },
               "feet": {
@@ -513317,7 +513327,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -541620,7 +541630,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -563573,7 +563583,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -565019,7 +565029,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -567926,7 +567936,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -605512,7 +605522,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -607564,7 +607574,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -621416,7 +621426,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -622807,7 +622817,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -623490,7 +623500,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -624225,7 +624235,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -632704,7 +632714,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -659236,7 +659246,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -666146,7 +666156,7 @@
           "type": "live",
           "title": "Rogue Big blast +24 resi today!nerf !ui !website !rogue !coaching !Liquid",
           "community_ids": [],
-          "viewer_count": 373,
+          "viewer_count": 446,
           "started_at": "2026-11-03T11:34:19Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -682811,7 +682821,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -683502,7 +683512,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -685578,7 +685588,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -686179,7 +686189,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -687667,7 +687677,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -688368,7 +688378,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -690609,7 +690619,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -691301,7 +691311,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -697182,7 +697192,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -701955,7 +701965,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -707432,8 +707442,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 1719.8,
-          "allScoreColor": "#7eff61"
+          "allScore": 2054.8,
+          "allScoreColor": "#46ff2d"
         },
         "rank": 4,
         "stream": null
@@ -718577,7 +718587,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -719231,7 +719241,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -719912,7 +719922,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -721390,7 +721400,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4317.3,
+          "allScore": 4327.6,
           "allScoreColor": "#ff8000"
         },
         "rank": 4,
@@ -721404,7 +721414,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -731635,7 +731645,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -732281,7 +732291,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -733062,7 +733072,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -733807,7 +733817,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -737976,7 +737986,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -745511,7 +745521,7 @@
           "type": "live",
           "title": "<Echo> Keys",
           "community_ids": [],
-          "viewer_count": 47,
+          "viewer_count": 59,
           "started_at": "2026-11-03T12:10:56Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hearthjacks-{width}x{height}.jpg"
@@ -756833,7 +756843,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4285.2,
+          "allScore": 4295,
           "allScoreColor": "#fe7e16"
         },
         "rank": 3,
@@ -756847,7 +756857,7 @@
           "type": "live",
           "title": "<Echo> some m+ !ui !addons !exboss !tracking",
           "community_ids": [],
-          "viewer_count": 115,
+          "viewer_count": 133,
           "started_at": "2026-11-03T12:08:07Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stovepov-{width}x{height}.jpg"
@@ -788370,7 +788380,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-03T14:09:04.720Z"
+    "fetchedAt": "2026-11-03T16:09:33.661Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -811405,7 +811415,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -818762,21 +818786,7 @@
           "allScoreColor": "#78ff5b"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1279818,
-          "id": "319062728679",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Sjelemental +24 RESIL FOR SURE <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 86,
-          "started_at": "2026-11-03T10:04:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -846611,21 +846621,7 @@
           "allScoreColor": "#4283c8"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1279818,
-          "id": "319062728679",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Sjelemental +24 RESIL FOR SURE <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 86,
-          "started_at": "2026-11-03T10:04:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -848756,7 +848752,21 @@
           "allScoreColor": "#a4ff89"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -858705,21 +858715,7 @@
           "allScoreColor": "#dd5399"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1279818,
-          "id": "319062728679",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Sjelemental +24 RESIL FOR SURE <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 86,
-          "started_at": "2026-11-03T10:04:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -878460,7 +878456,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -879881,7 +879891,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -882843,7 +882867,21 @@
           "allScoreColor": "#9cff81"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -960570,21 +960608,7 @@
           "allScoreColor": "#ff8000"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1279818,
-          "id": "319062728679",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Sjelemental +24 RESIL FOR SURE <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 86,
-          "started_at": "2026-11-03T10:04:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -961282,21 +961306,7 @@
           "allScoreColor": "#4787c4"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1279818,
-          "id": "319062728679",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Sjelemental +24 RESIL FOR SURE <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 86,
-          "started_at": "2026-11-03T10:04:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -965629,7 +965639,21 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -973189,7 +973213,21 @@
           "allScoreColor": "#f6fff2"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -973886,7 +973924,21 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -974562,7 +974614,21 @@
           "allScoreColor": "#97ff7c"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -975870,21 +975936,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1279818,
-          "id": "319062728679",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Sjelemental +24 RESIL FOR SURE <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 86,
-          "started_at": "2026-11-03T10:04:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -995807,7 +995859,21 @@
           "allScoreColor": "#ddffcf"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -996591,7 +996657,21 @@
           "allScoreColor": "#f5fff0"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1000050,7 +1000130,21 @@
           "allScoreColor": "#f3ffed"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1000776,7 +1000870,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1010589,7 +1010697,21 @@
           "allScoreColor": "#7bff5e"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1034797,7 +1034919,21 @@
           "allScoreColor": "#f8fff5"
         },
         "rank": 5,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1280307,
+          "id": "318225690724",
+          "name": "fragnance",
+          "user_id": "25084072",
+          "game_id": "18122",
+          "type": "live",
+          "title": "FOREVER HYPE ⏳⏳⏳  !RWF <Method>  !FragUI Retail/Forever 1440/1080p | Forever Levell Guide: !RestedXP | !Opera !Holy",
+          "community_ids": [],
+          "viewer_count": 205,
+          "started_at": "2026-11-03T15:19:44Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fragnance-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -1057698,21 +1057834,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1279818,
-          "id": "319062728679",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] Sjelemental +24 RESIL FOR SURE <Method> | Midnight !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 86,
-          "started_at": "2026-11-03T10:04:53Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1108595,7 +1108717,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4317.3,
+          "allScore": 4327.6,
           "allScoreColor": "#ff8000"
         },
         "rank": 5,
@@ -1144792,6 +1144914,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-03T14:09:09.396Z"
+    "fetchedAt": "2026-11-03T16:09:33.839Z"
   }
 }
