@@ -74862,7 +74862,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317437,
+          "id": "318318297443",
+          "name": "tobo",
+          "user_id": "76701053",
+          "game_id": "18122",
+          "type": "live",
+          "title": "win | !ui !eu !rxp <Liquid>",
+          "community_ids": [],
+          "viewer_count": 30,
+          "started_at": "2026-11-12T13:14:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -78793,7 +78807,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317437,
+          "id": "318318297443",
+          "name": "tobo",
+          "user_id": "76701053",
+          "game_id": "18122",
+          "type": "live",
+          "title": "win | !ui !eu !rxp <Liquid>",
+          "community_ids": [],
+          "viewer_count": 30,
+          "started_at": "2026-11-12T13:14:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -109605,7 +109633,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317437,
+          "id": "318318297443",
+          "name": "tobo",
+          "user_id": "76701053",
+          "game_id": "18122",
+          "type": "live",
+          "title": "win | !ui !eu !rxp <Liquid>",
+          "community_ids": [],
+          "viewer_count": 30,
+          "started_at": "2026-11-12T13:14:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -122401,7 +122443,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317437,
+          "id": "318318297443",
+          "name": "tobo",
+          "user_id": "76701053",
+          "game_id": "18122",
+          "type": "live",
+          "title": "win | !ui !eu !rxp <Liquid>",
+          "community_ids": [],
+          "viewer_count": 30,
+          "started_at": "2026-11-12T13:14:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -144728,12 +144784,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/20/234207508-avatar.jpg",
-          "itemLevelEquipped": 320,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-11-03T21:39:25.116Z",
-            "updated_at": "2026-11-03T21:39:25.116Z",
+            "created_at": "2026-11-12T13:25:55.449Z",
+            "updated_at": "2026-11-12T13:25:55.449Z",
             "source": "s3",
-            "item_level_equipped": 320,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -144820,10 +144876,10 @@
                 ]
               },
               "neck": {
-                "item_id": 272229,
-                "item_level": 295,
-                "icon": "inv_121_jewelry_neck03_purple",
-                "name": "Serpentine Talisman",
+                "item_id": 268265,
+                "item_level": 344,
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -144835,21 +144891,29 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240983
+                  240983,
+                  240892
                 ],
                 "gems_detail": [
                   {
                     "id": 240983,
                     "name": "32 Primary",
                     "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  },
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
                   }
                 ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
                   6652,
-                  13668
+                  13668,
+                  13335,
+                  13848,
+                  13987
                 ]
               },
               "shoulder": {
@@ -144890,10 +144954,10 @@
                 ]
               },
               "back": {
-                "item_id": 272225,
-                "item_level": 321,
-                "icon": "inv_cape_cloth_outdooramaniloa_c_01",
-                "name": "Pyrewalker's Mantle",
+                "item_id": 268253,
+                "item_level": 344,
+                "icon": "inv_cape_leather_raidrogueulatek_d_01",
+                "name": "Silken Voodoo Drape",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -144911,7 +144975,8 @@
                 "bonuses": [
                   6652,
                   13662,
-                  12846
+                  13335,
+                  13848
                 ]
               },
               "chest": {
@@ -145076,11 +145141,10 @@
                 ]
               },
               "feet": {
-                "item_id": 272248,
-                "item_level": 295,
-                "enchant": 7963,
-                "icon": "inv_boot_mail_outdooramaniloa_c_01",
-                "name": "Galerider's Footguards",
+                "item_id": 268233,
+                "item_level": 334,
+                "icon": "inv_boot_mail_raidhunterulatek_d_01",
+                "name": "Ferocious Scaleboots",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -145093,28 +145157,21 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7963
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243953,
-                    "name": "Enchant Boots - Lynx's Dexterity",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
-                  12834,
                   6652,
-                  13662
+                  13662,
+                  13335,
+                  12854
                 ]
               },
               "finger1": {
-                "item_id": 272150,
-                "item_level": 321,
+                "item_id": 268249,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_jewelry_ring_181",
-                "name": "Ouroboric Signet",
+                "icon": "inv_121_jewelry_ring01_purple",
+                "name": "Vile Alchemist's Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -145126,13 +145183,13 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240898
+                  240892
                 ],
                 "gems_detail": [
                   {
-                    "id": 240898,
-                    "name": "16 Mast & 7 Crit",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_purple"
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
                   }
                 ],
                 "enchants": [
@@ -145148,12 +145205,14 @@
                 "bonuses": [
                   6652,
                   13668,
-                  12846
+                  13335,
+                  12854
                 ]
               },
               "finger2": {
                 "item_id": 268252,
                 "item_level": 334,
+                "enchant": 7967,
                 "icon": "inv_121_jewelry_ring03_red",
                 "name": "Apex Brute's Claw Ring",
                 "item_quality": 4,
@@ -145166,10 +145225,26 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "gems": [
+                  240892
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240892,
+                    "name": "16 Haste & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_green"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
                   13668,
@@ -145178,10 +145253,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 265657,
-                "item_level": 295,
-                "icon": "ability_rogue_sanguinaryvein",
-                "name": "Fiber of Living Agony",
+                "item_id": 270164,
+                "item_level": 334,
+                "icon": "inv_10_tailoring_bag1_color2",
+                "name": "Gebbo's Bottomless Bag",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -145198,7 +145273,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12834
+                  13335,
+                  12854
                 ]
               },
               "trinket2": {
@@ -145226,11 +145302,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 268200,
-                "item_level": 334,
+                "item_id": 268207,
+                "item_level": 344,
                 "enchant": 8689,
-                "icon": "inv_firearm_2h_ulatek_d_01",
-                "name": "Gebbo's Backup Blaster",
+                "icon": "inv_bow_1h_ulatek_d_01",
+                "name": "Caustic Repose Greatbow",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -145254,9 +145330,10 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
+                  41,
                   13335,
-                  12854
+                  13848,
+                  13708
                 ]
               }
             }
@@ -149191,7 +149268,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317437,
+          "id": "318318297443",
+          "name": "tobo",
+          "user_id": "76701053",
+          "game_id": "18122",
+          "type": "live",
+          "title": "win | !ui !eu !rxp <Liquid>",
+          "community_ids": [],
+          "viewer_count": 30,
+          "started_at": "2026-11-12T13:14:10Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -152510,7 +152601,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -152536,21 +152631,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -175919,7 +176000,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -175945,21 +176030,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -207539,7 +207610,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -207565,21 +207640,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -208237,7 +208298,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -208263,21 +208328,7 @@
           "allScoreColor": "#a8ff8d"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -208931,7 +208982,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -208957,21 +209012,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -255041,7 +255082,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -255067,21 +255112,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -255696,7 +255727,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -255722,21 +255757,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -256361,7 +256382,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -256387,21 +256412,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -257036,7 +257047,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -257062,21 +257077,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -257700,7 +257701,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -257726,21 +257731,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -258315,7 +258306,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -258341,21 +258336,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -266846,7 +266827,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -266872,21 +266857,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -267611,7 +267582,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -267637,21 +267612,7 @@
           "allScoreColor": "#c4ffaf"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -302843,7 +302804,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -302869,21 +302834,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -307064,7 +307015,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -307090,21 +307045,7 @@
           "allScoreColor": "#f6714a"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -360033,7 +359974,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -360059,21 +360004,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1315602,
-          "id": "322192900953",
-          "name": "thdlock",
-          "user_id": "23518699",
-          "game_id": "18122",
-          "type": "live",
-          "title": "60 STUFF !guide !raiderio",
-          "community_ids": [],
-          "viewer_count": 277,
-          "started_at": "2026-11-11T22:59:25Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thdlock-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -410988,7 +410919,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-12T12:13:16.022Z"
+    "fetchedAt": "2026-11-12T14:09:36.754Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -422782,7 +422713,11 @@
               }
             ]
           },
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -422818,7 +422753,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -424736,7 +424671,21 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -425446,7 +425395,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -427585,7 +427548,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -428349,7 +428326,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -429026,7 +429017,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -434651,7 +434656,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -435286,7 +435305,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -435322,7 +435345,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -438800,7 +438823,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -438836,7 +438863,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -440965,7 +440992,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -447723,7 +447764,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -456821,7 +456876,21 @@
           "allScoreColor": "#a8ff8d"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -460344,7 +460413,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -461077,7 +461160,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -463777,7 +463874,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -463813,7 +463914,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -466459,7 +466560,21 @@
           "allScoreColor": "#5565e2"
         },
         "rank": 4,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -476482,7 +476597,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -476518,7 +476637,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -477175,7 +477294,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -477211,7 +477334,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -534983,7 +535106,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -535019,7 +535146,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -576064,7 +576191,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -576100,7 +576231,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -577509,7 +577640,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -577545,7 +577680,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -623684,7 +623819,21 @@
           "allScoreColor": "#aaa"
         },
         "rank": 3,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1317433,
+          "id": "318318287075",
+          "name": "maystine",
+          "user_id": "30856797",
+          "game_id": "18122",
+          "type": "live",
+          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "community_ids": [],
+          "viewer_count": 52,
+          "started_at": "2026-11-12T13:12:44Z",
+          "language": "fr",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -631122,7 +631271,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -631158,7 +631311,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -656532,7 +656685,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -656568,7 +656725,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -657192,7 +657349,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -657228,7 +657389,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -678970,7 +679131,7 @@
           "type": "live",
           "title": "Forever blasting through the mountains of azeroth <!Liquid> !ui !website !coaching",
           "community_ids": [],
-          "viewer_count": 185,
+          "viewer_count": 187,
           "started_at": "2026-11-12T10:01:34Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
@@ -718113,7 +718274,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -718149,7 +718314,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -718764,7 +718929,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -718800,7 +718969,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -760452,7 +760621,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -760488,7 +760661,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -761855,7 +762028,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -761891,7 +762068,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -762536,7 +762713,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -762572,7 +762753,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -771731,7 +771912,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -771767,7 +771952,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -772478,7 +772663,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -772514,7 +772703,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -773808,7 +773997,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -773844,7 +774037,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -774519,7 +774712,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -774555,7 +774752,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -775232,7 +775429,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -775268,7 +775469,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -775930,7 +776131,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -775966,7 +776171,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -776613,7 +776818,11 @@
             }
           },
           "expansionData": null,
-          "patronLevel": null
+          "patronLevel": {
+            "level": 4,
+            "name": "Exalted",
+            "slug": "exalted"
+          }
         },
         "raidProgress": {
           "raid": {
@@ -776649,7 +776858,7 @@
           "type": "live",
           "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
           "community_ids": [],
-          "viewer_count": 655,
+          "viewer_count": 615,
           "started_at": "2026-11-12T07:45:11Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
@@ -805812,7 +806021,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-12T12:13:21.016Z"
+    "fetchedAt": "2026-11-12T14:09:40.107Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -810416,7 +810625,7 @@
           "type": "live",
           "title": "!DROPS <Method> FOREVER GUILD !Card !VPN !Holy !GUIDES",
           "community_ids": [],
-          "viewer_count": 122,
+          "viewer_count": 121,
           "started_at": "2026-11-12T11:17:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sco-{width}x{height}.jpg"
@@ -813359,7 +813568,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -825269,7 +825478,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -832034,21 +832243,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -834998,21 +835193,7 @@
           "allScoreColor": "#d8ffc8"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -835678,21 +835859,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -836339,9 +836506,9 @@
           "user_id": "95473492",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROPS] R1 RIO! 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 61,
           "started_at": "2026-11-12T11:04:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -847679,21 +847846,7 @@
           "allScoreColor": "#fe7e16"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -848476,21 +848629,7 @@
           "allScoreColor": "#beffa7"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -849186,7 +849325,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -849879,21 +850018,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -855606,7 +855731,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -859048,7 +859173,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -864492,9 +864617,9 @@
           "user_id": "95473492",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROPS] R1 RIO! 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 61,
           "started_at": "2026-11-12T11:04:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -876634,9 +876759,9 @@
           "user_id": "95473492",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROPS] R1 RIO! 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 61,
           "started_at": "2026-11-12T11:04:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -886048,7 +886173,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -886784,7 +886909,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -889445,21 +889570,7 @@
           "allScoreColor": "#32ff19"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -890193,21 +890304,7 @@
           "allScoreColor": "#c0ffaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -890942,21 +891039,7 @@
           "allScoreColor": "#a5ff8b"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -891620,21 +891703,7 @@
           "allScoreColor": "#beffa7"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -898583,21 +898652,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -909264,21 +909319,7 @@
           "allScoreColor": "#c2ffac"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -910058,21 +910099,7 @@
           "allScoreColor": "#ca46bc"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -911424,21 +911451,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -913530,21 +913543,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -916948,21 +916947,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -919732,21 +919717,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -920414,21 +920385,7 @@
           "allScoreColor": "#f5fff0"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -922497,7 +922454,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -923180,7 +923137,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -924601,7 +924558,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -925329,7 +925286,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -928120,7 +928077,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -928815,7 +928772,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -929540,7 +929497,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -930235,7 +930192,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -930960,7 +930917,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -938066,21 +938023,7 @@
           "allScoreColor": "#a0ff85"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -938789,21 +938732,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -943132,7 +943061,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -943930,7 +943859,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -944670,7 +944599,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -949599,7 +949528,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -951808,7 +951737,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -959813,7 +959742,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -978830,7 +978759,7 @@
           }
         },
         "keystoneScores": {
-          "allScore": 4380.6,
+          "allScore": 4390.9,
           "allScoreColor": "#ff8000"
         },
         "rank": 3,
@@ -978842,9 +978771,9 @@
           "user_id": "95473492",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROPS] R1 RIO! 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 61,
           "started_at": "2026-11-12T11:04:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -979556,9 +979485,9 @@
           "user_id": "95473492",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROPS] R1 RIO! 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 61,
           "started_at": "2026-11-12T11:04:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -994137,9 +994066,9 @@
           "user_id": "95473492",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROPS] R1 RIO! 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 61,
           "started_at": "2026-11-12T11:04:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -1025463,7 +1025392,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1030447,7 +1030376,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1033944,7 +1033873,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1037315,7 +1037244,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1037976,7 +1037905,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1038709,7 +1038638,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1049283,7 +1049212,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1072828,21 +1072757,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 2,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316904,
-          "id": "319295759589",
-          "name": "thanertv",
-          "user_id": "485791058",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Thaner <Method> - Wow Forever pure vibes !ui !vpn",
-          "community_ids": [],
-          "viewer_count": 33,
-          "started_at": "2026-11-12T08:29:22Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thanertv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1076390,9 +1076305,9 @@
           "user_id": "95473492",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROPS] R1 RIO! 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
+          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
           "community_ids": [],
-          "viewer_count": 53,
+          "viewer_count": 61,
           "started_at": "2026-11-12T11:04:02Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
@@ -1079843,7 +1079758,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1093523,7 +1093438,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1094893,7 +1094808,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1096228,7 +1096143,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1102676,7 +1102591,7 @@
           "type": "live",
           "title": "Ambussy friendship over. Death Mark is my new best friend poggDelve <Method> :> !rxp !vpn !holy !MethodCard",
           "community_ids": [],
-          "viewer_count": 9,
+          "viewer_count": 12,
           "started_at": "2026-11-12T09:18:31Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dan_warr-{width}x{height}.jpg"
@@ -1103990,7 +1103905,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1113138,7 +1113053,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1115708,7 +1115623,7 @@
           "type": "live",
           "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
           "community_ids": [],
-          "viewer_count": 21,
+          "viewer_count": 14,
           "started_at": "2026-11-12T09:55:58Z",
           "language": "sv",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
@@ -1165031,6 +1164946,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-12T12:13:25.271Z"
+    "fetchedAt": "2026-11-12T14:09:46.346Z"
   }
 }
