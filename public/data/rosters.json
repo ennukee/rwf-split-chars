@@ -74872,7 +74872,7 @@
           "type": "live",
           "title": "win | !ui !eu !rxp <Liquid>",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 40,
           "started_at": "2026-11-12T13:14:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -78817,7 +78817,7 @@
           "type": "live",
           "title": "win | !ui !eu !rxp <Liquid>",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 40,
           "started_at": "2026-11-12T13:14:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -109643,7 +109643,7 @@
           "type": "live",
           "title": "win | !ui !eu !rxp <Liquid>",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 40,
           "started_at": "2026-11-12T13:14:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -122453,7 +122453,7 @@
           "type": "live",
           "title": "win | !ui !eu !rxp <Liquid>",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 40,
           "started_at": "2026-11-12T13:14:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -149278,7 +149278,7 @@
           "type": "live",
           "title": "win | !ui !eu !rxp <Liquid>",
           "community_ids": [],
-          "viewer_count": 37,
+          "viewer_count": 40,
           "started_at": "2026-11-12T13:14:10Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
@@ -246489,12 +246489,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/130/236974466-avatar.jpg",
-          "itemLevelEquipped": 325,
+          "itemLevelEquipped": 328,
           "items": {
-            "created_at": "2026-11-03T21:39:32.275Z",
-            "updated_at": "2026-11-03T21:39:32.275Z",
+            "created_at": "2026-11-12T16:37:49.886Z",
+            "updated_at": "2026-11-12T16:37:49.886Z",
             "source": "s3",
-            "item_level_equipped": 325,
+            "item_level_equipped": 328,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -247047,10 +247047,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 248583,
-                "item_level": 308,
-                "icon": "inv_archaeology_70_tauren_drum",
-                "name": "Drum of Renewed Bonds",
+                "item_id": 270168,
+                "item_level": 344,
+                "icon": "inv_10_dungeonjewelry_dragon_trinket_3djardintrophy_green",
+                "name": "Font of Venomous Rage",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -247066,8 +247066,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13183,
-                  12842
+                  6652,
+                  13335,
+                  13848
                 ]
               },
               "trinket2": {
@@ -352879,12 +352880,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "illidan/211/238138067-avatar.jpg",
-          "itemLevelEquipped": 321,
+          "itemLevelEquipped": 324,
           "items": {
-            "created_at": "2026-11-10T08:06:45.695Z",
-            "updated_at": "2026-11-10T08:06:45.695Z",
+            "created_at": "2026-11-12T17:43:49.430Z",
+            "updated_at": "2026-11-12T17:43:49.430Z",
             "source": "s3",
-            "item_level_equipped": 321,
+            "item_level_equipped": 324,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -353110,10 +353111,10 @@
                 ]
               },
               "waist": {
-                "item_id": 272245,
-                "item_level": 321,
-                "icon": "inv_belt_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Cinch",
+                "item_id": 268227,
+                "item_level": 334,
+                "icon": "inv_belt_leather_raidrogueulatek_d_01",
+                "name": "Unpossessed Skullsash",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -353132,7 +353133,8 @@
                   6652,
                   13696,
                   13662,
-                  12846
+                  13335,
+                  12854
                 ]
               },
               "wrist": {
@@ -353150,13 +353152,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240890
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240890,
+                    "name": "16 Haste & 7 Crit",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_fire_green"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
                   13667,
+                  13695,
                   12497,
                   13751,
                   14001,
@@ -353229,11 +353240,11 @@
                 ]
               },
               "feet": {
-                "item_id": 272240,
-                "item_level": 321,
+                "item_id": 244569,
+                "item_level": 331,
                 "enchant": 7963,
-                "icon": "inv_boot_leather_outdooramaniloa_c_01",
-                "name": "Miststalker's Striders",
+                "icon": "inv_boot_leather_questbloodelf_b_01",
+                "name": "Silvermoon Agent's Sneakers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -353257,8 +353268,13 @@
                   }
                 ],
                 "bonuses": [
-                  13662,
-                  12846
+                  12214,
+                  13667,
+                  12497,
+                  13751,
+                  14001,
+                  8790,
+                  13836
                 ]
               },
               "finger1": {
@@ -353304,11 +353320,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 275526,
-                "item_level": 321,
+                "item_id": 268252,
+                "item_level": 334,
                 "enchant": 7967,
-                "icon": "inv_121_jewelry_ring01_teal",
-                "name": "Preyhunter's Band",
+                "icon": "inv_121_jewelry_ring03_red",
+                "name": "Apex Brute's Claw Ring",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -353340,9 +353356,10 @@
                   }
                 ],
                 "bonuses": [
-                  42,
+                  6652,
                   13668,
-                  12846
+                  13335,
+                  12854
                 ]
               },
               "trinket1": {
@@ -410919,7 +410936,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-12T16:10:15.871Z"
+    "fetchedAt": "2026-11-12T18:10:46.321Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -422743,21 +422760,7 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -424679,9 +424682,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -425403,9 +425406,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -427556,9 +427559,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -428334,9 +428337,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -429025,9 +429028,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -432649,7 +432652,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -434678,9 +434681,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -435349,21 +435352,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -438867,21 +438856,7 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -441014,9 +440989,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -447786,9 +447761,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -452630,7 +452605,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -453998,7 +453973,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -454756,7 +454731,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -456940,9 +456915,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -460477,9 +460452,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -461224,9 +461199,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -463960,21 +463935,7 @@
           "allScoreColor": "#3df239"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -466624,9 +466585,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -469558,7 +469519,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -471763,7 +471724,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -473187,7 +473148,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -476725,21 +476686,7 @@
           "allScoreColor": "#c8ffb4"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -477422,21 +477369,7 @@
           "allScoreColor": "#a8ff8d"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -506890,7 +506823,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -508319,7 +508252,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -535262,21 +535195,7 @@
           "allScoreColor": "#43ee43"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -540427,7 +540346,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -541133,7 +541052,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -541858,7 +541777,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -576389,21 +576308,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -577838,21 +577743,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -607971,7 +607862,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -624009,9 +623900,9 @@
           "user_id": "30856797",
           "game_id": "18122",
           "type": "live",
-          "title": "[DROP] Feral 46 Forever PVP @mandatory <Echo> !guide !restedxp",
+          "title": "[DROP] Feral 47 Forever PVP @mandatory <Echo> !guide !restedxp",
           "community_ids": [],
-          "viewer_count": 63,
+          "viewer_count": 73,
           "started_at": "2026-11-12T13:12:44Z",
           "language": "fr",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_maystine-{width}x{height}.jpg"
@@ -631483,21 +631374,7 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 0,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -656897,21 +656774,7 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -657561,21 +657424,7 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -665783,7 +665632,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -679317,21 +679166,7 @@
           "allScoreColor": "#56d966"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317091,
-          "id": "317214474197",
-          "name": "kushlul",
-          "user_id": "160256813",
-          "game_id": "18122",
-          "type": "live",
-          "title": "Forever blasting through the mountains of azeroth <!Liquid> !ui !website !coaching",
-          "community_ids": [],
-          "viewer_count": 185,
-          "started_at": "2026-11-12T10:01:34Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kushlul-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -718500,21 +718335,7 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -719155,21 +718976,7 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -730424,7 +730231,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -731132,7 +730939,7 @@
           "type": "live",
           "title": "!DROPS <Echo>  Shaman Leveling !ui !mygame !restedxp !foreverguides",
           "community_ids": [],
-          "viewer_count": 684,
+          "viewer_count": 1039,
           "started_at": "2026-11-12T14:59:20Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gingitv-{width}x{height}.jpg"
@@ -760875,21 +760682,7 @@
           "allScoreColor": "#59ff3f"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -762282,21 +762075,7 @@
           "allScoreColor": "#43ee43"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -762967,21 +762746,7 @@
           "allScoreColor": "#89ff6d"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -772166,21 +771931,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -772917,21 +772668,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -774251,21 +773988,7 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -774966,21 +774689,7 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -775683,21 +775392,7 @@
           "allScoreColor": "#a8ff8d"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -776385,21 +776080,7 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -777072,21 +776753,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1316828,
-          "id": "319295549157",
-          "name": "meerestv",
-          "user_id": "63354411",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[!DROPS] | LEVEL 60 DUNGEONS, FOREVER !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
-          "community_ids": [],
-          "viewer_count": 600,
-          "started_at": "2026-11-12T07:45:11Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -806880,7 +806547,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-12T16:10:22.340Z"
+    "fetchedAt": "2026-11-12T18:10:50.516Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -811484,7 +811151,7 @@
           "type": "live",
           "title": "!DROPS <Method> FOREVER GUILD !Card !VPN !Holy !GUIDES",
           "community_ids": [],
-          "viewer_count": 149,
+          "viewer_count": 171,
           "started_at": "2026-11-12T11:17:37Z",
           "language": "en",
           "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sco-{width}x{height}.jpg"
@@ -826313,21 +825980,7 @@
           "allScoreColor": "#a5ff8b"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -837343,21 +836996,7 @@
           "allScoreColor": "#7aff5e"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317193,
-          "id": "319296634213",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 84,
-          "started_at": "2026-11-12T11:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -859980,21 +859619,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -865426,21 +865051,7 @@
           "allScoreColor": "#4787c4"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317193,
-          "id": "319296634213",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 84,
-          "started_at": "2026-11-12T11:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -877568,21 +877179,7 @@
           "allScoreColor": "#dc539b"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317193,
-          "id": "319296634213",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 84,
-          "started_at": "2026-11-12T11:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -928800,21 +928397,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -929495,21 +929078,7 @@
           "allScoreColor": "#5fb494"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -930220,21 +929789,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -930915,21 +930470,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -931640,21 +931181,7 @@
           "allScoreColor": "#83ff67"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -943784,21 +943311,7 @@
           "allScoreColor": "#c4ffaf"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -944582,21 +944095,7 @@
           "allScoreColor": "#59d56c"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -945322,21 +944821,7 @@
           "allScoreColor": "#50ff36"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -950251,21 +949736,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -952460,21 +951931,7 @@
           "allScoreColor": "#83ff67"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -979482,21 +978939,7 @@
           "allScoreColor": "#ff8000"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317193,
-          "id": "319296634213",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 84,
-          "started_at": "2026-11-12T11:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -980196,21 +979639,7 @@
           "allScoreColor": "#4b8bc0"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317193,
-          "id": "319296634213",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 84,
-          "started_at": "2026-11-12T11:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -994777,21 +994206,7 @@
           "allScoreColor": "#dbffcd"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317193,
-          "id": "319296634213",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 84,
-          "started_at": "2026-11-12T11:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1026101,21 +1025516,7 @@
           "allScoreColor": "#5da8a2"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1034568,21 +1033969,7 @@
           "allScoreColor": "#c4ffaf"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1037939,21 +1037326,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1038600,21 +1037973,7 @@
           "allScoreColor": "#c4ffaf"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1039333,21 +1038692,7 @@
           "allScoreColor": "#50ff36"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1049907,21 +1049252,7 @@
           "allScoreColor": "#e55b85"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1077002,21 +1076333,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 3,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317193,
-          "id": "319296634213",
-          "name": "sjeletyven1",
-          "user_id": "95473492",
-          "game_id": "18122",
-          "type": "live",
-          "title": "[DROPS] WORST FIRST +25 | 1 Sub / 1 Gift Sub = ♾️ Badge <Method> | Midnight & Forever !UI | !RXP Guide !VPN !Holy !DemoGuide",
-          "community_ids": [],
-          "viewer_count": 84,
-          "started_at": "2026-11-12T11:04:02Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sjeletyven1-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1104530,21 +1103847,7 @@
           "allScoreColor": "#a8ff8d"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1113678,21 +1112981,7 @@
           "allScoreColor": "#5ccc77"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1116248,21 +1115537,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 5,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1317078,
-          "id": "317297682388",
-          "name": "yungradio_",
-          "user_id": "23974015",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Method> Forever! We hit 60! Time for Prebis !MethodCard !ui !vpn !holy",
-          "community_ids": [],
-          "viewer_count": 15,
-          "started_at": "2026-11-12T09:55:58Z",
-          "language": "sv",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yungradio_-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -1165580,6 +1164855,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-12T16:10:25.997Z"
+    "fetchedAt": "2026-11-12T18:10:56.122Z"
   }
 }
