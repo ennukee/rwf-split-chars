@@ -11066,12 +11066,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/158/189518494-avatar.jpg",
-          "itemLevelEquipped": 334,
+          "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-11-15T10:56:14.838Z",
-            "updated_at": "2026-11-15T10:56:14.838Z",
+            "created_at": "2026-11-26T23:00:48.468Z",
+            "updated_at": "2026-11-26T23:00:48.468Z",
             "source": "s3",
-            "item_level_equipped": 334,
+            "item_level_equipped": 335,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -11582,10 +11582,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 270164,
-                "item_level": 334,
-                "icon": "inv_10_tailoring_bag1_color2",
-                "name": "Gebbo's Bottomless Bag",
+                "item_id": 270173,
+                "item_level": 344,
+                "icon": "inv_121_trinket_raid_ulatek_trolltablet",
+                "name": "Zul'jin's Guillotine Technique",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -11602,8 +11602,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13334,
-                  12854
+                  13335,
+                  13848
                 ]
               },
               "mainhand": {
@@ -75806,21 +75806,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -77132,8 +77118,8 @@
           "thumbnail": "illidan/248/231773432-avatar.jpg",
           "itemLevelEquipped": 330,
           "items": {
-            "created_at": "2026-11-11T19:18:00.547Z",
-            "updated_at": "2026-11-11T19:18:00.547Z",
+            "created_at": "2026-11-27T04:48:40.940Z",
+            "updated_at": "2026-11-27T04:48:40.940Z",
             "source": "s3",
             "item_level_equipped": 330,
             "item_level_total": 0,
@@ -77147,21 +77133,58 @@
             },
             "items": {
               "head": {
-                "item_id": 268230,
+                "item_id": 271483,
                 "item_level": 334,
                 "enchant": 8017,
                 "icon": "inv_helm_mail_raidshamanulatek_d_01",
-                "name": "Crown of the Eternal Fang",
+                "name": "Serpent Crown of the Ophidian Oracle",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [
                   240918
                 ],
@@ -77184,10 +77207,12 @@
                 ],
                 "bonuses": [
                   6652,
-                  13695,
-                  13662,
                   13335,
-                  12854
+                  12854,
+                  13695,
+                  13692,
+                  13698,
+                  1587
                 ]
               },
               "neck": {
@@ -79804,21 +79829,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -113440,21 +113451,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -114941,21 +114938,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -115621,21 +115604,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -116255,21 +116224,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -126401,21 +126356,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -127051,21 +126992,7 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -129162,21 +129089,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -134750,21 +134663,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -145094,21 +144993,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -149424,12 +149309,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "malganis/163/246726563-avatar.jpg",
-          "itemLevelEquipped": 329,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-11-18T14:10:59.408Z",
-            "updated_at": "2026-11-18T14:10:59.408Z",
+            "created_at": "2026-11-26T23:00:48.789Z",
+            "updated_at": "2026-11-26T23:00:48.789Z",
             "source": "s3",
-            "item_level_equipped": 329,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -149442,14 +149327,60 @@
             "items": {
               "head": {
                 "item_id": 271501,
-                "item_level": 308,
+                "item_level": 334,
                 "enchant": 8017,
                 "icon": "inv_helm_mail_raidevokerulatek_d_01",
                 "name": "Calamitous Echo's Magmashapers",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -149470,11 +149401,12 @@
                   }
                 ],
                 "bonuses": [
+                  13335,
                   13692,
                   6652,
                   13696,
                   13698,
-                  12838
+                  12854
                 ]
               },
               "neck": {
@@ -149765,7 +149697,7 @@
               },
               "hands": {
                 "item_id": 271502,
-                "item_level": 321,
+                "item_level": 334,
                 "icon": "inv_glove_mail_raidevokerulatek_d_01",
                 "name": "Calamitous Echo's Ebon Greathorns",
                 "item_quality": 4,
@@ -149784,11 +149716,11 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13334,
+                  13335,
                   13691,
-                  41,
+                  6652,
                   13697,
-                  12846
+                  12854
                 ]
               },
               "legs": {
@@ -150001,11 +149933,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 268211,
+                "item_id": 271092,
                 "item_level": 344,
                 "enchant": 8689,
-                "icon": "inv_sword_1h_ulatek_d_01",
-                "name": "Baleful Hexblade",
+                "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
+                "name": "Jan'thrazet, the Soul Fang",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -150029,7 +149961,7 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
+                  41,
                   13335,
                   13848
                 ]
@@ -156181,21 +156113,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -171903,21 +171821,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -204662,21 +204566,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -211140,21 +211030,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -211884,21 +211760,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -213902,21 +213764,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -221165,21 +221013,7 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -225238,21 +225072,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -228055,21 +227875,7 @@
           "allScoreColor": "#fd7c23"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -233815,21 +233621,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -240087,21 +239879,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -242943,21 +242721,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366243,
-          "id": "317413345108",
-          "name": "wolfdisco",
-          "user_id": "40926109",
-          "game_id": "18122",
-          "type": "live",
-          "title": "<Liquid> Hunter+warlock done now it's time for memes maybe paladin 35 too | !ui !restedxp !reflect !capybara !guide",
-          "community_ids": [],
-          "viewer_count": 35,
-          "started_at": "2026-11-26T21:59:45Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wolfdisco-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -261480,21 +261244,7 @@
           "allScoreColor": "#c4ffaf"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -310701,21 +310451,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -313406,21 +313142,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -314087,21 +313809,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -314786,21 +314494,7 @@
           "allScoreColor": "#50ff36"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -375375,21 +375069,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -380385,14 +380065,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 254,
-            "name": "Marksmanship",
-            "slug": "marksmanship",
+            "id": 253,
+            "name": "Beast Mastery",
+            "slug": "beast-mastery",
             "class_id": 3,
             "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/us/illidan/Mazzacre",
           "realm": {
@@ -380418,12 +380098,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/71/238167623-avatar.jpg",
-          "itemLevelEquipped": 327,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-11-24T09:23:37.872Z",
-            "updated_at": "2026-11-24T09:23:37.872Z",
+            "created_at": "2026-11-27T06:43:47.954Z",
+            "updated_at": "2026-11-27T06:43:47.954Z",
             "source": "s3",
-            "item_level_equipped": 327,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -380533,8 +380213,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240983,
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  },
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -380547,7 +380241,7 @@
               },
               "shoulder": {
                 "item_id": 271490,
-                "item_level": 311,
+                "item_level": 321,
                 "enchant": 8001,
                 "icon": "inv_shoulder_mail_raidhunterulatek_d_01",
                 "name": "Jaws of the Skulking Viper",
@@ -380579,7 +380273,7 @@
                   13694,
                   6652,
                   13697,
-                  12843
+                  12846
                 ]
               },
               "back": {
@@ -380610,7 +380304,7 @@
               },
               "chest": {
                 "item_id": 271495,
-                "item_level": 324,
+                "item_level": 331,
                 "enchant": 7987,
                 "icon": "inv_chest_mail_raidhunterulatek_d_01",
                 "name": "Skulking Viper's Scuteplate",
@@ -380638,11 +380332,11 @@
                   }
                 ],
                 "bonuses": [
-                  12851,
                   13335,
                   13690,
                   6652,
-                  13698
+                  13698,
+                  12853
                 ]
               },
               "waist": {
@@ -380710,10 +380404,10 @@
                 ]
               },
               "hands": {
-                "item_id": 272249,
-                "item_level": 321,
-                "icon": "inv_glove_mail_outdooramaniloa_c_01",
-                "name": "Galerider's Chain Clasps",
+                "item_id": 271493,
+                "item_level": 334,
+                "icon": "inv_glove_mail_raidhunterulatek_d_01",
+                "name": "Skulking Viper's Hidepiercers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -380724,13 +380418,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12850,
-                  13662
+                  12854,
+                  13691,
+                  13697,
+                  1587
                 ]
               },
               "legs": {
@@ -380917,10 +380614,10 @@
                 ]
               },
               "trinket2": {
-                "item_id": 250228,
-                "item_level": 308,
-                "icon": "inv_alchemy_90_stone_green",
-                "name": "Resonant Bellowstone",
+                "item_id": 270165,
+                "item_level": 334,
+                "icon": "inv_121_trinket_raid_ulatek_golemhearts_green",
+                "name": "Keeper's Seething Core",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -380937,9 +380634,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  12699,
-                  11215,
-                  12838
+                  13335,
+                  12854
                 ]
               },
               "mainhand": {
@@ -386756,14 +386452,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 253,
-            "name": "Beast Mastery",
-            "slug": "beast-mastery",
+            "id": 254,
+            "name": "Marksmanship",
+            "slug": "marksmanship",
             "class_id": 3,
             "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/us/illidan/Mazztery",
           "realm": {
@@ -386789,12 +386485,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/119/238176375-avatar.jpg",
-          "itemLevelEquipped": 315,
+          "itemLevelEquipped": 299,
           "items": {
-            "created_at": "2026-11-23T19:59:30.356Z",
-            "updated_at": "2026-11-23T19:59:30.356Z",
+            "created_at": "2026-11-27T02:47:52.313Z",
+            "updated_at": "2026-11-27T02:47:52.313Z",
             "source": "s3",
-            "item_level_equipped": 315,
+            "item_level_equipped": 299,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -387038,37 +386734,6 @@
                   13696
                 ]
               },
-              "wrist": {
-                "item_id": 244584,
-                "item_level": 305,
-                "icon": "inv_bracer_mail_questbloodelf_b_01",
-                "name": "Farstrider's Plated Bracers",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8791,
-                  13696
-                ]
-              },
               "hands": {
                 "item_id": 271493,
                 "item_level": 334,
@@ -387136,7 +386801,7 @@
               },
               "feet": {
                 "item_id": 268258,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 7963,
                 "icon": "inv_boot_mail_raidevokerulatek_d_01",
                 "name": "Boots of the Reckless Wayfarer",
@@ -387166,7 +386831,7 @@
                   6652,
                   13662,
                   13335,
-                  12850
+                  12854
                 ]
               },
               "finger1": {
@@ -387256,30 +386921,6 @@
                 ]
               },
               "trinket1": {
-                "item_id": 251785,
-                "item_level": 305,
-                "icon": "inv_12_trinket_void_reaperslibram",
-                "name": "Void-Reaper's Libram",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12841,
-                  40
-                ]
-              },
-              "trinket2": {
                 "item_id": 251792,
                 "item_level": 305,
                 "icon": "inv_12_trinket_gloriuscrusaderskeepsake",
@@ -387301,6 +386942,31 @@
                 "bonuses": [
                   12841,
                   6652
+                ]
+              },
+              "trinket2": {
+                "item_id": 270165,
+                "item_level": 341,
+                "icon": "inv_121_trinket_raid_ulatek_golemhearts_green",
+                "name": "Keeper's Seething Core",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  13335,
+                  12856
                 ]
               },
               "mainhand": {
@@ -388475,21 +388141,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -391942,21 +391594,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -393262,21 +392900,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -399582,21 +399206,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -400215,21 +399825,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -400903,21 +400499,7 @@
           "allScoreColor": "#aaa"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -403077,12 +402659,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/111/238196079-avatar.jpg",
-          "itemLevelEquipped": 329,
+          "itemLevelEquipped": 331,
           "items": {
-            "created_at": "2026-11-24T09:23:39.026Z",
-            "updated_at": "2026-11-24T09:23:39.026Z",
+            "created_at": "2026-11-27T06:38:50.962Z",
+            "updated_at": "2026-11-27T06:38:50.962Z",
             "source": "s3",
-            "item_level_equipped": 329,
+            "item_level_equipped": 331,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -403161,7 +402743,7 @@
               },
               "neck": {
                 "item_id": 240950,
-                "item_level": 305,
+                "item_level": 331,
                 "icon": "inv_12_profession_jewelcrafting_necklace2_gold",
                 "name": "Masterwork Sin'dorei Amulet",
                 "item_quality": 4,
@@ -403192,7 +402774,8 @@
                   12497,
                   13751,
                   14001,
-                  8790
+                  8790,
+                  13836
                 ]
               },
               "shoulder": {
@@ -403588,7 +403171,7 @@
               },
               "mainhand": {
                 "item_id": 281056,
-                "item_level": 321,
+                "item_level": 328,
                 "enchant": 8689,
                 "icon": "inv_sword_1h_raidmidnight_d_01",
                 "name": "Sanctified Knight's Phoenixblade",
@@ -403617,7 +403200,7 @@
                 "bonuses": [
                   42,
                   13334,
-                  12846
+                  12848
                 ]
               },
               "offhand": {
@@ -407123,14 +406706,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 254,
-            "name": "Marksmanship",
-            "slug": "marksmanship",
+            "id": 253,
+            "name": "Beast Mastery",
+            "slug": "beast-mastery",
             "class_id": 3,
             "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 1
+            "ordinal": 0
           },
           "path": "/characters/us/illidan/Mazzcot",
           "realm": {
@@ -407156,12 +406739,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/236/238162668-avatar.jpg",
-          "itemLevelEquipped": 334,
+          "itemLevelEquipped": 316,
           "items": {
-            "created_at": "2026-11-26T21:44:35.519Z",
-            "updated_at": "2026-11-26T21:44:35.519Z",
+            "created_at": "2026-11-27T02:48:53.235Z",
+            "updated_at": "2026-11-27T02:48:53.235Z",
             "source": "s3",
-            "item_level_equipped": 334,
+            "item_level_equipped": 316,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -407271,8 +406854,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240908,
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  },
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -407483,13 +407080,22 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
                   12214,
                   13667,
+                  13695,
                   12497,
                   13751,
                   14001,
@@ -407497,37 +407103,6 @@
                   12384,
                   8791,
                   13836,
-                  13696
-                ]
-              },
-              "wrist": {
-                "item_id": 244584,
-                "item_level": 305,
-                "icon": "inv_bracer_mail_questbloodelf_b_01",
-                "name": "Farstrider's Plated Bracers",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8960,
-                  12384,
-                  8791,
                   13696
                 ]
               },
@@ -407599,7 +407174,7 @@
               },
               "feet": {
                 "item_id": 268233,
-                "item_level": 328,
+                "item_level": 334,
                 "enchant": 7963,
                 "icon": "inv_boot_mail_raidhunterulatek_d_01",
                 "name": "Ferocious Scaleboots",
@@ -407629,7 +407204,7 @@
                   6652,
                   13662,
                   13335,
-                  12852
+                  12854
                 ]
               },
               "finger1": {
@@ -407719,10 +407294,10 @@
                 ]
               },
               "trinket1": {
-                "item_id": 270175,
-                "item_level": 321,
-                "icon": "inv_121_trinket_raid_ulatek_heart",
-                "name": "Voracious Heart of Ula'tek",
+                "item_id": 270165,
+                "item_level": 334,
+                "icon": "inv_121_trinket_raid_ulatek_golemhearts_green",
+                "name": "Keeper's Seething Core",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -407739,8 +407314,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13334,
-                  12846
+                  13335,
+                  12854
                 ]
               },
               "trinket2": {
@@ -412499,14 +412074,14 @@
           "faction": "alliance",
           "level": 90,
           "spec": {
-            "id": 253,
-            "name": "Beast Mastery",
-            "slug": "beast-mastery",
+            "id": 254,
+            "name": "Marksmanship",
+            "slug": "marksmanship",
             "class_id": 3,
             "role": "dps",
             "is_melee": false,
             "patch": "1.0.0",
-            "ordinal": 0
+            "ordinal": 1
           },
           "path": "/characters/us/illidan/Mazzinga",
           "realm": {
@@ -412532,12 +412107,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "illidan/189/238208189-avatar.jpg",
-          "itemLevelEquipped": 322,
+          "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-11-25T19:23:36.624Z",
-            "updated_at": "2026-11-25T19:23:36.624Z",
+            "created_at": "2026-11-27T05:22:50.700Z",
+            "updated_at": "2026-11-27T05:22:50.700Z",
             "source": "s3",
-            "item_level_equipped": 322,
+            "item_level_equipped": 335,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -412624,10 +412199,10 @@
                 ]
               },
               "neck": {
-                "item_id": 256969,
-                "item_level": 292,
-                "icon": "inv_12_jewelry_silvermoonelf_necklace_green1",
-                "name": "Farstrider's Pendant",
+                "item_id": 268250,
+                "item_level": 341,
+                "icon": "inv_121_jewelry_neck02_green",
+                "name": "Sentinel's Vitriolic Chain",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -412653,12 +412228,13 @@
                 "bonuses": [
                   6652,
                   13668,
-                  12829
+                  13335,
+                  12856
                 ]
               },
               "shoulder": {
                 "item_id": 272252,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 8001,
                 "icon": "inv_shoulder_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Mantle",
@@ -412685,8 +412261,8 @@
                   }
                 ],
                 "bonuses": [
-                  12850,
-                  13662
+                  13662,
+                  12854
                 ]
               },
               "back": {
@@ -412717,60 +412293,14 @@
               },
               "chest": {
                 "item_id": 271495,
-                "item_level": 292,
+                "item_level": 334,
                 "enchant": 7987,
                 "icon": "inv_chest_mail_raidhunterulatek_d_01",
                 "name": "Skulking Viper's Scuteplate",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": true,
-                "azerite_powers": [
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  {
-                    "id": 580,
-                    "spell": {
-                      "id": 0,
-                      "school": 0,
-                      "icon": "inv_misc_questionmark",
-                      "name": "Unknown",
-                      "rank": null
-                    },
-                    "tier": 999
-                  },
-                  null
-                ],
+                "is_azerite_armor": false,
+                "azerite_powers": [],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -412791,12 +412321,11 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  12833,
-                  13439,
+                  13335,
                   13690,
+                  6652,
                   13698,
-                  1545
+                  12854
                 ]
               },
               "waist": {
@@ -412833,7 +412362,7 @@
               },
               "wrist": {
                 "item_id": 244584,
-                "item_level": 305,
+                "item_level": 331,
                 "icon": "inv_bracer_mail_questbloodelf_b_01",
                 "name": "Farstrider's Plated Bracers",
                 "item_quality": 4,
@@ -412859,6 +412388,7 @@
                   8960,
                   12384,
                   8791,
+                  13836,
                   13696
                 ]
               },
@@ -412892,7 +412422,7 @@
               },
               "legs": {
                 "item_id": 271491,
-                "item_level": 292,
+                "item_level": 334,
                 "enchant": 8159,
                 "icon": "inv_pant_mail_raidhunterulatek_d_01",
                 "name": "Skulking Viper's Coiled Legwraps",
@@ -412920,12 +412450,11 @@
                   }
                 ],
                 "bonuses": [
-                  6652,
-                  12833,
-                  13439,
+                  12854,
+                  13335,
                   13693,
-                  13698,
-                  1545
+                  6652,
+                  13698
                 ]
               },
               "feet": {
@@ -413009,8 +412538,51 @@
               "finger2": {
                 "item_id": 268252,
                 "item_level": 334,
+                "enchant": 7967,
                 "icon": "inv_121_jewelry_ring03_red",
                 "name": "Apex Brute's Claw Ring",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [
+                  240983
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240983,
+                    "name": "32 Primary",
+                    "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  }
+                ],
+                "enchants": [
+                  7967
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243957,
+                    "name": "Enchant Ring - Eyes of the Eagle",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
+                "bonuses": [
+                  6652,
+                  13668,
+                  13335,
+                  12854
+                ]
+              },
+              "trinket1": {
+                "item_id": 270166,
+                "item_level": 334,
+                "icon": "inv_11_0_raid_gruesomesyringe_blue",
+                "name": "Vashnik's Sanguine Rancor",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -413027,38 +412599,13 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13668,
                   13335,
                   12854
                 ]
               },
-              "trinket1": {
-                "item_id": 274493,
-                "item_level": 305,
-                "icon": "ability_fomor_boss_rune_green",
-                "name": "Effigy of Ula'tek's Faithful",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12841,
-                  6652
-                ]
-              },
               "trinket2": {
                 "item_id": 270165,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_121_trinket_raid_ulatek_golemhearts_green",
                 "name": "Keeper's Seething Core",
                 "item_quality": 4,
@@ -413078,7 +412625,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12854
+                  12856
                 ]
               },
               "mainhand": {
@@ -415928,21 +415475,7 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 4,
-        "stream": {
-          "is_featured_stream": false,
-          "activity_record_id": 1366111,
-          "id": "318487908324",
-          "name": "tobo",
-          "user_id": "76701053",
-          "game_id": "18122",
-          "type": "live",
-          "title": "feeling thankful QUICK PASSION RAID | !video !ui !rxp <Liquid>",
-          "community_ids": [],
-          "viewer_count": 103,
-          "started_at": "2026-11-26T21:04:09Z",
-          "language": "en",
-          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tobo-{width}x{height}.jpg"
-        }
+        "stream": null
       },
       {
         "character": {
@@ -422648,7 +422181,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-26T22:51:06.315Z"
+    "fetchedAt": "2026-11-27T07:08:59.519Z"
   },
   "eu/tarren-mill/Echo": {
     "guild": {
@@ -434520,7 +434053,21 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -447076,7 +446623,21 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -450600,7 +450161,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -475368,7 +474943,21 @@
           "allScoreColor": "#3df239"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -488114,7 +487703,21 @@
           "allScoreColor": "#c8ffb4"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -488797,7 +488400,21 @@
           "allScoreColor": "#a8ff8d"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -540345,12 +539962,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/217/187705561-avatar.jpg",
-          "itemLevelEquipped": 328,
+          "itemLevelEquipped": 335,
           "items": {
-            "created_at": "2026-11-20T01:57:55.450Z",
-            "updated_at": "2026-11-20T01:57:55.450Z",
+            "created_at": "2026-11-27T00:29:41.583Z",
+            "updated_at": "2026-11-27T00:29:41.583Z",
             "source": "s3",
-            "item_level_equipped": 328,
+            "item_level_equipped": 335,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -540399,10 +540016,10 @@
                 ]
               },
               "neck": {
-                "item_id": 251234,
-                "item_level": 321,
-                "icon": "inv_12_jewelry_devouringhost_necklace_silver2",
-                "name": "Graft of the Domanaar",
+                "item_id": 268265,
+                "item_level": 344,
+                "icon": "inv_121_jewelry_neck03_green",
+                "name": "Aqirbane Reliquary",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -540414,23 +540031,29 @@
                 },
                 "domination_shards": [],
                 "gems": [
-                  240983
+                  240983,
+                  240908
                 ],
                 "gems_detail": [
                   {
                     "id": 240983,
                     "name": "32 Primary",
                     "icon": "inv_12_profession_jewelcrafting_epic_gem_cut_green"
+                  },
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
                   }
                 ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  13440,
                   6652,
                   13668,
-                  12699,
-                  12846
+                  13335,
+                  13848,
+                  13987
                 ]
               },
               "shoulder": {
@@ -540498,14 +540121,60 @@
               },
               "chest": {
                 "item_id": 271477,
-                "item_level": 321,
+                "item_level": 344,
                 "enchant": 7987,
                 "icon": "inv_chest_plate_raiddeathknightulatek_d_01",
                 "name": "Baleful Grave-Knight's Breastplate",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
@@ -540526,11 +540195,12 @@
                   }
                 ],
                 "bonuses": [
-                  41,
-                  13440,
+                  6652,
+                  13335,
+                  13848,
                   13690,
                   13698,
-                  12850
+                  1597
                 ]
               },
               "waist": {
@@ -540548,8 +540218,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -540557,7 +540235,8 @@
                   13696,
                   13662,
                   13335,
-                  13848
+                  13848,
+                  13695
                 ]
               },
               "wrist": {
@@ -540629,11 +540308,11 @@
                 ]
               },
               "legs": {
-                "item_id": 272259,
-                "item_level": 321,
+                "item_id": 271473,
+                "item_level": 344,
                 "enchant": 8159,
-                "icon": "inv_pant_plate_outdooramaniloa_c_01",
-                "name": "Pledgebearer's Poleyns",
+                "icon": "inv_pant_plate_raiddeathknightulatek_d_01",
+                "name": "Baleful Grave-Knight's Greaves",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -540644,6 +540323,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -540658,8 +540338,12 @@
                 ],
                 "bonuses": [
                   6652,
-                  13662,
-                  12846
+                  13335,
+                  13708,
+                  13848,
+                  13693,
+                  13698,
+                  1597
                 ]
               },
               "feet": {
@@ -540745,7 +540429,7 @@
               },
               "finger2": {
                 "item_id": 281029,
-                "item_level": 321,
+                "item_level": 334,
                 "enchant": 7967,
                 "icon": "inv_misc_questionmark",
                 "name": "Band of the Swarmcaller",
@@ -540783,7 +540467,7 @@
                   6652,
                   13668,
                   13334,
-                  12850
+                  12854
                 ]
               },
               "trinket1": {
@@ -540813,7 +540497,7 @@
               },
               "trinket2": {
                 "item_id": 270175,
-                "item_level": 328,
+                "item_level": 344,
                 "icon": "inv_121_trinket_raid_ulatek_heart",
                 "name": "Voracious Heart of Ula'tek",
                 "item_quality": 4,
@@ -540832,8 +540516,8 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13334,
-                  12852
+                  13335,
+                  13848
                 ]
               },
               "mainhand": {
@@ -546461,7 +546145,21 @@
           "allScoreColor": "#43ee43"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -588570,7 +588268,21 @@
           "allScoreColor": "#dfffd2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -590060,7 +589772,21 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -597299,12 +597025,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/134/189200518-avatar.jpg",
-          "itemLevelEquipped": 338,
+          "itemLevelEquipped": 339,
           "items": {
-            "created_at": "2026-11-16T21:32:19.421Z",
-            "updated_at": "2026-11-16T21:32:19.421Z",
+            "created_at": "2026-11-27T05:01:48.269Z",
+            "updated_at": "2026-11-27T05:01:48.269Z",
             "source": "s3",
-            "item_level_equipped": 338,
+            "item_level_equipped": 339,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -597591,8 +597317,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
+                "gems": [
+                  240908
+                ],
+                "gems_detail": [
+                  {
+                    "id": 240908,
+                    "name": "16 Crit & 7 Mast",
+                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
+                  }
+                ],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
@@ -597600,7 +597334,8 @@
                   13696,
                   13662,
                   13335,
-                  13848
+                  13848,
+                  13695
                 ]
               },
               "wrist": {
@@ -597674,7 +597409,7 @@
               },
               "legs": {
                 "item_id": 271473,
-                "item_level": 334,
+                "item_level": 344,
                 "enchant": 8159,
                 "icon": "inv_pant_plate_raiddeathknightulatek_d_01",
                 "name": "Baleful Grave-Knight's Greaves",
@@ -597702,12 +597437,13 @@
                   }
                 ],
                 "bonuses": [
-                  13334,
                   6652,
+                  13335,
                   13708,
+                  13848,
                   13693,
                   13698,
-                  12854
+                  1597
                 ]
               },
               "feet": {
@@ -644445,7 +644181,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 0,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -670414,7 +670164,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -671064,7 +670828,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -732504,7 +732282,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -733145,7 +732937,21 @@
           "allScoreColor": "#c6ffb2"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -770878,12 +770684,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "tarren-mill/97/190797921-avatar.jpg",
-          "itemLevelEquipped": 334,
+          "itemLevelEquipped": 336,
           "items": {
-            "created_at": "2026-11-16T21:33:13.429Z",
-            "updated_at": "2026-11-16T21:33:13.429Z",
+            "created_at": "2026-11-27T04:07:53.453Z",
+            "updated_at": "2026-11-27T04:07:53.453Z",
             "source": "s3",
-            "item_level_equipped": 334,
+            "item_level_equipped": 336,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -770895,30 +770701,78 @@
             },
             "items": {
               "head": {
-                "item_id": 268230,
+                "item_id": 271483,
                 "item_level": 334,
+                "enchant": 7961,
                 "icon": "inv_helm_mail_raidshamanulatek_d_01",
-                "name": "Crown of the Eternal Fang",
+                "name": "Serpent Crown of the Ophidian Oracle",
                 "item_quality": 4,
                 "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
+                "is_azerite_armor": true,
+                "azerite_powers": [
+                  null,
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  {
+                    "id": 580,
+                    "spell": {
+                      "id": 0,
+                      "school": 0,
+                      "icon": "inv_misc_questionmark",
+                      "name": "Unknown",
+                      "rank": null
+                    },
+                    "tier": 999
+                  },
+                  null
+                ],
                 "corruption": {
                   "added": 0,
                   "resisted": 0,
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
+                "enchants": [
+                  7961
+                ],
+                "enchants_detail": [
+                  {
+                    "id": 243951,
+                    "name": "Enchant Helm - Empowered Hex of Leeching",
+                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
+                  }
+                ],
                 "bonuses": [
                   6652,
-                  13696,
-                  13662,
                   13335,
-                  12854
+                  12854,
+                  13696,
+                  13692,
+                  13698,
+                  1587
                 ]
               },
               "neck": {
@@ -771236,7 +771090,7 @@
               },
               "legs": {
                 "item_id": 271482,
-                "item_level": 321,
+                "item_level": 344,
                 "enchant": 7937,
                 "icon": "inv_pant_mail_raidshamanulatek_d_01",
                 "name": "Leggings of the Ophidian Oracle",
@@ -771265,9 +771119,11 @@
                 ],
                 "bonuses": [
                   6652,
+                  13335,
+                  13848,
                   13693,
                   13698,
-                  12846
+                  1597
                 ]
               },
               "feet": {
@@ -771440,11 +771296,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 268210,
-                "item_level": 334,
-                "enchant": 8689,
-                "icon": "inv_mace_1h_ulatek_d_01",
-                "name": "Malevolent Spiritcudgel",
+                "item_id": 271092,
+                "item_level": 344,
+                "enchant": 6498,
+                "icon": "inv_knife_1h_ulatekfang_d_01_spirit",
+                "name": "Jan'thrazet, the Soul Fang",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -771458,24 +771314,18 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8689
+                  6498
                 ],
-                "enchants_detail": [
-                  {
-                    "id": 273072,
-                    "name": "Rite of the Hash'ey",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_purple"
-                  }
-                ],
+                "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13335,
-                  12854
+                  13848
                 ]
               },
               "offhand": {
                 "item_id": 268196,
-                "item_level": 334,
+                "item_level": 341,
                 "enchant": 7528,
                 "icon": "inv_shield_1h_ulatek_d_01",
                 "name": "Venom-Slashed Scuteward",
@@ -771498,7 +771348,7 @@
                 "bonuses": [
                   6652,
                   13335,
-                  12854
+                  12856
                 ]
               }
             }
@@ -775184,7 +775034,21 @@
           "allScoreColor": "#59ff3f"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -776534,7 +776398,21 @@
           "allScoreColor": "#43ee43"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -777205,7 +777083,21 @@
           "allScoreColor": "#89ff6d"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -785782,7 +785674,21 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -786509,7 +786415,21 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -787829,7 +787749,21 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -788530,7 +788464,21 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -789233,7 +789181,21 @@
           "allScoreColor": "#a8ff8d"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -789908,7 +789870,21 @@
           "allScoreColor": "#aaff90"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -790595,7 +790571,21 @@
           "allScoreColor": "#f6fff3"
         },
         "rank": 1,
-        "stream": null
+        "stream": {
+          "is_featured_stream": false,
+          "activity_record_id": 1366984,
+          "id": "319507823205",
+          "name": "meerestv",
+          "user_id": "63354411",
+          "game_id": "18122",
+          "type": "live",
+          "title": "Fastest Dungeons EU (not gold tho) | Forever !UI |  <Echo> !restedxp | !shop !moumint !exitlag !foreverguides !raiderio",
+          "community_ids": [],
+          "viewer_count": 0,
+          "started_at": "2026-11-27T07:05:26Z",
+          "language": "en",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meerestv-{width}x{height}.jpg"
+        }
       },
       {
         "character": {
@@ -824874,7 +824864,7 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-26T22:51:11.378Z"
+    "fetchedAt": "2026-11-27T07:09:06.831Z"
   },
   "eu/twisting-nether/Method": {
     "guild": {
@@ -887044,12 +887034,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "tarren-mill/89/183586393-avatar.jpg",
-          "itemLevelEquipped": 305,
+          "itemLevelEquipped": 316,
           "items": {
-            "created_at": "2026-11-01T08:37:16.155Z",
-            "updated_at": "2026-11-01T08:37:16.155Z",
+            "created_at": "2026-11-27T05:53:54.772Z",
+            "updated_at": "2026-11-27T05:53:54.772Z",
             "source": "s3",
-            "item_level_equipped": 305,
+            "item_level_equipped": 316,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -887163,7 +887153,7 @@
               },
               "shoulder": {
                 "item_id": 272244,
-                "item_level": 295,
+                "item_level": 321,
                 "icon": "inv_shoulder_leather_outdooramaniloa_c_01",
                 "name": "Miststalker's Spaulders",
                 "item_quality": 4,
@@ -887181,8 +887171,7 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
-                  6652,
+                  12850,
                   13662
                 ]
               },
@@ -887214,10 +887203,10 @@
               },
               "chest": {
                 "item_id": 272239,
-                "item_level": 272,
+                "item_level": 321,
                 "icon": "inv_chest_leather_outdooramaniloa_c_01",
                 "name": "Miststalker's Brigandine",
-                "item_quality": 3,
+                "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
                 "azerite_powers": [],
@@ -887232,9 +887221,9 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12819,
                   6652,
-                  13663
+                  13662,
+                  12846
                 ]
               },
               "waist": {
@@ -887265,10 +887254,10 @@
                 ]
               },
               "wrist": {
-                "item_id": 244576,
-                "item_level": 285,
-                "icon": "inv_bracer_leather_questbloodelf_b_01",
-                "name": "Silvermoon Agent's Deflectors",
+                "item_id": 272246,
+                "item_level": 308,
+                "icon": "inv_bracer_leather_outdooramaniloa_c_01",
+                "name": "Miststalker's Wristbands",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -887279,33 +887268,19 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240908
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240908,
-                    "name": "16 Crit & 7 Mast",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_void_red"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  12066,
-                  8960,
-                  12384,
-                  8793,
-                  13622,
-                  12666
+                  12842,
+                  13696,
+                  13662
                 ]
               },
               "hands": {
                 "item_id": 272241,
-                "item_level": 295,
+                "item_level": 321,
                 "icon": "inv_glove_leather_outdooramaniloa_c_01",
                 "name": "Miststalker's Grips",
                 "item_quality": 4,
@@ -887323,9 +887298,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12834,
-                  40,
-                  13662
+                  13662,
+                  12846
                 ]
               },
               "legs": {
@@ -887355,11 +887329,10 @@
                 ]
               },
               "feet": {
-                "item_id": 277786,
-                "item_level": 308,
-                "enchant": 7963,
-                "icon": "inv_boot_leather_outdooramaniloa_c_01",
-                "name": "Venom-Cursed Lynx's Paws",
+                "item_id": 268261,
+                "item_level": 318,
+                "icon": "inv_boot_leather_raidmonkulatek_d_01",
+                "name": "Bespittled Slitherslippers",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -887372,25 +887345,18 @@
                 "domination_shards": [],
                 "gems": [],
                 "gems_detail": [],
-                "enchants": [
-                  7963
-                ],
-                "enchants_detail": [
-                  {
-                    "id": 243953,
-                    "name": "Enchant Boots - Lynx's Dexterity",
-                    "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
-                  }
-                ],
+                "enchants": [],
+                "enchants_detail": [],
                 "bonuses": [
                   6652,
                   13662,
-                  12838
+                  13334,
+                  12849
                 ]
               },
               "finger1": {
                 "item_id": 272150,
-                "item_level": 308,
+                "item_level": 321,
                 "enchant": 7967,
                 "icon": "inv_jewelry_ring_181",
                 "name": "Ouroboric Signet",
@@ -887427,12 +887393,12 @@
                 "bonuses": [
                   6652,
                   13668,
-                  12842
+                  12846
                 ]
               },
               "finger2": {
                 "item_id": 273792,
-                "item_level": 311,
+                "item_level": 321,
                 "icon": "inv_121_jewelry_ring02_green",
                 "name": "Band of the Amani Warlord",
                 "item_quality": 4,
@@ -887458,16 +887424,40 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12843,
                   13440,
                   6652,
                   13668,
-                  12699
+                  12699,
+                  12846
                 ]
               },
               "trinket1": {
+                "item_id": 274495,
+                "item_level": 305,
+                "icon": "inv_bfa_paragoncache_tortollanseekers",
+                "name": "Pulse Seeker's Oculus",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  12841,
+                  6652
+                ]
+              },
+              "trinket2": {
                 "item_id": 274493,
-                "item_level": 295,
+                "item_level": 305,
                 "icon": "ability_fomor_boss_rune_green",
                 "name": "Effigy of Ula'tek's Faithful",
                 "item_quality": 4,
@@ -887485,34 +887475,8 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  6652,
-                  12830
-                ]
-              },
-              "trinket2": {
-                "item_id": 273796,
-                "item_level": 292,
-                "icon": "inv_121_trinket_dungeon_ulatek_vile",
-                "name": "Vile Vial of Volatile Venom",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12833,
-                  13439,
-                  6652,
-                  12699
+                  12841,
+                  6652
                 ]
               },
               "mainhand": {
@@ -1111754,12 +1111718,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/210/196667090-avatar.jpg",
-          "itemLevelEquipped": 333,
+          "itemLevelEquipped": 334,
           "items": {
-            "created_at": "2026-11-26T01:58:44.872Z",
-            "updated_at": "2026-11-26T01:58:44.872Z",
+            "created_at": "2026-11-27T03:55:54.589Z",
+            "updated_at": "2026-11-27T03:55:54.589Z",
             "source": "s3",
-            "item_level_equipped": 333,
+            "item_level_equipped": 334,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -1111838,7 +1111802,7 @@
               },
               "neck": {
                 "item_id": 268265,
-                "item_level": 334,
+                "item_level": 341,
                 "icon": "inv_121_jewelry_neck03_green",
                 "name": "Aqirbane Reliquary",
                 "item_quality": 4,
@@ -1111875,7 +1111839,7 @@
                   13334,
                   13987,
                   13696,
-                  12854
+                  12856
                 ]
               },
               "shoulder": {
@@ -1112030,10 +1111994,10 @@
                 ]
               },
               "waist": {
-                "item_id": 239649,
-                "item_level": 331,
-                "icon": "inv_belt_cloth_questbloodelf_b_01",
-                "name": "Martyr's Waistwrap",
+                "item_id": 268257,
+                "item_level": 334,
+                "icon": "inv_belt_cloth_raidwarlockulatek_d_01",
+                "name": "Caustic Chain-Wrapped Sash",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1112044,29 +1112008,16 @@
                   "total": 0
                 },
                 "domination_shards": [],
-                "gems": [
-                  240900
-                ],
-                "gems_detail": [
-                  {
-                    "id": 240900,
-                    "name": "16 Mast & 7 Haste",
-                    "icon": "inv_12_profession_jewelcrafting_rare_gem_cut_nature_purple"
-                  }
-                ],
+                "gems": [],
+                "gems_detail": [],
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12214,
-                  13667,
-                  13695,
-                  12497,
-                  13751,
-                  14001,
-                  12715,
-                  8790,
-                  13836,
-                  13696
+                  40,
+                  13696,
+                  13662,
+                  13334,
+                  12854
                 ]
               },
               "wrist": {
@@ -1112185,11 +1112136,11 @@
                 ]
               },
               "feet": {
-                "item_id": 239654,
-                "item_level": 331,
-                "enchant": 8019,
-                "icon": "inv_boot_cloth_questbloodelf_b_01",
-                "name": "Martyr's Slippers",
+                "item_id": 268255,
+                "item_level": 334,
+                "enchant": 7963,
+                "icon": "inv_boot_cloth_raidmageulatek_d_01",
+                "name": "Cackling Soultreads",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1112203,23 +1112154,20 @@
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
-                  8019
+                  7963
                 ],
                 "enchants_detail": [
                   {
-                    "id": 244009,
-                    "name": "Enchant Boots - Farstrider's Hunt",
+                    "id": 243953,
+                    "name": "Enchant Boots - Lynx's Dexterity",
                     "icon": "inv_12_profession_enchanting_enchantedvellum_blue"
                   }
                 ],
                 "bonuses": [
-                  12214,
-                  13667,
-                  12497,
-                  13751,
-                  14001,
-                  8790,
-                  13836
+                  42,
+                  13662,
+                  13334,
+                  12854
                 ]
               },
               "finger1": {
@@ -1146427,12 +1146375,12 @@
           "talentsDetails": [],
           "gender": "male",
           "thumbnail": "draenor/97/190200673-avatar.jpg",
-          "itemLevelEquipped": 315,
+          "itemLevelEquipped": 320,
           "items": {
-            "created_at": "2026-11-26T02:17:45.210Z",
-            "updated_at": "2026-11-26T02:17:45.210Z",
+            "created_at": "2026-11-26T23:15:51.833Z",
+            "updated_at": "2026-11-26T23:15:51.833Z",
             "source": "s3",
-            "item_level_equipped": 315,
+            "item_level_equipped": 320,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -1146445,7 +1146393,7 @@
             "items": {
               "head": {
                 "item_id": 251220,
-                "item_level": 292,
+                "item_level": 305,
                 "enchant": 8017,
                 "icon": "inv_helm_mail_dungeonharronir_c_01",
                 "name": "Voidscarred Crown",
@@ -1146518,12 +1146466,12 @@
                   }
                 ],
                 "bonuses": [
-                  12833,
                   13439,
                   6652,
                   13696,
                   13662,
-                  12699
+                  12699,
+                  12837
                 ]
               },
               "neck": {
@@ -1146703,7 +1146651,7 @@
               },
               "waist": {
                 "item_id": 272253,
-                "item_level": 305,
+                "item_level": 321,
                 "icon": "inv_belt_mail_outdooramaniloa_c_01",
                 "name": "Galerider's Mail Skirt",
                 "item_quality": 4,
@@ -1146721,10 +1146669,10 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12841,
                   6652,
                   13696,
-                  13662
+                  13662,
+                  12846
                 ]
               },
               "wrist": {
@@ -1146754,10 +1146702,10 @@
                 ]
               },
               "hands": {
-                "item_id": 226078,
-                "item_level": 292,
-                "icon": "inv_glove_mail_undergroundquest_b_01",
-                "name": "Timely Tourist's Grips",
+                "item_id": 281238,
+                "item_level": 321,
+                "icon": "inv_glove_mail_raidhunterulatek_d_01",
+                "name": "Aberrant Commander's Gauntlets",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1146773,18 +1146721,19 @@
                 "enchants": [],
                 "enchants_detail": [],
                 "bonuses": [
-                  12833,
-                  13662,
                   6652,
-                  11311
+                  13662,
+                  13334,
+                  14049,
+                  12846
                 ]
               },
               "legs": {
-                "item_id": 272251,
+                "item_id": 159375,
                 "item_level": 321,
                 "enchant": 7935,
-                "icon": "inv_pant_mail_outdooramaniloa_c_01",
-                "name": "Galerider's Chausses",
+                "icon": "inv_pant_mail_zandalardungeon_c_01",
+                "name": "Legguards of the Awakening Brood",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1146808,8 +1146757,10 @@
                   }
                 ],
                 "bonuses": [
+                  13440,
                   6652,
                   13662,
+                  12699,
                   12846
                 ]
               },
@@ -1146888,11 +1146839,11 @@
                 ]
               },
               "finger2": {
-                "item_id": 272147,
+                "item_id": 158366,
                 "item_level": 321,
                 "enchant": 7969,
-                "icon": "inv_121_jewelry_ring01_purple",
-                "name": "Colubrine Band",
+                "icon": "inv_ring_80_03d",
+                "name": "Charged Sandstone Band",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1146924,37 +1146875,16 @@
                   }
                 ],
                 "bonuses": [
+                  13440,
                   6652,
                   13668,
+                  12699,
                   12846
                 ]
               },
               "trinket1": {
-                "item_id": 251783,
-                "item_level": 321,
-                "icon": "inv_12_trinket_grisgrisofconfidenc",
-                "name": "Lost Idol of the Hash'ey",
-                "item_quality": 4,
-                "is_legendary": false,
-                "is_azerite_armor": false,
-                "azerite_powers": [],
-                "corruption": {
-                  "added": 0,
-                  "resisted": 0,
-                  "total": 0
-                },
-                "domination_shards": [],
-                "gems": [],
-                "gems_detail": [],
-                "enchants": [],
-                "enchants_detail": [],
-                "bonuses": [
-                  12846
-                ]
-              },
-              "trinket2": {
                 "item_id": 281215,
-                "item_level": 308,
+                "item_level": 321,
                 "icon": "inv_misc_questionmark",
                 "name": "Twisted Horror's Tendril",
                 "item_quality": 4,
@@ -1146973,9 +1146903,33 @@
                 "enchants_detail": [],
                 "bonuses": [
                   6652,
-                  13333,
-                  11215,
-                  12838
+                  13334,
+                  12850
+                ]
+              },
+              "trinket2": {
+                "item_id": 248583,
+                "item_level": 321,
+                "icon": "inv_archaeology_70_tauren_drum",
+                "name": "Drum of Renewed Bonds",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
+                  12846,
+                  13185
                 ]
               },
               "mainhand": {
@@ -1147041,8 +1146995,8 @@
           }
         },
         "keystoneScores": {
-          "allScore": 0,
-          "allScoreColor": "#aaa"
+          "allScore": 332.2,
+          "allScoreColor": "#f6fff3"
         },
         "rank": 5,
         "stream": null
@@ -1160823,12 +1160777,12 @@
           "talentsDetails": [],
           "gender": "female",
           "thumbnail": "twisting-nether/253/197351421-avatar.jpg",
-          "itemLevelEquipped": 318,
+          "itemLevelEquipped": 321,
           "items": {
-            "created_at": "2026-11-23T14:33:45.175Z",
-            "updated_at": "2026-11-23T14:33:45.175Z",
+            "created_at": "2026-11-26T22:58:58.082Z",
+            "updated_at": "2026-11-26T22:58:58.082Z",
             "source": "s3",
-            "item_level_equipped": 318,
+            "item_level_equipped": 321,
             "item_level_total": 0,
             "artifact_traits": 0,
             "corruption": {
@@ -1161109,11 +1161063,11 @@
                 ]
               },
               "legs": {
-                "item_id": 193750,
-                "item_level": 308,
+                "item_id": 271554,
+                "item_level": 334,
                 "enchant": 7935,
-                "icon": "inv_pant_cloth_dragondungeon_c_01",
-                "name": "Wind Soarer's Breeches",
+                "icon": "inv_pant_cloth_raidpriestulatek_d_01",
+                "name": "Enveloping Legwraps of the Cosmic Penitent",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1161124,6 +1161078,7 @@
                   "total": 0
                 },
                 "domination_shards": [],
+                "tier": "36",
                 "gems": [],
                 "gems_detail": [],
                 "enchants": [
@@ -1161137,11 +1161092,12 @@
                   }
                 ],
                 "bonuses": [
-                  13439,
                   6652,
-                  13662,
-                  12699,
-                  12838
+                  13335,
+                  12854,
+                  13693,
+                  13698,
+                  1587
                 ]
               },
               "feet": {
@@ -1161309,11 +1161265,11 @@
                 ]
               },
               "mainhand": {
-                "item_id": 251935,
-                "item_level": 321,
+                "item_id": 268203,
+                "item_level": 341,
                 "enchant": 8689,
-                "icon": "inv_staff_2h_harronir_b_01",
-                "name": "Lightgrasp Worldroot",
+                "icon": "inv_knife_1h_ulatek_d_02",
+                "name": "Hexing Spiritrender",
                 "item_quality": 4,
                 "is_legendary": false,
                 "is_azerite_armor": false,
@@ -1161337,6 +1161293,32 @@
                   }
                 ],
                 "bonuses": [
+                  6652,
+                  13335,
+                  12856
+                ]
+              },
+              "offhand": {
+                "item_id": 272275,
+                "item_level": 321,
+                "icon": "inv_offhand_1h_outdooramaniloa_c_01",
+                "name": "Soulsinger's Horn",
+                "item_quality": 4,
+                "is_legendary": false,
+                "is_azerite_armor": false,
+                "azerite_powers": [],
+                "corruption": {
+                  "added": 0,
+                  "resisted": 0,
+                  "total": 0
+                },
+                "domination_shards": [],
+                "gems": [],
+                "gems_detail": [],
+                "enchants": [],
+                "enchants_detail": [],
+                "bonuses": [
+                  6652,
                   12846
                 ]
               }
@@ -1162493,6 +1162475,6 @@
         "stream": null
       }
     ],
-    "fetchedAt": "2026-11-26T22:51:17.695Z"
+    "fetchedAt": "2026-11-27T07:09:13.036Z"
   }
 }
